@@ -179,7 +179,7 @@ In later sections we will have a further look at the does and dont’s of
 questions.
 
 
-<!-- TODO bis hier -->
+
 ## Write a cheat sheet  
 
 You should ensure that questions you prepare are still on your mind when
@@ -195,14 +195,13 @@ helpful guess. You will usually deviate a bit (or a lot) from your cheat
 sheet.
 
 Often I include some kind of **checklist** on the top, especially if
-there is some legal stuff required, like signing a consent form. Thus I
-can cross out what I already have gone through with the participant and
-immediately see if I forgot something.
+there are legal matters involved, such as signing a consent form. Thus I
+can tick off what we already dealt with and immediately see if I forgot something.
 
 As a beginner you may have some difficulties with formulating your
 questions or spontaneously entering on a new subject. In this case you
-can put some facets or list down on the cheat sheet like
-»Activities/Motivations/Problems«, or, for the graphics design topic:
+can help you along with some reminders on the sheet, like
+»Activities/Motivations/Problems«, »How and Why", or, for the graphics design topic:
 »creativity/variations/creative rules/technology" or the like.
 
 ## Equipment  
@@ -218,7 +217,7 @@ will need some equipment for doing that. Lets have a look.
 During the interview and observation you will take notes. For taking
 notes you need:
 
--   Paper, lined or blank, 15 or more sheets, just to be on the save side)
+-   Paper, lined or blank (15 or more sheets, just to be on the save side)
 -   Pencil or Pen (Don't forget to bring backups!)
 -   Something to write on. A clipboard is great.
 
@@ -226,14 +225,12 @@ notes you need:
 
 Audio record you interview to have a backup in case you could not keep
 up with taking notes and to be able to fully concentrate on the
-participant if needed. For this you need to bring:
+participant if needed. Either use your smartphone and an audio recording app or use an audio recorder. Try before if the audio on the recording is still loud and clear enough if you have an arm’s length between you and the device. Charge the divices fully.
 
--   Audio Recorder
--   Backup Batteries
 
 ### Camera
 
-A camera is not a must, but can be useful, especially if your research
+A camera is not a must but can be useful, especially if your research
 involves much participant observation or if you don’t feel confident
 about your sketching skills.
 
@@ -242,19 +239,19 @@ about your sketching skills.
 In this chapter we will learn how to gather data to get to know about
 the activities, motivations and problems of our research participants.
 
-Contrary to a common misconception of user need research our inquiry
+Contrary to a common misconception of user need research, our inquiry
 will not be (directly) about future ideas and design – we are not going
 to ask »do you think that a [gadget] would help you?«. If you would ask
 whether a particular idea would be a great thing to have in the future
-you would have to ask again for the next idea you have. This aside, it
+you would have to ask again for the next idea you have. In addition, it
 is very hard to reliably guess if something would be a great thing to
 have in the future. Instead of dealing with ideas directly we will find
-out about the how and why of our users actions set a reliable foundation
+out about the how and why of our participant’s actions and thus set a reliable foundation
 for our designs.
 
-Even if we don’t our research participants what they want, we think of
-them as competent in what they do. This is in contrast to the idea of
-designers and programmers as people who improve the live of those who
+Even though we don’t ask our research participants what they want, we think of
+them as competent in what they do. This is contrary to the idea of
+designers and programmers as people who improve the lives of those who
 »don’t get it«. Instead, we assume that the participants of our research
 have a reason of doing their work the way they do it. We try to find out
 what they do and why they do it.
@@ -262,6 +259,7 @@ what they do and why they do it.
 Getting to know the how and why about the users actions will allow us to
 evaluate our ideas (does it match their ideas of good work?) and to get
 inspiration for new ideas (how can we support this motivation?)
+
 
 ## Inform and get Consent
 
@@ -299,7 +297,7 @@ able to design solutions for people who do graphic design.
 </div>
 
 Make clear that you are here to learn – and not an evaluator of the
-quality of work or the like
+quality of the participant’s work.
 
 <div class="example">
 
@@ -315,19 +313,18 @@ when recruiting, tell the participant what you are going to do
 <div class="example">
 
 We will have a conversation about your work and I'll be asking some
-questions. I'll be interested as well in seeing the actual work
-process and it would be very interesting for me to look over your
-shoulder when you work.
+questions. I’m interested as well in watching you doing your work. 
+The whole process will take about an hour of time. 
 
 </div>
 
 The participant must know how you record data and who will see it. So
-tell the Participant
+tell the Participant:
 
 <div class="example"> 
 
 I'd like to take notes, and, in addition record audio – if that is
- o.k. with you. The audio recording helps me to focus on your work as I
+ok with you. The audio recording helps me to focus on your work as I
  don’t need to concentrate as much on writing notes if I have the
  recording as backup. The audio will be listened to be me an one
  colleague; we will anonymize and transcribe the data before we share
@@ -352,8 +349,8 @@ inform them about that specific aspect and they might agree.
  resources to get that data«
  
  »I understand your concern. It is fine if you don't agree but I can
- say, that Human Resources is a separate section. We don't dont share
- personal and the data is not accessible form them. As well all data
+ assure you that Human Resources is a separate section. We don't dont share
+ personal data and what we record today is not accessible to them. Also, all data
  that leaves my computer or the one of my colleague is being anonymized
  and we remove all data that points to you as person, including names,
  workplace etc.
@@ -372,19 +369,24 @@ example of such a form.
 When you got the consent of the participant you can start the research
 session.
 
+<!-- TODO nela bis hier -->
+
 ## Modes of gathering data  
 
 ### Getting answers  
 
-Gathering information by listening to users answers is like a
-conversation: You ask questions, the user answered them. However, the
-use of questions and answers in user needfinding is unlike the user of
+<!-- Gathering information by listening to the participant’s answers is similar to  a
+conversation: You ask questions, the user answered them. --> 
+
+
+Data can be gathered by asking questions and listening to the participant’s answers.
+However, the use of questions and answers in user needfinding is unlike the user of
 questions and answers in surveys. Instead of getting short definitive
 answers out of a determined set (»on a 4 point scale: how much do you
-agree with…«) we aim for rich descriptions much like veritable stories
-retelling users’ experiences. Like stories they tell us about context
-and motivations in addition to what is happening. Thus we will often ask
-for descriptions and reasons.
+agree with…«) we aim for rich descriptions, much like veritable stories
+which retell the participant’s experiences. In addition to what is happening these stories they tell us about context and motivations. To encourage giving such story like answers,  we will often ask for descriptions or processes and reasons for activities.
+
+
 
  <div class="example">
 
@@ -394,14 +396,15 @@ for descriptions and reasons.
 
 </div>
 
-Asking questions and getting answers form the users is a very versatile
-tool. It can be done without many resources and is partly independent
-from time and place. But because of this it can happen that you focus
-too much on general issues and too few on actual occurrences and
-experiences. Observations are thus a good supplement as they are
-naturally about actual actions you can see unfolding live.
+Asking questions and getting answers form a participant is a very versatile
+tool. It can be done without many resources. You are not tied to a specific place and 
+you can talk about past events as well as future plans. 
+
+But because of this it can happen that you hardly focus on actual occurrences and
+experiences. Observations are thus a good supplement to asking questions and listening, since observations are naturally concern actual actions you can see unfolding live.
 
 ### Observation  
+
 
 What Participants describe is not always the ideal way to convey the
 information. Just like a picture can be worth a thousand words, it makes
@@ -435,21 +438,9 @@ Participant: »So I got this image and now I would try to get a
 
 
 Think of yourself like an apprentice of the participant. The participant
-is the master or expert who can teach you some of his/her skills. This
-is contrary to the idea of the researcher as the expert – which should
-be avoided. If the participant would just look up to you and your
-concept of how work should be done we would not get to know anything.
-
-Teaching an apprentice is not a theoretical or artificially set up
-process: It is directly connected to the work practice. This work is
-which is what you want to know about and observe – instead of some made
-up process just for teaching.
-
-A Master/Apprentice-Relation means as well you that understanding the
-user by observing is not a passive process. Like an apprentice you can
-and should ask questions.
-
-
+is the master or expert who can teach you some of his/her skills. 
+This means that understanding the user by observing is not a passive process. 
+Like an apprentice you can and should ask questions.
 
 <div class="example">
 
@@ -461,24 +452,56 @@ these markings are for?«
 
 </div>
 
+Avoid positioning yourself as the expert in the participant’s domain by suggesting
+ procedures and by telling the participant  how and why something should be done. 
+If the participant would just look up to you and your concept of how work should be done we would not get to know anything.
+
+Teaching an apprentice is not a theoretical or artificially set up
+process: It is directly connected to the work practice. This work practice is
+what you want to observe and learn about. 
+
+<div class="example">
+
+The tasks you observe should be tasks the participant is actually doing 
+(and not something set up for you): 
+
+Participant: »What should I do now?«
+
+You: »What would you do if I would not be here?«
+
+Naturally they should be relevant to your interests as well: 
+
+[continuing the conversation above] Participant: »I would either crop this bunch of images
+ or I'd try to find a suitable font for the headlines in this document
+
+You: »If the tasks are equally relevant to you I'd be more interested in watching you 
+choosing the fonts«
+
+</div>
+
+
+
+
 ![observing the user’s work](../images/ObservationDesign1.jpg)
 
 
 ## Building trust
 
 In this section we are going to get to know more about how you can show
-that you value the participants and gain their trust (also called
-»rapport«)
+that you value the participant’s time and input and make the participant 
+feel comfortable during the research.  
+
+
 
 User researchers ask lots of possibly awkward feeling questions and at
-least in the beginning a research session could be unusual for some
+least in the beginning, a research session could be unusual for some
 participants. In this section we are going to look at some ways to
 ensure that the research session will be a pleasant experience.
 
 
-### Starting the interview  
+### Start with simple questions  
 
-We start lightly with some demographics – like like: *»Lets start with
+Start simple with some demographical questions  – like like: *»Lets start with
 some simple questions about your job«*. You could ask *»What is your job
 title«* and maybe follow *»How do you name your Job when friends ask you
 what you do?«.* As well it might be interesting how experienced the
@@ -486,32 +509,34 @@ person is: *»How long have you been working in your current
 occupation?«* These examples are tied to work related studies – for
 doing research on university students I tie the questions to their
 particular context and ask for example how long they have been studying
-so far and the like.
+so far.
 
-A very obvious advantage of these questions is, that they will help you
+A very obvious advantage of these questions is that they will help you
 to get to know some context of the participant’s work. But there is
-another advantage: Such questions like Job title or years etc. are easy
-to answer and there is a pretty clear how to answer to them. This gets
+another advantage: Such questions like asking for the job title or years in the job 
+ etc. are easy  to answer and it is a pretty clear how to answer to them. This gets
 the participants into the mode of answering questions and opening up
-towards the interviewer. After a brief section with demographics you
-both got into the mode of listening and the participant got into the
-mode of giving answers. Then transition to more open questions.
+towards you. After a brief section with demographics you
+ got into the mode of listening and the participant got into the
+mode of giving answers. Then you can  transition into more open questions.
+
+
 
 
 ### Affirm that you listen  
 
 You will ask questions aiming for descriptions and longer answers. So
-you will be listening a lot. You probably have some ways to intuitively
-show that you listen – like nodding with the head or saying »yes« or
-»mm-mhh«. This is an important way to ensure the participant that
-his/her information is listened to and valued.
+you will be listening to the participant’ most of the time. 
+You probably have some ways to intuitively show that you listen
+ – like nodding with the head or saying »yes« or »mm-mhh«. 
+ This is an important way to ensure the participant that his/her information is listened to and valued.
 
 However, when giving this kind of feedback you should be careful though
 not to skew the answers by indicating that some information is better
-than other. If you throw in a »yes, great« combined with nodding (if you
-like an outcome) and a rather unmotivated »mm« and a frown (if what is
+than other. If you throw in a »yes, great« combined with nodding (as if you
+prefer what the participant did over something else  ) or just make a rather unmotivated »mm« and frown (as if what is
 told does not match your expectations) the participant will get
-selective about his/her answers and focus on stuff you seem to like.Try
+selective about his/her answers and focus on stuff you seem to like. Try
 to keep the reassuring sounds or gestures neutral towards the
 information you get. Same goes for longer intersections at the end of an
 answer. Intuitively you may say:
@@ -525,8 +550,8 @@ have already thought of a feature that might be helpful in that case)
 
 But the participant will try to be a nice person him/herself and
 probably try to make you happy by going on about the problems with files
-in mails even though it is possibly not that bad. Instead of reassuring
-with judgments and emotions, focus on the information:
+in mails even though sending files per mail is possibly not that bad in the participant’s view. 
+Instead of  reassuring the participant using  judgments and emotions, focus on the information:
 
 <div class="example">
 
@@ -537,18 +562,17 @@ with judgments and emotions, focus on the information:
 Possibly you could even wrap the information up »So you…« and/or refer
 to an area you like further information about. Thus it will be clear
 that you care for the information and listened well – without casting
-some judgment on what was told to you.
+some judgement on what was told to you. 
 
 ### Body Language  
 
 Make a friendly impression using body language. Probably you would not
-make a bad impression intuitively, but let’s go through it nevertheless:
+make a bad impression anyway, but let’s go through it nevertheless:
 Don't give an angry or stern impression by frowning and crossing arms
 and legs. Don't look careless by leaning back and looking to the
-ceiling. During the interview react toward the participant, look him/her
-in the eyes (at least for members of western culture). When taking notes
-maintaining eye contact is not possible all the time – but do it when
-you don't take notes.
+ceiling. During the interview, show reactions to what the participants says or does  and look him/her
+in the eyes (at least for members of western culture). When taking notes,
+maintaining eye contact is not possible all the time – but keep eye contact when you can.
 
 
 ![not-so-good posture](../images/bodyPostureBad.jpg)
@@ -558,8 +582,8 @@ you don't take notes.
 
 ### Just ask  
 
-Even if you got the consent to audio record and make photos or even
-video ask before starting it.
+Even if you got the consent to audio record and make photos or
+video ask, before you start the recording.
 
 <div class="example"> 
 
@@ -584,8 +608,7 @@ situations.
 ## Asking open questions  
 
 You may have noticed that the suggested questions from the previous
-section are not aiming for specific, short answers. This is in contrast
-to the way Outside of user research you want answers to be short and
+section are not aiming for specific, short answers. In other areas you may  want answers to be short and
 precise: »Are you a graphic designer?« »I am a Graphic Designer!« / »How
 much do you like your Job? Give a mark« »B!« / »Please name your Tools!«
 »InDesign, Photoshop«.
@@ -600,19 +623,19 @@ These questions demand very specific answers mostly out of a determined
 set: Yes or no, marks from A-F, a List of Nouns. They would be useful if
 you would want to do statistics, for analysis resulting in statements
 like »56.3% agreed strongly on Question X«. However, we want to find out
-about the *why* and *how* of the user’s work here.
+about the *why* and *how* of the participant’s work here.
 
-Imagine in contrast to the research session outlined above (short
+Imagine, in contrast to the research session outlined above (short
 answers, short questions) a day-to-day situation, in which you get to
 know about somebody else experiences: A conversation with a friend. In
-such an exchange you will tell each other your experience, what you
+such an exchange you will tell each other your experiences, what you
 felt, why you did this and that etc. In a diagram it would look like
 this:
 
 ![giving longer aswers, equal share](../images/talkDiagram_friend.svg)
 
 In contrast to a conversation, our main goal is to collect data; we
-don’t want to tell about our Job as a user researcher or the like, but
+don’t want to tell about our Job as a user researcher, but
 mostly hear answers from the participant. Thus asking questions and
 getting answers in a user needs research session look like this:
 
@@ -620,10 +643,12 @@ getting answers in a user needs research session look like this:
 
 
 
-The questions we want to ask should encourage answers that describe
+The questions we want to ask should encourage answers which describe
 experiences and give some insight into the why and how of the users
-activities and motivations. This type of questions is called »open
+activities and motivations. This type of question is called »open
 question« as they don’t have a determined set of answers.
+
+
 
 <div class="example">
 
@@ -632,9 +657,9 @@ or *"Why did you copy that page?"*
 
 </div>
 
-Using such »open« questions encourages telling longer story-like
+Using such open questions encourage telling longer, story-like
 answers. These answers will even contain information you did not expect
-to get. This is because a longer, story-like answers will give a rich
+to get. This is because a longer, story-like answer will give a rich
 context.
 
 <div class="example">
@@ -652,7 +677,7 @@ that it even exists!
 The information you get will not be abstract as in answers like »good«
 or »I dislike it« but tied to a situation. This is preferable, because a
 future product will be used in real situations and not in an abstract
-space of thought
+space of thought.
 
 <div class="example">
 
@@ -667,65 +692,82 @@ than a client’s feedback being just described as »good«.
 If you look back to the questions already mentioned they will share some
 characteristics.
 
+<div class="example">
+
+here are some of the questions
+
 -   Can you describe the worst experience in your day so far?
 -   Can you tell me how you create a graphic/layout?
 -   Can you tell me what makes a client »difficult«
 -   Can you describe how do you get new ideas?
 
-They all start with »…can you describe« or »…can you tell me«, which
+</div>
+
+All these questions start with »…can you describe« or »…can you tell me«, which
 encourages a longer answer (a describing or telling is considered not to
-be just a word). They contain a Why-, What- or How- question. These
+be just a word). In addition all sentences contain a *Why-*, *What-* or *How-*. These
 question words, again, suggest some more elaborate answer, not just one
 or two words.
 
-A template for such questions would look like *»tell me [how/why/what] +
+Thus, a template for such questions would look like *»tell me [how/why/what] +
 interest«*
 
 Contrast this with questions like
 
 <div class="example">
 
-»Is this a good design?«/»yes!«
+You: »Is this a good design?«
+
+Paricipant: »yes!«
 
 </div>
 
 *»Is…«* -questions will be answered with »yes« or »no« – but we don't
-get to know what causes the participant to agree or disagree with our
-question. Actually these »Is«-Questions will often come in a disguised
+get to know why the participant to agrees or disagrees with our
+assumption.
+
+Sometimes,  »Is«-Questions will  come in a disguised
 form – as an addition made to an open question:
 
 <div class="example"> 
 
-»Can you tell me how you solve this problem? …Do you do it by just
- calling the client and resolving the issue?« »Yes« (note that the
- question did not contain the word »is« but follows the same pattern of
- asking for a binary »yes« or »no« response)
+You: »Can you tell me how you solve this problem? …Do you do it by just
+ calling the client and resolving the issue?« 
+ 
+ Participant: »Yes« 
+ 
+ note, that the question did not contain the word »is«, but follows the same pattern of
+ asking for a binary »yes« or »no« response.
 
 </div>
 
-Avoiding this is actually harder than one thinks, as intuitively we try
-to make answering easier with additions like that.
+Avoiding closed questions is actually harder than one thinks, as intuitively we try
+to make answering easier with such additions.
 
-When you craft your questions, check if they demand some specific
-outcomes. If they do try to reformulate in a way that allows
-non-restricted, story-like answers.
+When you create your questions, check if they demand some predetermined
+outcomes – if the do, they are closed questions. In this case reformulate the questions in a way 
+that allows non-restricted, story-like answers.
 
 ## Overcoming problems  
 
-There are some problems that are likely to arise when gathering data.
+There are some problems that are likely to arise when you gather data.
 Knowing the problems and some ways of dealing with them will help you.
+
+
 
 ### Be aware of your influence
 
-A very obvious problem is influencing the participant. You neither can’t
-nor should take yourself out of the interview. Neither does it make
-sense to try to make all interviews alike like you would do when using a
-standardized questionnaire. Every participant and his/her context is
+A very obvious problem is influencing the participant. But: you neither can’t
+nor should take yourself out of the reserach session – you will always have some sort of effect 
+on the participant when you do the reserach. 
+
+Neither does it make sense to try to make all interviews alike like you would do when using a
+standardized questionnaire – Each participant and his/her context is 
 different and you can accommodate this by adjusting the research session
-to this.
+to the context and the activities of the user.
 
 What you should avoid though is influencing the participant by
-»suggesting« favorable answers. Some ways of influence are obvious,
+»suggesting« favourable answers. Some sorts of this type of  influence are obvious,
 others are not.
 
 <div class="example">
@@ -734,8 +776,10 @@ others are not.
 
 </div>
 
-Which is a very obvious influence since it blatantly states what you
-think the answer should be. There are less obvious influences as well:
+Is a very obvious influence, since it blatantly states what you
+think the answer should be: A »yes«. 
+
+There are less obvious influences as well:
 
 <div class="example">
 
@@ -744,11 +788,11 @@ think the answer should be. There are less obvious influences as well:
 </div>
 
 Here, a positive word (»better«) and a suggestion go together. Who would
-not like an improvement?! A »yes« is guaranteed as well as a meaningless
+not like an improvement?! A »yes« is guaranteed – as well as a meaningless
 finding which would be »people want improvements«.
 
 Aside from your questions you could influence the user with your
-feedback. Your feedback may suggest that there are good or bad answers.
+feedback: Your feedback may suggest that there are good or bad answers.
 For example, it may be tempting to correct users and show the »right
 way« of doing something:
 
@@ -761,11 +805,11 @@ say: »No, you can change it!«
 
 </div>
 
-Remember that you want to find out what your users do and why. To
-correct the user is not very useful (If, however, the participant would
-clearly benefit from knowing some technical detail, just wait until the
-session has ended). Use the possibility to further explore the topic
-without correcting the user.
+Remember that you want to find out what your participant does and why. To
+correct the participant is not very useful.  Use the possibility to further explore the topic
+without correcting the user ^[If, however, the participant would
+clearly benefit from knowing some technical detail, just give the crucial information
+ after the session] .
 
 <div class="example">
 
@@ -784,7 +828,7 @@ in a workflow seem outright superfluous.
 via mail as an attached .doc file. My colleague who comments on it and
 returns the mail to me« You may think that this is rather inefficient.
 You could be tempted to say »Why don't you paste the text in the mail
-and comment directly? Or write it on Etherpad live? This would be far
+and comment directly? Or write it live on Etherpad? This would be far
 quicker!«
 
 </div>
@@ -801,21 +845,18 @@ the issue.
 
 </div>
 
-Your feedback could be non verbal as well. Like in everyday
-conversations we use may shrug or frown if you disagree with an
+Your influencing feedback could be non-verbal as well. Like in everyday
+conversations you may shrug or frown if you disagree with an
 utterance or an action. Even if you don’t say »this is wrong« frowning
-or shaking your head may have the same results.
+or shaking your head may have the same results. 
 
-You will always influence the interviewee. Trying to get rid of any
-influence will not be successful and it will make it impossible to react
-pleasantly and spontaneously. It will be easier and more enjoyable to
-reflect what you do and think about possible influences. I hope that the
-suggestions and examples above may help to avoid you influencing the
-participant by »suggesting« favorable answers.
+So:don't be afraid to react towards the participant. But don’t suggest 
+good or bad answers or good or bad activities by telling that something is wrong 
+or by  gestures and facial expressions.  
 
 ### Silence feels strange but is o.k.  
 
-Sometimes the interviewee will take time to think before answering.
+Sometimes the participant will take time to think before answering.
 Intuitively, you may want to fill the silence to help the participant
 along.
 
@@ -832,8 +873,8 @@ it can skew the answers and can turn a open question (»can you
 describe…?«) into a closed question (»can you describe… was it…?«
 /»yes«).
 
-It is better to tolerate the silence. Usually the interviewee will
-answer in a few seconds. If you notice silence you want to fill, count
+It is better to tolerate the silence. Usually, the participant will
+answer within a few seconds. If you notice silence which you want to fill, count
 to 3 or 5 before probing further. When that set time is up, you can ask
 about the question rather than giving suggestions, like
 
@@ -851,9 +892,8 @@ Can you tell me what you are thinking about?
 
 </div>
 
-If the participant stops talking and you still like to know more, you
-could – after a brief pause – »echo« the most recent statement or words
-the participant has said.
+If the participant stops talking and makes a longer pause and you still like to know more, you
+could »echo« the most recent statement or words the participant has said.
 
 <div class="example">
 
@@ -874,10 +914,8 @@ answer.
 
 ### Keep your questions simple
 
-
-Questions should be simple and only one question should be asked at
-once. It easily happens though that one asks several questions at once.
-This can look like this:
+Questions should be simple to understand and only one question should be asked at
+once. 
 
  <div class="example">
 
@@ -891,7 +929,7 @@ The question asks two things at once. This is has some disadvantages:
 1.  It confuses the interviewee – what should be answered first?
 2.  Both, Interviewer and Interviewee need to remember both questions while talking and listening
 
-Only one question should be asked – in the example above one question
+Only one question should be asked. So in the example above one question
 should be asked first, then the second:
 
  <div class="example">
@@ -904,33 +942,34 @@ should be asked first, then the second:
 
 ## Don't make the user the designer
 
-It is tempting to skip finding out about the how and why of the
-participant’s work and ask directly how the final product should be like
+It is tempting to skip investigating the how and why of the
+participant’s work – and to ask the participant  
+how the final product should be like
 
  <div class="example">
  
- How should a better function for aligning objects work?
+ Which function do you need for aligning products?
  
  </div>
 
-This is basically asking the user for an interface design.
+This is basically asking the user for the design of the software.
 
  <div class="example">
  
- Yes, there should be a button for, like equal distributions like here.
+ Yes, there should be a button for, like equal distributions… here.
 It should be easy so it should have a button with a ›distr‹ on it in
 red, so I don’t oversee it…
 
 </div>
 
-While this sounds like a reasonable thing to do since the resulting
+Asking the user for how a design should be sounds like a reasonable thing to do – the resulting
 designs would be directly based on the suggestions of the participant.
 But it usually leads to disastrous results. Even for experienced
 designers it may be hard to come up with good interfaces which are easy
-to learn and efficiently to use. How should somebody probably
-inexperienced in that task come up with a great interface?
+to learn and efficiently to use. How should somebody inexperienced in that task 
+come up with a great interface?
 
-Another (highly tempting) facet of »making the participant the designer«
+Another (highly tempting) way of »making the participant the designer«
 is to ask for the usefulness of hypothetical functions that you fancy:
 
 <div class="example">
@@ -942,12 +981,12 @@ Would a function for choosing a color scheme help you?
 This is like asking »Do you want an additional tool which might be
 useful at some point and get it for free?«. If the interviewee can think
 of a few occasions in which such a tool *might*be useful, the answer
-will be »yes«. In addition, like with other questions that ask for »yes«
-or »no« outcomes, nothing can be found out about the how and why of the
-participant's work.
+will be »yes«. In addition,nothing can be found out about the how and why of the
+participant's work – like in other questions that ask for »yes«
+or »no« outcomes. 
 
 If you really want to discuss a function instead of focusing on what the
-users do and why, give some context to the question and tie it to a
+participant does and why this is done, give some context to the question and tie it to a
 specific situation.
 
  <div class="example">
@@ -958,9 +997,9 @@ not in the task you just described?
 
 </div>
 
-Thus you can get more information on the tasks the feature could be
-useful in. The question is not for some situation in all possible
-situations but for a specific, very real one.
+Thus, you can get more information on the tasks for which the feature you think of  could be
+useful. The question is not tied to all possible
+situations but to a a specific  one.
 
 Asking the user for design ideas and functions is tempting but rarely
 useful. If possible, avoid it and concentrate on the how and why of
@@ -971,8 +1010,7 @@ asking if something in general might be good or not.
 ## Referring back  
 
 In this section I will demonstrate how to maintain flow and elicit
-further information by Using previous answers or demonstrations to
-generate new questions and eliciting more information.
+further information by referring to previous answers or demonstrations.  
 
 A typical use of that method is asking for further information on
 something that interests you in particular. Refer back to the
@@ -1001,27 +1039,27 @@ or
 ![change the topic by referring to something said some time ago](../images/talkDiagram_ReferBackDistance.svg)
 
 
-You can refer back to what the answer just give was ended with and just
+You can refer back to the answer which was just given and
 continue with the same topic.
 
-But referring back can be used as well to provide a transition between
-different topics. This is especially useful if the participant is
+Referring back can be used as well to provide a transition between
+*different* topics. This is especially useful if the participant is
 talking about something that deviates much from what you are interested
-in. Referring to something previously mentioned or shown you can show
+in. By referring to something previously mentioned or demonstrated you can show
 that you have been attentive and thus make the topic change less
 intrusive:
 
  <div class="example">
  
  »And that is the cover design we have now – thats pretty much what I
-can tell about making it« »There is one thing that caught my interest:
-When you talked about creating that illustration you mentioned that
+can tell about making it« »There is a thing that caught my interest in particular:
+When you talked about creating that illustration, you mentioned that
 you use a graphic tablet for drawing. Why do you use that?«
 
 </div>
 
 As well you can refer back to their answers to check your grasp of what
-they talked about. In this case even closed questions are o.k.
+the participant talked about. In this case, even closed questions are ok.
 
  <div class="example">
  
@@ -1042,17 +1080,18 @@ afterwards by opening the pdf in addition«
 
 </div>
 
-All these methods which involve jumping back to some previously
-mentioned topic may seem difficult since you need to remember some
-particular information. However it is not that hard – just give it a
-try. As well, keep in mind that you can make brief notes reminding you
-of things that are of interest – and with a look on your note sheet they
-will return to your memory if you forgot.
+These tehcniques explained here  involve jumping back to some previously
+mentioned topic. This may seem difficult, since you need to remember some
+particular information (to refer to it later)  while carrying on with the research. 
+However it is not that hard – just give it a try. As well, keep in mind that you can 
+make brief notes reminding you of things that are of interest – and with a look on your note sheet they
+will return to your memory if you forgot about them.
+
 
 ## How exactly would you do it?  
 
 
-When you ask people will sometimes answer your questions »in general«
+After you ask a question,  participants will sometimes answer »in general«
 
  <div class="example">
  
@@ -1065,16 +1104,15 @@ It may seem great – after all, a general process which you can apply to
 just about anything is a finding we seem want! But actually these »in
 general« descriptions pose some problems: They lack a rich context and
 stand rather disconnected to other activities or motivations. The
-general principle is independent of such »minor« day to day things. But
+general principle is independent of  such »minor« day to day things. But
 these seemingly trivial things give us the insights we need to find out
-why and how the user is doing things in the real, particular situation.
-Such »general« things may as well be idealized and rarely applied in
-that form.
+why and how the participant is doing something in the real, particular situation.
+Such »general« procedures may as well be idealized and rarely applied in
+the way that is described.
 
-A way to get real-world, rich data is to ask for an example. Thus, you
+A way to get  real-world, rich data is to ask for an example. Thus, you
 don’t say: »meh, these are all abstractions!« but you convey that you
-want to know more and need to understand it better by getting an
-example, ideally by observing:
+want to understand it better by getting an example, ideally by observing:
 
  <div class="example"> 
  
@@ -1083,9 +1121,8 @@ example, ideally by observing:
 
 </div>
 
-To get even more specific and into the context of real world activities
-you can ask for a specific occasion of the »general« happening or being
-done.
+You can as well ask  for a specific occasion of the »general« happening or being
+done. The answer will be give the context of the activities happening in an actual situation.
 
  <div class="example">
  
@@ -1103,77 +1140,70 @@ Or
 </div>
 
 Very often you may uncover that the reality is far less consistent and
-far more context depended than in the general examples. But it is more
+far more context depended than in the general examples. The findings are more
 interesting and inspiring as well:
 
  <div class="example"> 
  
- »Well, in this project we have a tight deadline. So we needed to speed
- up. So I did some research… well I reused some I did have from a
- similar project and talked to a fellow student who did something
+ Participant: »Well, in this project we have a tight deadline. So we needed to speed
+ up. So I did some research… well, I reused some I did have from a
+ similar project…  and talked to a fellow student who did something
  similar. And then…«
 
 </div>
 
 By asking for examples and specific events instead of context free
-generalizations you can get more information and avoid doing research on
+generalizations, you can get more information and avoid doing research on
 »general«, possibly not actually practiced ways of work.
 
 ![observing user’s actions after asking for a demonstration](../images/ObservationDesignU3Cutting.jpg)
+
 
 ## Wrap it up
 
 When you covered the topics you wanted to know about and explored them
 sufficently it may be time to wrap up. I made the experience that after
 30 minutes I covered the my general questions. However, getting to know
-complex workflows takes longer, same goes for getting deeper insights
+complex workflows takes longer. Same goes for getting deeper insights
 into (work) culture. As well, using observations and/or mapping tasks
 will need some time too. So if you go beyond a simple interview you
-should plan 1-2h.
+should plan 1-2h for one research session. 
 
-But don’t let this estimations fence you in: You will develop some
-intuition on how the interview flows. Keep in mind that it should be
-comfortable for the participant. If he/she looks absent, yawns etc. it
-is time to wrap it up.
+Don’t let this estimations fence you in: You will develop some
+intuition for the flow of the interview and how long it should take. 
+
+Keep in mind that the research session should be comfortable for the participant. 
+If he/she looks absent, yawns etc. it is time to wrap it up.
 
 Before I finish I go through my cheat sheet and see if I did cover my
-questions. If I got answers to them I try to summarize what I learned so
-far by going through my notes and verbalize the information. You can
+questions.  I try to summarize what I learned from the participant
+by going through my notes and verbalize the information. You can
 even announce it like this:
 
  <div class="example">
  
- This was very interesting. So to wrap it up I want to give a brief
+ This was very interesting. To wrap it up I want to give a brief
 summary of what I learned. Please feel free to correct me, if I
-misunderstood something! So: Your, you sad that your work consists of…
+misunderstood something! So: Your, you said that your work is to…
 
 </div>
 
-Thus you can fill up any gaps and you have an ending that is not abrupt.
+By verbalizing what you learned you can fill up any gaps and you have an ending that is not abrupt.
 When you finished going though your notes, thank the participant for
 taking the time. If you have any incentives or compensation, give them
-to the participant. As well I try to summarize the next steps in the
-research. I think it is nice to let them know how the data matters for
-you:
+to the participant. In addition, I try to summarize the next steps in the
+research. I think it is nice to let the participant know, how the data matters for
+me:
 
  <div class="example">
  
- So my next steps would be going though audio and notes. After
-anonymizing the data me and my colleague analyze your data and the
-data from other interviews to find out how graphic designers work. And
-we will try to improve our service by making it more suitable to this
+ My next steps would be going though audio and notes. After
+anonymizing the data I and my colleague analyze your data and the
+data from other research session to find out how graphic designers work. 
+We will try to improve our service by making it more suitable to this
 workflow.
 
 </div>
-
-
-
-The notes and later added supplements from my memory are treated alike
-in my documents (though they could be easily made different from each
-other) However, I take care that later added design ideas and research
-questions are still easily distinguishable from the primary data that I
-gathered in the interview.
-
 
 
 ## Recording
@@ -1182,27 +1212,28 @@ gathered in the interview.
 ### Notes and Sketches on paper
 
 
-####  Notes  #
+####  Notes  
 
-![making notes on a clipbaord](../images/notizenKlemmbrett.jpg)
+![making notes on a clipboard](../images/notizenKlemmbrett.jpg)
 
 
 During the interview you will take brief notes. This is rather similar
 like taking notes in school or university: You go for the gist of what
-was said and don't for writing down exact words. (Except in the case you
+was said – you don't write down the exact words (Except in the case you
 find an expression itself important). One finding, utterance or
 observation goes in one line.
 
-Your primary focus is actually listening and asking questions. So you
-can’t just look at your note sheet and mutter some questions. Naturally
-you need to compromise. If you don’t care too much about your
-handwriting, you can write notes without much looking at the paper
-except for some occasional glances. In case you find something very
-important and fear forgetting it, you can ask the participant to 
-repeat – but keep this to a minimum.
+Your primary focus is observing, listening and asking questions. You
+can’t just look at your note sheet and read some questions. So you need to do the 
+notetaking *in addition* to observing, listening and asking. 
 
-If you can try to provide some context in your notes so that the point
-you write down have a meaning on their own:
+If you don’t care too much about your handwriting, you can write 
+notes without much looking at the paper except for some occasional glances. 
+In case you find something very important and fear forgetting it, you can ask the participant to 
+repeat the utterance – but keep this to a minimum.
+
+If you can, try to provide some context in your notes. Thus, the point
+you write down has a meaning on it’s own:
 
  <div class="example">
  
@@ -1216,19 +1247,20 @@ you write down have a meaning on their own:
 </div>
 
 If your notes have a meaning on their own it will be far easier to
-analyze the users needs later.
+analyze the participant’s needs later.
 
 
 ####  Sketches  
 
-Observations are by nature visual and concerned with processes. If you
-make notes, you can as well make sketches or even little storyboards to
+Observations are, by nature, visual and concerned with processes. 
+Make sketches or even little storyboards to
 capture what you see. It depends on the situation and your capabilities
-in drawing quickly (or rather your trust in that capability). It is very
-useful that you can choose what to draw: highlight what is important,
-leave out what is irrelevant and make annotations to ease understanding.
+in drawing quickly (or rather, your trust in that capability). 
 
-I mostly use my sketches the same way I use notes: They are made on a
+It is very useful that you can choose what to draw: highlight what is important,
+leave out what is irrelevant and make annotations to ease understanding the sketches later.
+
+I mostly use my sketches the same way I use notes: Notes and sketches are made on a
 common sheet of paper; one sketched observation goes in one line, if
 possible.
 
@@ -1237,8 +1269,8 @@ possible.
 
 ####  After the interview  
 
-It is essential to take time after the interview to supplement your
-in-interview notes with information from your memory. While collecting
+It is essential to take time after the research session to supplement your
+ notes with information from your memory. While collecting
 the data with the participant you will be very busy listening and
 thinking of following questions, so you may not be able to keep up with
 writing notes and drawing sketches. There is no need to worry since
@@ -1246,13 +1278,15 @@ usually you'll remember how to fill these gaps from your memory. But you
 need to do it quickly. If you don’t do it right after the interview,
 your memory fades and the chance to supplement the information is gone.
 
-To supplement your notes of the interview just go through them
-chronologically. A part of my additions are things that are not in the
+To supplement your notes of the research session just go through them
+chronologically and add annotations. A part of these additions are things that are not in the
 notes yet but still in my memory. In this case I add them, like
 
  <div class="example">
  
- \[ADDITION\]: *She looks at her sketches before she starts working* 
+ [ADDITION]: 
+ 
+ *She looks at her sketches before she starts working* 
  
  </div>
 
@@ -1270,8 +1304,8 @@ memory
 
  <div class="example"> 
  
- *»She saves old ideas [ADDITION]: For later inspiration in other
- projects«*
+ * She saves old ideas [ADDITION]: For later inspiration in other
+ projects *
  
  </div>
 
@@ -1284,7 +1318,7 @@ memory
 </div>
 
 
-In sketches, redraw a line if it is ambiguous and add annotations if you
+When revising your sketches, redraw a line if the sketch is ambiguous and add annotations if you
 think that they might ease interpreting the sketch later on.
 
 Think of your future self: Some notes may make perfect sense to you now
@@ -1297,11 +1331,12 @@ memories of the experience faded.
 I may have something like a written line *»Big changes«* on in my
 Notes. I remember that it was about the participant thinking that
 her colleagues make bigger changes between to two versions of their
-designs than she - which is how I wrote it down.
+designs than she. I added this information to the notes.
+
 </div>
 
 Similarly, if my writing is rather messy I rewrite some words to ensure
-that I can still read what I wrote in a week or two.
+that I can still read what I wrote.
 
 I write and draw my supplements in another color. When I wrote my notes
 during the interview with a blue pen I use black for the supplements or
@@ -1310,23 +1345,25 @@ step of the process.
 
  <div class="example">
 
-![](../images/NotesSuplements2Anno.png)
+![](../images/NotesSupplements2Anno.png)
  
  In this scanned part of a note sheet you see how the supplements are
- used: 1) These parts have been partly rewritten in black as it was too
- messy before. 2) At the right you see an newly drawn annotated sketch
+ used: **1)** These parts have been partly rewritten in black as it was too
+ messy before. **2)** At the right you see an newly drawn annotated sketch
  that provides a visual representation (how the document is organized
- by inserting empty pages). 3.) More information has been provided. It
+ by inserting empty pages). **3.)** More information has been provided. It
  was »keeping for inspiration«, now its »keeping old stuff for
  inspiration«
+ 
  </div>
 
-This different-color approach is useful for another type of supplements:
-Things like ideas or remarks in connection to your notes. When I go
+Using different colors is useful for another type of supplement:
+Ideas or remarks in connection to your notes. When I go
 through the notes I often have some ideas for a design or a question
 which I would like to further explore in a future interview. If there is
 still space, I write them down in a third color or I prefix the note
-with *»IDEA:«* or *»QUESTION«*
+with *»IDEA:«* or *»QUESTION«* in order to prevent myself of mixing ideas 
+with empirical data. 
 
 Writing notes, drawing sketches and supplementing them hereafter will
 enable you to preserve information in the most situations. However, for
@@ -1336,14 +1373,14 @@ accident, it might be useful to have a backup by using audio recording.
 ####  Getting it into the computer
 
 When I added my supplements to the notes and sketches I usually type
-them in a Word document. I scan my notes as well, so I can easily cut
-and paste my sketches into the document
+them in a Word document. In addition, I scan my notes, so I can easily cut
+and paste my sketches into the document. 
 
-While transcribing the document, I take care that each line in the
+When transcribing the document, I take care that each line in the
 digital transcript has only one finding in it and not several, so that
-you don't tie two separate findings together. Make sure and that the
-data is meaningful on its own and is not just a single word or a
-description that is free of any context and thus hard to set in relation
+I don't tie two separate findings together. Make sure that the
+data you write down is meaningful on its own and is not just a single word or a
+description which is free of any context and thus hard to set in relation
 to other data.
 
  <div class="example">
@@ -1353,6 +1390,9 @@ Not meaningful on its own (means mostly: too short):
 -   I duplicate objects
 -   making space
 
+If there is any way to add the actual context (out of the memory or using other notes) 
+these notes should be supplemented with that context which hopefully helps us to get to know why are objects are duplicated and for which purpose is the space is made. 
+
 </div>
 
  <div class="example">
@@ -1360,7 +1400,9 @@ Not meaningful on its own (means mostly: too short):
  Too many findings in one line (means as well: too long):
 
 -  Duplicating pages to save old ideas is common. Later she goes back     to the duplicates and looks at them when she needs inspiration
-- Tries to have enough space for the margins to write my comments in the margins; to do so she shrinks the main text area. I could as well try to make space down here, and use footnotes for the comments.</div>
+- Tries to have enough space for the margins to write my comments in the margins; to do so she shrinks the main text area. I could as well try to make space down here, and use footnotes for the comments.
+
+</div>
 
  <div class="example">
  
@@ -1373,22 +1415,23 @@ Not meaningful on its own (means mostly: too short):
 </div>
 
 The notes and later added supplements from my memory are treated alike
-in my documents (though they could be easily made different from each
-other) However, I take care that later added design ideas and research
-questions are still easily distinguishable from the primary data that I
-gathered in the interview.
+in my documents since they are all data I gathered by listening or observing the participant. But I take care that later added design ideas and research
+questions are still easily distinguishable from the actual data that I
+gathered in the research session.
+
+
 
 ####  Making Photos
 
 Making photos is rather easy and can capture lots of information. For
 example, you can photograph the participant's desk to aid your memory.
 Later you can go back and see what was on it: Paper, pens, computer;
-were there tidy looking stacks and container for all the utensils? Or
+were there tidy looking stacks and containers for all the utensils? Or
 was it seemingly messy?
 
 You can even photograph the users screen content if your research
 involves computers and gadgets. Tech savvy users may cringe since a
-software based screenshot is technically superior but if the user does
+software based screenshot is technically superior – but if the user does
 not know you to make a screenshot, a camera is a handy way to capture
 the screen.
 
@@ -1398,8 +1441,8 @@ know and which has a good auto-mode. The only setting that I use beyond
 that is the exposure compensation in case the part of the image you are
 interested is totally dark or disappears in light.
 
-Avoid complicated set-ups or even arranging the user and his/her tools.
-Arranging the user and his/her tools would change the data you record.
+Avoid complicated set-ups or even arranging the participant and his/her tools.
+Arranging the participant and his/her tools would change the data you record.
 Aside from this remember that the purpose is to record data and not
 making stylish pictures.
 
@@ -1417,7 +1460,7 @@ than the photo itself when doing the analysis.
 
 For the photo above you might add the following line to your notes:
 »participant displays different font combinations in the layout
-application in order to see if the fonts go well together (see
+application to see if the fonts go well together (see
 U2-14-9-14\_1.jpg)«
 
 </div>
@@ -1431,14 +1474,13 @@ I recommend using audio recordings – it is a useful supplement to your
 notes. It will record the audio during the research session so that you
 can listen to what was said hereafter. Note that it is not a perfect
 capture of all that happened: It records only sound, so if the
-interviewee points to the screen and refers to »this« the recording is
+participant points to the screen and refers to »this«, the recording is
 not much of help.
 
-After the research session I read the notes while listening. Usually I
+After the research session I listen to the recording. Usually I
 have the audio as a .mp3 and the Notes as a typed out plaintext or
 *.doc* (see *notes and Sketches on Paper*), so I can open audio and
-transcript in parallel on my computer and I listen through the
-recording. When the audio contains information that is not in the
+transcript in parallel on my computer. When the audio contains information which is not in the
 document or if it supplements information that is already there, I pause
 the playback and write the additional information in the document. So
 the process is very similar to supplementing your notes from memory.
@@ -1459,6 +1501,8 @@ If you need to save time, go through your notes and see where they lack
 information. Then just jump to the parts of the audio that might
 complement these sections.
 
+
+
 # Analysis
 
 ## Introduction to data analysis
@@ -1466,7 +1510,7 @@ complement these sections.
 ### Why analysis?
 
 In the analysis we will take a closer look at the data and organize it
-after patters. These patterns means that the results can be remembered,
+after patters. By organizing after patterns the results can be remembered,
 communicated and be used in design. These uses would be hardly possible
 if when having several hundred single notes and observations like they
 come directly from interviews and observations. Thus we use an analysis
@@ -1475,12 +1519,12 @@ form.
 
 ### Invent by principles
 
-Maybe you know Brat Victors talk on »Inventing on Principle«. He shows
+Maybe you know Brat Victors [talk on »Inventing on Principle«](http://vimeo.com/36579366). He shows
 how he used the principle (you could as well say »motto« or »guideline«)
-»Creators need an immediate connection to what they're creating« to
+*»Creators need an immediate connection to what they're creating«* to
 design software that allows to program or create animations – without
 intermediate steps like choosing numerical values for parameters and
-imagining how the result will be and then executing it to see how it
+*imagining* how the result will be and hereafter executing it to see how it
 actually plays out.
 
 By analyzing our data we can create such principles for our own
@@ -1496,10 +1540,10 @@ data, they will express the actual needs of your users and not some
 
 The principles we derive from the data should be a statement on their
 own – not just be describe a common property of the observations and
-utterances they are derived from. A simple test is to ask yourself if
+utterances (i.e. the data) they are derived from. A simple test is to ask yourself if
 the principle could actually be true or false. The Principle »Colors«
 probably will sum up all data which has some relation to color. Nobody
-could say that the Principle »Color« is wrong. But »Color added later in
+could say that the Principle »Color« is wrong. But »Colors added later in
 design« is a principle that might be true or not. Thus it makes a
 statement instead of just referring to some common property like the
 same tool (»file mananger«) mentioned or similarly judged things
@@ -1516,10 +1560,13 @@ are clashing with the current tools.
 
 <div class="example">
 
+Let’s say we gathered this data (among others) in research 
+with beginners in web programming:
+
 - To try out stuff in HTML is fun
-- I analyze Javascript code to understand patterns
+- I analyse Javascript code to understand patterns
 - It is great to quickly test something using a JavaScript framework
-- To know these 'attributes' of HTML-'tags' makes writing code easier.
+- To know these ›attributes‹ of HTML-›tags‹ makes writing code easier.
 
 
  You could order it by superficial similarity like this:
@@ -1532,13 +1579,13 @@ are clashing with the current tools.
 	- I analyze JavaScript code to understand patterns
 	- It is great to quickly test something using a JavaScript  framework
 
-These are ordered by simple word occurance. But the for design and
-inspiration it is far more useful to order them by the underlying
-meaning from the users perspective:
+These are ordered by simple word occurrence. But for designing and
+inspiration it is far more useful to order them by the meaning from 
+the users perspective:
 
 - Trying out is good
 	- To try out stuff in HTML is fun
-	- It is great to quckly test something using a javascript framework
+	- It is great to quickly test something using a javascript framework
 
 - Learning makes own coding better
 	- I analyse Javascript code to understand patterns
@@ -1553,9 +1600,11 @@ should come back and try to go beyond groups based on commonalities.
 
 ### Doing the right analysis?  
 
+<!-- TODO: Jan bis hier -->
+
 The data analysis is done by inferring principles from single data
 points like utterances and observations. Thus the process is empirical
-(as it is based on gathered data) but nevertheless: if the same data is
+(as it is based on gathered data) but if the same data is
 used, analysis made by different people will differ. This is because the
 result of the analysis depends on the reasonable but still individual
 and debatable interpretation of the data. You could say that »looking at
@@ -1564,23 +1613,33 @@ last years design to reuse elements« belongs to a group concerned with
 »reviewing designs for inspiration« (given that it could serve both from
 the user's perspective).
 
-There is no right or wrong nor a clear cut criteria of being close
-enough to the data when you create the principles and groups. Instead of
-having a clear, measurable rule like »you must have 0.5 significance« in
+There is no right or wrong nor a clear cut criteria of being »close
+enough« to the data when you create the principles and groups. Instead of
+having a clear, measurable rule like »you must have 0.5 significance in
 statistics, most important is that your analysis is plausible (instead
-of »right« or »wrong«). I compare the process of analysis to building a
+of »right« or »wrong«). 
+
+I compare the process of analysis to building a
 house from a box of lego bricks. These bricks are like the
-not-yet-analyzed data you start with. When you build a house out of
-these bricks, there is no »right« building . But it is not a process
-that is random. There are many, many ways to stack up the bricks – but
+not-yet-analysed data you start with. When you build a house out of
+these bricks, there is no »right« building. But it is not a process
+that is random. 
+
+
+
+There are many, many ways to stack up the bricks – but
 only a very few of these ways will result in something that can be
-plausibly called a house. As well how your final Lego house will look
+plausibly called a house. 
+
+![possible arrangement of stones – but not a house](…/images/lego_bricksToStartWith.jpg) ![one way to build a house](…images/lego_houseFinished.jpg)
+
+As well how your final Lego house will look
 like is not determined from the beginning, rather you will change
 designs, move walls and sometimes try to use the same piece in different
 parts of the building to try out and improve. The same things will
-happen when you analyse data: There are many very many possible ways to
+happen when you analyze data: There are many very many possible ways to
 just arrange the data, but only some of them will create something that
-is meaningful to you or others. This creation of a meaningful structure
+is meaningful to you and others. This creation of a meaningful structure
 is not determined at the beginning, but a process, just like building
 your lego house, in which you trial, fail, find improvements and step by
 step come closer to a structure you are satisfied with.
@@ -1589,12 +1648,14 @@ step come closer to a structure you are satisfied with.
 
 We will analyze our data by sorting it in groups (you can as well say:
 by clustering it). The data in one group will relate to a particular
-theme or better, a principle, which is common to the data in the group.
+theme or, better, a principle, which is common to the data in the group.
+
 We write down this theme or principle as a title for the group. If you
 analyze your data using paper notes, your titles will be written on a
-sticky note of a color (choose one, but stick with it). If you use a
-word processor, use a headline for the groups titles. Sometimes you will
-have groups which relate to a common principle themselves. In this case
+sticky note of a specific color (choose one, but stick with it). If you use a
+word processor, use a headline for the groups titles. 
+
+Sometimes you will have groups which relate to a common principle themselves. In this case
 it makes sense to make a group of groups. If you analyze on paper notes,
 use sticky notes of a color different from the usual group sticky notes
 (lets say, normal group titles go on yellow notes, titles of
@@ -1602,6 +1663,10 @@ groups-of-groups go on green sticky notes). If you analyze your data in
 a word processor use a bigger (hierarchically higher) headline (if you
 use headline 2 for normal groups, choose headline 1 for group-of-groups
 titles)
+
+! [analogue: titles of grous in orange, titles of groups-of-groups in green](…images/affinityDiagram2.jpg)
+
+![digital: groups and groups-of-groups expressed by bigger and smaller headlines](hierarchy_HeadlinesDigital.png)
 
 ## Annotate and prepare the Data  
 
@@ -1613,9 +1678,9 @@ The annotations should be clearly distinguishable from data you got
 directly from observation or user interviews – just like other data you
 did add yourself (e.g. design ideas). I would recommend using a word
 processor with a comment function. Open your transcript, mark the part
-you want to annotate with your interpretation, then click the comment
-button. If you don't use a word processor but plaintext use something
-like »COMMENT:« to mark your comments; If you prefer scribbling notes
+you want to annotate with your interpretation, then click the »comment«
+button. If you don't use a word processor, but plaintext, use something
+like *»COMMENT:«* to mark your comments; If you prefer scribbling notes
 with a pen and a highlighter, print your notes with double line spacing
 to have enough room for writing.
 
@@ -1652,19 +1717,17 @@ a word processor is the word processor itself. An analogue analysis
 needs sticky notes, paper, a printer (or a lot of patience to write all
 by hand), (removable) tape and a big wall (2m\*3m minimum!). Usually the
 wall is the showstopper here. But why should you want to use an analog
-analysis if it needs alll or these resources? Partly the decision can be
+analysis if it needs all or these resources? Partly, the decision can be
 based on preferences: Some people like that they can move around the
 notes by hand and can get an overview of their data by just stepping
 back and glancing over it. However, a big difference is how you work in
 a team.
 
-If you work with colleges on your analysis you have some advantages: you
-can discuss your ideas and will get new ideas how to structure the data
-by others. You could as well invite your boss to take a look and be part
+If you work with peers on your analysis you have some  when using the analogue pen and paper approach: you can discuss your ideas and will get new ideas how to structure the data by others. You could as well invite your boss to take a look and be part
 of the team, at least for some time. This type of on-site,
 collaborative, analysis is best done analogue. It is easy to move notes
 around, and you can refer by pointing to data or just carry it over and
-ask for an interpretation or the like. With digital tools it is not that
+ask for an interpretation or the like. Using digital tools it is not that
 easy – despite of all the great tools we have nowadays.
 
 ### How-to
@@ -1674,7 +1737,7 @@ easy – despite of all the great tools we have nowadays.
 For working analog I recommend the following steps to get
 analysis-ready:
 
-1.  Create Table in a word processor, many rows, 2 collums (given you
+1.  Create Table in a word processor, many rows, 2 columns (given you
     print on DINA4) . Each table cell will be a note.
 	1.  In the table settings, switch off page breaks in cells and
         switch »keep paragraphs together« on, so that one note/table
@@ -1686,16 +1749,16 @@ analysis-ready:
 2.  copy/paste all your data (line by line) from the transcript into the
     cells
 3.  print it
-4.  cut out each piece of data
+4.  cut out each table cell (=piece of data) 
 5.  cover the wall with the paper from paper rolls (thus you can remove
     the analysis, roll up the paper and archive it and you could remove
     it from the wall temporarily)
-6.  during analysis you will stick your printed notes on width of paper
+6.  during analysis you will stick your printed notes on the widths of paper
     using removable tape, crepe tape or spray glue – something sticky
-    but non-permanent so you can move the notes around to gradually
+    but non-permanent, so you can move the notes around to gradually
     improve the structure.
 
-####  Word processor  
+####  word processor  
 
 1.  Create a new document
 2.  paste your transcript into that document
@@ -1714,6 +1777,7 @@ analysis-ready:
 
 ## Develop a first Structure  
 
+<!-- TODO jan bis hier -->
 
 When you annotated your data it is time to start to structure the data.
 Structuring the data means suggesting principles behind the data, naming
