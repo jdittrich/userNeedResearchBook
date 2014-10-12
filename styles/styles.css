@@ -1,0 +1,188 @@
+/*
+https://github.com/hypertexthero/typography/blob/master/style.css
+Public Domain
+*/
+
+#wrapper {
+color:#000;
+font-family:sans-serif;
+font-size:110%;
+line-height:1.6;
+margin:0;
+padding:2em 2em 5em;
+margin:auto;
+max-width:40em;
+color:rgb(10, 10, 10);
+}
+
+a {outline:none !important; font-weight:bold; text-decoration:underline;}
+a:link {color:#51739a;}
+a:visited {color:#606;}
+a:hover {color:#606;}
+a:active {color:#900; outline:none;}
+
+h1 a:link,h2 a:link,h3 a:link,h4 a:link,h5 a:link, h1 a:visited,h2 a:visited,h3 a:visited,h4 a:visited,h5 a:visited{
+	font-weight:inherit;
+	color: inherit;
+	text-decoration:inherit;
+}
+
+h1 a:hover,h2 a:hover,h3 a:hover,h4 a:hover,h5 a:hover{
+	text-decoration:underline;
+}
+
+h1.title{
+	font-size: 400%;
+	text-transform: uppercase;
+	color: #396ba5;
+	font-weight: normal;
+
+}
+
+h1 {
+  font-size:280%;
+  line-height:1.35;
+  margin:2.5em 0 0.8em;
+	font-weight: normal;
+}
+
+h2 {
+  font-weight:normal;
+  font-size:180%;
+  margin:1em 0 0.8em;
+}
+
+h3 {
+  font-weight:normal;
+  text-transform:normal;
+  font-size:150%;
+  letter-spacing:0.15em;
+  margin:2em 0 0.8em;
+  color:#5f5e5e;
+}
+
+h4 {
+  font-weight:normal;
+  font-size:120%;
+  letter-spacing:0.1em;
+  margin:1.5em 0 0.8em;
+  color:#5f5e5e;
+}
+
+h5 {
+  font-weight:normal;
+  font-style:italic;
+  font-size:100%;
+  margin:1.5em 0 0.8em;
+  color:#5f5e5e;
+}
+
+h6 {
+  font-weight:bold;
+  font-size:90%;
+  letter-spacing:0.1em;
+  margin:1.5em 0 0.8em;
+}
+
+p {
+text-align:left;
+font-size:100%;
+margin:1em 0 0;
+}
+
+p + p {
+margin:0;
+text-indent:1.5em;
+}
+
+
+
+p + ul, p + ol, p + dl {margin-bottom:1.5em;}
+
+blockquote, .example {border-left:5px solid #eee; padding-left:1.5em; margin:1em 0; color:#5a5a5a; font-family:serif; font-style: italic}
+blockquote small, .example small {display:block; line-height:1.7em;}
+
+.example p+p{
+	margin-top: 1em;
+	text-indent:0em;
+}
+
+.figure, figure{
+	background-color: rgb(255, 255, 255);;
+	margin: 1em 0 1em 0px;
+}
+
+.figure>img, figure>img {
+	border-bottom: 1px solid #d3d3d3;
+	width: 100%;
+}
+
+.gallery .figure>img, .gallery figure>img {
+	border-bottom: none;
+}
+
+.figure>.caption, figure>figcaption, .gallery>.caption {
+	 color: #5b5b5b;
+	font-size: 80%;
+	 margin: 0px;
+	 width: 100%;
+	border-left:2px solid #AAA;
+	padding-left:0.25em;
+}
+
+.gallery{
+	margin: 1em 0 1em 0px;
+	display:flex;
+	flex-wrap: wrap;
+	width:100%;
+}
+
+.gallery > img, .gallery > figure{
+	margin-right: 0.25em;
+	margin-bottom:0.25em;
+	border: 1px solid #d3d3d3;
+}
+
+.gallery > figure> figcaption{
+	margin-left: 0.25em;
+	border-left	: none;
+}
+
+.gallery.two > img, .gallery.two > figure{
+		flex-basis:45%;
+}
+
+.gallery.three > img, .gallery.three > figure{
+		flex-basis:30%;
+}
+
+.gallery.four > img, .gallery.four > figure{
+		flex-basis:22%;
+}
+
+ul, ol, dl {
+text-align:left;
+}
+
+ul li{
+	list-style-type: none;
+}
+
+ul li:before {
+    color: #7b7a7a;
+    content: "⁃ ";
+}
+
+dt {font-weight:bold;}
+code {font-family:courier, monospace;}
+
+p > code {padding:0.25em; background:#eee;}
+
+pre {text-align:left; font-size:100%;}
+
+hr {height:0; color:#eee; border:1px solid #eee; margin:2em 0 1em;}
+.normal {font-weight:normal;}
+.quiet {color:#999;}
+.pull-left {float:left; margin:0.5em 2em 1em 0;}
+.pull-right {float:right; margin:0.5em 0 1em 2em;}
+
