@@ -1600,8 +1600,6 @@ should come back and try to go beyond groups based on commonalities.
 
 ### Doing the right analysis?  
 
-<!-- TODO: Jan bis hier -->
-
 The data analysis is done by inferring principles from single data
 points like utterances and observations. Thus the process is empirical
 (as it is based on gathered data) but if the same data is
@@ -1775,23 +1773,23 @@ analysis-ready:
 7.  If you use paragraph styles you can use the navigation tool of the
     wordprocessor to scan through your structure
 
-## Develop a first Structure  
+## Develop a first Structure  {#firstStructure}
 
-<!-- TODO jan bis hier -->
 
-When you annotated your data it is time to start to structure the data.
+After you annotated your data you can start to structure the data.
 Structuring the data means suggesting principles behind the data, naming
-these principles and the data pieces that fall under that principle.
+these principles and decide which data falls under which principle.
 
-You don't use all your data yet, start with what you find useful when
+You don't use all your data yet. Start with what you find useful when
 skimming through it or use just the data of two participants for now.
 The goal is to set up some preliminary structure, like a scaffold.
 
+![setting up a basic structure](../images/lego_houseFirstStructure.jpg)
 
 ### Move in Approximation
 
-The easiest way to start building a structure is moving similar data in
-approximation. If you do an analog analysis, just cluster notes you
+The easiest way to start a structure is moving similar data in
+approximation. If you do an analogue analysis, just cluster notes you
 assume to follow a common principle in one place and notes for other
 principles in other places. If you analyze using a wordprocessor, create
 a list and paste the lines into this list. You might as well just
@@ -1803,7 +1801,7 @@ below.
 - Asking herself: what would impress the person (a safety advisor)\
  »probably not that the blueprint is beautiful«
 
-- Good: Something that is not only useful, but aesthetically as well\
+- Good: Something that is not only useful, but aesthetical as well\
 
 *These Principles have in common that they are about aesthetics
 and requirements. I did not have a good idea about a possible
@@ -1818,8 +1816,8 @@ You may have some data you assume to encompass a common principle but
 you don't know the principle yet. But you have a vague feeling that it
 may be connected to something. Then just write that something as a
 preliminary title. A group name, even if it is not a principle, will
-make dealing with the data easier by giving your data some structure you
-can work with. As you gather other data that falls under that (yet
+make dealing with the data easier. It gives your data some structure. 
+As you gather other data that falls under that (yet
 vague) category you may get to know how to state the principle in a
 better way.
 
@@ -1835,7 +1833,7 @@ better way.
 	- The website is a great way to reach out
 
 *These are mere titles, naming a commonality of the underlying
-data but telling nothing useful for design*
+data but telling nothing useful for design (yet)*
 
 </div>
 
@@ -1854,14 +1852,13 @@ just get rid of it and see where else the data might fit.
 My first found principles were these:
 
 -   Review previous projects
-
 -   Test designs in the media you deliver in
 
 \
 \
 
-The structure grew to this (the main list points are main headlines,
-the indented sub lists are second-order headlines)
+The structure of my analysis looked linke that (the main list points are main headlines,
+the indented sub-lists are second-order headlines):
 
 -   Inspiration
 	-   Review previous projects
@@ -1880,8 +1877,7 @@ the indented sub lists are second-order headlines)
 
 Note that some are actual, meaningful principles (»Finishing is
 good«, »(Page) Format is hard to change later«), while some are
-mere Titles based on commonalities (»Inspiration«, »Trial and
-Error«).
+mere group titles based on commonalities of the  data they encompass (»Inspiration«, »Trial and Error«).
 </div>
 
 ## Fill the Structure  
@@ -1896,12 +1892,14 @@ data to according principles. In contrast, in the previous steps we
 focused more on generating a structure. If the previous step was
 building a data-based scaffold, now we try to build the actual walls.
 
+![Build upon your preliminary structure to see if the idea actually works](../images/lego_houseWalls.jpg)
+
 When you group your data you should have principles that are derived
-from the actual data. So aim for 3 to 10 pieces of data per group. While
+from the actual data. Aim for 3 to 10 pieces of data per group. While
 it is temporarily o.k. to have very small groups, at the end each
 principle should be derived from several data points and not on a single
 utterance. On the other hand if a principle encompasses more than 10
-utterances or observations, think if creating two aspect or
+utterances or observations, think if creating two aspects or
 »subprinciples« would make sense.
 
 Usually I would go chronologically through all my notes starting with
@@ -1909,12 +1907,10 @@ the first participant and ending with the most recent one – though any
 other scheme will suffice as well. Just be sure that you know what you
 dealt with and with which you did not yet.
 
-You will notice already when filling the data in the structure that you
-need additional groups and principles and that some principles will need
+When filling the data in the structure that you will notice that you 
+need additional groups and principles. In addition, some principles will need
 to be renamed. Just go ahead and make these changes if you feel they are
 needed.
-
-
 
 <div class="example">
 
@@ -1924,16 +1920,14 @@ needed.
 	-   Tedious: Not having an own printer
 	-   […]
 
-- „being closer»: Page Spreads instead of single pages
+- »being closer«: Page Spreads instead of single pages
  - Creates page spreads (In books you have always 2 opposite pages, thus single pages are not useful for design)
 
  \
 
- Actually this is not great yet: The »Test in the Media you target«
- data is almost all from one person (P3) and the »being closer«-Group
+ Actually the example above is  is not great in terms of analysis: The »Test in the Media you target«  data is almost all from one person (P3) and the »being closer«-Group
  has only a single data point. In later iterations I'll change that
  cluster. But for now it suffices.
-
 
 \
 \
@@ -1949,8 +1943,8 @@ needed.
 \
 \
 
-Quite some data could not be accommodated yet. So I created a misc
-group where I could offload the data for now and try to find a better
+Some data could not be accommodated yet. So I created a misc
+group, where I could offload the data for now and try to find a better
 place later:
 
 -   misc
@@ -1960,49 +1954,51 @@ place later:
 	-   […many other points…]
 
 Inside the misc group some possibilities for future principles
-emerge – for example the first (god: Shortcuts) and the third
+emerged – for example the first (god: Shortcuts) and the third
 point (»bad: doing the…« could be part of a newly formed
-principle named »I want to avoid repetitive tasks«</div>
+principle named »I want to avoid repetitive tasks«
+
+</div>
 
 ## Revise the Structure  
 
 After you went through your data and sorted it into principles, review
 your work. You now may have a clearer view of what constitutes the
-principles after you dealt matched the data with the principles.
+principles after you matched the data with the principles.
 
-If you dealt with a particular part of the analysis, your view might be
+If you recently dealt with just a particular part of the analysis (like dealing
+with two particular groups), your view might be
 too narrow: Glance over the whole range of principles and clusters and
-rediscover groups that might be a better fit.
+rediscover groups that might be a better fit for some data.
 
 Have a look at structures that need improvement: Groups that don't form
-an actual principle yet as well as the data for which you did not find a
-good place yet. This data might be helpful to create actual principles.
+an actual principle yet as well as data for which you did not find a
+good place. This data might be helpful to create actual principles.
 
 Take a critical look at the principles in relation to the data they
-encompass: Is there a fit or did you fall prey to wishful thinking and
-there is actually only a weak match between the stated principle and the
-data? In this case revise the way you put the principles.
+encompass: Is there a fit or did you fall prey to wishful thinking – possibly there is actually only a weak match between the stated principle and the
+data. In this case revise the way you put the principles.
+
+![Some parts need to be revised and newly created](../images/lego_houseRevise.jpg)
+
 
 ### Find better names  
 
 Groups based on commonalities or vague similarity will hopefully evolve
 into principles. To archive this, try to revise group titles: make them
-more concise, clear and meaningful. If a group of data has not an
-overarching principle but just a title based on mere commonalities of
-the data in that group try to formulate an actual principle for this
-group. This will almost certainly require moving some data between
+more concise, clear and meaningful. Try to find an actual principle for a group if 
+ a group of data is just named with a title based on mere commonalities of
+the data in that group. This will almost certainly require moving some data between
 groups as well in order to accommodate the data to the improved
 structure.
 
-
-
 <div class="example"> 
 
-I had the group title »Arranging«, singe arranging and aligning
+I used the title »Arranging«, since arranging and aligning
  objects, lines and text to a predefined grid or to each other was a
- task that could be found in a part of the data. But the title
- »Arranging« just names a commonality. To make clear that the group is
- about a user activity and in order to create a meaningful principle I
+ task that reoccured frequently. But the title  »Arranging« just names a
+ commonality. To make clear that the group is
+ about a user activity and to create a meaningful principle I
  renamed »Arranging« to »Arranging objects is an important activity«
 
 </div>
@@ -2013,9 +2009,10 @@ I had the group title »Arranging«, singe arranging and aligning
 I had a group titled »repetitive and manually«. This could be easily
  renamed into a meaningful principle: »repetitive and ‘ do-it-manually’
  tasks are tedious«. By just adding the users view (»are tedious«) the
- title became a useful principle for design
+ title became a useful principle for design. 
 
 </div>
+
 \
 \
 
@@ -2027,14 +2024,15 @@ I had the following structure:
 	-   Review previous projects
 	-   Others (Web, Bookshop)
 
- »Inspiration« was not a useful principle so I had a look at
- the underlying data. They all were about inspiration but they
+ »Inspiration« was not a principle so I had a look at
+ the underlying data. They all were about inspiration – but they
  had another commonality: All inspiration techniques used
  other, existing designs, often ones that were created by the
  same person or even for the same project (I would have been
- possible that people take a walk or take drugs to get new
- ideas or…). So I renamed it and created the principle: »I use
+ possible that people take a walk or have frequent brainstormings or take drugs to get new
+ ideas etc.). So I renamed it and created the principle: »I use
  existing designs for inspiration«
+
 </div>
 
 ### (re) move data to other groups  
@@ -2044,15 +2042,17 @@ groups, either in a temporary »misc« group or to another, more suitable
 group.
 
 While we want to make use of (all) the data we have, it is most
-important to create sound and helpful principles based on the data
-instead of putting just about everything under a label. If you can make
-a principle to be stated more clearly so that it does not encompass some
-data anymore – go for clarity of principle even if it means that the
-principle does not all the data currently subsumed in the group. Take
-out the data that does not fit the improved titel and see if it might
+important to create sound and helpful principles based on the data – 
+instead of putting just about everything under a label. 
+
+If you can make a principle to be stated more clearly so that it does not encompass some
+data anymore – go for clarity of principle, even if it means that the
+principle does not encompass all the data currently subsumed in the group. 
+
+Take out the data that does not fit the improved title and see if it might
 fit better to another group. If not, place it in a »not yet grouped« or
 »misc«-Group. Revise that group when you made changes to your system and
-see if you can use the data form that »misc« group to enhance other
+see if you can use the data from that »misc« group to enhance other
 groups with that data.
 
 <div class="example">
@@ -2067,21 +2067,22 @@ I reviewed the following group:
 The title was not a meaningful principle and I felt that the
 analysis might benefit if I use the data in other groupings
 and principles. I already had a cluster related to motivations
-and emotions– where I moved »bad: uncertainty before feedback
-from client«. The »good: getting feedback« was moved to a
-cluster named »Exchange with others«. While I think I gained
-something out of it, these restructuring did not result in a
-new much better structure but was part of trials and errors in
-the process
+and emotions– where I moved *»bad: uncertainty before feedback
+from client«*. The *»good: getting feedback«* was moved to a
+cluster named *»Exchange with others«*. 
+
+While I think I gained something out of it, these changes 
+did not result in a new much better structure but was 
+part of trials and errors in the process.
 </div>
 
 
 <div class="example">
 
 Going through the data of a group named »general requirements« I noted
-that a big part of the data was concerned with balancing requirements,
-in functional or practical ones (price, readability etc.) with
-appearance ones (using colors, being innovative)
+that a big part of the data was concerned with balancing  
+functional or practical requirements (price, readability etc.) with
+requirements concerning style (using colors, being innovative)
 
 Thus I renamed the group to »trying to combine aesthetics and
 functionality«. As the new title was more specific some data needed to
@@ -2095,14 +2096,14 @@ be taken out, put into other groups or to the temporary »misc« group.
 The previous examples were concerned with whole principles and groups
 and thus focused on the macro level. Sometimes you just move data
 itself, without any trigger like renaming or the like, just because
-you found a better fit. For example »using the maximum possible height
-on a sheet of paper« was grouped into »media«. I moved it to »budget«
+you found a better fit. For example *»using the maximum possible height
+on a sheet of paper«* was grouped into »media«. Later, I moved it to *»budget«*
 because budget is something the user is directly concerned with,
-whereas media is even more abstract. The group budget was then later
-renamed »having little money and resources«, expressing that a part of
+whereas media is even more abstract. The group *»budget«* was then later
+renamed *»having little money and resources«*, expressing that a part of
 the participants work was finding out how they could make the most out
-of a small budget (»using the maximum possible height on a sheet of
-paper« is a practice that results from that concern.)
+of a small budget (*»using the maximum possible height on a sheet of
+paper«* is a practice that results from that concern.)
 
 </div>
 
@@ -2111,18 +2112,18 @@ paper« is a practice that results from that concern.)
 Some groups may grow rather big, especially if they are not actual
 principles but based on mere commonalities of underlying data (like
 »dealing with color«). This is an excellent opportunity to create
-principles by creating subgroups. I the process of developing subgroups
-is like in »Develop a first structure« (just inside the group): Move
-similar data in proximity and try to create clear cut principles if
+principles by creating subgroups. The process of developing subgroups
+is like in  [»Develop a first structure«](#firstStructure) (just inside the group): Move
+similar data in proximity and try to create clear-cut principles if
 possible. In this process you might find a more suitable way to state
 the principle of the main group as well.
-
 
 <div class="example">
 
 I had a group with more than ten points regarding »Collegues and
-Friends«. This was rather descriptive and thus not very useful for
+Friends«. This title was rather descriptive and thus not very useful for
 design. I created two subgroups which were more meaningful.
+
 \
 Before:
 
@@ -2152,17 +2153,17 @@ beginning; then the problems start.«. After restructuring this became
 a sub point of motivation related groups.
 
 - Motivations
-	-   Highly motivated at the beginning; then the problems start.
-	-   Finishing is good
-	-   Waiting for feedback is bad
-	-   being afraid of clients rejection of the design
+	-   Subgroup: Highly motivated at the beginning; then the problems start.
+	-   Subgroup: Finishing is good
+	-   Subgroup: Waiting for feedback is bad
+	-   Subgroup: being afraid of clients rejection of the design
  
 </div>
 
-<div class="example"> \n
-
-sometimes you already have subgroups but first sort the data under the
-overarchint title or principle:
+<div class="example"> 
+\
+sometimes you first sort the data under the overarching title or principle
+and than move it to subgroups later:
 
 The utterance: »Its bad that you can do imprecise things here,
 compared to programming (talking about Illustrator)« was first sorted
@@ -2171,6 +2172,8 @@ into »Media« and subsequently put into »using the right media«
 </div>
 
 ## Wrap it up  
+
+<!-- TODO jan -->
 
 The steps above do usually follow each other. But like in other creative
 tasks there will be a lot of going back and forth between steps of
