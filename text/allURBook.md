@@ -3,7 +3,8 @@
 % 2014
 
 
-<!-- compile with pandoc --toc -B ../templates/includeBefore.pandoc -A ../templates/includeBefore.pandoc  -s -c ../styles/styles.css allURBook.md -o allUR.html-->
+<!-- compile with  pandoc --toc -B ../templates/includeBefore.pandoc -A ../templates/includeBefore.pandoc  -s -c ../styles/styles.css allURBook.md -t html5 -o allUR.html-->
+
 
 # About this text
 
@@ -1309,9 +1310,15 @@ memory
  
  </div>
 
-<div class="gallery">
+<div class="gallery four">
 
-![](../images/usersketch1.png) ![](../images/usersketch2.png) ![](../images/usersketch3.png) ![](../images/usersketch4.png) 
+![](../images/usersketch1.png) 
+
+![](../images/usersketch2.png) 
+
+![](../images/usersketch3.png) 
+
+![](../images/usersketch4.png) 
 
 <p class="caption">Memory fades quickly</p>
 
@@ -1629,7 +1636,13 @@ There are many, many ways to stack up the bricks – but
 only a very few of these ways will result in something that can be
 plausibly called a house. 
 
-![possible arrangement of stones – but not a house](…/images/lego_bricksToStartWith.jpg) ![one way to build a house](…images/lego_houseFinished.jpg)
+<div class="gallery two">
+
+![possible arrangement of stones – but not a house](../images/lego_bricksToStartWith.jpg) 
+
+![one way to build a house](../images/lego_houseFinished.jpg)
+
+</div>
 
 As well how your final Lego house will look
 like is not determined from the beginning, rather you will change
@@ -1662,9 +1675,7 @@ a word processor use a bigger (hierarchically higher) headline (if you
 use headline 2 for normal groups, choose headline 1 for group-of-groups
 titles)
 
-! [analogue: titles of grous in orange, titles of groups-of-groups in green](…images/affinityDiagram2.jpg)
 
-![digital: groups and groups-of-groups expressed by bigger and smaller headlines](hierarchy_HeadlinesDigital.png)
 
 ## Annotate and prepare the Data  
 
@@ -1695,7 +1706,7 @@ to find possible ways to interpreting it.
 
 ## Analysis: analog or digital?  
 
-![analysing data analog by using sticky notes](../images/affinityDiagram2.jpg)
+![analysing data analog by using sticky notes](../images/affinityDiagram2.jpg) 
 
 ![analysing data digitally by using a word processor](../images/analysisWord_copypaste.png)
 
@@ -2173,7 +2184,7 @@ into »Media« and subsequently put into »using the right media«
 
 ## Wrap it up  
 
-<!-- TODO jan -->
+![it’s done! (though you could still change some things or two…)](../images/lego_houseFinished.jpg)
 
 The steps above do usually follow each other. But like in other creative
 tasks there will be a lot of going back and forth between steps of
@@ -2196,8 +2207,12 @@ time to create communicate your results.
 
 ## Appendix
 
+### Examples
+* Watch a [demonstration of interviewing methods](https://www.youtube.com/watch?v=9t-_hYjAKww) (by Graham R Gibbs, CC-BY-NC-SA)
+* [Example Interview Guides](https://github.com/idno/User-Research/tree/master/Interviews) (by Erin Richey,  CC0)
 
-## Example Consent and Release Form, usability.gov  
+
+### Consent and Release Form
 
 (based on a form from
 [http://www.usability.gov](http://www.usability.gov/), downloadable
@@ -2205,7 +2220,7 @@ under
 [http://www.usability.gov/how-to-and-tools/resources/templates/consent-recording-release-form-adult.html](http://www.usability.gov/how-to-and-tools/resources/templates/consent-recording-release-form-adult.html),
 released as public domain)
 
-### Consent & Recording Release Form - Adult
+**Consent & Recording Release Form - Adult**
 
 
 \
