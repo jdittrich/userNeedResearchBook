@@ -5,6 +5,8 @@
 
 <!-- compile with  pandoc --toc -B templates/includeBefore.pandoc -A templates/includeBefore.pandoc  -s -c styles/styles.css text/allURBook.md -t html5 -o index.html-->
 
+# License
+This text and images (»=book«) are licensed under the terms of the [Creative Commons By 4.0](https://creativecommons.org/licenses/by/4.0/) License.  
 
 # About this text
 
@@ -14,6 +16,7 @@ To have knowledge about the how and why of the users work allows you to create i
 I try to teach methods for user needs research in a way that is descriptive and allows quick application of the learned methods by using tools that are readily available to you. I give examples for the methods to demonstrate their application in practice. I hope you can imagine yourself applying the describes methods when reading – and I want to avoid teaching something that seems like mere theory to you. 
 
 Don’t get me wrong (especially if you are a seasoned researcher for user needs or a professional in some other social science field). It is not that I think theory is superfluous and should be avoided by practitioners. I just want to empower beginners by provide a start in the field which is hands-on and leads to visible results.
+
 
 # Find People 
 In user research we want to find out how and why our users do and why they are doing it. If we know this we can design our products accordingly. 
@@ -1075,7 +1078,7 @@ or
  <div class="example">
  
  »So: If I want to print something first I need to ask for their color
-profile, when I have this, I load it in indesign, choose the profile
+profile, when I have this, I load it in InDesign, choose the profile
 in the pdf dialog and then export it?« »Yes. I usually to a test
 afterwards by opening the pdf in addition«
 
@@ -1625,7 +1628,7 @@ statistics, most important is that your analysis is plausible (instead
 of »right« or »wrong«). 
 
 I compare the process of analysis to building a
-house from a box of lego bricks. These bricks are like the
+house from a box of Lego^®^ bricks. These bricks are like the
 not-yet-analysed data you start with. When you build a house out of
 these bricks, there is no »right« building. But it is not a process
 that is random. 
@@ -1644,7 +1647,7 @@ plausibly called a house.
 
 </div>
 
-As well how your final Lego house will look
+As well how your final Lego^®^ house will look
 like is not determined from the beginning, rather you will change
 designs, move walls and sometimes try to use the same piece in different
 parts of the building to try out and improve. The same things will
@@ -1652,7 +1655,7 @@ happen when you analyze data: There are many very many possible ways to
 just arrange the data, but only some of them will create something that
 is meaningful to you and others. This creation of a meaningful structure
 is not determined at the beginning, but a process, just like building
-your lego house, in which you trial, fail, find improvements and step by
+your Lego^®^ house, in which you trial, fail, find improvements and step by
 step come closer to a structure you are satisfied with.
 
 ### Hierarchical organization of data  
