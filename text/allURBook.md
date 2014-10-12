@@ -1628,7 +1628,7 @@ statistics, most important is that your analysis is plausible (instead
 of »right« or »wrong«). 
 
 I compare the process of analysis to building a
-house from a box of Lego^®^ bricks. These bricks are like the
+house from a box of Lego® bricks. These bricks are like the
 not-yet-analysed data you start with. When you build a house out of
 these bricks, there is no »right« building. But it is not a process
 that is random. 
@@ -1641,13 +1641,13 @@ plausibly called a house.
 
 <div class="gallery two">
 
-![possible arrangement of stones – but not a house](images/lego_bricksToStartWith.jpg) 
+![possible arrangement of bricks – but not a house](images/lego_bricksToStartWith.jpg) 
 
 ![one way to build a house](images/lego_houseFinished.jpg)
 
 </div>
 
-As well how your final Lego^®^ house will look
+As well how your final Lego® house will look
 like is not determined from the beginning, rather you will change
 designs, move walls and sometimes try to use the same piece in different
 parts of the building to try out and improve. The same things will
@@ -1655,7 +1655,7 @@ happen when you analyze data: There are many very many possible ways to
 just arrange the data, but only some of them will create something that
 is meaningful to you and others. This creation of a meaningful structure
 is not determined at the beginning, but a process, just like building
-your Lego^®^ house, in which you trial, fail, find improvements and step by
+your Lego® house, in which you trial, fail, find improvements and step by
 step come closer to a structure you are satisfied with.
 
 ### Hierarchical organization of data  
