@@ -365,7 +365,7 @@ Consider summarizing the information about the research and the use of
 the participant's data in a consent form that the user signs. In this
 case keep the signed form, but hand the participant a copy of the form.
 Thus the agreement is clear for both sides. See in the Appendix for an
-example of such a form.
+[example of such a form](#consentForm). 
 
 When you got the consent of the participant you can start the research
 session.
@@ -2212,7 +2212,7 @@ time to create communicate your results.
 * [Example Interview Guides](https://github.com/idno/User-Research/tree/master/Interviews) (by Erin Richey,  CC0)
 
 
-### Consent and Release Form
+### Consent and Release Form {#consentForm}
 
 (based on a form from
 [http://www.usability.gov](http://www.usability.gov/), downloadable
