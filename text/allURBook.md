@@ -2223,6 +2223,10 @@ under
 [http://www.usability.gov/how-to-and-tools/resources/templates/consent-recording-release-form-adult.html](http://www.usability.gov/how-to-and-tools/resources/templates/consent-recording-release-form-adult.html),
 released as public domain)
 
+\
+
+\
+
 **Consent & Recording Release Form - Adult**
 
 
@@ -2252,25 +2256,19 @@ session with the study administrator.
 Please sign below to indicate that you have read and you understand the
 information on this form.
 
-\
+\ 
 
-\
+Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Date:\_\_\_\_\_\_\_\_\_  
+\ 
 
+Please print your name: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-\ 	
+\ 
 
-Please print your name: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+Please sign your name: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
 
-\
-
-Please sign your name: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
-
-
-  
-
-\
+\ 
 
 Thank you!  
 
