@@ -3,7 +3,7 @@
 % 2014
 
 
-<!-- compile with  pandoc --toc -B ../templates/includeBefore.pandoc -A ../templates/includeBefore.pandoc  -s -c ../styles/styles.css allURBook.md -t html5 -o allUR.html-->
+<!-- compile with  pandoc --toc -B templates/includeBefore.pandoc -A templates/includeBefore.pandoc  -s -c styles/styles.css text/allURBook.md -t html5 -o index.html-->
 
 
 # About this text
@@ -211,7 +211,7 @@ With a participant talking about new and interesting things you want to
 be able to remember what was said. Thus we record the interview – and we
 will need some equipment for doing that. Lets have a look.
 
-![Equipment for user research: paper, pen, audio recorder](../images/interviewEquipment.svg)
+![Equipment for user research: paper, pen, audio recorder](images/interviewEquipment.svg)
 
 ### Note taking  
 
@@ -483,7 +483,7 @@ choosing the fonts«
 
 
 
-![observing the user’s work](../images/ObservationDesign1.jpg)
+![observing the user’s work](images/ObservationDesign1.jpg)
 
 
 ## Building trust
@@ -576,9 +576,9 @@ in the eyes (at least for members of western culture). When taking notes,
 maintaining eye contact is not possible all the time – but keep eye contact when you can.
 
 
-![not-so-good posture](../images/bodyPostureBad.jpg)
+![not-so-good posture](images/bodyPostureBad.jpg)
 
-![much better posture](../images/bodyPostureGood.jpg)
+![much better posture](images/bodyPostureGood.jpg)
 
 
 ### Just ask  
@@ -618,7 +618,7 @@ If you would diagram who speaks for how long when we ask for specific
 information with a »closed« range of possibilities to answer it would
 look like this:
 
-![short closed questions](../images/talkDiagram_closed.svg)
+![short closed questions](images/talkDiagram_closed.svg)
 
 These questions demand very specific answers mostly out of a determined
 set: Yes or no, marks from A-F, a List of Nouns. They would be useful if
@@ -633,14 +633,14 @@ such an exchange you will tell each other your experiences, what you
 felt, why you did this and that etc. In a diagram it would look like
 this:
 
-![giving longer aswers, equal share](../images/talkDiagram_friend.svg)
+![giving longer aswers, equal share](images/talkDiagram_friend.svg)
 
 In contrast to a conversation, our main goal is to collect data; we
 don’t want to tell about our Job as a user researcher, but
 mostly hear answers from the participant. Thus asking questions and
 getting answers in a user needs research session look like this:
 
-![participant gives long answers, researcher asks short, open questions](../images/talkDiagram_open.svg)
+![participant gives long answers, researcher asks short, open questions](images/talkDiagram_open.svg)
 
 
 
@@ -1035,9 +1035,9 @@ or
 
 </div>
 
-![continue with same topic by referring back to someting just said](../images/talkDiagram_ReferBackDirect.svg)
+![continue with same topic by referring back to someting just said](images/talkDiagram_ReferBackDirect.svg)
 
-![change the topic by referring to something said some time ago](../images/talkDiagram_ReferBackDistance.svg)
+![change the topic by referring to something said some time ago](images/talkDiagram_ReferBackDistance.svg)
 
 
 You can refer back to the answer which was just given and
@@ -1157,7 +1157,7 @@ By asking for examples and specific events instead of context free
 generalizations, you can get more information and avoid doing research on
 »general«, possibly not actually practiced ways of work.
 
-![observing user’s actions after asking for a demonstration](../images/ObservationDesignU3Cutting.jpg)
+![observing user’s actions after asking for a demonstration](images/ObservationDesignU3Cutting.jpg)
 
 
 ## Wrap it up
@@ -1215,7 +1215,7 @@ workflow.
 
 ####  Notes  
 
-![making notes on a clipboard](../images/notizenKlemmbrett.jpg)
+![making notes on a clipboard](images/notizenKlemmbrett.jpg)
 
 
 During the interview you will take brief notes. This is rather similar
@@ -1265,7 +1265,7 @@ I mostly use my sketches the same way I use notes: Notes and sketches are made o
 common sheet of paper; one sketched observation goes in one line, if
 possible.
 
-![Sketches on the note sheet](../images/sketchesInNotes.png)
+![Sketches on the note sheet](images/sketchesInNotes.png)
 
 
 ####  After the interview  
@@ -1312,13 +1312,13 @@ memory
 
 <div class="gallery four">
 
-![](../images/usersketch1.png) 
+![](images/usersketch1.png) 
 
-![](../images/usersketch2.png) 
+![](images/usersketch2.png) 
 
-![](../images/usersketch3.png) 
+![](images/usersketch3.png) 
 
-![](../images/usersketch4.png) 
+![](images/usersketch4.png) 
 
 <p class="caption">Memory fades quickly</p>
 
@@ -1352,7 +1352,7 @@ step of the process.
 
  <div class="example">
 
-![](../images/NotesSupplements2Anno.png)
+![](images/NotesSupplements2Anno.png)
  
  In this scanned part of a note sheet you see how the supplements are
  used: **1)** These parts have been partly rewritten in black as it was too
@@ -1453,9 +1453,9 @@ Arranging the participant and his/her tools would change the data you record.
 Aside from this remember that the purpose is to record data and not
 making stylish pictures.
 
-![photographing the working user](../images/NutzerFotografieren.jpg)
+![photographing the working user](images/NutzerFotografieren.jpg)
 
-![photographing a screen instead of using screenshots](../images/ObservationDesignU4ScreenFontMix.jpg)
+![photographing a screen instead of using screenshots](images/ObservationDesignU4ScreenFontMix.jpg)
 
 After the research session go through your photos like you went through
 your notes. If it makes sense, you can use the information from the
@@ -1638,9 +1638,9 @@ plausibly called a house.
 
 <div class="gallery two">
 
-![possible arrangement of stones – but not a house](../images/lego_bricksToStartWith.jpg) 
+![possible arrangement of stones – but not a house](images/lego_bricksToStartWith.jpg) 
 
-![one way to build a house](../images/lego_houseFinished.jpg)
+![one way to build a house](images/lego_houseFinished.jpg)
 
 </div>
 
@@ -1701,14 +1701,14 @@ distinguishable you can always throw stuff out again. The goal is not to
 come up with great annotations but to wrap your head around the data and
 to find possible ways to interpreting it.
 
-![Annotating data in a wordprocessor](../images/commentsAnalysis.png)
+![Annotating data in a wordprocessor](images/commentsAnalysis.png)
 
 
 ## Analysis: analog or digital?  
 
-![analysing data analog by using sticky notes](../images/affinityDiagram2.jpg) 
+![analysing data analog by using sticky notes](images/affinityDiagram2.jpg) 
 
-![analysing data digitally by using a word processor](../images/analysisWord_copypaste.png)
+![analysing data digitally by using a word processor](images/analysisWord_copypaste.png)
 
 
 After annotating your data you should take the decision in which media
@@ -1754,7 +1754,7 @@ analysis-ready:
 	2.  In the table settings, choose a decent padding around each cell,
         like 0.5cm
 	3.  Choose a font size of about 12pt, large enough to read it\
-        ![](../images/createAnalogNotes.png)
+        ![](images/createAnalogNotes.png)
 2.  copy/paste all your data (line by line) from the transcript into the
     cells
 3.  print it
@@ -1795,7 +1795,7 @@ You don't use all your data yet. Start with what you find useful when
 skimming through it or use just the data of two participants for now.
 The goal is to set up some preliminary structure, like a scaffold.
 
-![setting up a basic structure](../images/lego_houseFirstStructure.jpg)
+![setting up a basic structure](images/lego_houseFirstStructure.jpg)
 
 ### Move in Approximation
 
@@ -1903,7 +1903,7 @@ data to according principles. In contrast, in the previous steps we
 focused more on generating a structure. If the previous step was
 building a data-based scaffold, now we try to build the actual walls.
 
-![Build upon your preliminary structure to see if the idea actually works](../images/lego_houseWalls.jpg)
+![Build upon your preliminary structure to see if the idea actually works](images/lego_houseWalls.jpg)
 
 When you group your data you should have principles that are derived
 from the actual data. Aim for 3 to 10 pieces of data per group. While
@@ -1990,7 +1990,7 @@ Take a critical look at the principles in relation to the data they
 encompass: Is there a fit or did you fall prey to wishful thinking – possibly there is actually only a weak match between the stated principle and the
 data. In this case revise the way you put the principles.
 
-![Some parts need to be revised and newly created](../images/lego_houseRevise.jpg)
+![Some parts need to be revised and newly created](images/lego_houseRevise.jpg)
 
 
 ### Find better names  
@@ -2184,7 +2184,7 @@ into »Media« and subsequently put into »using the right media«
 
 ## Wrap it up  
 
-![it’s done! (though you could still change some things or two…)](../images/lego_houseFinished.jpg)
+![it’s done! (though you could still change some things or two…)](images/lego_houseFinished.jpg)
 
 The steps above do usually follow each other. But like in other creative
 tasks there will be a lot of going back and forth between steps of
