@@ -10,10 +10,11 @@ This text and images (»=book«) are licensed under the terms of the [Creative C
 
 # About this text
 
-This book is written for all who want to design product according to the needs of human beings. This text teaches you how to find potential users and to find out about their activities, motivations and problems and how to analyze the gathered data in a way that makes it usable for you design process. 
-To have knowledge about the how and why of the users work allows you to create innovative product that meet the needs you found out about. As well you can use this knowledge to improve existing products and adapt them using your insights. 
+This book is written for all who want to design product according to the needs of human beings. This text teaches you how to find potential users and find out about their activities, motivations and problems. I demonstrate how to analyze the gathered data in a way that makes it usable and useful for you design process.
+ 
+To have knowledge about the how and why of the users work allows you to create innovative products that meet the users’s needs. As well you can use this knowledge to improve existing products using your insights. 
 
-I try to teach methods for user needs research in a way that is descriptive and allows quick application of the learned methods by using tools that are readily available to you. I give examples for the methods to demonstrate their application in practice. I hope you can imagine yourself applying the describes methods when reading – and I want to avoid teaching something that seems like mere theory to you. 
+I try to teach methods for user needs research in a way that is descriptive and allows quick application of the learned methods by using tools that are readily available to you. I give examplesto demonstrate the use of methods in practice. I hope you can imagine yourself applying the describes methods when reading – and I want to avoid teaching something that seems like mere theory to you. 
 
 Don’t get me wrong (especially if you are a seasoned researcher for user needs or a professional in some other social science field). It is not that I think theory is superfluous and should be avoided by practitioners. I just want to empower beginners by provide a start in the field which is hands-on and leads to visible results.
 
@@ -1529,7 +1530,7 @@ form.
 
 ### Invent by principles
 
-Maybe you know Brat Victors [talk on »Inventing on Principle«](http://vimeo.com/36579366). He shows
+Maybe you know Bret Victors [talk on »Inventing on Principle«](http://vimeo.com/36579366). He shows
 how he used the principle (you could as well say »motto« or »guideline«)
 *»Creators need an immediate connection to what they're creating«* to
 design software that allows to program or create animations – without
@@ -2268,7 +2269,7 @@ Please print your name: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Please sign your name: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
 
-\ 
+\
 
 Thank you!  
 
