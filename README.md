@@ -3,7 +3,7 @@ userNeedReseachBook
 
 Hands-on intro to user need research 
 
-Read at http://jdittrich.github.io/userNeedReseachBook/
+Read at http://jdittrich.github.io/userNeedResearchBook/
 
 License: CC-BY 4.0
 
