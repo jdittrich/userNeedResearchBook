@@ -128,6 +128,7 @@ blockquote small, .example small {display:block; line-height:1.7em;}
 	 width: 100%;
 	border-left:2px solid #AAA;
 	padding-left:0.25em;
+	
 }
 
 .gallery{
@@ -141,6 +142,10 @@ blockquote small, .example small {display:block; line-height:1.7em;}
 	margin-right: 0.25em;
 	margin-bottom:0.25em;
 	border: 1px solid #d3d3d3;
+	display: flex;
+	align-items: flex-end;
+    flex-basis: 45%;
+    flex-flow: row wrap;
 }
 
 .gallery > figure> figcaption{
