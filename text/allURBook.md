@@ -1801,7 +1801,7 @@ You don't use all your data yet. Start with what you find useful when
 skimming through it or use just the data of two participants for now.
 The goal is to set up some preliminary structure, like a scaffold.
 
-![setting up a basic structure](images/lego_houseFirstStructure.jpg)
+![setting up a basic structure](images/lego_housefirstStructure.jpg)
 
 ### Move in Approximation
 
