@@ -2338,12 +2338,8 @@ Explain the research methods you used to arrive at your results. This
 includes:
 
 -   Selection of participants (sampling) 
-
 -   Data gathering 
-
 -   Data analyis 
-
-Example Method
 
 
 <div class="example">
@@ -2441,7 +2437,7 @@ easy-to-get text. The most efficient guide I know was given by George
 Orwells in “Politics and the English Language” – I quote:
 
 
-*»
+<em>
 1.Never use a metaphor, simile or other figure of speech which you
  are used to seeing in print.  
  
@@ -2455,7 +2451,7 @@ Orwells in “Politics and the English Language” – I quote:
     you can think of an everyday English equivalent.  
 
 6. Break any of these rules sooner than say anything barbarous.  
-«*^[Orwells Rules for writers:
+</em> ^[Orwells Rules for writers:
 [http://wikilivres.ca/wiki/Politics\_and\_the\_English\_Language](http://wikilivres.ca/wiki/Politics_and_the_English_Language)]
 
 In addition, read the text aloud – in particular, if you already noticed
@@ -2493,17 +2489,14 @@ of images (like a comic)
 A good framework for writing scenarios is asking yourself these
 questions:
 
--   Person: Who is the main person in the scenario? 
-
--   Motivations: Why does this person what he/she does? What is the
+-   **Person**: Who is the main person in the scenario? 
+-   **Motivations**: Why does this person what he/she does? What is the
     motivation? 
-
--   Activities: What are the actions of the person and how are they
+-   **Activities**: What are the actions of the person and how are they
     done?  
+-    **Context**: Where and When does the scenario take place?  
 
--    Context: Where and When does the scenario take place?  
-
-Aswer them in your scenario.
+Answer them in your scenario.
 
 <div class="example">
 
