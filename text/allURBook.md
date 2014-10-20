@@ -2433,7 +2433,7 @@ text about? Why was the work done?) and make sure that it is easy to get
 a quick overview by structuring your text. Use headings, lists and
 italics to guide the reader.
 
-![a page spead from a report](images/ExampleWrittenReport.png)
+![a page spead from a report](images/exampleWrittenReport.png)
 
 
 There are lots of books which explain how to write concise and
@@ -2546,7 +2546,7 @@ dependencies – for example showing which activities need to be done to
 create a page of a magazine or the ways a group of students share files
 when working together on a joint project.
 
-![A diagram showing the sources and flow of files used by university students](images/ExampleDiagram_fileFlow.png)
+![A diagram showing the sources and flow of files used by university students](images/exampleDiagram_fileFlow.png)
 
 ![A diagram showing the workflow in creating a software](images/flowDiagram.svg)
 
@@ -2627,7 +2627,7 @@ I suggest the following structure for your reports:
 -   Findings 
 -   Conclusions and suggestions 
 
-![page spread from a report on wiki use for teaching at university](images/ExampleWrittenReport2.png)
+![page spread from a report on wiki use for teaching at university](images/exampleWrittenReport2.png)
 
  
 
