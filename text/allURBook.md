@@ -378,7 +378,7 @@ Thus the agreement is clear for both sides. See in the Appendix for an
 When you got the consent of the participant you can start the research
 session.
 
-	<!-- TODO nela bis hier -->
+<!-- TODO nela bis hier -->
 
 ## Modes of gathering data  
 
@@ -2429,7 +2429,7 @@ easy-to-get text. The most efficient guide I know was given by George
 Orwells in “Politics and the English Language” – I quote:
 
 
-<em>
+<blockquote>
 1.Never use a metaphor, simile or other figure of speech which you
  are used to seeing in print.  
  
@@ -2442,8 +2442,9 @@ Orwells in “Politics and the English Language” – I quote:
 5.Never use a foreign phrase, a scientific word or a jargon word if
     you can think of an everyday English equivalent.  
 
-6. Break any of these rules sooner than say anything barbarous.  
-</em> ^[Orwells Rules for writers:
+6. Break any of these rules sooner than say anything barbarous.
+</blockquote>
+^[Orwells Rules for writers:
 [http://wikilivres.ca/wiki/Politics\_and\_the\_English\_Language](http://wikilivres.ca/wiki/Politics_and_the_English_Language)]
 
 In addition, read the text aloud – in particular, if you already noticed
