@@ -642,12 +642,11 @@ getting answers in a user needs research session look like this:
 
 ![participant gives long answers, researcher asks short, open questions](images/talkDiagram_open.svg)
 
-<!-- TODO 2nd iteration jan bis hier -->
 
 The questions we want to ask should encourage answers which describe
-experiences and give some insight into the why and how of the users
+experiences and give some insight into the »why« and »how« of the users
 activities and motivations. This type of question is called »open
-question« as they don’t have a determined set of answers.
+question« since these questions don’t have a determined set of answers.
 
 <div class="example">
 
@@ -658,16 +657,14 @@ or *"Why did you copy that page?"*
 
 Using such open questions encourage telling longer, story-like
 answers. These answers will even contain information you did not expect
-to get. This is because a longer, story-like answer will give a rich
-context.
+to get.
 
 <div class="example">
 
-A participant is describing me the printing process: *»…then I find
-out which color specification the printery needs…«* That is a new step
-in the workflow I did not expect (I naively thought that you just send
-it like you would when you print it on your desktop printer). Thus I
-discovered a step in the workflow and a potential field of work
+A participant is describing me the printing process: *»…then I look up
+ which color specification the printery needs…«* That is a new step
+in the workflow I did not expect (Naively, I thought that you just send
+the document to the printery like you would when you print it on your desktop printer – have a file, print it). Thus I discovered a step in the workflow and a potential field of work
 (taking care of color spaces and profiles) of which I did not know
 that it even exists!
 
@@ -680,7 +677,7 @@ space of thought.
 
 <div class="example">
 
-»I like it when the feedback [to the design] comes quick. No annoying
+»I like it when the feedback [to the design] comes quickly. No annoying
 waiting… it always makes me nervous. Do they [the client] like it or
 do I need to throw out work?« – this tells us more about the situation
 than a client’s feedback being just described as »good«.
@@ -688,7 +685,7 @@ than a client’s feedback being just described as »good«.
 </div>
 
 
-If you look back to the questions already mentioned they will share some
+If you look back to the questions already mentioned, they will share some
 characteristics.
 
 <div class="example">
@@ -696,16 +693,15 @@ characteristics.
 here are some of the questions
 
 -   Can you describe the worst experience in your day so far?
--   Can you tell me how you create a graphic/layout?
+-   Can you tell me how you create a layout?
 -   Can you tell me what makes a client »difficult«
 -   Can you describe how do you get new ideas?
 
 </div>
 
 All these questions start with »…can you describe« or »…can you tell me«, which
-encourages a longer answer (a describing or telling is considered not to
-be just a word). In addition all sentences contain a *Why-*, *What-* or *How-*. These
-question words, again, suggest some more elaborate answer, not just one
+encourages a longer answer (»describing« or »telling« is something needs usually more than one word). In addition, all sentences contain a *Why-*, *What-* or *How-*. These
+question words, again, suggest an elaborate answer, not just one
 or two words.
 
 Thus, a template for such questions would look like *»tell me [how/why/what] +
@@ -722,28 +718,28 @@ Paricipant: »yes!«
 </div>
 
 *»Is…«* -questions will be answered with »yes« or »no« – but we don't
-get to know why the participant to agrees or disagrees with our
+get to know *why* the participant to agrees or disagrees with our
 assumption.
 
 Sometimes,  »Is«-Questions will  come in a disguised
-form – as an addition made to an open question:
+form – as an addition which is made to an open question:
 
 <div class="example"> 
 
 You: »Can you tell me how you solve this problem? …Do you do it by just
  calling the client and resolving the issue?« 
  
- Participant: »Yes« 
+ Participant: »Yes, I do« 
  
- note, that the question did not contain the word »is«, but follows the same pattern of
+ Please note that the question did not contain the word »is«, but follows the same pattern of
  asking for a binary »yes« or »no« response.
 
 </div>
 
-Avoiding closed questions is actually harder than one thinks, as intuitively we try
-to make answering easier with such additions.
+Avoiding closed questions is actually harder than one thinks. We intuitively try
+to make answering easier with such additions like »Do you […]«.
 
-When you create your questions, check if they demand some predetermined
+When you create your questions check if they demand some predetermined
 outcomes – if the do, they are closed questions. In this case reformulate the questions in a way 
 that allows non-restricted, story-like answers.
 
@@ -752,21 +748,23 @@ that allows non-restricted, story-like answers.
 There are some problems that are likely to arise when you gather data.
 Knowing the problems and some ways of dealing with them will help you.
 
-
-
 ### Be aware of your influence
 
-A very obvious problem is influencing the participant. But: you neither can’t
-nor should take yourself out of the reserach session – you will always have some sort of effect 
-on the participant when you do the reserach. 
+A very obvious problem is influencing the participant. One way to minimize this would be
+making all research sessions alike – just like you would do when using a
+standardized questionnaire. But doing this you would loose the very strengths of the methods 
+described here: Being able to find out about new and unexpected things and reacting to them 
+and gaining some understanding of the »how« and »why« by asking questions and looking 
+for cues depending on the situation. 
 
-Neither does it make sense to try to make all interviews alike like you would do when using a
-standardized questionnaire – Each participant and his/her context is 
-different and you can accommodate this by adjusting the research session
-to the context and the activities of the user.
+Each participant and his/her context is different and you can accommodate this by 
+adjusting the research session to the context and the activities of the user. 
+This would not be possible when asking the same questions each time. 
+
+So you neither can’t nor should take yourself out of the reserach session – you will always have some sort of effect on the participant when you do the reserach. 
 
 What you should avoid though is influencing the participant by
-»suggesting« favourable answers. Some sorts of this type of  influence are obvious,
+»suggesting« favourable answers or actions. Some sorts of this type of  influence are obvious,
 others are not.
 
 <div class="example">
@@ -786,12 +784,12 @@ There are less obvious influences as well:
 
 </div>
 
-Here, a positive word (»better«) and a suggestion go together. Who would
+In this example, a positive word (»better«) and a suggestion go together. Who would
 not like an improvement?! A »yes« is guaranteed – as well as a meaningless
 finding which would be »people want improvements«.
 
 Aside from your questions you could influence the user with your
-feedback: Your feedback may suggest that there are good or bad answers.
+feedback since it might suggest that there are »good« and »bad« answers.
 For example, it may be tempting to correct users and show the »right
 way« of doing something:
 
@@ -799,7 +797,7 @@ way« of doing something:
 
 If you know that there is a »change color« function in the application
 and the user says: »Well; I am annoyed by that application – I'd like
-to change the colors there but these are fixed!« It may be tempting to
+to change the colors but they are fixed!« It may be tempting to
 say: »No, you can change it!«
 
 </div>
@@ -813,18 +811,18 @@ clearly benefit from knowing some technical detail, just give the crucial inform
 <div class="example">
 
 You could just ask »What is useful about a change color function«, or,
-if talking about the function itself is really is important to you
-could ask »How did you expect to do the color change?«
+if talking about the function itself is really is important to you, you
+could ask »How did you expect to do the color change if there would be such a function?«
 
 </div>
 
-Similarly, you could be surprised or even annoyed that steps or action
-in a workflow seem outright superfluous.
+Similarly, you could be surprised or even annoyed by steps or actions
+in a workflow of the user which seem outright superfluous.
 
 <div class="example">
 
 »When I write a text I write a draft and then send it to my colleague
-via mail as an attached .doc file. My colleague who comments on it and
+via mail as an attached .doc file. My colleague comments on it and
 returns the mail to me« You may think that this is rather inefficient.
 You could be tempted to say »Why don't you paste the text in the mail
 and comment directly? Or write it live on Etherpad? This would be far
@@ -833,36 +831,36 @@ quicker!«
 </div>
 
 Remember that nobody does inefficient things by purpose. Assume that the
-user has a reason. Try to find out what it is.
+user has a reason. Try to find out what this reason may be.
 
 <div class="example">
 
 »What is good about that workflow?« or »Did you ever try an
-alternative workflow« or »can you think of other ways that may be
-feasible?« – and remember to ask follow up question to further explore
+alternative workflow« or »can you think of other ways that might be
+feasible?« – and remember to ask follow-up question to further explore
 the issue.
 
 </div>
 
 Your influencing feedback could be non-verbal as well. Like in everyday
 conversations you may shrug or frown if you disagree with an
-utterance or an action. Even if you don’t say »this is wrong« frowning
+utterance or an action. Even if you don’t say »this is wrong«, frowning
 or shaking your head may have the same results. 
 
-So:don't be afraid to react towards the participant. But don’t suggest 
-good or bad answers or good or bad activities by telling that something is wrong 
-or by  gestures and facial expressions.  
+So: don't be afraid to react towards the participant – reacting towards the participant is 
+essential in our research. But don’t suggest »good« or »bad« answers or 
+»good« or »bad« activities using words, gestures or facial expressions.  
 
 ### Silence feels strange but is o.k.  
 
-Sometimes the participant will take time to think before answering.
+Sometimes, the participant will take time to think before answering.
 Intuitively, you may want to fill the silence to help the participant
 along.
 
 <div class="example">
 
 »Can you describe me what happened after you were finished with
-creating the print-ready-file? [1 sec] was it all well?« »yeah, sort
+creating the print-ready-file? [1 sec] Was it all well?« »yeah, sort
 of well I think«
 
 </div>
@@ -872,9 +870,9 @@ it can skew the answers and can turn a open question (»can you
 describe…?«) into a closed question (»can you describe… was it…?«
 /»yes«).
 
-It is better to tolerate the silence. Usually, the participant will
+Try to tolerate the silence. Usually, the participant will
 answer within a few seconds. If you notice silence which you want to fill, count
-to 3 or 5 before probing further. When that set time is up, you can ask
+to 3 or 5 before probing further. When the set time is up, you can ask
 about the question rather than giving suggestions, like
 
 <div class="example">
@@ -891,12 +889,13 @@ Can you tell me what you are thinking about?
 
 </div>
 
-If the participant stops talking and makes a longer pause and you still like to know more, you
-could »echo« the most recent statement or words the participant has said.
+If the participant has started to give an answer already but stops talking and makes a longer pause and you still like to know more, you could »echo« the most recent statement or words the participant has said.
 
 <div class="example">
 
-»So I had it finished and send it away to the client and then almost nothing« … »almost nothing?«
+Participant: »So I had it finished and send it away to the client and then almost nothing… [Pause]« 
+
+Researcher: »almost nothing?«
 
 </div>
 
@@ -905,8 +904,10 @@ answer.
 
 <div class="example">
 
-»almost nothing?« »Yes, there was a brief mail that they got the
- design but I was unsure if that anonymous person actually gave it to
+Researcher:»almost nothing?« 
+
+Participant: »Yes, there was a brief mail that they got the
+ design but I was unsure if that person actually gave it to
  the people who can decide something. That waiting just sucks.«
 
 </div>
@@ -928,7 +929,7 @@ The question asks two things at once. This is has some disadvantages:
 1.  It confuses the interviewee – what should be answered first?
 2.  Both, Interviewer and Interviewee need to remember both questions while talking and listening
 
-Only one question should be asked. So in the example above one question
+So, one question should be asked at once. In the example above one question
 should be asked first, then the second:
 
  <div class="example">
@@ -941,13 +942,13 @@ should be asked first, then the second:
 
 ## Don't make the user the designer
 
-It is tempting to skip investigating the how and why of the
-participant’s work – and to ask the participant  
+It is tempting to skip investigating the »how« and »why« of the
+participant’s work and to ask the participant instead directly  
 how the final product should be like
 
  <div class="example">
  
- Which function do you need for aligning products?
+ Which function do you need for aligning objects?
  
  </div>
 
@@ -956,20 +957,22 @@ This is basically asking the user for the design of the software.
  <div class="example">
  
  Yes, there should be a button for, like equal distributions… here.
-It should be easy so it should have a button with a ›distr‹ on it in
+It should be easy, so it should have a button with a ›distr‹ on it in
 red, so I don’t oversee it…
 
 </div>
 
-Asking the user for how a design should be sounds like a reasonable thing to do – the resulting
+Asking the user for a design sounds like a reasonable thing to do – the resulting
 designs would be directly based on the suggestions of the participant.
+
 But it usually leads to disastrous results. Even for experienced
-designers it may be hard to come up with good interfaces which are easy
-to learn and efficiently to use. How should somebody inexperienced in that task 
-come up with a great interface?
+designers it may be hard to come up with a good interface which is easy
+to learn and efficient to use. And even experienced designers take time, often creating 
+multiple versions which are then tested. How should somebody inexperienced in that task 
+come up with a great interface spontaneously?
 
 Another (highly tempting) way of »making the participant the designer«
-is to ask for the usefulness of hypothetical functions that you fancy:
+is to ask for the usefulness of hypothetical functions that you fancy yourself:
 
 <div class="example">
 
@@ -978,13 +981,13 @@ Would a function for choosing a color scheme help you?
 </div>
 
 This is like asking »Do you want an additional tool which might be
-useful at some point and get it for free?«. If the interviewee can think
-of a few occasions in which such a tool *might*be useful, the answer
-will be »yes«. In addition,nothing can be found out about the how and why of the
-participant's work – like in other questions that ask for »yes«
+useful at some point and get it for free?«. If the participant can think
+of a few occasions in which such a tool *might* be useful, the answer
+will be »yes«. In addition,nothing can be found out about the »how« and »why« of the
+participant's work – just like with other questions that ask for »yes«
 or »no« outcomes. 
 
-If you really want to discuss a function instead of focusing on what the
+If you *really* want to discuss a function instead of focusing on what the
 participant does and why this is done, give some context to the question and tie it to a
 specific situation.
 
@@ -996,13 +999,13 @@ not in the task you just described?
 
 </div>
 
-Thus, you can get more information on the tasks for which the feature you think of  could be
+Thus, you can get more information on the tasks for which the feature could be
 useful. The question is not tied to all possible
-situations but to a a specific  one.
+situations but to a specific  one.
 
 Asking the user for design ideas and functions is tempting but rarely
-useful. If possible, avoid it and concentrate on the how and why of
-their work. If you really need to bring design or function ideas in tie
+useful. If possible, avoid it and concentrate on the finding about how and why they 
+work the way they do. If you really need to ask for designs or function ideas, tie
 them to a specific context and ask for descriptive answers instead of
 asking if something in general might be good or not.
 
@@ -1011,17 +1014,21 @@ asking if something in general might be good or not.
 In this section I will demonstrate how to maintain flow and elicit
 further information by referring to previous answers or demonstrations.  
 
+### Referring back  for further elaboration
+
+![continue with same topic by referring back to someting just said](images/talkDiagram_ReferBackDirect.svg)
+
 A typical use of that method is asking for further information on
-something that interests you in particular. Refer back to the
-information and ask for elaboration.
+something that was mentioned and which interests you in particular. 
+In this case, refer back to the information and ask for elaboration.
 
 Here are some examples:
 
  <div class="example">
  
  That typography settings – you said they are far more precise than the
- ones in Word. Can you explain me how these differences help you to
- design compared to the ones in word?
+ ones in wordprocessors. Can you explain me how these differences help you to
+ design compared to the ones in wordprocessors?
 
 </div>
 
@@ -1029,19 +1036,20 @@ or
 
  <div class="example">
  
- You said that you would continue with setting up the 'masterpage'. Can you show me how?
+ You said that you would continue with setting up the ›masterpage‹. Can you show me how?
 
 </div>
 
-![continue with same topic by referring back to someting just said](images/talkDiagram_ReferBackDirect.svg)
+<!-- TODO jan bis hier -->
+
+
+
+### Referring back  for further elaboration
 
 ![change the topic by referring to something said some time ago](images/talkDiagram_ReferBackDistance.svg)
 
-
 You can refer back to the answer which was just given and
-continue with the same topic.
-
-Referring back can be used as well to provide a transition between
+continue with the same topic. But referring back can be used as well to provide a transition between
 *different* topics. This is especially useful if the participant is
 talking about something that deviates much from what you are interested
 in. By referring to something previously mentioned or demonstrated you can show
@@ -1050,14 +1058,13 @@ intrusive:
 
  <div class="example">
  
- »And that is the cover design we have now – thats pretty much what I
-can tell about making it« »There is a thing that caught my interest in particular:
-When you talked about creating that illustration, you mentioned that
-you use a graphic tablet for drawing. Why do you use that?«
+ »…so this was a design made by some artist. It was really wired, I shared the office with him for some time. He always came with that dog of him which…« »Hmm…you previously talked about creating a cover for the book – you said that you try several designs. Can you describe how you try them?«
 
 </div>
 
-As well you can refer back to their answers to check your grasp of what
+### Referring back to check your understanding
+
+You can refer back to answers to check your grasp of what
 the participant talked about. In this case, even closed questions are ok.
 
  <div class="example">
@@ -1079,18 +1086,22 @@ afterwards by opening the pdf in addition«
 
 </div>
 
-These tehcniques explained here  involve jumping back to some previously
+\
+\
+
+These techniques explained here involve jumping back to some previously
 mentioned topic. This may seem difficult, since you need to remember some
 particular information (to refer to it later)  while carrying on with the research. 
-However it is not that hard – just give it a try. As well, keep in mind that you can 
-make brief notes reminding you of things that are of interest – and with a look on your note sheet they
-will return to your memory if you forgot about them.
+However, it is not that hard – just give it a try. As well, keep in mind that you can 
+make brief notes reminding you of things that are of interest. With a look on your 
+note sheet they will return to your memory in case you 
+forgot about them.
 
 
 ## How exactly would you do it?  
 
 
-After you ask a question,  participants will sometimes answer »in general«
+After you ask a question,  participants will sometimes answer *»in general«*
 
  <div class="example">
  
@@ -1100,8 +1111,8 @@ Creation, Evaluation. So in research I…«
 </div>
 
 It may seem great – after all, a general process which you can apply to
-just about anything is a finding we seem want! But actually these »in
-general« descriptions pose some problems: They lack a rich context and
+just about anything is a finding we seem want! But actually these *»in
+general«* descriptions pose some problems: They lack a rich context and
 stand rather disconnected to other activities or motivations. The
 general principle is independent of  such »minor« day to day things. But
 these seemingly trivial things give us the insights we need to find out
