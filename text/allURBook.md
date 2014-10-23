@@ -3,7 +3,7 @@
 % 2014
 
 
-<!-- compile with  pandoc --toc -B templates/includeBefore.pandoc -A templates/includeBefore.pandoc  -s -c styles/styles.css text/allURBook.md -t html5 -o index.html-->
+<!-- compile with  pandoc --toc -B templates/includeBefore.pandoc -A templates/includeBefore.pandoc  -s -c styles/styles.css text/allURBook.md -t html5 -o index.html -->
 
 # License
 This text and images (»=book«) are licensed under the terms of the [Creative Commons By 4.0](https://creativecommons.org/licenses/by/4.0/) License.  
@@ -88,7 +88,7 @@ If preliminary findings vary and it is hard to see any patterns consider involvi
 
 # Prepare the session  
 
-## What do your want to find out?  
+## What do your want to find out?  {#questiontopics}
 
 Before you collect the data, decide what you want to find out. Let's
 look at some topics that might be of interest exploring:
@@ -107,7 +107,6 @@ There could be many other aspects, but I find these three good because
 * three points are easy enough to remember even in the midst of
 research.
 
-<!--- 2nd iteration review till here, jan -->
 
 When thinking about what you want to find out, keep in mind that user
 need research is not hypothesis testing (like when doing statistics for
@@ -129,10 +128,9 @@ needs of designers who create layouts.
 </div>
 
 Talking about activities or observing them is a very rich source of
-information. The activities of the users have a reason for them. Usually
-there will be follow up questions to find out why and how users do what
-they do: *»You said, you apply paragraph styles. What do they do?«* or
-*»You just used that›align‹ function – before you placed objects
+information. When asking about activities you can often use  follow up questions 
+to find out why and how users do what they do: *»You said, you apply paragraph styles. What do they do?«* 
+or *»You just used that›align‹ function – before you placed objects
 manually. What is the difference between those activities?.«*
 
 ####  Motivations
@@ -141,14 +139,15 @@ manually. What is the difference between those activities?.«*
 
 -   Can you describe the worst experience in your day so far?
 -   Can you describe the best experience in your day so far?
--   Which tasks in your job do you like the least
+-   Which tasks in your job do you like the least?
 -   Which tasks in your job do you like the most?
 -   Can you show me a piece of work you are proud of?
 
 </div>
 
 Questions about Motivations are usually about emotions and often their
-relation to activities as well.
+relation to activities as well. You can explore  these relations further in follow-up questions 
+( »You said you hate talking with this client. What in particular makes it a bad experience for you?« )
 
 ####  Problems
 
@@ -161,26 +160,26 @@ relation to activities as well.
 
 </div>
 
-The problem section provides some good starting points for designing (as
+Asking for problems provides some good starting points for designing (as
 you can try to avoid the problems with a better solution). The answers
 will tell you something about the motivations of the user too (e.g. »I
 would like to… but I can’t do this, because…«).
 
-Naturally the three general aspects of activities, motivations and
-problems are just giving a starting point for developing your questions.
+Naturally, the three general aspects of activities, motivations and
+problems are just giving you a starting point for developing your questions.
 Use them to create questions suitable for you own research.
 
 When you have started with gathering data you can further refine your
-questions. You will get new ideas or want to refine questions. For
-example, in the research on graphic design I noticed that idea
-generation during work is present and an interesting topic to research.
+questions. You will get new ideas or want to refine questions since you tried them
+and may notice shortcomings or opportunities.
+ For example, in the research on graphic design I noticed that idea
+generation during work was important for the participants and an interesting topic to research.
 Thus I added questions like »how do you generate new ideas« or »How do
-you know if an idea you have works in a layout?«. Note that I did not
+you know if an idea you have works?«. Note that I did not
 ask directly »do you generate ideas while implementing designs«. This
-would be a question urges to be answered with »yes« or »no«. Such short
+would be a question that  urges to be answered with »yes« or »no«. Such short
 answers give no context. But we need the context, the reasons for
-actions and the course of events to interpret the actions of the
-participants.
+actions and the course of events to know not only how work is done but why it is done, too
 
 In later sections we will have a further look at the does and dont’s of
 questions.
@@ -190,15 +189,14 @@ questions.
 ## Write a cheat sheet  
 
 You should ensure that questions you prepare are still on your mind when
-doing the interview and that you remember any required steps. A good way
-to make this happen is to take a cheat sheet along.
+doing the interview. A good way to ensure this is to taking a cheat sheet along.
 
-What goes into such a sheet? The biggest part will be **questions** you
-crafted beforehand (take a look at »I'd like to know more about« for
-collecting possible questions). Start with the general topics and going
-towards more specific ones as this is the order that makes usually sense
-in the course of a research session. Nevertheless, that order is only a
-helpful guess. You will usually deviate a bit (or a lot) from your cheat
+What goes into such a sheet? The biggest part will be **questions** which you
+created beforehand (take a look at [»What do your want to find out?«](#questiontopics)  for 
+collecting possible questions). When you write the questions on the cheat sheet, 
+start with the general topics and progress towards more specific ones. 
+This is the order that makes sense in the course of a research session. 
+Nevertheless, that order is only a helpful guess. You will usually deviate a bit (or a lot) from your cheat
 sheet.
 
 Often I include some kind of **checklist** on the top, especially if
@@ -206,20 +204,23 @@ there are legal matters involved, such as signing a consent form. Thus I
 can tick off what we already dealt with and immediately see if I forgot something.
 
 As a beginner you may have some difficulties with formulating your
-questions or spontaneously entering on a new subject. In this case you
-can help you along with some reminders on the sheet, like
-»Activities/Motivations/Problems«, »How and Why", or, for the graphics design topic:
-»creativity/variations/creative rules/technology" or the like.
+questions without preparations when spontaneously entering on a new subject that
+happens to emerge in the research session. 
+
+In this case you can help yourself along with some reminders on the sheet, like
+»Activities/Motivations/Problems«, »How and Why«, or, for the graphics design topic:
+»creativity/variations/creative rules/technology« or the like.
 
 ## Equipment  
 
-With a participant talking about new and interesting things you want to
+With a participant ttalks about new and interesting things you want to
 be able to remember what was said. Thus we record the interview – and we
 will need some equipment for doing that. Lets have a look.
 
 ![Equipment for user research: paper, pen, audio recorder](images/interviewEquipment.svg)
 
 ### Note taking  
+
 
 During the interview and observation you will take notes. For taking
 notes you need:
@@ -232,7 +233,10 @@ notes you need:
 
 Audio record you interview to have a backup in case you could not keep
 up with taking notes and to be able to fully concentrate on the
-participant if needed. Either use your smartphone and an audio recording app or use an audio recorder. Try before if the audio on the recording is still loud and clear enough if you have an arm’s length between you and the device. Charge the divices fully.
+participant if needed. Either use your smartphone and an audio 
+recording app or use an audio recorder. Try before if the audio on the recording 
+is still loud and clear enough if you have an arm’s length between you and the device. 
+Charge the devices fully.
 
 
 ### Camera
@@ -247,58 +251,57 @@ In this chapter we will learn how to gather data to get to know about
 the activities, motivations and problems of our research participants.
 
 Contrary to a common misconception of user need research, our inquiry
-will not be (directly) about future ideas and design – we are not going
-to ask »do you think that a [gadget] would help you?«. If you would ask
-whether a particular idea would be a great thing to have in the future
-you would have to ask again for the next idea you have. In addition, it
+will not be (directly) about future ideas and design – we are will not 
+ask »do you think that a [gadget] would help you?«.  yes, you *could* ask
+whether a particular thing would be a great to have in the future. But then you  
+would have to ask again for the next idea you have. Furthermore, it
 is very hard to reliably guess if something would be a great thing to
 have in the future. Instead of dealing with ideas directly we will find
-out about the how and why of our participant’s actions and thus set a reliable foundation
+out about the how and why of our participant’s activities and thus set a reliable foundation
 for our designs.
 
-Even though we don’t ask our research participants what they want, we think of
-them as competent in what they do. This is contrary to the idea of
+Think of your participants as as competent in what they do. This is contrary to the idea of
 designers and programmers as people who improve the lives of those who
 »don’t get it«. Instead, we assume that the participants of our research
 have a reason of doing their work the way they do it. We try to find out
-what they do and why they do it.
+these reasons behind their activities. 
 
-Getting to know the how and why about the users actions will allow us to
+Getting to know the »how« and »why« of the users actions will allow us to
 evaluate our ideas (does it match their ideas of good work?) and to get
 inspiration for new ideas (how can we support this motivation?)
 
 
 ## Inform and get Consent
 
-As you have found a participant, a place and have your equipment ready
-we can start with the actual interview at the time and date set.
+When you have found a participant, a place, a time and have your equipment ready
+we can start with the actual research session. 
 
-Actually it is pretty straight forward: be friendly. If you come to
+It is pretty straight forward: be friendly. If you come to
 their place (which is preferable, since you can observe the actual
 context) be a nice guest; if they come to your place or you meet in some
-»neutral space« be a nice host.
+»neutral space«, be a nice host.
 
 Greet the participant and thank for his/her time:
 
 
 <div class="example">
 
-Hello Lisa, great to meet you. I'm pleased that you could free some
+Hello Lisa, great to meet you. I’m pleased, that you could free some
 time for showing and telling me how you work.
 
 </div>
 
-You may sprinkle in a bit of smalltalk
+You may sprinkle in a bit of smalltalk:
 
 <div class="example">Did you have a good start into the day?</div>
 
-For all research, participants should at least roughly know what it is
-about. You don't need to reveal all your questions and topics you are
-thinking about but the general topic should be described
+Participants should at least roughly know what the research is
+about. You don't need to reveal all your questions and topics
+ but the general topic should be described
 
 <div class="example">
 
-We want to improve the workflow in the design process in order to be
+This reserach helps us to improve the workflow in the design process in order to be
 able to design solutions for people who do graphic design.
 
 </div>
@@ -320,7 +323,7 @@ when recruiting, tell the participant what you are going to do
 <div class="example">
 
 We will have a conversation about your work and I'll be asking some
-questions. I’m interested as well in watching you doing your work. 
+questions. In addition, I’m interested in watching you when you do your work. 
 The whole process will take about an hour of time. 
 
 </div>
@@ -330,14 +333,14 @@ tell the Participant:
 
 <div class="example"> 
 
-I'd like to take notes, and, in addition record audio – if that is
+I'd like to take notes, and, in addition, record audio – if that is
 ok with you. The audio recording helps me to focus on your work as I
- don’t need to concentrate as much on writing notes if I have the
- recording as backup. The audio will be listened to be me an one
- colleague; we will anonymize and transcribe the data before we share
+ don’t need to concentrate as much on writing notes, if I have the
+ recording as backup. Me and a colleague will listen to the audio;
+  we will anonymize and transcribe the data before we share
  it with the product design team.
 
-If you feel uncomfortable with the recording at any time we can pause
+If you feel uncomfortable with being recorded at any time we can pause
  the recording.
 
 You can cancel the interview at any time if you feel it is needed.
@@ -346,26 +349,25 @@ You can cancel the interview at any time if you feel it is needed.
 
 I had rarely someone who did not agree to being recorded. If that
 happens you can ask if they have any specific worries – possibly you can
-inform them about that specific aspect and they might agree.
+inform them about that specific aspect and they might agree when they
+have  additional information.
 
 <div class="example">
 
-[Example from an in-house research project] »I would not like to be
- audio recorded« »Thats fine with me. Though, may I ask what your
- concern on that matter?« »Hmm…yeah, I don't like, you know, human
+[Example from an in-house research project] »Audio recording… I’m not sure about this…« 
+»Thats fine with me. Though, may I ask what worries are?« »Hmm…yeah, I don't like, you know, human
  resources to get that data«
  
  »I understand your concern. It is fine if you don't agree but I can
- assure you that Human Resources is a separate section. We don't dont share
+ assure you that Human Resources is a separate section. We don't share
  personal data and what we record today is not accessible to them. Also, all data
  that leaves my computer or the one of my colleague is being anonymized
  and we remove all data that points to you as person, including names,
- workplace etc.
+ workplace and so on.
 
 </div>
 
-If they don’t agree, just stick with writing notes, usually you are off
-well with them anyway.
+If they don’t agree, just stick with writing notes.
 
 Consider summarizing the information about the research and the use of
 the participant's data in a consent form that the user signs. In this
@@ -376,7 +378,7 @@ Thus the agreement is clear for both sides. See in the Appendix for an
 When you got the consent of the participant you can start the research
 session.
 
-<!-- TODO nela bis hier -->
+	<!-- TODO nela bis hier -->
 
 ## Modes of gathering data  
 
@@ -386,20 +388,19 @@ session.
 conversation: You ask questions, the user answered them. --> 
 
 
-Data can be gathered by asking questions and listening to the participant’s answers.
-However, the use of questions and answers in user needfinding is unlike the user of
-questions and answers in surveys. Instead of getting short definitive
-answers out of a determined set (»on a 4 point scale: how much do you
-agree with…«) we aim for rich descriptions, much like veritable stories
-which retell the participant’s experiences. In addition to what is happening these stories they tell us about context and motivations. To encourage giving such story like answers,  we will often ask for descriptions or processes and reasons for activities.
 
+We gather data by asking questions and listening to the participant’s answers.
+However, the use of questions and answers in user needfinding is unlike the questions and answers in surveys. In surveys it is often aimed for short, definitive
+answers out of a determined set of possbilities (»on a 4 point scale: how much do you
+agree with…«). Instead of this, we aim for longer answers that are give »free« and not from a determined set of answers. Thus we are more likely to get rich descriptions, much like veritable stories
+which retell the participant’s experiences. In addition, these stories  tell us about the context of the user’s activities and the user’s motivations. To encourage giving such story like answers,  we will often ask for *descriptions* of activities and the *reasons* for doing them.
 
 
  <div class="example">
 
-»can you describe me how you decided to choose this layout?«
+»can you describe me how you decided to use this layout?«
 
- »You said that you need to look that color model up. Why?«
+»You said that you need to look that color model up. Why?«
 
 </div>
 
@@ -408,43 +409,43 @@ tool. It can be done without many resources. You are not tied to a specific plac
 you can talk about past events as well as future plans. 
 
 But because of this it can happen that you hardly focus on actual occurrences and
-experiences. Observations are thus a good supplement to asking questions and listening, since observations are naturally concern actual actions you can see unfolding live.
+experiences. Observations are thus a good supplement to asking questions and listening, since observations are naturally concern actual actions you can see happening at the very moment.
 
 ### Observation  
 
-
 What Participants describe is not always the ideal way to convey the
 information. Just like a picture can be worth a thousand words, it makes
-often sense to just ask them to show what they mean and to demonstrate
+often sense to just ask participants to show what they mean and to demonstrate
 how they work.
 
 Often it is easier for a research participant to just do what they do
-anyway instead of verbalize. It generates more information for you as
-well. It is more vivid, and potentially distorting step of translating a
-process into a description of it is not present. When you observe, you
-will even notice things your participants would never would consider
-mentioning: Which tools they use, how they apply them to their work and
-which problems they meet may have become so usual that it seems not
-worth mentioning. As well, you may notice interesting properties of the
+anyway instead of verbalizing it. It generates more information for you as
+well. It is more vivid, and the potentially distorting step of translating a
+process into a description is no longer required. When you observe, you
+will even notice things your participants would never consider
+mentioning: It may have become second nature for them which tools they use, 
+how they apply these tools to their work and 
+which problems they meet. As well, you may notice interesting properties of the
 context like means of communicating with co-workers or cues in the
-environment that point out problems of using tools.
+environment that point out problems – for example quick fixes 
+with tape, or added instructions on devices and machines. 
 
-Observation is not a different step in the research process. It can be
-interwoven with asking questions and listening to the user. But instead
-asking for descriptions of processes or tool, you ask for a
-demonstration.
+
+It is not needed to have observation as a seperate step in the reserach process. 
+It makes great sense to interveave it with asking questions and listening to the user. 
+Instead asking for descriptions of processes or tool, you can ask for a demonstration.
 
  <div class="example">
 
 Participant: »So I got this image and now I would try to get a
- suitable crop for that flyer«
+suitable crop for that flyer«
  
- Researcher: »Can you show me how you do it?«
+Researcher: »Can you show me how you do it?«
 
 </div>
 
 
-Think of yourself like an apprentice of the participant. The participant
+Think of yourself as an apprentice of the participant. The participant
 is the master or expert who can teach you some of his/her skills. 
 This means that understanding the user by observing is not a passive process. 
 Like an apprentice you can and should ask questions.
@@ -459,13 +460,8 @@ these markings are for?«
 
 </div>
 
-Avoid positioning yourself as the expert in the participant’s domain by suggesting
- procedures and by telling the participant  how and why something should be done. 
-If the participant would just look up to you and your concept of how work should be done we would not get to know anything.
-
 Teaching an apprentice is not a theoretical or artificially set up
-process: It is directly connected to the work practice. This work practice is
-what you want to observe and learn about. 
+process:
 
 <div class="example">
 
@@ -486,25 +482,22 @@ choosing the fonts«
 
 </div>
 
-
+Avoid positioning yourself as the expert in the participant’s domain by suggesting
+ procedures and by telling the participant  how and why something should be done. 
+If the participant would just look up to you and your concept of how work should be done we would not get to know anything.
 
 
 ![observing the user’s work](images/ObservationDesign1.jpg)
 
-
 ## Building trust
 
-In this section we are going to get to know more about how you can show
-that you value the participant’s time and input and make the participant 
-feel comfortable during the research.  
-
-
+In this section I demonstrate how you can show that you value the 
+participant’s time and input and make the participant  feel comfortable during the research.  
 
 User researchers ask lots of possibly awkward feeling questions and at
 least in the beginning, a research session could be unusual for some
 participants. In this section we are going to look at some ways to
 ensure that the research session will be a pleasant experience.
-
 
 ### Start with simple questions  
 
@@ -523,29 +516,29 @@ to get to know some context of the participant’s work. But there is
 another advantage: Such questions like asking for the job title or years in the job 
  etc. are easy  to answer and it is a pretty clear how to answer to them. This gets
 the participants into the mode of answering questions and opening up
-towards you. After a brief section with demographics you
- got into the mode of listening and the participant got into the
-mode of giving answers. Then you can  transition into more open questions.
-
-
-
+towards you. After a brief section with these easy-to-answer questions 
+you can  transition into more open questions.
 
 ### Affirm that you listen  
 
 You will ask questions aiming for descriptions and longer answers. So
-you will be listening to the participant’ most of the time. 
+you will be listening to the participant most of the time. 
 You probably have some ways to intuitively show that you listen
  – like nodding with the head or saying »yes« or »mm-mhh«. 
- This is an important way to ensure the participant that his/her information is listened to and valued.
+ This is an important way to ensure the participant that his/her information 
+ is listened to and valued.
 
 However, when giving this kind of feedback you should be careful though
 not to skew the answers by indicating that some information is better
 than other. If you throw in a »yes, great« combined with nodding (as if you
-prefer what the participant did over something else  ) or just make a rather unmotivated »mm« and frown (as if what is
+prefer what the participant did in comparsion to something else) or if you 
+just make a rather unmotivated »mm« and frown (as if what is
 told does not match your expectations) the participant will get
 selective about his/her answers and focus on stuff you seem to like. Try
 to keep the reassuring sounds or gestures neutral towards the
-information you get. Same goes for longer intersections at the end of an
+information you get. 
+
+Same goes for longer intersections at the end of an
 answer. Intuitively you may say:
 
 <div class="example">
@@ -558,7 +551,8 @@ have already thought of a feature that might be helpful in that case)
 But the participant will try to be a nice person him/herself and
 probably try to make you happy by going on about the problems with files
 in mails even though sending files per mail is possibly not that bad in the participant’s view. 
-Instead of  reassuring the participant using  judgments and emotions, focus on the information:
+Instead of  reassuring the participant using  judgments and emotions, focus on the 
+fact that you got information you that helps you:
 
 <div class="example">
 
@@ -567,13 +561,13 @@ Instead of  reassuring the participant using  judgments and emotions, focus on t
 </div>
 
 Possibly you could even wrap the information up »So you…« and/or refer
-to an area you like further information about. Thus it will be clear
+to an area you like further information about. So it will be clear
 that you care for the information and listened well – without casting
 some judgement on what was told to you. 
 
 ### Body Language  
 
-Make a friendly impression using body language. Probably you would not
+Make a friendly impression by using body language. Probably you would not
 make a bad impression anyway, but let’s go through it nevertheless:
 Don't give an angry or stern impression by frowning and crossing arms
 and legs. Don't look careless by leaning back and looking to the
@@ -585,7 +579,6 @@ maintaining eye contact is not possible all the time – but keep eye contact wh
 ![not-so-good posture](images/bodyPostureBad.jpg)
 
 ![much better posture](images/bodyPostureGood.jpg)
-
 
 ### Just ask  
 
@@ -601,41 +594,42 @@ video ask, before you start the recording.
 
 </div>
 
-Usually I fade out the length of questions once the participant agreed,
+Usually I fade out the length of thesequestions once the participant agreed,
 so the next time I'm photographing and I see no obvious obstacles (an
 obstacle might be a blueprint for a project under construction on screen
-or table or anything else that is more confidential than what one would
+or desk or anything else that is more confidential than what one would
 usually expect), I go with »May I…« the next time and fade out asking
 each time. Ask not only for recording activities – it goes for all other
-activities of yours you feel unsure about: just ask. By that you show
-respect and care for the participant and you avoid irritating
+activities of yours you feel unsure about: just ask. By that, you show
+respect and care for the participant and you avoid arkward
 situations.
   
 
 ## Asking open questions  
 
 You may have noticed that the suggested questions from the previous
-section are not aiming for specific, short answers. In other areas you may  want answers to be short and
-precise: »Are you a graphic designer?« »I am a Graphic Designer!« / »How
+section are not aiming for specific, short answers. In situations differen from user need reserach
+ you often  want answers to be short and precise: 
+ »Are you a graphic designer?« »I am a Graphic Designer!« / »How
 much do you like your Job? Give a mark« »B!« / »Please name your Tools!«
 »InDesign, Photoshop«.
 
 If you would diagram who speaks for how long when we ask for specific
-information with a »closed« range of possibilities to answer it would
+information with a »closed« range of possibilities, it would
 look like this:
 
 ![short closed questions](images/talkDiagram_closed.svg)
 
 These questions demand very specific answers mostly out of a determined
-set: Yes or no, marks from A-F, a List of Nouns. They would be useful if
-you would want to do statistics, for analysis resulting in statements
+set: Yes or no, marks from A-F, a list of nouns. They would be useful if
+you would want to do statistics, for analysis leading to statements
 like »56.3% agreed strongly on Question X«. However, we want to find out
 about the *why* and *how* of the participant’s work here.
 
 Imagine, in contrast to the research session outlined above (short
 answers, short questions) a day-to-day situation, in which you get to
-know about somebody else experiences: A conversation with a friend. In
-such an exchange you will tell each other your experiences, what you
+know about somebody else’s experiences: A conversation with a friend. In
+such an exchange you will tell each other about your experiences, what you
 felt, why you did this and that etc. In a diagram it would look like
 this:
 
@@ -648,14 +642,12 @@ getting answers in a user needs research session look like this:
 
 ![participant gives long answers, researcher asks short, open questions](images/talkDiagram_open.svg)
 
-
+<!-- TODO 2nd iteration jan bis hier -->
 
 The questions we want to ask should encourage answers which describe
 experiences and give some insight into the why and how of the users
 activities and motivations. This type of question is called »open
 question« as they don’t have a determined set of answers.
-
-
 
 <div class="example">
 
