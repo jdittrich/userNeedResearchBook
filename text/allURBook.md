@@ -1668,7 +1668,7 @@ is not determined at the beginning, but a process, just like building
 your Lego® house, in which you trial, fail, find improvements and step by
 step come closer to a structure you are satisfied with.
 
-<!-- TODO jan bis hier -->
+
 
 ### Hierarchical organization of data  
 
@@ -1687,32 +1687,32 @@ use sticky notes of a color different from the usual group sticky notes
 (lets say, normal group titles go on yellow notes, titles of
 groups-of-groups go on green sticky notes). If you analyze your data in
 a word processor use a bigger (hierarchically higher) headline (if you
-use headline 2 for normal groups, choose headline 1 for group-of-groups
+use the »headline 2«-style  for normal groups, choose "headline 1"-style for group-of-groups
 titles)
-
 
 
 ## Annotate and prepare the Data  
 
 The first step of analysis is to review your data and annotate it in
-order to find possible interpretations and to reveal principles and
+order to find possible interpretations, principles and
 meaning behind the observations and utterances.
 
 The annotations should be clearly distinguishable from data you got
-directly from observation or user interviews – just like other data you
-did add yourself (e.g. design ideas). I would recommend using a word
-processor with a comment function. Open your transcript, mark the part
+directly from observation or the participant’s answers – just like other things you
+did add yourself (e.g. design ideas). 
+
+I would recommend using a word processor with a comment function. Open your transcript, mark the part
 you want to annotate with your interpretation, then click the »comment«
 button. If you don't use a word processor, but plaintext, use something
-like *»COMMENT:«* to mark your comments; If you prefer scribbling notes
-with a pen and a highlighter, print your notes with double line spacing
+like *»COMMENT:«* to mark your comments; If you prefer to do your annotations
+with a pen and a highlighter, print your notes with double line-spacing
 to have enough room for writing.
 
 Annotating your data is a creative process. If in doubt whether an
 annotation is relevant or not: opt for writing it. Later on it might
 become useful. If you are unsure about something or an idea seems to be
 far fetched, just go for it. Since you keep data and comments
-distinguishable you can always throw stuff out again. The goal is not to
+distinguishable from each other you can always throw stuff out again. The goal is not to
 come up with great annotations but to wrap your head around the data and
 to find possible ways to interpreting it.
 
@@ -1729,9 +1729,9 @@ to find possible ways to interpreting it.
 After annotating your data you should take the decision in which media
 you want to conduct your analysis: Digital in a word processor, where
 lines hold the basic units of data, or analog on paper, where sticky
-notes are your mean of arranging the data.
+notes are your means of dealing with the data.
 
-The methods described here can be used in both media. Nevertheless, each
+The analysis methods described here can be used in both media. Nevertheless, each
 way has different strengths.
 
 ### Comparison  
@@ -1741,18 +1741,18 @@ a word processor is the word processor itself. An analogue analysis
 needs sticky notes, paper, a printer (or a lot of patience to write all
 by hand), (removable) tape and a big wall (2m\*3m minimum!). Usually the
 wall is the showstopper here. But why should you want to use an analog
-analysis if it needs all or these resources? Partly, the decision can be
+analysis if it needs all these resources? Partly, the decision can be
 based on preferences: Some people like that they can move around the
 notes by hand and can get an overview of their data by just stepping
-back and glancing over it. However, a big difference is how you work in
-a team.
+back and glancing over it. 
 
-If you work with peers on your analysis you have some  when using the analogue pen and paper approach: you can discuss your ideas and will get new ideas how to structure the data by others. You could as well invite your boss to take a look and be part
-of the team, at least for some time. This type of on-site,
-collaborative, analysis is best done analogue. It is easy to move notes
-around, and you can refer by pointing to data or just carry it over and
-ask for an interpretation or the like. Using digital tools it is not that
-easy – despite of all the great tools we have nowadays.
+If you work with peers on your analysis you have some advantages when using 
+the analogue pen and paper approach: you can easily discuss your ideas with other 
+ and will  get new ideas how to structure the data. 
+ You could as well invite your boss to take a look and be part of the team, at least for some time. This type of on-site, collaborative, analysis is best done analogue. It is easy to move notes
+around, and you can refer by pointing to data or just carry it over to someone and
+ask for an interpretation. Using digital tools it is not that
+easy and direct– despite of all the great digital tools we have nowadays.
 
 ### How-to
 
@@ -1761,11 +1761,11 @@ easy – despite of all the great tools we have nowadays.
 For working analog I recommend the following steps to get
 analysis-ready:
 
-1.  Create Table in a word processor, many rows, 2 columns (given you
+1.  Create table in a word processor, many rows, 2 columns (given you
     print on DINA4) . Each table cell will be a note.
 	1.  In the table settings, switch off page breaks in cells and
         switch »keep paragraphs together« on, so that one note/table
-        cell does not place between pages.
+        cell will not break between pages.
 	2.  In the table settings, choose a decent padding around each cell,
         like 0.5cm
 	3.  Choose a font size of about 12pt, large enough to read it\
@@ -1779,10 +1779,12 @@ analysis-ready:
     it from the wall temporarily)
 6.  during analysis you will stick your printed notes on the widths of paper
     using removable tape, crepe tape or spray glue – something sticky
-    but non-permanent, so you can move the notes around to gradually
+    but non-permanent, so you can move the notes around in order to gradually
     improve the structure.
 
 ####  word processor  
+
+For working digital I suggest the following steps for preparing your analysis:
 
 1.  Create a new document
 2.  paste your transcript into that document
@@ -1791,18 +1793,16 @@ analysis-ready:
 4.  During analysis you will create groups. Each group gets a headline.
     Create a hierarchy by using different paragraph styles – bigger
     headlines encompass smaller, lower in hierarchy headlines.
-5.  Similar data is organized in lists. Make press enter to create new
-    list points and paste your data in.
+5.  Similar data is organized in lists. 
 6.  To rearrange data you can use copy paste, drag and drop and the
-    automatic tools the word processor provides (toolbar to move points
+     tools the word processor provides (toolbar to move points
     in lists etc.)
 7.  If you use paragraph styles you can use the navigation tool of the
     wordprocessor to scan through your structure
 
 ## Develop a first Structure  {#firstStructure}
 
-
-After you annotated your data you can start to structure the data.
+After you annotated your data you can start to structure the it.
 Structuring the data means suggesting principles behind the data, naming
 these principles and decide which data falls under which principle.
 
@@ -1810,29 +1810,38 @@ You don't use all your data yet. Start with what you find useful when
 skimming through it or use just the data of two participants for now.
 The goal is to set up some preliminary structure, like a scaffold.
 
+
 ![setting up a basic structure](images/lego_housefirstStructure.jpg)
 
 ### Move in Approximation
 
 The easiest way to start a structure is moving similar data in
-approximation. If you do an analogue analysis, just cluster notes you
+approximation. If you do you anaysis on paper,  cluster notes you
 assume to follow a common principle in one place and notes for other
-principles in other places. If you analyze using a wordprocessor, create
-a list and paste the lines into this list. You might as well just
-separate lines that should go together by several line breaks above and
-below.
+principles in other places. If you analyze using a wordprocessor, move similar 
+notes in adjacent lines. Create different groups, each containing similar notes,
+by using several line breaks above and below such a group or by 
+creating a list for each assumed group or principle.
 
 <div class="example">
 
-- Asking herself: what would impress the person (a safety advisor)\
+- Asking herself: what would impress the person (a safety advisor)
  »probably not that the blueprint is beautiful«
-
-- Good: Something that is not only useful, but aesthetical as well\
+- Good: Something that is not only useful, but aesthetical as well
 
 *These Principles have in common that they are about aesthetics
 and requirements. I did not have a good idea about a possible
 group title or even a principle, so I just moved them in
 approximation.*
+
+</div>
+
+<div class="gallery two">
+
+![two (preliminary) groups as lines (the digital way)](images/abstractGroupLines.svg) 
+
+![two (preliminary) groups as sticky notes (the analog way)](images/abstractGroupPapers.svg) 
+
 </div>
 
 
@@ -1840,11 +1849,12 @@ approximation.*
 
 You may have some data you assume to encompass a common principle but
 you don't know the principle yet. But you have a vague feeling that it
-may be connected to something. Then just write that something as a
+may be connected to something. In this case just give that group of data a
 preliminary title. A group name, even if it is not a principle, will
-make dealing with the data easier. It gives your data some structure. 
+make dealing with the data easier since it gives your data some structure. 
+
 As you gather other data that falls under that (yet
-vague) category you may get to know how to state the principle in a
+vague) category you may get an idea of how to state the principle in a
 better way.
 
 <div class="example">
@@ -1863,11 +1873,12 @@ data but telling nothing useful for design (yet)*
 
 </div>
 
+
 ### Name principles  
 
 You may have read through your annotations and have noticed something
 that may make a good principle right away. Great. Just write it down and
-assign the primary data to it. Even if you have only one or two pieces
+assign the data to it. Even if you have only one or two pieces
 of data that fit the principle, don't worry, just see if the principle
 will emerge to be bigger. If not, you can still revise the principle or
 just get rid of it and see where else the data might fit.
@@ -1883,8 +1894,8 @@ My first found principles were these:
 \
 \
 
-The structure of my analysis looked linke that (the main list points are main headlines,
-the indented sub-lists are second-order headlines):
+The structure of my analysis looked like that (the main list points are titles of groups-of-groups,
+the indented sub-lists are group titles):
 
 -   Inspiration
 	-   Review previous projects
@@ -1904,24 +1915,24 @@ the indented sub-lists are second-order headlines):
 Note that some are actual, meaningful principles (»Finishing is
 good«, »(Page) Format is hard to change later«), while some are
 mere group titles based on commonalities of the  data they encompass (»Inspiration«, »Trial and Error«).
+
 </div>
 
 ## Fill the Structure  
 When you came up with some principles and ideas to structure your data
 you need to see if the structure is feasible. Go through your data and
-sort it into the principles, or just move the data into proximity to
+sort it into the principles you can up with, or just move the data into proximity to
 similar data.
 
 The difference to the previous step is that we now focus on involving
-all the data into the process of generating principles and grouping the
-data to according principles. In contrast, in the previous steps we
-focused more on generating a structure. If the previous step was
-building a data-based scaffold, now we try to build the actual walls.
+all the data into the process of generating principles. In contrast, 
+in the previous steps we focused more on generating a structure. 
+
+If the previous step was building a (data-based) scaffold, now we try to build the actual walls.
 
 ![Build upon your preliminary structure to see if the idea actually works](images/lego_houseWalls.jpg)
 
-When you group your data you should have principles that are derived
-from the actual data. Aim for 3 to 10 pieces of data per group. While
+Aim for 3 to 10 pieces of data per group. While
 it is temporarily o.k. to have very small groups, at the end each
 principle should be derived from several data points and not on a single
 utterance. On the other hand if a principle encompasses more than 10
@@ -1930,38 +1941,41 @@ utterances or observations, think if creating two aspects or
 
 Usually I would go chronologically through all my notes starting with
 the first participant and ending with the most recent one – though any
-other scheme will suffice as well. Just be sure that you know what you
-dealt with and with which you did not yet.
+other scheme will suffice as well. Just be sure that you know with which data you
+dealt with already and with which you did not.
 
-When filling the data in the structure that you will notice that you 
-need additional groups and principles. In addition, some principles will need
-to be renamed. Just go ahead and make these changes if you feel they are
+When filling the data in the structure you may notice that you 
+need additional groups and principles; some principles may need
+to be renamed as well. Just go ahead and make these changes if you feel they are
 needed.
 
 <div class="example">
 
-- Test in the Media you target
+
+- \[Title:\] Test in the media you target
 	-   I folded prototypes for paper sizes that seem to be suitable
 	-   This is close the print shops results without spending too much
 	-   Tedious: Not having an own printer
 	-   […]
 
-- »being closer«: Page Spreads instead of single pages
- - Creates page spreads (In books you have always 2 opposite pages, thus single pages are not useful for design)
+- \[Title\]»being closer«: Page Spreads instead of single pages
+	- Creates page spreads (In books you have always 2 opposite pages, thus single pages are not useful for design)
 
  \
 
- Actually the example above is  is not great in terms of analysis: The »Test in the Media you target«  data is almost all from one person (P3) and the »being closer«-Group
- has only a single data point. In later iterations I'll change that
- cluster. But for now it suffices.
+ Actually the example above is  is not great in terms of analysis: 
+ The »Test in the Media you target«  data is almost all from one 
+ person (P3) and the »being closer«-Group
+ has only a single data point. In later iterations I'll change this
+ group. But for now it suffices.
 
 \
 \
 
- While I was sorting the data I needed a group to accommodate data
- related to design findings which I newly created:
+ While I was sorting the data I created a new group to accommodate data
+ related to changes in designs:
 
--   Changing and determining
+-   \[Titel:\]Changing and determining
 	-   Determining: What do we have? What do we need? What do we want to avoid?
 	-   Sketching, e.g. for »How can I divide the page for 7 days of the week?«
 	-   »This is trial and error«
@@ -1973,11 +1987,11 @@ Some data could not be accommodated yet. So I created a misc
 group, where I could offload the data for now and try to find a better
 place later:
 
--   misc
+-   \[Titel:\]misc
 	-   god: Shortcuts
 	-   I need to ask the print shop what this design would cost
 	-   bad: Doing the same steps over and over again.
-	-   […many other points…]
+	-   \[…many other points…\]
 
 Inside the misc group some possibilities for future principles
 emerged – for example the first (god: Shortcuts) and the third
@@ -1990,20 +2004,21 @@ principle named »I want to avoid repetitive tasks«
 
 After you went through your data and sorted it into principles, review
 your work. You now may have a clearer view of what constitutes the
-principles after you matched the data with the principles.
+principles after you matched the data with them.
 
 If you recently dealt with just a particular part of the analysis (like dealing
 with two particular groups), your view might be
 too narrow: Glance over the whole range of principles and clusters and
 rediscover groups that might be a better fit for some data.
 
-Have a look at structures that need improvement: Groups that don't form
+Have a look at structures that need improvement: Groups that have a title but don't form
 an actual principle yet as well as data for which you did not find a
 good place. This data might be helpful to create actual principles.
 
 Take a critical look at the principles in relation to the data they
-encompass: Is there a fit or did you fall prey to wishful thinking – possibly there is actually only a weak match between the stated principle and the
-data. In this case revise the way you put the principles.
+encompass: Is there a fit or did you fall prey to wishful thinking? 
+Possibly there is actually only a weak match between the stated principle and the
+data. In this case revise your structure.
 
 ![Some parts need to be revised and newly created](images/lego_houseRevise.jpg)
 
@@ -2015,12 +2030,12 @@ into principles. To archive this, try to revise group titles: make them
 more concise, clear and meaningful. Try to find an actual principle for a group if 
  a group of data is just named with a title based on mere commonalities of
 the data in that group. This will almost certainly require moving some data between
-groups as well in order to accommodate the data to the improved
+groups as well in order to accommodate the data to the improved 
 structure.
 
 <div class="example"> 
 
-I used the title »Arranging«, since arranging and aligning
+For one group I used the title »Arranging«, since arranging and aligning
  objects, lines and text to a predefined grid or to each other was a
  task that reoccured frequently. But the title  »Arranging« just names a
  commonality. To make clear that the group is
@@ -2033,7 +2048,7 @@ I used the title »Arranging«, since arranging and aligning
 <div class="example">
 
 I had a group titled »repetitive and manually«. This could be easily
- renamed into a meaningful principle: »repetitive and ‘ do-it-manually’
+ renamed into a meaningful principle: »repetitive and ›do-it-manually‹
  tasks are tedious«. By just adding the users view (»are tedious«) the
  title became a useful principle for design. 
 
@@ -2054,31 +2069,31 @@ I had the following structure:
  the underlying data. They all were about inspiration – but they
  had another commonality: All inspiration techniques used
  other, existing designs, often ones that were created by the
- same person or even for the same project (I would have been
+ same person or even for the same project (It would have been
  possible that people take a walk or have frequent brainstormings or take drugs to get new
  ideas etc.). So I renamed it and created the principle: »I use
  existing designs for inspiration«
 
 </div>
 
+
 ### (re) move data to other groups  
 
-In this process it might be necessary to remove pieces of data from
-groups, either in a temporary »misc« group or to another, more suitable
+When improving your structure it might be necessary to remove pieces of data from
+groups, either moving to to a temporary »misc« group or to another, more suitable
 group.
 
-While we want to make use of (all) the data we have, it is most
+While we want to make use of the data we have, it is most
 important to create sound and helpful principles based on the data – 
-instead of putting just about everything under a label. 
+instead of just  putting everything under a label. 
 
-If you can make a principle to be stated more clearly so that it does not encompass some
-data anymore – go for clarity of principle, even if it means that the
-principle does not encompass all the data currently subsumed in the group. 
+It is possible that you can make a principle to be stated more clearly but in result, the  clearer title 
+may no longer encompass all data in the group. In this case, go for clarity of principle, even if it means that the principle does not encompass all the data currently subsumed in the group. 
 
 Take out the data that does not fit the improved title and see if it might
 fit better to another group. If not, place it in a »not yet grouped« or
-»misc«-Group. Revise that group when you made changes to your system and
-see if you can use the data from that »misc« group to enhance other
+»misc«-Group. Revise that »misc« group when you made changes to your system and
+see if you can use the data from that group to enhance other
 groups with that data.
 
 <div class="example">
@@ -2107,8 +2122,8 @@ part of trials and errors in the process.
 
 Going through the data of a group named »general requirements« I noted
 that a big part of the data was concerned with balancing  
-functional or practical requirements (price, readability etc.) with
-requirements concerning style (using colors, being innovative)
+*functional* or *practical* requirements (price, readability etc.) with
+requirements concerning *style* (using colors, being innovative)
 
 Thus I renamed the group to »trying to combine aesthetics and
 functionality«. As the new title was more specific some data needed to
@@ -2121,7 +2136,7 @@ be taken out, put into other groups or to the temporary »misc« group.
 
 The previous examples were concerned with whole principles and groups
 and thus focused on the macro level. Sometimes you just move data
-itself, without any trigger like renaming or the like, just because
+itself, without any trigger like renaming, just because
 you found a better fit. For example *»using the maximum possible height
 on a sheet of paper«* was grouped into »media«. Later, I moved it to *»budget«*
 because budget is something the user is directly concerned with,
@@ -2147,7 +2162,7 @@ the principle of the main group as well.
 <div class="example">
 
 I had a group with more than ten points regarding »Collegues and
-Friends«. This title was rather descriptive and thus not very useful for
+Friends«. This title was rather general and thus not very useful for
 design. I created two subgroups which were more meaningful.
 
 \
@@ -2178,18 +2193,19 @@ One main point in my first structure was »Highly motivated at the
 beginning; then the problems start.«. After restructuring this became
 a sub point of motivation related groups.
 
-- Motivations
-	-   Subgroup: Highly motivated at the beginning; then the problems start.
-	-   Subgroup: Finishing is good
-	-   Subgroup: Waiting for feedback is bad
-	-   Subgroup: being afraid of clients rejection of the design
+- \[group-of-groups\] Motivations
+	-   \[Subgroup\]: Highly motivated at the beginning; then the problems start.
+	-   \[Subgroup\]: Finishing is good
+	-   \[Subgroup\]: Waiting for feedback is bad
+	-   \[Subgroup\]: being afraid of clients rejection of the design
  
 </div>
 
 <div class="example"> 
 \
+
 sometimes you first sort the data under the overarching title or principle
-and than move it to subgroups later:
+and than move it to an already existing subgroup later:
 
 The utterance: »Its bad that you can do imprecise things here,
 compared to programming (talking about Illustrator)« was first sorted
@@ -2199,25 +2215,26 @@ into »Media« and subsequently put into »using the right media«
 
 ## Wrap it up  
 
+
 ![it’s done! (though you could still change some things or two…)](images/lego_houseFinished.jpg)
 
-The steps above do usually follow each other. But like in other creative
+The steps above do build on each other. But like in other creative
 tasks there will be a lot of going back and forth between steps of
 creating groups, assigning data to them and revising these groups.
 
-These iterations may also happen in parts of the analysis. For example,
-after you revised your overall structure, you find that a grouping
+These iterations may also happen in parts of the structure you create.
+ For example, after you revised your overall structure, you find that a grouping
 should undergo a major change and you put all its data out. Then you are
 back to developing a structure for a part of your analysis. Or you
 notice that some notes that you moved in proximity can be summarized by
 a clear principle, and you jump straight to the revision of that part of
-the analysis.
+the analysis, leaving the »fill in the data« step out. 
 
-This process can take up some time. The process may never come to an
+This process can take up some time. The analysis may never come to an
 actual halt, but it will slow down at some point. Continuing to move
 data may still do minor improvements but there are no big changes
 anymore. Review the data a last time. The analysis is finished and it is
-time to create communicate your results.
+time to communicate your results.
 
 <div class="example">
 
@@ -2259,26 +2276,25 @@ time to create communicate your results.
 These are all the groups I created in my analysis. The results could be
 more concise, having fewer groups concentrating on fewer themes. However
 this would probably lead to more abstract principles which would
-probably be harder to use in design.
+presumably harder to use in design.
 
 The groups of groups are partly not principles themselves. I tried to
-find some, but was not able in a part of the cases: “changes and
-requirements” is not a useful design principle (but it’s subordinated
-groups are: “combining functions and aesthetics” etc.). In contrast,
-“using existing works for inspiration” is a group of groups which states
+find some, but was not able in a part of the cases: »changes and
+requirements« is not a useful design principle (but it’s subordinated
+groups are: »combining functions and aesthetics« etc.). In contrast,
+»using existing works for inspiration« is a group of groups which states
 a meaningful principle.
 
 You see that I could not use all data, so I made some less significant
-groups in the “Misc” section.
+groups in the “misc” section.
 
 </div>
 
 # Communicate Results 
 
+<!-- TODO jan bis hier -->
 
-The Interaction Designer needs to know how the users may interact with
-the product. Your professor wants to know how you approached the term’s
-assignment – If you work with others, the results of your research need
+If you work with others, the results of your research need
 to be communicated.
 
 Aside from getting the results of your research across, communicating
@@ -2286,20 +2302,18 @@ your results has some positive side effects: collecting, organizing and
 summarizing your findings will make it easier for yourself to remember
 your findings and you may be even able to improve your analysis further.
 
-Keep in mind that the “right” way of communicating research results is
+Keep in mind that the »right« way of communicating research results is
 highly dependent on several factors: The skills and knowledge of the
-audience, the goals of the project in general and  the research in
-particular and the kind of reports your audience is used to.
+audience, the goals of the project in general (the research in
+particular) and the kind of reports your audience is used to.
 
-So what I describe here can be only seen as a general introduction: I
+So what I describe here can only be seen as a general introduction: I
 try not to focus on particular forms of deliverables but show you the
 elements you can combine in different media to communicate your results.
 
 ## Getting it across
 
-
-It can be hard to make an impact with your research: Your results are
-easily dismissed, if it is not clear why they matter.
+It can be hard to make an impact with your research: If it is not clear why the results of your research matter they are easily dismissed 
 
 Probably the best form to communicate your research is to do the
 research (at least partly) with others. Those who do the research with
@@ -2311,15 +2325,15 @@ However, this is not always possible and you may need to resort to a
 less interactive, more typical form of communication – like writing
 reports and making presentations. When you communicate your results in
 this way, keep in mind that reports and slides may easily end up as
-“dead documents”, as informations which are available but are not used.
+»dead documents« – informations which are available but are not used.
+
 To make this less likely to happen, find out what the interests of the
 document’s audience are and how you can communicate with them to get
 their attention.  
 
 ## Who is your audience? 
 
-
-Communicate in a way which is can be easily understood your audience. If
+Consider the audience’s needs when communicating.  If
 you want a programmer to understand you, you might highlight different
 aspects and use different words compared to presenting the results to
 your professor or boss. Think about what matters for those who should
@@ -2335,9 +2349,8 @@ audience and which you know yourself – don’t fake it.
 
 ## Explain your Research 
 
-
 You should not only communicate your results but as well how you got to
-them. This enables others to evaluate your results in the context of the
+them. This permits others to evaluate your reserach in the context of the
 explained methods and enables you to show that you arrived at your
 results using an empirical and structured approach.
 
@@ -2381,7 +2394,7 @@ was done by two team members together (one taking notes, the other
 asking the questions)
 
 We recorded the data by doing an audio recording of questions and
-answers in addition to notes. We photographed and sketched participants
+answers in addition to handwritten notes. We photographed and sketched participants
 during key activities and made photos and sketches of tools important to
 their work.
 
@@ -2402,22 +2415,26 @@ Clarke)
 
 To make your research less abstract for the audience, give an
 introduction to the environment you did the research in. Describe it in
-a way that allows others to imagine it, for example by showing sketches
-or photos of tools or the participant’s workplace. Remember to show only
-what the participants agreed to share with you and the audience you
-present it too.
+a way that allows others to imagine it, for example by showing sketches, 
+photos of tools or the participant’s workplace. Remember to show only
+what the participants agreed to share with you and the audience.
 
 In addition to the context, describe your research participants by
 giving a general user profile. Thus you don’t share any personal data of
 anyone but allow your audience to have some ideas of the participants.
 
+<div class="example">
+
 Participants were students (four of them) or recent graduates (one of
 them).  All had studied several terms already and had work experiences
-from at least one internship. Four were female, one wer male.
+from at least one internship. Four were female, one were male.
 
 All participants were asked to meet with us at the place where they
 usually work. Partly this was in their flats; We met one participant in
 a shared working space and one remotely via telephone and screensharing.
+
+</div>
+
 
 ![observing the user](images/ObservationDesign1.jpg)
 
@@ -2432,10 +2449,10 @@ can combine them to use their strengths together.
 
 Text is as very versatile way to convey informations. On the downside,
 text may seem not as quickly accessible as a diagram or a sketch. To
-lower the barriers, make sure that people know  why they are reading
+lower the barriers, make sure that people know why they are reading
 your text. Give essential information at the beginning (What is this
 text about? Why was the work done?) and make sure that it is easy to get
-a quick overview by structuring your text. Use headings, lists and
+a quick overview:  Structure your text using headings, lists and
 italics to guide the reader.
 
 ![a page spead from a report](images/exampleWrittenReport.png)
@@ -2443,23 +2460,25 @@ italics to guide the reader.
 
 There are lots of books which explain how to write concise and
 easy-to-get text. The most efficient guide I know was given by George
-Orwells in “Politics and the English Language” – I quote:
+Orwells in »Politics and the English Language« – I quote:
 
 
 <blockquote>
-1.Never use a metaphor, simile or other figure of speech which you
- are used to seeing in print.  
+
+1. Never use a metaphor, simile or other figure of speech which you
+ are used to seeing in print.
  
-2.Never use a long word where a short one will do. 
+2. Never use a long word where a short one will do. 
 
-3.If it is possible to cut a word out, always cut it out.  
+3. If it is possible to cut a word out, always cut it out.
 
-4.Never use the passive where you can use the active.  
+4. Never use the passive where you can use the active.  
 
-5.Never use a foreign phrase, a scientific word or a jargon word if
+5. Never use a foreign phrase, a scientific word or a jargon word if
     you can think of an everyday English equivalent.  
 
-6. Break any of these rules sooner than say anything barbarous.
+6. Break any of these rules sooner than say anything barbarous.
+
 </blockquote>
 ^[Orwells Rules for writers:
 [http://wikilivres.ca/wiki/Politics\_and\_the\_English\_Language](http://wikilivres.ca/wiki/Politics_and_the_English_Language)]
@@ -2483,7 +2502,7 @@ like doing work by magic – click! And its there!«
 
 Remember to protect the participant's identity if they did not give you
 the permission to share their quotes or names. If they did not give you
-the permission,  only share a plausible, but faked “quote” and don't use
+the permission, only share a plausible, but faked »quote« and don't use
 real names but faked ones as well. Don’t deceive your audience either:
 mention that the names and quotes are not real but are only
 corresponding to their actual counterparts.
@@ -2511,36 +2530,36 @@ Answer them in your scenario.
 <div class="example">
 
 Annika studies media culture and needs to finish here homework
-on “Cultural subconceptualist theory in the works of Koons” in order to
+on »Cultural subconceptualist theory in the works of Koons« in order to
 hand the homework in on time. She goes to the library to see if the book
-on “Capitalism in the works of Rushdie” by Andreas Geoffrey contains
+on »Capitalism in the works of Rushdie« by Andreas Geoffrey contains
 arguments supporting her view on the structuralist paradigm.
 
 She enters the library and walks up to one of the computers standing in the corners of the library's halls.
 
 She wants to look up the name of the author, but she notes that she
 forgot the copy of the book that referenced the work. She still knows
-that “Rusdie” or “Rushdie” was in the title of the book she needs. After
+that »Rusdie« or »Rushdie« was in the title of the book she needs. After
 several trials she finds the right spelling of the name and, after
 scanning through a list, she finds the book she wants to read. The
 detail page of the search application gives the address of the library
-building she is in already and a code: “X0-3R52”… [scenario may continue]
+building she is in already and a code: »X0-3R52«… \[scenario may continue\]
 
 </div>
 
 <div class="gallery two">
 
-![the search interface of the librarie’s computer](images/szenario2_1.png) 
+![the search interface of the librarie’s  computer](images/szenario2_1.png) 
 
 ![remembering the code. Is it a zero or the letter ›O‹?](images/szenario2_2.png) 
 
 ![I can’t find the right shelf!](images/szenario2_3.png) 
 
-![I'd better ask somebody … now I know where I need to go! ](images/szenario2_4.png) 
+![I'd better ask somebody… now I know where I need to go! ](images/szenario2_4.png) 
 
 </div>
 
- 
+
 
 ### Diagrams
 
@@ -2571,17 +2590,17 @@ Or that:
 
 ![](images/ObservationDesignU4Workplace.jpg)
 
-I suppose the image wins big times here.
+I suppose the image wins.
 
 While the above example just shows a setting, we could as well combine
 the strengths of text and images in an annotated photo.
 
 Or you could show your general findings about how people organize their
-desktops  by sketching a prototypical arrangement of items.
+desktops by sketching a prototypical arrangement of items.
 
 Illustrations and photos in particular have another function aside of
 getting information across: They make the research and its findings more
-graspable, intuitive and “real” for your audience. Just like scenarios
+graspable, intuitive and »real« for your audience. Just like scenarios
 and quotes they enable to imagine how your research participants acted
 which in turn helps to develop empathy for them. Consider again our
 example from above in which an image and a text were compared. The photo
@@ -2603,13 +2622,13 @@ communicate your message. Let’s look at some possibilities.
 
 Quick findings are short, annotated lists of your most important
 findings. They include a brief description of methods, participants and
-environment and usually  a disclaimer that this is only a very brief
+environment and usually a disclaimer that this is only a very brief
 summary and that the  (preliminary) results may be refined later.
 
 Quick findings are very useful if your audience :
 
--   already know about your research and want to have a look at your  progress 
--    have very little time, and need an efficient access to your   results 
+-   already know about your research and want to have a look at your progress
+-    have very little time, and need an efficient access to your  results
 
 ### Written Reports
 
@@ -2623,16 +2642,15 @@ quotes and diagrams too when they make sense.
 
 I suggest the following structure for your reports:
 
--   summary of the key facts and findings 
--   Why: Research interest 
--   How: Research Methods 
--   Who and Where: Describe Participants and Site 
--   Findings 
+-   summary of the key facts and findings
+-   Why: Research interest
+-   How: Research methods
+-   Who and Where: Describe participants and site 
+-   Your findings 
 -   Conclusions and suggestions 
 
 ![page spread from a report on wiki use for teaching at university](images/exampleWrittenReport2.png)
 
- 
 
 ### Slides
 
