@@ -1,6 +1,6 @@
 /*
-https://github.com/hypertexthero/typography/blob/master/style.css
-Public Domain
+based on: 
+https://github.com/hypertexthero/typography/blob/master/style.css (Public Domain)
 */
 
 #wrapper {
@@ -49,15 +49,14 @@ h1 {
 h2 {
   font-weight:normal;
   font-size:180%;
-  margin:1em 0 0.8em;
+  margin:2em 0 0.8em;
 }
 
 h3 {
   font-weight:normal;
   text-transform:normal;
   font-size:150%;
-  letter-spacing:0.15em;
-  margin:2em 0 0.8em;
+  margin:1em 0 0.8em;
   color:#5f5e5e;
 }
 
@@ -65,7 +64,7 @@ h4 {
   font-weight:normal;
   font-size:120%;
   letter-spacing:0.1em;
-  margin:1.5em 0 0.8em;
+  margin:1em 0 0.8em;
   color:#5f5e5e;
 }
 
@@ -95,6 +94,9 @@ margin:0;
 text-indent:1.5em;
 }
 
+h1+h2, h2+h3, h3+h4{
+	margin-top:0.5em;
+}
 
 
 p + ul, p + ol, p + dl {margin-bottom:1.5em;}
