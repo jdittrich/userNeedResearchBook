@@ -1040,8 +1040,6 @@ or
 
 </div>
 
-<!-- TODO jan bis hier -->
-
 
 
 ### Referring back  for further elaboration
@@ -1112,17 +1110,15 @@ Creation, Evaluation. So in research I…«
 
 It may seem great – after all, a general process which you can apply to
 just about anything is a finding we seem want! But actually these *»in
-general«* descriptions pose some problems: They lack a rich context and
-stand rather disconnected to other activities or motivations. The
-general principle is independent of  such »minor« day to day things. But
-these seemingly trivial things give us the insights we need to find out
-why and how the participant is doing something in the real, particular situation.
-Such »general« procedures may as well be idealized and rarely applied in
-the way that is described.
+general«* descriptions pose some problems: Since they are general and thus abstract 
+they lack a rich context and stand rather disconnected to other 
+activities or motivations. A general principle is independent of  
+such »minor« day to day things. But these seemingly trivial informations about the 
+context of activities  give us the insights we need to find out why and how the participant is doing something in the real, particular situation. Such »general« procedures may as well be heavily idealized and rarely applied in the way they are described.
 
-A way to get  real-world, rich data is to ask for an example. Thus, you
-don’t say: »meh, these are all abstractions!« but you convey that you
-want to understand it better by getting an example, ideally by observing:
+A way to get  real-world, rich data is to ask for an example. Thus you 
+don’t blatantly reject the »general« answer but you convey that you are interested and
+want to understand it better:
 
  <div class="example"> 
  
@@ -1149,8 +1145,8 @@ Or
 
 </div>
 
-Very often you may uncover that the reality is far less consistent and
-far more context depended than in the general examples. The findings are more
+Very often you may discover that the reality is far less consistent and
+far more context-depended then in the general examples. The findings are more
 interesting and inspiring as well:
 
  <div class="example"> 
@@ -1162,28 +1158,28 @@ interesting and inspiring as well:
 
 </div>
 
-By asking for examples and specific events instead of context free
+By asking for examples and specific events instead of context-free
 generalizations, you can get more information and avoid doing research on
 »general«, possibly not actually practiced ways of work.
 
 ![observing user’s actions after asking for a demonstration](images/ObservationDesignU3Cutting.jpg)
 
 
+
 ## Wrap it up
 
 When you covered the topics you wanted to know about and explored them
-sufficently it may be time to wrap up. I made the experience that after
-30 minutes I covered the my general questions. However, getting to know
-complex workflows takes longer. Same goes for getting deeper insights
-into (work) culture. As well, using observations and/or mapping tasks
-will need some time too. So if you go beyond a simple interview you
-should plan 1-2h for one research session. 
+sufficently by asking questions and observing it may be time to wrap up the research session. 
+
+I made the experience that after 30 minutes I covered the my general questions. 
+However, getting to know complex workflows takes longer. Same goes for getting deeper insights
+into (work) culture. As well, using observations will need some time too. So if you go beyond a simple interview you should plan 1-2h for one research session. 
 
 Don’t let this estimations fence you in: You will develop some
-intuition for the flow of the interview and how long it should take. 
+intuition for the flow of the reserach session and how long it should take. 
 
 Keep in mind that the research session should be comfortable for the participant. 
-If he/she looks absent, yawns etc. it is time to wrap it up.
+If he/she looks absent, yawns etc. it is probably time to wrap it up.
 
 Before I finish I go through my cheat sheet and see if I did cover my
 questions.  I try to summarize what I learned from the participant
@@ -1198,26 +1194,26 @@ misunderstood something! So: Your, you said that your work is to…
 
 </div>
 
-By verbalizing what you learned you can fill up any gaps and you have an ending that is not abrupt.
-When you finished going though your notes, thank the participant for
+By verbalizing what you learned you can fill any gaps and create fade out the research session.
+When you finished going though your notes and giving your summary, thank the participant for
 taking the time. If you have any incentives or compensation, give them
-to the participant. In addition, I try to summarize the next steps in the
-research. I think it is nice to let the participant know, how the data matters for
+to the participant. In addition, I try to give an outlook on the next steps in the
+research. I think it is nice to let the participant know how the data matters for
 me:
 
  <div class="example">
  
  My next steps would be going though audio and notes. After
-anonymizing the data I and my colleague analyze your data and the
-data from other research session to find out how graphic designers work. 
-We will try to improve our service by making it more suitable to this
+anonymizing what we recorded, me and my colleague analyze the data and the
+data from other research sessions to find out how graphic designers work. 
+
+We will try to improve our products by making it more suitable to this
 workflow.
 
 </div>
 
 
 ## Recording
-
 
 ### Notes and Sketches on paper
 
@@ -1229,15 +1225,13 @@ workflow.
 
 During the interview you will take brief notes. This is rather similar
 like taking notes in school or university: You go for the gist of what
-was said – you don't write down the exact words (Except in the case you
-find an expression itself important). One finding, utterance or
+was said but you don't write down the exact words (Except in the case you
+find an particular expression itself important). One finding, utterance or
 observation goes in one line.
 
-Your primary focus is observing, listening and asking questions. You
-can’t just look at your note sheet and read some questions. So you need to do the 
-notetaking *in addition* to observing, listening and asking. 
+You can’t just look at your note sheet and write down what the participants says without ever looking at him/her. So you need to do the notetaking *in addition* to observing, listening and asking. 
 
-If you don’t care too much about your handwriting, you can write 
+If you don’t care too much about your handwriting you can write 
 notes without much looking at the paper except for some occasional glances. 
 In case you find something very important and fear forgetting it, you can ask the participant to 
 repeat the utterance – but keep this to a minimum.
@@ -1247,7 +1241,7 @@ you write down has a meaning on it’s own:
 
  <div class="example">
  
- Rather than writing *»she clicks«* (what? Why?) you could write *»Clicks save button → finishes step«* or the like
+ Rather than writing *»she clicks«* (what? Why?) you could write *»Clicks save button → finishes balancing the elements«* or the like.
  </div>
 
  <div class="example">
@@ -1257,7 +1251,7 @@ you write down has a meaning on it’s own:
 </div>
 
 If your notes have a meaning on their own it will be far easier to
-analyze the participant’s needs later.
+analyze them later.
 
 
 ####  Sketches  
@@ -1282,15 +1276,17 @@ possible.
 It is essential to take time after the research session to supplement your
  notes with information from your memory. While collecting
 the data with the participant you will be very busy listening and
-thinking of following questions, so you may not be able to keep up with
+thinking of following questions. So you may not be able to keep up with
 writing notes and drawing sketches. There is no need to worry since
 usually you'll remember how to fill these gaps from your memory. But you
 need to do it quickly. If you don’t do it right after the interview,
 your memory fades and the chance to supplement the information is gone.
 
 To supplement your notes of the research session just go through them
-chronologically and add annotations. A part of these additions are things that are not in the
-notes yet but still in my memory. In this case I add them, like
+chronologically and add annotations. 
+
+A part of these additions are things that are not in the
+notes yet but still in my memory. In this case I *add* them, like
 
  <div class="example">
  
@@ -1300,21 +1296,21 @@ notes yet but still in my memory. In this case I add them, like
  
  </div>
 
-or I supplement some existing point with additional information:
+or I supplement some *existing* point with additional information:
 
  <div class="example">
  
- Sketching paper kept ready. \[ADDITION\]: *On the go in the backpack, at
-the workplace right on the desk*
+ Sketching paper kept ready. \[ADDITION\]: *In transit: in the backpack; at
+the workplace: right on the desk*
 
 </div>
 
-You can give very brief notes more meaning by adding context from your
-memory
+You can give brief notes more meaning by adding context from your
+memory:
 
  <div class="example"> 
  
- * She saves old ideas [ADDITION]: For later inspiration in other
+ * She saves old ideas \[ADDITION\]: For later inspiration in other
  projects *
  
  </div>
@@ -1334,27 +1330,26 @@ memory
 </div>
 
 
-When revising your sketches, redraw a line if the sketch is ambiguous and add annotations if you
-think that they might ease interpreting the sketch later on.
+When revising your sketches, redraw the lines if the sketch is ambiguous otherwise and add annotations if you think that they might ease interpreting the sketch later on.
 
 Think of your future self: Some notes may make perfect sense to you now
-but as memory fades they will seem cryptic later. So supplement and
+but since memory fades, they will seem cryptic later. So supplement and
 clarify your sketches and notes so you can comprehend them after your
-memories of the experience faded.
+memories of the experience have faded.
 
  <div class="example">
 
-I may have something like a written line *»Big changes«* on in my
-Notes. I remember that it was about the participant thinking that
-her colleagues make bigger changes between to two versions of their
-designs than she. I added this information to the notes.
+I have line *»Big changes«* in my
+Notes. I remember that I made this note when the participant told me that her colleagues make bigger changes between to two versions of their designs than she does. 
+I added this information to the notes, since it provided a way to understand what the »big changes«
+actually refer to. 
 
 </div>
 
-Similarly, if my writing is rather messy I rewrite some words to ensure
-that I can still read what I wrote.
+Similarly, if my writing is rather messy, I rewrite some words to ensure
+that I can later decipher what I wrote.
 
-I write and draw my supplements in another color. When I wrote my notes
+I write and draw my supplements in another color than the original notes. When I wrote my notes
 during the interview with a blue pen I use black for the supplements or
 vice versa, since I like to be able to keep track of what I did in which
 step of the process.
@@ -1368,7 +1363,7 @@ step of the process.
  messy before. **2)** At the right you see an newly drawn annotated sketch
  that provides a visual representation (how the document is organized
  by inserting empty pages). **3.)** More information has been provided. It
- was »keeping for inspiration«, now its »keeping old stuff for
+ was »keeping for inspiration«, now its »keeping *old stuff* for
  inspiration«
  
  </div>
@@ -1376,9 +1371,7 @@ step of the process.
 Using different colors is useful for another type of supplement:
 Ideas or remarks in connection to your notes. When I go
 through the notes I often have some ideas for a design or a question
-which I would like to further explore in a future interview. If there is
-still space, I write them down in a third color or I prefix the note
-with *»IDEA:«* or *»QUESTION«* in order to prevent myself of mixing ideas 
+which I would like to further explore in a future interview.  I write them down in a third color or I prefix the note with *»IDEA:«* or *»QUESTION«* in order to prevent myself of mixing ideas 
 with empirical data. 
 
 Writing notes, drawing sketches and supplementing them hereafter will
@@ -1389,10 +1382,10 @@ accident, it might be useful to have a backup by using audio recording.
 ####  Getting it into the computer
 
 When I added my supplements to the notes and sketches I usually type
-them in a Word document. In addition, I scan my notes, so I can easily cut
+them in a wordprocessor document. In addition, I scan my notes, so I can easily cut
 and paste my sketches into the document. 
 
-When transcribing the document, I take care that each line in the
+When transcribing the note, I take care that each line in the
 digital transcript has only one finding in it and not several, so that
 I don't tie two separate findings together. Make sure that the
 data you write down is meaningful on its own and is not just a single word or a
@@ -1407,7 +1400,7 @@ Not meaningful on its own (means mostly: too short):
 -   making space
 
 If there is any way to add the actual context (out of the memory or using other notes) 
-these notes should be supplemented with that context which hopefully helps us to get to know why are objects are duplicated and for which purpose is the space is made. 
+these notes should be supplemented with that context which hopefully helps us to get to know *why* are objects are duplicated and for *which purpose* is the space is made. 
 
 </div>
 
@@ -1441,32 +1434,30 @@ gathered in the research session.
 
 Making photos is rather easy and can capture lots of information. For
 example, you can photograph the participant's desk to aid your memory.
-Later you can go back and see what was on it: Paper, pens, computer;
+Later, you can go back and see what was on it: Paper, pens, computer;
 were there tidy looking stacks and containers for all the utensils? Or
 was it seemingly messy?
 
-You can even photograph the users screen content if your research
+You can photograph the users screen if your research
 involves computers and gadgets. Tech savvy users may cringe since a
 software based screenshot is technically superior – but if the user does
 not know you to make a screenshot, a camera is a handy way to capture
 the screen.
 
 For utilizing photos you should know how to make good or at least
-o.k.ish photos with your camera quickly and reliable. Take a device you
+o.k.ish photos with your camera quickly and reliably. Take a device you
 know and which has a good auto-mode. The only setting that I use beyond
-that is the exposure compensation in case the part of the image you are
-interested is totally dark or disappears in light.
+that is the exposure compensation in case an important part of the image 
+totally dark or disappears in light. Exposure compenstaion allows to adjust that. 
 
 Avoid complicated set-ups or even arranging the participant and his/her tools.
 Arranging the participant and his/her tools would change the data you record.
-Aside from this remember that the purpose is to record data and not
-making stylish pictures.
 
 ![photographing the working user](images/NutzerFotografieren.jpg)
 
 ![photographing a screen instead of using screenshots](images/ObservationDesignU4ScreenFontMix.jpg)
 
-After the research session go through your photos like you went through
+After the research session go through your photos just like you went through
 your notes. If it makes sense, you can use the information from the
 photos to supplement your notes. It might as well useful to summarize
 what one sees on the photo. These descriptions can be used more easy
@@ -1481,9 +1472,10 @@ U2-14-9-14\_1.jpg)«
 
 </div>
 
+
 ###  Recording Audio
 
-Unlike making notes on paper making an audio recording is a rather
+Unlike making notes on paper, making an audio recording is a rather
 passive process except for pressing the record button.
 
 I recommend using audio recordings – it is a useful supplement to your
@@ -1494,8 +1486,8 @@ participant points to the screen and refers to »this«, the recording is
 not much of help.
 
 After the research session I listen to the recording. Usually I
-have the audio as a .mp3 and the Notes as a typed out plaintext or
-*.doc* (see *notes and Sketches on Paper*), so I can open audio and
+have the audio as a .mp3 and the notes as a typed out plaintext or
+wordprocessor document (see *notes and Sketches on Paper*), so I can open audio and
 transcript in parallel on my computer. When the audio contains information which is not in the
 document or if it supplements information that is already there, I pause
 the playback and write the additional information in the document. So
@@ -1517,8 +1509,6 @@ If you need to save time, go through your notes and see where they lack
 information. Then just jump to the parts of the audio that might
 complement these sections.
 
-
-
 # Analysis
 
 ## Introduction to data analysis
@@ -1533,6 +1523,22 @@ come directly from interviews and observations. Thus we use an analysis
 of the data to process these notes and bring them in a usable, organized
 form.
 
+<div class="example">
+
+Here is a part of an analyis. 
+
+-   *Overarching principle*: using existing work for inspiration 
+	-   *sub-principle*: review previous projects 
+		- Data: "I have a look at an old project to see how I solved this problem…"
+		- Data: Participant serches for…
+		- …
+	-   *sub-principle*: use other’s work  for inspiration
+		- Data: "I look on google images how other calendars look like"
+		- Data: browses through the book to see…
+		- …
+		
+</div>
+
 ### Invent by principles
 
 Maybe you know Bret Victors [talk on »Inventing on Principle«](http://vimeo.com/36579366). He shows
@@ -1540,15 +1546,15 @@ how he used the principle (you could as well say »motto« or »guideline«)
 *»Creators need an immediate connection to what they're creating«* to
 design software that allows to program or create animations – without
 intermediate steps like choosing numerical values for parameters and
-*imagining* how the result will be and hereafter executing it to see how it
-actually plays out.
+without the need for *imagining* how the result will be and hereafter executing it. 
+Instead, in his solutions, taking actions and seeing the result happen in parallel. 
 
 By analyzing our data we can create such principles for our own
 projects. They may not as overarching and all-encompassing like Brat
 Victors principle, but they will help us to guide our designs and to
 evaluate them. You can ask yourself: »Does this idea follow my
 principles? Does it violate some of them?« or could ask »With which
-design could I realize this principle?«. Since they are based on our
+design could I realize this principle?«. Since the principles are based on our
 data, they will express the actual needs of your users and not some
 (potentially stereotypical) assumptions.
 
@@ -1559,7 +1565,7 @@ own – not just be describe a common property of the observations and
 utterances (i.e. the data) they are derived from. A simple test is to ask yourself if
 the principle could actually be true or false. The Principle »Colors«
 probably will sum up all data which has some relation to color. Nobody
-could say that the Principle »Color« is wrong. But »Colors added later in
+could say that the Principle »Color« is wrong. But »Colors are added later in
 design« is a principle that might be true or not. Thus it makes a
 statement instead of just referring to some common property like the
 same tool (»file mananger«) mentioned or similarly judged things
@@ -1622,8 +1628,8 @@ points like utterances and observations. Thus the process is empirical
 used, analysis made by different people will differ. This is because the
 result of the analysis depends on the reasonable but still individual
 and debatable interpretation of the data. You could say that »looking at
-last years design to reuse elements« belongs to a group concerned with
-»I want to save saving time« or to one related to the topic of
+last years design to quickly reuse elements« belongs to a group concerned with
+»I want to save  time« or to one related to the topic of
 »reviewing designs for inspiration« (given that it could serve both from
 the user's perspective).
 
@@ -1634,15 +1640,13 @@ statistics, most important is that your analysis is plausible (instead
 of »right« or »wrong«). 
 
 I compare the process of analysis to building a
-house from a box of Lego® bricks. These bricks are like the
+house from a pile of Lego® bricks. These bricks are like the
 not-yet-analysed data you start with. When you build a house out of
-these bricks, there is no »right« building. But it is not a process
-that is random. 
-
-
+these bricks, there is no »right« building. But neither is it a process
+which is arbitrary. 
 
 There are many, many ways to stack up the bricks – but
-only a very few of these ways will result in something that can be
+only a very few of these generaly possible ways will result in something that can be
 plausibly called a house. 
 
 <div class="gallery two">
@@ -1653,7 +1657,7 @@ plausibly called a house.
 
 </div>
 
-As well how your final Lego® house will look
+How your final Lego® house will look
 like is not determined from the beginning, rather you will change
 designs, move walls and sometimes try to use the same piece in different
 parts of the building to try out and improve. The same things will
@@ -1663,6 +1667,8 @@ is meaningful to you and others. This creation of a meaningful structure
 is not determined at the beginning, but a process, just like building
 your Lego® house, in which you trial, fail, find improvements and step by
 step come closer to a structure you are satisfied with.
+
+<!-- TODO jan bis hier -->
 
 ### Hierarchical organization of data  
 
