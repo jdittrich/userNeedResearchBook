@@ -3,7 +3,7 @@
 % 2014
 
 
-<!-- compile with  "pandoc --toc -B templates/includeBefore.pandoc -A templates/includeAfter.pandoc  -s -c styles/styles.css text/allURBook.md -t html5 -o index.html" -->
+<!-- compile with  ""pandoc --toc -B templates/includeBefore.pandoc -A templates/includeAfter.pandoc  -s -c styles/styles.css text/allURBook.md -t html5 -o index.html"" -->
 
 # License
 This text and images (»=book«) are licensed under the terms of the [Creative Commons By 4.0](https://creativecommons.org/licenses/by/4.0/) License.  
