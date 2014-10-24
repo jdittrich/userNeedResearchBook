@@ -57,7 +57,11 @@
 <li><a href="#keep-your-questions-simple">Keep your questions simple</a></li>
 </ul></li>
 <li><a href="#dont-make-the-user-the-designer">Don't make the user the designer</a></li>
-<li><a href="#referring-back">Referring back</a></li>
+<li><a href="#referring-back">Referring back</a><ul>
+<li><a href="#referring-back-for-further-elaboration">Referring back for further elaboration</a></li>
+<li><a href="#referring-back-for-further-elaboration-1">Referring back for further elaboration</a></li>
+<li><a href="#referring-back-to-check-your-understanding">Referring back to check your understanding</a></li>
+</ul></li>
 <li><a href="#how-exactly-would-you-do-it">How exactly would you do it?</a></li>
 <li><a href="#wrap-it-up">Wrap it up</a></li>
 <li><a href="#recording">Recording</a><ul>
@@ -117,7 +121,7 @@
 </ul></li>
 </ul>
 </nav>
-<!-- compile with  pandoc --toc -B templates/includeBefore.pandoc -A templates/includeBefore.pandoc  -s -c styles/styles.css text/allURBook.md -t html5 -o index.html -->
+<!-- compile with  pandoc --toc -B templates/includeBefore.pandoc -A templates/includeAfter.pandoc  -s -c styles/styles.css text/allURBook.md -t html5 -o index.html -->
 
 <h1 id="license"><a href="#license">License</a></h1>
 <p>This text and images (»=book«) are licensed under the terms of the <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons By 4.0</a> License.</p>
@@ -368,52 +372,51 @@ conversation: You ask questions, the user answered them. -->
 <figure>
 <img src="images/talkDiagram_open.svg" alt="participant gives long answers, researcher asks short, open questions" /><figcaption>participant gives long answers, researcher asks short, open questions</figcaption>
 </figure>
-<!-- TODO 2nd iteration jan bis hier -->
-
-<p>The questions we want to ask should encourage answers which describe experiences and give some insight into the why and how of the users activities and motivations. This type of question is called »open question« as they don’t have a determined set of answers.</p>
+<p>The questions we want to ask should encourage answers which describe experiences and give some insight into the »why« and »how« of the users activities and motivations. This type of question is called »open question« since these questions don’t have a determined set of answers.</p>
 <div class="example">
 <p>Open questions would be: <em>&quot;Describe how you started your work today&quot;</em> or <em>&quot;Why did you copy that page?&quot;</em></p>
 </div>
-<p>Using such open questions encourage telling longer, story-like answers. These answers will even contain information you did not expect to get. This is because a longer, story-like answer will give a rich context.</p>
+<p>Using such open questions encourage telling longer, story-like answers. These answers will even contain information you did not expect to get.</p>
 <div class="example">
-<p>A participant is describing me the printing process: <em>»…then I find out which color specification the printery needs…«</em> That is a new step in the workflow I did not expect (I naively thought that you just send it like you would when you print it on your desktop printer). Thus I discovered a step in the workflow and a potential field of work (taking care of color spaces and profiles) of which I did not know that it even exists!</p>
+<p>A participant is describing me the printing process: <em>»…then I look up which color specification the printery needs…«</em> That is a new step in the workflow I did not expect (Naively, I thought that you just send the document to the printery like you would when you print it on your desktop printer – have a file, print it). Thus I discovered a step in the workflow and a potential field of work (taking care of color spaces and profiles) of which I did not know that it even exists!</p>
 </div>
 <p>The information you get will not be abstract as in answers like »good« or »I dislike it« but tied to a situation. This is preferable, because a future product will be used in real situations and not in an abstract space of thought.</p>
 <div class="example">
-<p>»I like it when the feedback [to the design] comes quick. No annoying waiting… it always makes me nervous. Do they [the client] like it or do I need to throw out work?« – this tells us more about the situation than a client’s feedback being just described as »good«.</p>
+<p>»I like it when the feedback [to the design] comes quickly. No annoying waiting… it always makes me nervous. Do they [the client] like it or do I need to throw out work?« – this tells us more about the situation than a client’s feedback being just described as »good«.</p>
 </div>
-<p>If you look back to the questions already mentioned they will share some characteristics.</p>
+<p>If you look back to the questions already mentioned, they will share some characteristics.</p>
 <div class="example">
 <p>here are some of the questions</p>
 <ul>
 <li>Can you describe the worst experience in your day so far?</li>
-<li>Can you tell me how you create a graphic/layout?</li>
+<li>Can you tell me how you create a layout?</li>
 <li>Can you tell me what makes a client »difficult«</li>
 <li>Can you describe how do you get new ideas?</li>
 </ul>
 </div>
-<p>All these questions start with »…can you describe« or »…can you tell me«, which encourages a longer answer (a describing or telling is considered not to be just a word). In addition all sentences contain a <em>Why-</em>, <em>What-</em> or <em>How-</em>. These question words, again, suggest some more elaborate answer, not just one or two words.</p>
+<p>All these questions start with »…can you describe« or »…can you tell me«, which encourages a longer answer (»describing« or »telling« is something needs usually more than one word). In addition, all sentences contain a <em>Why-</em>, <em>What-</em> or <em>How-</em>. These question words, again, suggest an elaborate answer, not just one or two words.</p>
 <p>Thus, a template for such questions would look like <em>»tell me [how/why/what] + interest«</em></p>
 <p>Contrast this with questions like</p>
 <div class="example">
 <p>You: »Is this a good design?«</p>
 <p>Paricipant: »yes!«</p>
 </div>
-<p><em>»Is…«</em> -questions will be answered with »yes« or »no« – but we don't get to know why the participant to agrees or disagrees with our assumption.</p>
-<p>Sometimes, »Is«-Questions will come in a disguised form – as an addition made to an open question:</p>
+<p><em>»Is…«</em> -questions will be answered with »yes« or »no« – but we don't get to know <em>why</em> the participant to agrees or disagrees with our assumption.</p>
+<p>Sometimes, »Is«-Questions will come in a disguised form – as an addition which is made to an open question:</p>
 <div class="example">
 <p>You: »Can you tell me how you solve this problem? …Do you do it by just calling the client and resolving the issue?«</p>
-<p>Participant: »Yes«</p>
-<p>note, that the question did not contain the word »is«, but follows the same pattern of asking for a binary »yes« or »no« response.</p>
+<p>Participant: »Yes, I do«</p>
+<p>Please note that the question did not contain the word »is«, but follows the same pattern of asking for a binary »yes« or »no« response.</p>
 </div>
-<p>Avoiding closed questions is actually harder than one thinks, as intuitively we try to make answering easier with such additions.</p>
-<p>When you create your questions, check if they demand some predetermined outcomes – if the do, they are closed questions. In this case reformulate the questions in a way that allows non-restricted, story-like answers.</p>
+<p>Avoiding closed questions is actually harder than one thinks. We intuitively try to make answering easier with such additions like »Do you […]«.</p>
+<p>When you create your questions check if they demand some predetermined outcomes – if the do, they are closed questions. In this case reformulate the questions in a way that allows non-restricted, story-like answers.</p>
 <h2 id="overcoming-problems"><a href="#overcoming-problems">Overcoming problems</a></h2>
 <p>There are some problems that are likely to arise when you gather data. Knowing the problems and some ways of dealing with them will help you.</p>
 <h3 id="be-aware-of-your-influence"><a href="#be-aware-of-your-influence">Be aware of your influence</a></h3>
-<p>A very obvious problem is influencing the participant. But: you neither can’t nor should take yourself out of the reserach session – you will always have some sort of effect on the participant when you do the reserach.</p>
-<p>Neither does it make sense to try to make all interviews alike like you would do when using a standardized questionnaire – Each participant and his/her context is different and you can accommodate this by adjusting the research session to the context and the activities of the user.</p>
-<p>What you should avoid though is influencing the participant by »suggesting« favourable answers. Some sorts of this type of influence are obvious, others are not.</p>
+<p>A very obvious problem is influencing the participant. One way to minimize this would be making all research sessions alike – just like you would do when using a standardized questionnaire. But doing this you would loose the very strengths of the methods described here: Being able to find out about new and unexpected things and reacting to them and gaining some understanding of the »how« and »why« by asking questions and looking for cues depending on the situation.</p>
+<p>Each participant and his/her context is different and you can accommodate this by adjusting the research session to the context and the activities of the user. This would not be possible when asking the same questions each time.</p>
+<p>So you neither can’t nor should take yourself out of the reserach session – you will always have some sort of effect on the participant when you do the reserach.</p>
+<p>What you should avoid though is influencing the participant by »suggesting« favourable answers or actions. Some sorts of this type of influence are obvious, others are not.</p>
 <div class="example">
 <p>»This is good, isn’t it?!«</p>
 </div>
@@ -422,32 +425,32 @@ conversation: You ask questions, the user answered them. -->
 <div class="example">
 <p>»Would you like a better version of this with a big button here?«</p>
 </div>
-<p>Here, a positive word (»better«) and a suggestion go together. Who would not like an improvement?! A »yes« is guaranteed – as well as a meaningless finding which would be »people want improvements«.</p>
-<p>Aside from your questions you could influence the user with your feedback: Your feedback may suggest that there are good or bad answers. For example, it may be tempting to correct users and show the »right way« of doing something:</p>
+<p>In this example, a positive word (»better«) and a suggestion go together. Who would not like an improvement?! A »yes« is guaranteed – as well as a meaningless finding which would be »people want improvements«.</p>
+<p>Aside from your questions you could influence the user with your feedback since it might suggest that there are »good« and »bad« answers. For example, it may be tempting to correct users and show the »right way« of doing something:</p>
 <div class="example">
-<p>If you know that there is a »change color« function in the application and the user says: »Well; I am annoyed by that application – I'd like to change the colors there but these are fixed!« It may be tempting to say: »No, you can change it!«</p>
+<p>If you know that there is a »change color« function in the application and the user says: »Well; I am annoyed by that application – I'd like to change the colors but they are fixed!« It may be tempting to say: »No, you can change it!«</p>
 </div>
 <p>Remember that you want to find out what your participant does and why. To correct the participant is not very useful. Use the possibility to further explore the topic without correcting the user <a href="#fn1" class="footnoteRef" id="fnref1"><sup>1</sup></a> .</p>
 <div class="example">
-<p>You could just ask »What is useful about a change color function«, or, if talking about the function itself is really is important to you could ask »How did you expect to do the color change?«</p>
+<p>You could just ask »What is useful about a change color function«, or, if talking about the function itself is really is important to you, you could ask »How did you expect to do the color change if there would be such a function?«</p>
 </div>
-<p>Similarly, you could be surprised or even annoyed that steps or action in a workflow seem outright superfluous.</p>
+<p>Similarly, you could be surprised or even annoyed by steps or actions in a workflow of the user which seem outright superfluous.</p>
 <div class="example">
-<p>»When I write a text I write a draft and then send it to my colleague via mail as an attached .doc file. My colleague who comments on it and returns the mail to me« You may think that this is rather inefficient. You could be tempted to say »Why don't you paste the text in the mail and comment directly? Or write it live on Etherpad? This would be far quicker!«</p>
+<p>»When I write a text I write a draft and then send it to my colleague via mail as an attached .doc file. My colleague comments on it and returns the mail to me« You may think that this is rather inefficient. You could be tempted to say »Why don't you paste the text in the mail and comment directly? Or write it live on Etherpad? This would be far quicker!«</p>
 </div>
-<p>Remember that nobody does inefficient things by purpose. Assume that the user has a reason. Try to find out what it is.</p>
+<p>Remember that nobody does inefficient things by purpose. Assume that the user has a reason. Try to find out what this reason may be.</p>
 <div class="example">
-<p>»What is good about that workflow?« or »Did you ever try an alternative workflow« or »can you think of other ways that may be feasible?« – and remember to ask follow up question to further explore the issue.</p>
+<p>»What is good about that workflow?« or »Did you ever try an alternative workflow« or »can you think of other ways that might be feasible?« – and remember to ask follow-up question to further explore the issue.</p>
 </div>
-<p>Your influencing feedback could be non-verbal as well. Like in everyday conversations you may shrug or frown if you disagree with an utterance or an action. Even if you don’t say »this is wrong« frowning or shaking your head may have the same results.</p>
-<p>So:don't be afraid to react towards the participant. But don’t suggest good or bad answers or good or bad activities by telling that something is wrong or by gestures and facial expressions.</p>
+<p>Your influencing feedback could be non-verbal as well. Like in everyday conversations you may shrug or frown if you disagree with an utterance or an action. Even if you don’t say »this is wrong«, frowning or shaking your head may have the same results.</p>
+<p>So: don't be afraid to react towards the participant – reacting towards the participant is essential in our research. But don’t suggest »good« or »bad« answers or »good« or »bad« activities using words, gestures or facial expressions.</p>
 <h3 id="silence-feels-strange-but-is-o.k."><a href="#silence-feels-strange-but-is-o.k.">Silence feels strange but is o.k.</a></h3>
-<p>Sometimes the participant will take time to think before answering. Intuitively, you may want to fill the silence to help the participant along.</p>
+<p>Sometimes, the participant will take time to think before answering. Intuitively, you may want to fill the silence to help the participant along.</p>
 <div class="example">
-<p>»Can you describe me what happened after you were finished with creating the print-ready-file? [1 sec] was it all well?« »yeah, sort of well I think«</p>
+<p>»Can you describe me what happened after you were finished with creating the print-ready-file? [1 sec] Was it all well?« »yeah, sort of well I think«</p>
 </div>
 <p>It is tempting to fill the silence with suggestions for the answer. But it can skew the answers and can turn a open question (»can you describe…?«) into a closed question (»can you describe… was it…?« /»yes«).</p>
-<p>It is better to tolerate the silence. Usually, the participant will answer within a few seconds. If you notice silence which you want to fill, count to 3 or 5 before probing further. When that set time is up, you can ask about the question rather than giving suggestions, like</p>
+<p>Try to tolerate the silence. Usually, the participant will answer within a few seconds. If you notice silence which you want to fill, count to 3 or 5 before probing further. When the set time is up, you can ask about the question rather than giving suggestions, like</p>
 <div class="example">
 <p>What makes the question hard to answer?</p>
 </div>
@@ -455,13 +458,15 @@ conversation: You ask questions, the user answered them. -->
 <div class="example">
 <p>Can you tell me what you are thinking about?</p>
 </div>
-<p>If the participant stops talking and makes a longer pause and you still like to know more, you could »echo« the most recent statement or words the participant has said.</p>
+<p>If the participant has started to give an answer already but stops talking and makes a longer pause and you still like to know more, you could »echo« the most recent statement or words the participant has said.</p>
 <div class="example">
-<p>»So I had it finished and send it away to the client and then almost nothing« … »almost nothing?«</p>
+<p>Participant: »So I had it finished and send it away to the client and then almost nothing… [Pause]«</p>
+<p>Researcher: »almost nothing?«</p>
 </div>
 <p>This is a technique to make people carry on without skewing their answer.</p>
 <div class="example">
-<p>»almost nothing?« »Yes, there was a brief mail that they got the design but I was unsure if that anonymous person actually gave it to the people who can decide something. That waiting just sucks.«</p>
+<p>Researcher:»almost nothing?«</p>
+<p>Participant: »Yes, there was a brief mail that they got the design but I was unsure if that person actually gave it to the people who can decide something. That waiting just sucks.«</p>
 </div>
 <h3 id="keep-your-questions-simple"><a href="#keep-your-questions-simple">Keep your questions simple</a></h3>
 <p>Questions should be simple to understand and only one question should be asked at once.</p>
@@ -473,55 +478,58 @@ conversation: You ask questions, the user answered them. -->
 <li>It confuses the interviewee – what should be answered first?</li>
 <li>Both, Interviewer and Interviewee need to remember both questions while talking and listening</li>
 </ol>
-<p>Only one question should be asked. So in the example above one question should be asked first, then the second:</p>
+<p>So, one question should be asked at once. In the example above one question should be asked first, then the second:</p>
 <div class="example">
 <p>»Can you describe how you align these elements?« [Answer]</p>
 <p>»What is good about the resulting design? « [Answer]</p>
 </div>
 <h2 id="dont-make-the-user-the-designer"><a href="#dont-make-the-user-the-designer">Don't make the user the designer</a></h2>
-<p>It is tempting to skip investigating the how and why of the participant’s work – and to ask the participant<br />how the final product should be like</p>
+<p>It is tempting to skip investigating the »how« and »why« of the participant’s work and to ask the participant instead directly<br />how the final product should be like</p>
 <div class="example">
-<p>Which function do you need for aligning products?</p>
+<p>Which function do you need for aligning objects?</p>
 </div>
 <p>This is basically asking the user for the design of the software.</p>
 <div class="example">
-<p>Yes, there should be a button for, like equal distributions… here. It should be easy so it should have a button with a ›distr‹ on it in red, so I don’t oversee it…</p>
+<p>Yes, there should be a button for, like equal distributions… here. It should be easy, so it should have a button with a ›distr‹ on it in red, so I don’t oversee it…</p>
 </div>
-<p>Asking the user for how a design should be sounds like a reasonable thing to do – the resulting designs would be directly based on the suggestions of the participant. But it usually leads to disastrous results. Even for experienced designers it may be hard to come up with good interfaces which are easy to learn and efficiently to use. How should somebody inexperienced in that task come up with a great interface?</p>
-<p>Another (highly tempting) way of »making the participant the designer« is to ask for the usefulness of hypothetical functions that you fancy:</p>
+<p>Asking the user for a design sounds like a reasonable thing to do – the resulting designs would be directly based on the suggestions of the participant.</p>
+<p>But it usually leads to disastrous results. Even for experienced designers it may be hard to come up with a good interface which is easy to learn and efficient to use. And even experienced designers take time, often creating multiple versions which are then tested. How should somebody inexperienced in that task come up with a great interface spontaneously?</p>
+<p>Another (highly tempting) way of »making the participant the designer« is to ask for the usefulness of hypothetical functions that you fancy yourself:</p>
 <div class="example">
 <p>Would a function for choosing a color scheme help you?</p>
 </div>
-<p>This is like asking »Do you want an additional tool which might be useful at some point and get it for free?«. If the interviewee can think of a few occasions in which such a tool <em>might</em>be useful, the answer will be »yes«. In addition,nothing can be found out about the how and why of the participant's work – like in other questions that ask for »yes« or »no« outcomes.</p>
-<p>If you really want to discuss a function instead of focusing on what the participant does and why this is done, give some context to the question and tie it to a specific situation.</p>
+<p>This is like asking »Do you want an additional tool which might be useful at some point and get it for free?«. If the participant can think of a few occasions in which such a tool <em>might</em> be useful, the answer will be »yes«. In addition,nothing can be found out about the »how« and »why« of the participant's work – just like with other questions that ask for »yes« or »no« outcomes.</p>
+<p>If you <em>really</em> want to discuss a function instead of focusing on what the participant does and why this is done, give some context to the question and tie it to a specific situation.</p>
 <div class="example">
 <p>We think of a system in which colors can be changed like you just changed the paragraph-styles. How would such a feature be relevant or not in the task you just described?</p>
 </div>
-<p>Thus, you can get more information on the tasks for which the feature you think of could be useful. The question is not tied to all possible situations but to a a specific one.</p>
-<p>Asking the user for design ideas and functions is tempting but rarely useful. If possible, avoid it and concentrate on the how and why of their work. If you really need to bring design or function ideas in tie them to a specific context and ask for descriptive answers instead of asking if something in general might be good or not.</p>
+<p>Thus, you can get more information on the tasks for which the feature could be useful. The question is not tied to all possible situations but to a specific one.</p>
+<p>Asking the user for design ideas and functions is tempting but rarely useful. If possible, avoid it and concentrate on the finding about how and why they work the way they do. If you really need to ask for designs or function ideas, tie them to a specific context and ask for descriptive answers instead of asking if something in general might be good or not.</p>
 <h2 id="referring-back"><a href="#referring-back">Referring back</a></h2>
 <p>In this section I will demonstrate how to maintain flow and elicit further information by referring to previous answers or demonstrations.</p>
-<p>A typical use of that method is asking for further information on something that interests you in particular. Refer back to the information and ask for elaboration.</p>
-<p>Here are some examples:</p>
-<div class="example">
-<p>That typography settings – you said they are far more precise than the ones in Word. Can you explain me how these differences help you to design compared to the ones in word?</p>
-</div>
-<p>or</p>
-<div class="example">
-<p>You said that you would continue with setting up the 'masterpage'. Can you show me how?</p>
-</div>
+<h3 id="referring-back-for-further-elaboration"><a href="#referring-back-for-further-elaboration">Referring back for further elaboration</a></h3>
 <figure>
 <img src="images/talkDiagram_ReferBackDirect.svg" alt="continue with same topic by referring back to someting just said" /><figcaption>continue with same topic by referring back to someting just said</figcaption>
 </figure>
+<p>A typical use of that method is asking for further information on something that was mentioned and which interests you in particular. In this case, refer back to the information and ask for elaboration.</p>
+<p>Here are some examples:</p>
+<div class="example">
+<p>That typography settings – you said they are far more precise than the ones in wordprocessors. Can you explain me how these differences help you to design compared to the ones in wordprocessors?</p>
+</div>
+<p>or</p>
+<div class="example">
+<p>You said that you would continue with setting up the ›masterpage‹. Can you show me how?</p>
+</div>
+<h3 id="referring-back-for-further-elaboration-1"><a href="#referring-back-for-further-elaboration-1">Referring back for further elaboration</a></h3>
 <figure>
 <img src="images/talkDiagram_ReferBackDistance.svg" alt="change the topic by referring to something said some time ago" /><figcaption>change the topic by referring to something said some time ago</figcaption>
 </figure>
-<p>You can refer back to the answer which was just given and continue with the same topic.</p>
-<p>Referring back can be used as well to provide a transition between <em>different</em> topics. This is especially useful if the participant is talking about something that deviates much from what you are interested in. By referring to something previously mentioned or demonstrated you can show that you have been attentive and thus make the topic change less intrusive:</p>
+<p>You can refer back to the answer which was just given and continue with the same topic. But referring back can be used as well to provide a transition between <em>different</em> topics. This is especially useful if the participant is talking about something that deviates much from what you are interested in. By referring to something previously mentioned or demonstrated you can show that you have been attentive and thus make the topic change less intrusive:</p>
 <div class="example">
-<p>»And that is the cover design we have now – thats pretty much what I can tell about making it« »There is a thing that caught my interest in particular: When you talked about creating that illustration, you mentioned that you use a graphic tablet for drawing. Why do you use that?«</p>
+<p>»…so this was a design made by some artist. It was really wired, I shared the office with him for some time. He always came with that dog of him which…« »Hmm…you previously talked about creating a cover for the book – you said that you try several designs. Can you describe how you try them?«</p>
 </div>
-<p>As well you can refer back to their answers to check your grasp of what the participant talked about. In this case, even closed questions are ok.</p>
+<h3 id="referring-back-to-check-your-understanding"><a href="#referring-back-to-check-your-understanding">Referring back to check your understanding</a></h3>
+<p>You can refer back to answers to check your grasp of what the participant talked about. In this case, even closed questions are ok.</p>
 <div class="example">
 <p>»I saw you choose the color from that palette down there – is this the same palette you choose the background color from?« »No, it is not – the palette I am using here is…«</p>
 </div>
@@ -529,14 +537,14 @@ conversation: You ask questions, the user answered them. -->
 <div class="example">
 <p>»So: If I want to print something first I need to ask for their color profile, when I have this, I load it in InDesign, choose the profile in the pdf dialog and then export it?« »Yes. I usually to a test afterwards by opening the pdf in addition«</p>
 </div>
-<p>These tehcniques explained here involve jumping back to some previously mentioned topic. This may seem difficult, since you need to remember some particular information (to refer to it later) while carrying on with the research. However it is not that hard – just give it a try. As well, keep in mind that you can make brief notes reminding you of things that are of interest – and with a look on your note sheet they will return to your memory if you forgot about them.</p>
+<p><br /><br /> These techniques explained here involve jumping back to some previously mentioned topic. This may seem difficult, since you need to remember some particular information (to refer to it later) while carrying on with the research. However, it is not that hard – just give it a try. As well, keep in mind that you can make brief notes reminding you of things that are of interest. With a look on your note sheet they will return to your memory in case you forgot about them.</p>
 <h2 id="how-exactly-would-you-do-it"><a href="#how-exactly-would-you-do-it">How exactly would you do it?</a></h2>
-<p>After you ask a question, participants will sometimes answer »in general«</p>
+<p>After you ask a question, participants will sometimes answer <em>»in general«</em></p>
 <div class="example">
 <p>»In general, I have a workflow of these steps: Research, Ideation, Creation, Evaluation. So in research I…«</p>
 </div>
-<p>It may seem great – after all, a general process which you can apply to just about anything is a finding we seem want! But actually these »in general« descriptions pose some problems: They lack a rich context and stand rather disconnected to other activities or motivations. The general principle is independent of such »minor« day to day things. But these seemingly trivial things give us the insights we need to find out why and how the participant is doing something in the real, particular situation. Such »general« procedures may as well be idealized and rarely applied in the way that is described.</p>
-<p>A way to get real-world, rich data is to ask for an example. Thus, you don’t say: »meh, these are all abstractions!« but you convey that you want to understand it better by getting an example, ideally by observing:</p>
+<p>It may seem great – after all, a general process which you can apply to just about anything is a finding we seem want! But actually these <em>»in general«</em> descriptions pose some problems: Since they are general and thus abstract they lack a rich context and stand rather disconnected to other activities or motivations. A general principle is independent of<br />such »minor« day to day things. But these seemingly trivial informations about the context of activities give us the insights we need to find out why and how the participant is doing something in the real, particular situation. Such »general« procedures may as well be heavily idealized and rarely applied in the way they are described.</p>
+<p>A way to get real-world, rich data is to ask for an example. Thus you don’t blatantly reject the »general« answer but you convey that you are interested and want to understand it better:</p>
 <div class="example">
 <p>Can you show me an example of how you put that principles into practice?</p>
 </div>
@@ -548,25 +556,27 @@ conversation: You ask questions, the user answered them. -->
 <div class="example">
 <p>»Can you show me how you do this in the project you are working on now – if that makes sense?«</p>
 </div>
-<p>Very often you may uncover that the reality is far less consistent and far more context depended than in the general examples. The findings are more interesting and inspiring as well:</p>
+<p>Very often you may discover that the reality is far less consistent and far more context-depended then in the general examples. The findings are more interesting and inspiring as well:</p>
 <div class="example">
 <p>Participant: »Well, in this project we have a tight deadline. So we needed to speed up. So I did some research… well, I reused some I did have from a similar project… and talked to a fellow student who did something similar. And then…«</p>
 </div>
-<p>By asking for examples and specific events instead of context free generalizations, you can get more information and avoid doing research on »general«, possibly not actually practiced ways of work.</p>
+<p>By asking for examples and specific events instead of context-free generalizations, you can get more information and avoid doing research on »general«, possibly not actually practiced ways of work.</p>
 <figure>
 <img src="images/ObservationDesignU3Cutting.jpg" alt="observing user’s actions after asking for a demonstration" /><figcaption>observing user’s actions after asking for a demonstration</figcaption>
 </figure>
 <h2 id="wrap-it-up"><a href="#wrap-it-up">Wrap it up</a></h2>
-<p>When you covered the topics you wanted to know about and explored them sufficently it may be time to wrap up. I made the experience that after 30 minutes I covered the my general questions. However, getting to know complex workflows takes longer. Same goes for getting deeper insights into (work) culture. As well, using observations and/or mapping tasks will need some time too. So if you go beyond a simple interview you should plan 1-2h for one research session.</p>
-<p>Don’t let this estimations fence you in: You will develop some intuition for the flow of the interview and how long it should take.</p>
-<p>Keep in mind that the research session should be comfortable for the participant. If he/she looks absent, yawns etc. it is time to wrap it up.</p>
+<p>When you covered the topics you wanted to know about and explored them sufficently by asking questions and observing it may be time to wrap up the research session.</p>
+<p>I made the experience that after 30 minutes I covered the my general questions. However, getting to know complex workflows takes longer. Same goes for getting deeper insights into (work) culture. As well, using observations will need some time too. So if you go beyond a simple interview you should plan 1-2h for one research session.</p>
+<p>Don’t let this estimations fence you in: You will develop some intuition for the flow of the reserach session and how long it should take.</p>
+<p>Keep in mind that the research session should be comfortable for the participant. If he/she looks absent, yawns etc. it is probably time to wrap it up.</p>
 <p>Before I finish I go through my cheat sheet and see if I did cover my questions. I try to summarize what I learned from the participant by going through my notes and verbalize the information. You can even announce it like this:</p>
 <div class="example">
 <p>This was very interesting. To wrap it up I want to give a brief summary of what I learned. Please feel free to correct me, if I misunderstood something! So: Your, you said that your work is to…</p>
 </div>
-<p>By verbalizing what you learned you can fill up any gaps and you have an ending that is not abrupt. When you finished going though your notes, thank the participant for taking the time. If you have any incentives or compensation, give them to the participant. In addition, I try to summarize the next steps in the research. I think it is nice to let the participant know, how the data matters for me:</p>
+<p>By verbalizing what you learned you can fill any gaps and create fade out the research session. When you finished going though your notes and giving your summary, thank the participant for taking the time. If you have any incentives or compensation, give them to the participant. In addition, I try to give an outlook on the next steps in the research. I think it is nice to let the participant know how the data matters for me:</p>
 <div class="example">
-<p>My next steps would be going though audio and notes. After anonymizing the data I and my colleague analyze your data and the data from other research session to find out how graphic designers work. We will try to improve our service by making it more suitable to this workflow.</p>
+<p>My next steps would be going though audio and notes. After anonymizing what we recorded, me and my colleague analyze the data and the data from other research sessions to find out how graphic designers work.</p>
+<p>We will try to improve our products by making it more suitable to this workflow.</p>
 </div>
 <h2 id="recording"><a href="#recording">Recording</a></h2>
 <h3 id="notes-and-sketches-on-paper"><a href="#notes-and-sketches-on-paper">Notes and Sketches on paper</a></h3>
@@ -574,17 +584,17 @@ conversation: You ask questions, the user answered them. -->
 <figure>
 <img src="images/notizenKlemmbrett.jpg" alt="making notes on a clipboard" /><figcaption>making notes on a clipboard</figcaption>
 </figure>
-<p>During the interview you will take brief notes. This is rather similar like taking notes in school or university: You go for the gist of what was said – you don't write down the exact words (Except in the case you find an expression itself important). One finding, utterance or observation goes in one line.</p>
-<p>Your primary focus is observing, listening and asking questions. You can’t just look at your note sheet and read some questions. So you need to do the notetaking <em>in addition</em> to observing, listening and asking.</p>
-<p>If you don’t care too much about your handwriting, you can write notes without much looking at the paper except for some occasional glances. In case you find something very important and fear forgetting it, you can ask the participant to repeat the utterance – but keep this to a minimum.</p>
+<p>During the interview you will take brief notes. This is rather similar like taking notes in school or university: You go for the gist of what was said but you don't write down the exact words (Except in the case you find an particular expression itself important). One finding, utterance or observation goes in one line.</p>
+<p>You can’t just look at your note sheet and write down what the participants says without ever looking at him/her. So you need to do the notetaking <em>in addition</em> to observing, listening and asking.</p>
+<p>If you don’t care too much about your handwriting you can write notes without much looking at the paper except for some occasional glances. In case you find something very important and fear forgetting it, you can ask the participant to repeat the utterance – but keep this to a minimum.</p>
 <p>If you can, try to provide some context in your notes. Thus, the point you write down has a meaning on it’s own:</p>
 <div class="example">
-Rather than writing <em>»she clicks«</em> (what? Why?) you could write <em>»Clicks save button → finishes step«</em> or the like
+Rather than writing <em>»she clicks«</em> (what? Why?) you could write <em>»Clicks save button → finishes balancing the elements«</em> or the like.
 </div>
 <div class="example">
 Rather than »creates empty page« write »creates empty pages to organize drafts«
 </div>
-<p>If your notes have a meaning on their own it will be far easier to analyze the participant’s needs later.</p>
+<p>If your notes have a meaning on their own it will be far easier to analyze them later.</p>
 <h4 id="sketches"><a href="#sketches">Sketches</a></h4>
 <p>Observations are, by nature, visual and concerned with processes. Make sketches or even little storyboards to capture what you see. It depends on the situation and your capabilities in drawing quickly (or rather, your trust in that capability).</p>
 <p>It is very useful that you can choose what to draw: highlight what is important, leave out what is irrelevant and make annotations to ease understanding the sketches later.</p>
@@ -593,19 +603,20 @@ Rather than »creates empty page« write »creates empty pages to organize draft
 <img src="images/sketchesInNotes.png" alt="Sketches on the note sheet" /><figcaption>Sketches on the note sheet</figcaption>
 </figure>
 <h4 id="after-the-interview"><a href="#after-the-interview">After the interview</a></h4>
-<p>It is essential to take time after the research session to supplement your notes with information from your memory. While collecting the data with the participant you will be very busy listening and thinking of following questions, so you may not be able to keep up with writing notes and drawing sketches. There is no need to worry since usually you'll remember how to fill these gaps from your memory. But you need to do it quickly. If you don’t do it right after the interview, your memory fades and the chance to supplement the information is gone.</p>
-<p>To supplement your notes of the research session just go through them chronologically and add annotations. A part of these additions are things that are not in the notes yet but still in my memory. In this case I add them, like</p>
+<p>It is essential to take time after the research session to supplement your notes with information from your memory. While collecting the data with the participant you will be very busy listening and thinking of following questions. So you may not be able to keep up with writing notes and drawing sketches. There is no need to worry since usually you'll remember how to fill these gaps from your memory. But you need to do it quickly. If you don’t do it right after the interview, your memory fades and the chance to supplement the information is gone.</p>
+<p>To supplement your notes of the research session just go through them chronologically and add annotations.</p>
+<p>A part of these additions are things that are not in the notes yet but still in my memory. In this case I <em>add</em> them, like</p>
 <div class="example">
 
 </div>
-<p>or I supplement some existing point with additional information:</p>
+<p>or I supplement some <em>existing</em> point with additional information:</p>
 <div class="example">
-<p>Sketching paper kept ready. [ADDITION]: <em>On the go in the backpack, at the workplace right on the desk</em></p>
+<p>Sketching paper kept ready. [ADDITION]: <em>In transit: in the backpack; at the workplace: right on the desk</em></p>
 </div>
-<p>You can give very brief notes more meaning by adding context from your memory</p>
+<p>You can give brief notes more meaning by adding context from your memory:</p>
 <div class="example">
 <ul>
-<li>She saves old ideas <a href="*She%20looks%20at%20her%20sketches%20before%20she%20starts%20working*">ADDITION</a>: For later inspiration in other projects *</li>
+<li>She saves old ideas [ADDITION]: For later inspiration in other projects *</li>
 </ul>
 </div>
 <div class="gallery four">
@@ -629,31 +640,31 @@ Memory fades quickly
 </div>
 
 
-<p>When revising your sketches, redraw a line if the sketch is ambiguous and add annotations if you think that they might ease interpreting the sketch later on.</p>
-<p>Think of your future self: Some notes may make perfect sense to you now but as memory fades they will seem cryptic later. So supplement and clarify your sketches and notes so you can comprehend them after your memories of the experience faded.</p>
+<p>When revising your sketches, redraw the lines if the sketch is ambiguous otherwise and add annotations if you think that they might ease interpreting the sketch later on.</p>
+<p>Think of your future self: Some notes may make perfect sense to you now but since memory fades, they will seem cryptic later. So supplement and clarify your sketches and notes so you can comprehend them after your memories of the experience have faded.</p>
 <div class="example">
-<p>I may have something like a written line <em>»Big changes«</em> on in my Notes. I remember that it was about the participant thinking that her colleagues make bigger changes between to two versions of their designs than she. I added this information to the notes.</p>
+<p>I have line <em>»Big changes«</em> in my Notes. I remember that I made this note when the participant told me that her colleagues make bigger changes between to two versions of their designs than she does. I added this information to the notes, since it provided a way to understand what the »big changes« actually refer to.</p>
 </div>
-<p>Similarly, if my writing is rather messy I rewrite some words to ensure that I can still read what I wrote.</p>
-<p>I write and draw my supplements in another color. When I wrote my notes during the interview with a blue pen I use black for the supplements or vice versa, since I like to be able to keep track of what I did in which step of the process.</p>
+<p>Similarly, if my writing is rather messy, I rewrite some words to ensure that I can later decipher what I wrote.</p>
+<p>I write and draw my supplements in another color than the original notes. When I wrote my notes during the interview with a blue pen I use black for the supplements or vice versa, since I like to be able to keep track of what I did in which step of the process.</p>
 <div class="example">
 <figure>
 <img src="images/NotesSupplements2Anno.png" />
 </figure>
-<p>In this scanned part of a note sheet you see how the supplements are used: <strong>1)</strong> These parts have been partly rewritten in black as it was too messy before. <strong>2)</strong> At the right you see an newly drawn annotated sketch that provides a visual representation (how the document is organized by inserting empty pages). <strong>3.)</strong> More information has been provided. It was »keeping for inspiration«, now its »keeping old stuff for inspiration«</p>
+<p>In this scanned part of a note sheet you see how the supplements are used: <strong>1)</strong> These parts have been partly rewritten in black as it was too messy before. <strong>2)</strong> At the right you see an newly drawn annotated sketch that provides a visual representation (how the document is organized by inserting empty pages). <strong>3.)</strong> More information has been provided. It was »keeping for inspiration«, now its »keeping <em>old stuff</em> for inspiration«</p>
 </div>
-<p>Using different colors is useful for another type of supplement: Ideas or remarks in connection to your notes. When I go through the notes I often have some ideas for a design or a question which I would like to further explore in a future interview. If there is still space, I write them down in a third color or I prefix the note with <em>»IDEA:«</em> or <em>»QUESTION«</em> in order to prevent myself of mixing ideas with empirical data.</p>
+<p>Using different colors is useful for another type of supplement: Ideas or remarks in connection to your notes. When I go through the notes I often have some ideas for a design or a question which I would like to further explore in a future interview. I write them down in a third color or I prefix the note with <em>»IDEA:«</em> or <em>»QUESTION«</em> in order to prevent myself of mixing ideas with empirical data.</p>
 <p>Writing notes, drawing sketches and supplementing them hereafter will enable you to preserve information in the most situations. However, for complicated descriptions of workflows or if you just loose track by accident, it might be useful to have a backup by using audio recording.</p>
 <h4 id="getting-it-into-the-computer"><a href="#getting-it-into-the-computer">Getting it into the computer</a></h4>
-<p>When I added my supplements to the notes and sketches I usually type them in a Word document. In addition, I scan my notes, so I can easily cut and paste my sketches into the document.</p>
-<p>When transcribing the document, I take care that each line in the digital transcript has only one finding in it and not several, so that I don't tie two separate findings together. Make sure that the data you write down is meaningful on its own and is not just a single word or a description which is free of any context and thus hard to set in relation to other data.</p>
+<p>When I added my supplements to the notes and sketches I usually type them in a wordprocessor document. In addition, I scan my notes, so I can easily cut and paste my sketches into the document.</p>
+<p>When transcribing the note, I take care that each line in the digital transcript has only one finding in it and not several, so that I don't tie two separate findings together. Make sure that the data you write down is meaningful on its own and is not just a single word or a description which is free of any context and thus hard to set in relation to other data.</p>
 <div class="example">
 <p>Not meaningful on its own (means mostly: too short):</p>
 <ul>
 <li>I duplicate objects</li>
 <li>making space</li>
 </ul>
-<p>If there is any way to add the actual context (out of the memory or using other notes) these notes should be supplemented with that context which hopefully helps us to get to know why are objects are duplicated and for which purpose is the space is made.</p>
+<p>If there is any way to add the actual context (out of the memory or using other notes) these notes should be supplemented with that context which hopefully helps us to get to know <em>why</em> are objects are duplicated and for <em>which purpose</em> is the space is made.</p>
 </div>
 <div class="example">
 <p>Too many findings in one line (means as well: too long):</p>
@@ -672,24 +683,24 @@ Memory fades quickly
 </div>
 <p>The notes and later added supplements from my memory are treated alike in my documents since they are all data I gathered by listening or observing the participant. But I take care that later added design ideas and research questions are still easily distinguishable from the actual data that I gathered in the research session.</p>
 <h4 id="making-photos"><a href="#making-photos">Making Photos</a></h4>
-<p>Making photos is rather easy and can capture lots of information. For example, you can photograph the participant's desk to aid your memory. Later you can go back and see what was on it: Paper, pens, computer; were there tidy looking stacks and containers for all the utensils? Or was it seemingly messy?</p>
-<p>You can even photograph the users screen content if your research involves computers and gadgets. Tech savvy users may cringe since a software based screenshot is technically superior – but if the user does not know you to make a screenshot, a camera is a handy way to capture the screen.</p>
-<p>For utilizing photos you should know how to make good or at least o.k.ish photos with your camera quickly and reliable. Take a device you know and which has a good auto-mode. The only setting that I use beyond that is the exposure compensation in case the part of the image you are interested is totally dark or disappears in light.</p>
-<p>Avoid complicated set-ups or even arranging the participant and his/her tools. Arranging the participant and his/her tools would change the data you record. Aside from this remember that the purpose is to record data and not making stylish pictures.</p>
+<p>Making photos is rather easy and can capture lots of information. For example, you can photograph the participant's desk to aid your memory. Later, you can go back and see what was on it: Paper, pens, computer; were there tidy looking stacks and containers for all the utensils? Or was it seemingly messy?</p>
+<p>You can photograph the users screen if your research involves computers and gadgets. Tech savvy users may cringe since a software based screenshot is technically superior – but if the user does not know you to make a screenshot, a camera is a handy way to capture the screen.</p>
+<p>For utilizing photos you should know how to make good or at least o.k.ish photos with your camera quickly and reliably. Take a device you know and which has a good auto-mode. The only setting that I use beyond that is the exposure compensation in case an important part of the image totally dark or disappears in light. Exposure compenstaion allows to adjust that.</p>
+<p>Avoid complicated set-ups or even arranging the participant and his/her tools. Arranging the participant and his/her tools would change the data you record.</p>
 <figure>
 <img src="images/NutzerFotografieren.jpg" alt="photographing the working user" /><figcaption>photographing the working user</figcaption>
 </figure>
 <figure>
 <img src="images/ObservationDesignU4ScreenFontMix.jpg" alt="photographing a screen instead of using screenshots" /><figcaption>photographing a screen instead of using screenshots</figcaption>
 </figure>
-<p>After the research session go through your photos like you went through your notes. If it makes sense, you can use the information from the photos to supplement your notes. It might as well useful to summarize what one sees on the photo. These descriptions can be used more easy than the photo itself when doing the analysis.</p>
+<p>After the research session go through your photos just like you went through your notes. If it makes sense, you can use the information from the photos to supplement your notes. It might as well useful to summarize what one sees on the photo. These descriptions can be used more easy than the photo itself when doing the analysis.</p>
 <div class="example">
 <p>For the photo above you might add the following line to your notes: »participant displays different font combinations in the layout application to see if the fonts go well together (see U2-14-9-14_1.jpg)«</p>
 </div>
 <h3 id="recording-audio"><a href="#recording-audio">Recording Audio</a></h3>
-<p>Unlike making notes on paper making an audio recording is a rather passive process except for pressing the record button.</p>
+<p>Unlike making notes on paper, making an audio recording is a rather passive process except for pressing the record button.</p>
 <p>I recommend using audio recordings – it is a useful supplement to your notes. It will record the audio during the research session so that you can listen to what was said hereafter. Note that it is not a perfect capture of all that happened: It records only sound, so if the participant points to the screen and refers to »this«, the recording is not much of help.</p>
-<p>After the research session I listen to the recording. Usually I have the audio as a .mp3 and the Notes as a typed out plaintext or <em>.doc</em> (see <em>notes and Sketches on Paper</em>), so I can open audio and transcript in parallel on my computer. When the audio contains information which is not in the document or if it supplements information that is already there, I pause the playback and write the additional information in the document. So the process is very similar to supplementing your notes from memory.</p>
+<p>After the research session I listen to the recording. Usually I have the audio as a .mp3 and the notes as a typed out plaintext or wordprocessor document (see <em>notes and Sketches on Paper</em>), so I can open audio and transcript in parallel on my computer. When the audio contains information which is not in the document or if it supplements information that is already there, I pause the playback and write the additional information in the document. So the process is very similar to supplementing your notes from memory.</p>
 <div class="example">
 <p>Recording: »…hmm I send it to my boss. She will check it. Now I go to that other document, and see…«</p>
 <p>The notes say: »Send document via mail«</p>
@@ -700,11 +711,31 @@ Memory fades quickly
 <h2 id="introduction-to-data-analysis"><a href="#introduction-to-data-analysis">Introduction to data analysis</a></h2>
 <h3 id="why-analysis"><a href="#why-analysis">Why analysis?</a></h3>
 <p>In the analysis we will take a closer look at the data and organize it after patters. By organizing after patterns the results can be remembered, communicated and be used in design. These uses would be hardly possible if when having several hundred single notes and observations like they come directly from interviews and observations. Thus we use an analysis of the data to process these notes and bring them in a usable, organized form.</p>
+<div class="example">
+<p>Here is a part of an analyis.</p>
+<ul>
+<li><em>Overarching principle</em>: using existing work for inspiration 
+<ul>
+<li><em>sub-principle</em>: review previous projects 
+<ul>
+<li>Data: &quot;I have a look at an old project to see how I solved this problem…&quot;</li>
+<li>Data: Participant serches for…</li>
+<li>…</li>
+</ul></li>
+<li><em>sub-principle</em>: use other’s work  for inspiration
+<ul>
+<li>Data: &quot;I look on google images how other calendars look like&quot;</li>
+<li>Data: browses through the book to see…</li>
+<li>…</li>
+</ul></li>
+</ul></li>
+</ul>
+</div>
 <h3 id="invent-by-principles"><a href="#invent-by-principles">Invent by principles</a></h3>
-<p>Maybe you know Bret Victors <a href="http://vimeo.com/36579366">talk on »Inventing on Principle«</a>. He shows how he used the principle (you could as well say »motto« or »guideline«) <em>»Creators need an immediate connection to what they're creating«</em> to design software that allows to program or create animations – without intermediate steps like choosing numerical values for parameters and <em>imagining</em> how the result will be and hereafter executing it to see how it actually plays out.</p>
-<p>By analyzing our data we can create such principles for our own projects. They may not as overarching and all-encompassing like Brat Victors principle, but they will help us to guide our designs and to evaluate them. You can ask yourself: »Does this idea follow my principles? Does it violate some of them?« or could ask »With which design could I realize this principle?«. Since they are based on our data, they will express the actual needs of your users and not some (potentially stereotypical) assumptions.</p>
+<p>Maybe you know Bret Victors <a href="http://vimeo.com/36579366">talk on »Inventing on Principle«</a>. He shows how he used the principle (you could as well say »motto« or »guideline«) <em>»Creators need an immediate connection to what they're creating«</em> to design software that allows to program or create animations – without intermediate steps like choosing numerical values for parameters and without the need for <em>imagining</em> how the result will be and hereafter executing it. Instead, in his solutions, taking actions and seeing the result happen in parallel.</p>
+<p>By analyzing our data we can create such principles for our own projects. They may not as overarching and all-encompassing like Brat Victors principle, but they will help us to guide our designs and to evaluate them. You can ask yourself: »Does this idea follow my principles? Does it violate some of them?« or could ask »With which design could I realize this principle?«. Since the principles are based on our data, they will express the actual needs of your users and not some (potentially stereotypical) assumptions.</p>
 <h3 id="what-makes-a-principle-as-principle"><a href="#what-makes-a-principle-as-principle">What makes a principle as principle?</a></h3>
-<p>The principles we derive from the data should be a statement on their own – not just be describe a common property of the observations and utterances (i.e. the data) they are derived from. A simple test is to ask yourself if the principle could actually be true or false. The Principle »Colors« probably will sum up all data which has some relation to color. Nobody could say that the Principle »Color« is wrong. But »Colors added later in design« is a principle that might be true or not. Thus it makes a statement instead of just referring to some common property like the same tool (»file mananger«) mentioned or similarly judged things (»good«) stuff. But what interests us is: What is the meaning of the file manager in the user’s workflow? What causes these things to be judged as »good«?</p>
+<p>The principles we derive from the data should be a statement on their own – not just be describe a common property of the observations and utterances (i.e. the data) they are derived from. A simple test is to ask yourself if the principle could actually be true or false. The Principle »Colors« probably will sum up all data which has some relation to color. Nobody could say that the Principle »Color« is wrong. But »Colors are added later in design« is a principle that might be true or not. Thus it makes a statement instead of just referring to some common property like the same tool (»file mananger«) mentioned or similarly judged things (»good«) stuff. But what interests us is: What is the meaning of the file manager in the user’s workflow? What causes these things to be judged as »good«?</p>
 <p>Statement-like themes are very valuable in design, because they have a meaning you can test if ideas are coherent with the principle or not. You got a design idea? Check if it makes sense in the context of the principles you found out in user research. In need for inspiration? See if your principles refer to problematic areas where the users activities are clashing with the current tools.</p>
 <div class="example">
 <p>Let’s say we gathered this data (among others) in research with beginners in web programming:</p>
@@ -743,10 +774,10 @@ Memory fades quickly
 <p>Nevertheless, just creating groups which are based on commonalities can be an important step in the analysis. Just remember that you should come back and try to go beyond groups based on commonalities.</p>
 </div>
 <h3 id="doing-the-right-analysis"><a href="#doing-the-right-analysis">Doing the right analysis?</a></h3>
-<p>The data analysis is done by inferring principles from single data points like utterances and observations. Thus the process is empirical (as it is based on gathered data) but if the same data is used, analysis made by different people will differ. This is because the result of the analysis depends on the reasonable but still individual and debatable interpretation of the data. You could say that »looking at last years design to reuse elements« belongs to a group concerned with »I want to save saving time« or to one related to the topic of »reviewing designs for inspiration« (given that it could serve both from the user's perspective).</p>
+<p>The data analysis is done by inferring principles from single data points like utterances and observations. Thus the process is empirical (as it is based on gathered data) but if the same data is used, analysis made by different people will differ. This is because the result of the analysis depends on the reasonable but still individual and debatable interpretation of the data. You could say that »looking at last years design to quickly reuse elements« belongs to a group concerned with »I want to save time« or to one related to the topic of »reviewing designs for inspiration« (given that it could serve both from the user's perspective).</p>
 <p>There is no right or wrong nor a clear cut criteria of being »close enough« to the data when you create the principles and groups. Instead of having a clear, measurable rule like »you must have 0.5 significance in statistics, most important is that your analysis is plausible (instead of »right« or »wrong«).</p>
-<p>I compare the process of analysis to building a house from a box of Lego® bricks. These bricks are like the not-yet-analysed data you start with. When you build a house out of these bricks, there is no »right« building. But it is not a process that is random.</p>
-<p>There are many, many ways to stack up the bricks – but only a very few of these ways will result in something that can be plausibly called a house.</p>
+<p>I compare the process of analysis to building a house from a pile of Lego® bricks. These bricks are like the not-yet-analysed data you start with. When you build a house out of these bricks, there is no »right« building. But neither is it a process which is arbitrary.</p>
+<p>There are many, many ways to stack up the bricks – but only a very few of these generaly possible ways will result in something that can be plausibly called a house.</p>
 <div class="gallery two">
 <figure>
 <img src="images/lego_bricksToStartWith.jpg" alt="possible arrangement of bricks – but not a house" /><figcaption>possible arrangement of bricks – but not a house</figcaption>
@@ -755,15 +786,16 @@ Memory fades quickly
 <img src="images/lego_houseFinished.jpg" alt="one way to build a house" /><figcaption>one way to build a house</figcaption>
 </figure>
 </div>
-<p>As well how your final Lego® house will look like is not determined from the beginning, rather you will change designs, move walls and sometimes try to use the same piece in different parts of the building to try out and improve. The same things will happen when you analyze data: There are many very many possible ways to just arrange the data, but only some of them will create something that is meaningful to you and others. This creation of a meaningful structure is not determined at the beginning, but a process, just like building your Lego® house, in which you trial, fail, find improvements and step by step come closer to a structure you are satisfied with.</p>
+<p>How your final Lego® house will look like is not determined from the beginning, rather you will change designs, move walls and sometimes try to use the same piece in different parts of the building to try out and improve. The same things will happen when you analyze data: There are many very many possible ways to just arrange the data, but only some of them will create something that is meaningful to you and others. This creation of a meaningful structure is not determined at the beginning, but a process, just like building your Lego® house, in which you trial, fail, find improvements and step by step come closer to a structure you are satisfied with.</p>
 <h3 id="hierarchical-organization-of-data"><a href="#hierarchical-organization-of-data">Hierarchical organization of data</a></h3>
 <p>We will analyze our data by sorting it in groups (you can as well say: by clustering it). The data in one group will relate to a particular theme or, better, a principle, which is common to the data in the group.</p>
 <p>We write down this theme or principle as a title for the group. If you analyze your data using paper notes, your titles will be written on a sticky note of a specific color (choose one, but stick with it). If you use a word processor, use a headline for the groups titles.</p>
-<p>Sometimes you will have groups which relate to a common principle themselves. In this case it makes sense to make a group of groups. If you analyze on paper notes, use sticky notes of a color different from the usual group sticky notes (lets say, normal group titles go on yellow notes, titles of groups-of-groups go on green sticky notes). If you analyze your data in a word processor use a bigger (hierarchically higher) headline (if you use headline 2 for normal groups, choose headline 1 for group-of-groups titles)</p>
+<p>Sometimes you will have groups which relate to a common principle themselves. In this case it makes sense to make a group of groups. If you analyze on paper notes, use sticky notes of a color different from the usual group sticky notes (lets say, normal group titles go on yellow notes, titles of groups-of-groups go on green sticky notes). If you analyze your data in a word processor use a bigger (hierarchically higher) headline (if you use the »headline 2«-style for normal groups, choose &quot;headline 1&quot;-style for group-of-groups titles)</p>
 <h2 id="annotate-and-prepare-the-data"><a href="#annotate-and-prepare-the-data">Annotate and prepare the Data</a></h2>
-<p>The first step of analysis is to review your data and annotate it in order to find possible interpretations and to reveal principles and meaning behind the observations and utterances.</p>
-<p>The annotations should be clearly distinguishable from data you got directly from observation or user interviews – just like other data you did add yourself (e.g. design ideas). I would recommend using a word processor with a comment function. Open your transcript, mark the part you want to annotate with your interpretation, then click the »comment« button. If you don't use a word processor, but plaintext, use something like <em>»COMMENT:«</em> to mark your comments; If you prefer scribbling notes with a pen and a highlighter, print your notes with double line spacing to have enough room for writing.</p>
-<p>Annotating your data is a creative process. If in doubt whether an annotation is relevant or not: opt for writing it. Later on it might become useful. If you are unsure about something or an idea seems to be far fetched, just go for it. Since you keep data and comments distinguishable you can always throw stuff out again. The goal is not to come up with great annotations but to wrap your head around the data and to find possible ways to interpreting it.</p>
+<p>The first step of analysis is to review your data and annotate it in order to find possible interpretations, principles and meaning behind the observations and utterances.</p>
+<p>The annotations should be clearly distinguishable from data you got directly from observation or the participant’s answers – just like other things you did add yourself (e.g. design ideas).</p>
+<p>I would recommend using a word processor with a comment function. Open your transcript, mark the part you want to annotate with your interpretation, then click the »comment« button. If you don't use a word processor, but plaintext, use something like <em>»COMMENT:«</em> to mark your comments; If you prefer to do your annotations with a pen and a highlighter, print your notes with double line-spacing to have enough room for writing.</p>
+<p>Annotating your data is a creative process. If in doubt whether an annotation is relevant or not: opt for writing it. Later on it might become useful. If you are unsure about something or an idea seems to be far fetched, just go for it. Since you keep data and comments distinguishable from each other you can always throw stuff out again. The goal is not to come up with great annotations but to wrap your head around the data and to find possible ways to interpreting it.</p>
 <figure>
 <img src="images/commentsAnalysis.png" alt="Annotating data in a wordprocessor" /><figcaption>Annotating data in a wordprocessor</figcaption>
 </figure>
@@ -774,18 +806,18 @@ Memory fades quickly
 <figure>
 <img src="images/analysisWord_copypaste.png" alt="analysing data digitally by using a word processor" /><figcaption>analysing data digitally by using a word processor</figcaption>
 </figure>
-<p>After annotating your data you should take the decision in which media you want to conduct your analysis: Digital in a word processor, where lines hold the basic units of data, or analog on paper, where sticky notes are your mean of arranging the data.</p>
-<p>The methods described here can be used in both media. Nevertheless, each way has different strengths.</p>
+<p>After annotating your data you should take the decision in which media you want to conduct your analysis: Digital in a word processor, where lines hold the basic units of data, or analog on paper, where sticky notes are your means of dealing with the data.</p>
+<p>The analysis methods described here can be used in both media. Nevertheless, each way has different strengths.</p>
 <h3 id="comparison"><a href="#comparison">Comparison</a></h3>
-<p>The resources you need for the digital analysis in a word processor is the word processor itself. An analogue analysis needs sticky notes, paper, a printer (or a lot of patience to write all by hand), (removable) tape and a big wall (2m*3m minimum!). Usually the wall is the showstopper here. But why should you want to use an analog analysis if it needs all or these resources? Partly, the decision can be based on preferences: Some people like that they can move around the notes by hand and can get an overview of their data by just stepping back and glancing over it. However, a big difference is how you work in a team.</p>
-<p>If you work with peers on your analysis you have some when using the analogue pen and paper approach: you can discuss your ideas and will get new ideas how to structure the data by others. You could as well invite your boss to take a look and be part of the team, at least for some time. This type of on-site, collaborative, analysis is best done analogue. It is easy to move notes around, and you can refer by pointing to data or just carry it over and ask for an interpretation or the like. Using digital tools it is not that easy – despite of all the great tools we have nowadays.</p>
+<p>The resources you need for the digital analysis in a word processor is the word processor itself. An analogue analysis needs sticky notes, paper, a printer (or a lot of patience to write all by hand), (removable) tape and a big wall (2m*3m minimum!). Usually the wall is the showstopper here. But why should you want to use an analog analysis if it needs all these resources? Partly, the decision can be based on preferences: Some people like that they can move around the notes by hand and can get an overview of their data by just stepping back and glancing over it.</p>
+<p>If you work with peers on your analysis you have some advantages when using the analogue pen and paper approach: you can easily discuss your ideas with other and will get new ideas how to structure the data. You could as well invite your boss to take a look and be part of the team, at least for some time. This type of on-site, collaborative, analysis is best done analogue. It is easy to move notes around, and you can refer by pointing to data or just carry it over to someone and ask for an interpretation. Using digital tools it is not that easy and direct– despite of all the great digital tools we have nowadays.</p>
 <h3 id="how-to"><a href="#how-to">How-to</a></h3>
 <h4 id="analog"><a href="#analog">Analog</a></h4>
 <p>For working analog I recommend the following steps to get analysis-ready:</p>
 <ol type="1">
-<li>Create Table in a word processor, many rows, 2 columns (given you print on DINA4) . Each table cell will be a note.
+<li>Create table in a word processor, many rows, 2 columns (given you print on DINA4) . Each table cell will be a note.
 <ol type="1">
-<li>In the table settings, switch off page breaks in cells and switch »keep paragraphs together« on, so that one note/table cell does not place between pages.</li>
+<li>In the table settings, switch off page breaks in cells and switch »keep paragraphs together« on, so that one note/table cell will not break between pages.</li>
 <li>In the table settings, choose a decent padding around each cell, like 0.5cm</li>
 <li>Choose a font size of about 12pt, large enough to read it<br /> <img src="images/createAnalogNotes.png" /></li>
 </ol></li>
@@ -793,35 +825,45 @@ Memory fades quickly
 <li>print it</li>
 <li>cut out each table cell (=piece of data)</li>
 <li>cover the wall with the paper from paper rolls (thus you can remove the analysis, roll up the paper and archive it and you could remove it from the wall temporarily)</li>
-<li>during analysis you will stick your printed notes on the widths of paper using removable tape, crepe tape or spray glue – something sticky but non-permanent, so you can move the notes around to gradually improve the structure.</li>
+<li>during analysis you will stick your printed notes on the widths of paper using removable tape, crepe tape or spray glue – something sticky but non-permanent, so you can move the notes around in order to gradually improve the structure.</li>
 </ol>
 <h4 id="word-processor"><a href="#word-processor">word processor</a></h4>
+<p>For working digital I suggest the following steps for preparing your analysis:</p>
 <ol type="1">
 <li>Create a new document</li>
 <li>paste your transcript into that document</li>
 <li>Add a page break before the transcript to separate not-yet-grouped data from your (upcoming) structure of lines grouped by principles.</li>
 <li>During analysis you will create groups. Each group gets a headline. Create a hierarchy by using different paragraph styles – bigger headlines encompass smaller, lower in hierarchy headlines.</li>
-<li>Similar data is organized in lists. Make press enter to create new list points and paste your data in.</li>
-<li>To rearrange data you can use copy paste, drag and drop and the automatic tools the word processor provides (toolbar to move points in lists etc.)</li>
+<li>Similar data is organized in lists.</li>
+<li>To rearrange data you can use copy paste, drag and drop and the tools the word processor provides (toolbar to move points in lists etc.)</li>
 <li>If you use paragraph styles you can use the navigation tool of the wordprocessor to scan through your structure</li>
 </ol>
 <h2 id="firstStructure"><a href="#firstStructure">Develop a first Structure</a></h2>
-<p>After you annotated your data you can start to structure the data. Structuring the data means suggesting principles behind the data, naming these principles and decide which data falls under which principle.</p>
+<p>After you annotated your data you can start to structure the it. Structuring the data means suggesting principles behind the data, naming these principles and decide which data falls under which principle.</p>
 <p>You don't use all your data yet. Start with what you find useful when skimming through it or use just the data of two participants for now. The goal is to set up some preliminary structure, like a scaffold.</p>
 <figure>
 <img src="images/lego_housefirstStructure.jpg" alt="setting up a basic structure" /><figcaption>setting up a basic structure</figcaption>
 </figure>
 <h3 id="move-in-approximation"><a href="#move-in-approximation">Move in Approximation</a></h3>
-<p>The easiest way to start a structure is moving similar data in approximation. If you do an analogue analysis, just cluster notes you assume to follow a common principle in one place and notes for other principles in other places. If you analyze using a wordprocessor, create a list and paste the lines into this list. You might as well just separate lines that should go together by several line breaks above and below.</p>
+<p>The easiest way to start a structure is moving similar data in approximation. If you do you anaysis on paper, cluster notes you assume to follow a common principle in one place and notes for other principles in other places. If you analyze using a wordprocessor, move similar notes in adjacent lines. Create different groups, each containing similar notes, by using several line breaks above and below such a group or by creating a list for each assumed group or principle.</p>
 <div class="example">
 <ul>
-<li><p>Asking herself: what would impress the person (a safety advisor)<br /> »probably not that the blueprint is beautiful«</p></li>
-<li>Good: Something that is not only useful, but aesthetical as well<br /></li>
+<li>Asking herself: what would impress the person (a safety advisor) »probably not that the blueprint is beautiful«</li>
+<li>Good: Something that is not only useful, but aesthetical as well</li>
 </ul>
-<em>These Principles have in common that they are about aesthetics and requirements. I did not have a good idea about a possible group title or even a principle, so I just moved them in approximation.</em>
+<p><em>These Principles have in common that they are about aesthetics and requirements. I did not have a good idea about a possible group title or even a principle, so I just moved them in approximation.</em></p>
+</div>
+<div class="gallery two">
+<figure>
+<img src="images/abstractGroupLines.svg" alt="two (preliminary) groups as lines (the digital way)" /><figcaption>two (preliminary) groups as lines (the digital way)</figcaption>
+</figure>
+<figure>
+<img src="images/abstractGroupPapers.svg" alt="two (preliminary) groups as sticky notes (the analog way)" /><figcaption>two (preliminary) groups as sticky notes (the analog way)</figcaption>
+</figure>
 </div>
 <h3 id="name-commonalities"><a href="#name-commonalities">Name Commonalities</a></h3>
-<p>You may have some data you assume to encompass a common principle but you don't know the principle yet. But you have a vague feeling that it may be connected to something. Then just write that something as a preliminary title. A group name, even if it is not a principle, will make dealing with the data easier. It gives your data some structure. As you gather other data that falls under that (yet vague) category you may get to know how to state the principle in a better way.</p>
+<p>You may have some data you assume to encompass a common principle but you don't know the principle yet. But you have a vague feeling that it may be connected to something. In this case just give that group of data a preliminary title. A group name, even if it is not a principle, will make dealing with the data easier since it gives your data some structure.</p>
+<p>As you gather other data that falls under that (yet vague) category you may get an idea of how to state the principle in a better way.</p>
 <div class="example">
 <ul>
 <li>Inspiration
@@ -839,14 +881,14 @@ Memory fades quickly
 <p><em>These are mere titles, naming a commonality of the underlying data but telling nothing useful for design (yet)</em></p>
 </div>
 <h3 id="name-principles"><a href="#name-principles">Name principles</a></h3>
-<p>You may have read through your annotations and have noticed something that may make a good principle right away. Great. Just write it down and assign the primary data to it. Even if you have only one or two pieces of data that fit the principle, don't worry, just see if the principle will emerge to be bigger. If not, you can still revise the principle or just get rid of it and see where else the data might fit.</p>
+<p>You may have read through your annotations and have noticed something that may make a good principle right away. Great. Just write it down and assign the data to it. Even if you have only one or two pieces of data that fit the principle, don't worry, just see if the principle will emerge to be bigger. If not, you can still revise the principle or just get rid of it and see where else the data might fit.</p>
 <div class="example">
 <p>My first found principles were these:</p>
 <ul>
 <li>Review previous projects</li>
 <li>Test designs in the media you deliver in</li>
 </ul>
-<p><br /><br /> The structure of my analysis looked linke that (the main list points are main headlines, the indented sub-lists are second-order headlines):</p>
+<p><br /><br /> The structure of my analysis looked like that (the main list points are titles of groups-of-groups, the indented sub-lists are group titles):</p>
 <ul>
 <li>Inspiration
 <ul>
@@ -866,33 +908,36 @@ Memory fades quickly
 <li>TrialAndError</li>
 <li>Mutual dependencies of design elements like type area, content, font size etc. (?)</li>
 </ul>
-Note that some are actual, meaningful principles (»Finishing is good«, »(Page) Format is hard to change later«), while some are mere group titles based on commonalities of the data they encompass (»Inspiration«, »Trial and Error«).
+<p>Note that some are actual, meaningful principles (»Finishing is good«, »(Page) Format is hard to change later«), while some are mere group titles based on commonalities of the data they encompass (»Inspiration«, »Trial and Error«).</p>
 </div>
 <h2 id="fill-the-structure"><a href="#fill-the-structure">Fill the Structure</a></h2>
-<p>When you came up with some principles and ideas to structure your data you need to see if the structure is feasible. Go through your data and sort it into the principles, or just move the data into proximity to similar data.</p>
-<p>The difference to the previous step is that we now focus on involving all the data into the process of generating principles and grouping the data to according principles. In contrast, in the previous steps we focused more on generating a structure. If the previous step was building a data-based scaffold, now we try to build the actual walls.</p>
+<p>When you came up with some principles and ideas to structure your data you need to see if the structure is feasible. Go through your data and sort it into the principles you can up with, or just move the data into proximity to similar data.</p>
+<p>The difference to the previous step is that we now focus on involving all the data into the process of generating principles. In contrast, in the previous steps we focused more on generating a structure.</p>
+<p>If the previous step was building a (data-based) scaffold, now we try to build the actual walls.</p>
 <figure>
 <img src="images/lego_houseWalls.jpg" alt="Build upon your preliminary structure to see if the idea actually works" /><figcaption>Build upon your preliminary structure to see if the idea actually works</figcaption>
 </figure>
-<p>When you group your data you should have principles that are derived from the actual data. Aim for 3 to 10 pieces of data per group. While it is temporarily o.k. to have very small groups, at the end each principle should be derived from several data points and not on a single utterance. On the other hand if a principle encompasses more than 10 utterances or observations, think if creating two aspects or »subprinciples« would make sense.</p>
-<p>Usually I would go chronologically through all my notes starting with the first participant and ending with the most recent one – though any other scheme will suffice as well. Just be sure that you know what you dealt with and with which you did not yet.</p>
-<p>When filling the data in the structure that you will notice that you need additional groups and principles. In addition, some principles will need to be renamed. Just go ahead and make these changes if you feel they are needed.</p>
+<p>Aim for 3 to 10 pieces of data per group. While it is temporarily o.k. to have very small groups, at the end each principle should be derived from several data points and not on a single utterance. On the other hand if a principle encompasses more than 10 utterances or observations, think if creating two aspects or »subprinciples« would make sense.</p>
+<p>Usually I would go chronologically through all my notes starting with the first participant and ending with the most recent one – though any other scheme will suffice as well. Just be sure that you know with which data you dealt with already and with which you did not.</p>
+<p>When filling the data in the structure you may notice that you need additional groups and principles; some principles may need to be renamed as well. Just go ahead and make these changes if you feel they are needed.</p>
 <div class="example">
 <ul>
-<li>Test in the Media you target
+<li>[Title:] Test in the media you target
 <ul>
 <li>I folded prototypes for paper sizes that seem to be suitable</li>
 <li>This is close the print shops results without spending too much</li>
 <li>Tedious: Not having an own printer</li>
 <li>[…]</li>
 </ul></li>
-<li>»being closer«: Page Spreads instead of single pages</li>
-<li>Creates page spreads (In books you have always 2 opposite pages, thus single pages are not useful for design)</li>
-</ul>
-<p><br /> Actually the example above is is not great in terms of analysis: The »Test in the Media you target« data is almost all from one person (P3) and the »being closer«-Group has only a single data point. In later iterations I'll change that cluster. But for now it suffices.</p>
-<p><br /><br /> While I was sorting the data I needed a group to accommodate data related to design findings which I newly created:</p>
+<li>[Title]»being closer«: Page Spreads instead of single pages
 <ul>
-<li>Changing and determining
+<li>Creates page spreads (In books you have always 2 opposite pages, thus single pages are not useful for design)</li>
+</ul></li>
+</ul>
+<p><br /> Actually the example above is is not great in terms of analysis: The »Test in the Media you target« data is almost all from one person (P3) and the »being closer«-Group has only a single data point. In later iterations I'll change this group. But for now it suffices.</p>
+<p><br /><br /> While I was sorting the data I created a new group to accommodate data related to changes in designs:</p>
+<ul>
+<li>[Titel:]Changing and determining
 <ul>
 <li>Determining: What do we have? What do we need? What do we want to avoid?</li>
 <li>Sketching, e.g. for »How can I divide the page for 7 days of the week?«</li>
@@ -901,7 +946,7 @@ Note that some are actual, meaningful principles (»Finishing is good«, »(Page
 </ul>
 <p><br /><br /> Some data could not be accommodated yet. So I created a misc group, where I could offload the data for now and try to find a better place later:</p>
 <ul>
-<li>misc
+<li>[Titel:]misc
 <ul>
 <li>god: Shortcuts</li>
 <li>I need to ask the print shop what this design would cost</li>
@@ -912,20 +957,20 @@ Note that some are actual, meaningful principles (»Finishing is good«, »(Page
 <p>Inside the misc group some possibilities for future principles emerged – for example the first (god: Shortcuts) and the third point (»bad: doing the…« could be part of a newly formed principle named »I want to avoid repetitive tasks«</p>
 </div>
 <h2 id="revise-the-structure"><a href="#revise-the-structure">Revise the Structure</a></h2>
-<p>After you went through your data and sorted it into principles, review your work. You now may have a clearer view of what constitutes the principles after you matched the data with the principles.</p>
+<p>After you went through your data and sorted it into principles, review your work. You now may have a clearer view of what constitutes the principles after you matched the data with them.</p>
 <p>If you recently dealt with just a particular part of the analysis (like dealing with two particular groups), your view might be too narrow: Glance over the whole range of principles and clusters and rediscover groups that might be a better fit for some data.</p>
-<p>Have a look at structures that need improvement: Groups that don't form an actual principle yet as well as data for which you did not find a good place. This data might be helpful to create actual principles.</p>
-<p>Take a critical look at the principles in relation to the data they encompass: Is there a fit or did you fall prey to wishful thinking – possibly there is actually only a weak match between the stated principle and the data. In this case revise the way you put the principles.</p>
+<p>Have a look at structures that need improvement: Groups that have a title but don't form an actual principle yet as well as data for which you did not find a good place. This data might be helpful to create actual principles.</p>
+<p>Take a critical look at the principles in relation to the data they encompass: Is there a fit or did you fall prey to wishful thinking? Possibly there is actually only a weak match between the stated principle and the data. In this case revise your structure.</p>
 <figure>
 <img src="images/lego_houseRevise.jpg" alt="Some parts need to be revised and newly created" /><figcaption>Some parts need to be revised and newly created</figcaption>
 </figure>
 <h3 id="find-better-names"><a href="#find-better-names">Find better names</a></h3>
 <p>Groups based on commonalities or vague similarity will hopefully evolve into principles. To archive this, try to revise group titles: make them more concise, clear and meaningful. Try to find an actual principle for a group if a group of data is just named with a title based on mere commonalities of the data in that group. This will almost certainly require moving some data between groups as well in order to accommodate the data to the improved structure.</p>
 <div class="example">
-<p>I used the title »Arranging«, since arranging and aligning objects, lines and text to a predefined grid or to each other was a task that reoccured frequently. But the title »Arranging« just names a commonality. To make clear that the group is about a user activity and to create a meaningful principle I renamed »Arranging« to »Arranging objects is an important activity«</p>
+<p>For one group I used the title »Arranging«, since arranging and aligning objects, lines and text to a predefined grid or to each other was a task that reoccured frequently. But the title »Arranging« just names a commonality. To make clear that the group is about a user activity and to create a meaningful principle I renamed »Arranging« to »Arranging objects is an important activity«</p>
 </div>
 <div class="example">
-<p>I had a group titled »repetitive and manually«. This could be easily renamed into a meaningful principle: »repetitive and ‘ do-it-manually’ tasks are tedious«. By just adding the users view (»are tedious«) the title became a useful principle for design.</p>
+<p>I had a group titled »repetitive and manually«. This could be easily renamed into a meaningful principle: »repetitive and ›do-it-manually‹ tasks are tedious«. By just adding the users view (»are tedious«) the title became a useful principle for design.</p>
 </div>
 <br /><br />
 <div class="example">
@@ -937,13 +982,13 @@ Note that some are actual, meaningful principles (»Finishing is good«, »(Page
 <li>Others (Web, Bookshop)</li>
 </ul></li>
 </ul>
-<p>»Inspiration« was not a principle so I had a look at the underlying data. They all were about inspiration – but they had another commonality: All inspiration techniques used other, existing designs, often ones that were created by the same person or even for the same project (I would have been possible that people take a walk or have frequent brainstormings or take drugs to get new ideas etc.). So I renamed it and created the principle: »I use existing designs for inspiration«</p>
+<p>»Inspiration« was not a principle so I had a look at the underlying data. They all were about inspiration – but they had another commonality: All inspiration techniques used other, existing designs, often ones that were created by the same person or even for the same project (It would have been possible that people take a walk or have frequent brainstormings or take drugs to get new ideas etc.). So I renamed it and created the principle: »I use existing designs for inspiration«</p>
 </div>
 <h3 id="re-move-data-to-other-groups"><a href="#re-move-data-to-other-groups">(re) move data to other groups</a></h3>
-<p>In this process it might be necessary to remove pieces of data from groups, either in a temporary »misc« group or to another, more suitable group.</p>
-<p>While we want to make use of (all) the data we have, it is most important to create sound and helpful principles based on the data – instead of putting just about everything under a label.</p>
-<p>If you can make a principle to be stated more clearly so that it does not encompass some data anymore – go for clarity of principle, even if it means that the principle does not encompass all the data currently subsumed in the group.</p>
-<p>Take out the data that does not fit the improved title and see if it might fit better to another group. If not, place it in a »not yet grouped« or »misc«-Group. Revise that group when you made changes to your system and see if you can use the data from that »misc« group to enhance other groups with that data.</p>
+<p>When improving your structure it might be necessary to remove pieces of data from groups, either moving to to a temporary »misc« group or to another, more suitable group.</p>
+<p>While we want to make use of the data we have, it is most important to create sound and helpful principles based on the data – instead of just putting everything under a label.</p>
+<p>It is possible that you can make a principle to be stated more clearly but in result, the clearer title may no longer encompass all data in the group. In this case, go for clarity of principle, even if it means that the principle does not encompass all the data currently subsumed in the group.</p>
+<p>Take out the data that does not fit the improved title and see if it might fit better to another group. If not, place it in a »not yet grouped« or »misc«-Group. Revise that »misc« group when you made changes to your system and see if you can use the data from that group to enhance other groups with that data.</p>
 <div class="example">
 <p>I reviewed the following group:</p>
 <ul>
@@ -957,16 +1002,16 @@ Note that some are actual, meaningful principles (»Finishing is good«, »(Page
 While I think I gained something out of it, these changes did not result in a new much better structure but was part of trials and errors in the process.
 </div>
 <div class="example">
-<p>Going through the data of a group named »general requirements« I noted that a big part of the data was concerned with balancing<br />functional or practical requirements (price, readability etc.) with requirements concerning style (using colors, being innovative)</p>
+<p>Going through the data of a group named »general requirements« I noted that a big part of the data was concerned with balancing<br /><em>functional</em> or <em>practical</em> requirements (price, readability etc.) with requirements concerning <em>style</em> (using colors, being innovative)</p>
 <p>Thus I renamed the group to »trying to combine aesthetics and functionality«. As the new title was more specific some data needed to be taken out, put into other groups or to the temporary »misc« group.</p>
 </div>
 <div class="example">
-<p>The previous examples were concerned with whole principles and groups and thus focused on the macro level. Sometimes you just move data itself, without any trigger like renaming or the like, just because you found a better fit. For example <em>»using the maximum possible height on a sheet of paper«</em> was grouped into »media«. Later, I moved it to <em>»budget«</em> because budget is something the user is directly concerned with, whereas media is even more abstract. The group <em>»budget«</em> was then later renamed <em>»having little money and resources«</em>, expressing that a part of the participants work was finding out how they could make the most out of a small budget (<em>»using the maximum possible height on a sheet of paper«</em> is a practice that results from that concern.)</p>
+<p>The previous examples were concerned with whole principles and groups and thus focused on the macro level. Sometimes you just move data itself, without any trigger like renaming, just because you found a better fit. For example <em>»using the maximum possible height on a sheet of paper«</em> was grouped into »media«. Later, I moved it to <em>»budget«</em> because budget is something the user is directly concerned with, whereas media is even more abstract. The group <em>»budget«</em> was then later renamed <em>»having little money and resources«</em>, expressing that a part of the participants work was finding out how they could make the most out of a small budget (<em>»using the maximum possible height on a sheet of paper«</em> is a practice that results from that concern.)</p>
 </div>
 <h3 id="create-subgroups"><a href="#create-subgroups">Create Subgroups</a></h3>
 <p>Some groups may grow rather big, especially if they are not actual principles but based on mere commonalities of underlying data (like »dealing with color«). This is an excellent opportunity to create principles by creating subgroups. The process of developing subgroups is like in <a href="#firstStructure">»Develop a first structure«</a> (just inside the group): Move similar data in proximity and try to create clear-cut principles if possible. In this process you might find a more suitable way to state the principle of the main group as well.</p>
 <div class="example">
-<p>I had a group with more than ten points regarding »Collegues and Friends«. This title was rather descriptive and thus not very useful for design. I created two subgroups which were more meaningful.</p>
+<p>I had a group with more than ten points regarding »Collegues and Friends«. This title was rather general and thus not very useful for design. I created two subgroups which were more meaningful.</p>
 <p><br />Before:</p>
 <ul>
 <li>Collegues, Friends etc.
@@ -995,26 +1040,26 @@ While I think I gained something out of it, these changes did not result in a ne
 <div class="example">
 <p>One main point in my first structure was »Highly motivated at the beginning; then the problems start.«. After restructuring this became a sub point of motivation related groups.</p>
 <ul>
-<li>Motivations
+<li>[group-of-groups] Motivations
 <ul>
-<li>Subgroup: Highly motivated at the beginning; then the problems start.</li>
-<li>Subgroup: Finishing is good</li>
-<li>Subgroup: Waiting for feedback is bad</li>
-<li>Subgroup: being afraid of clients rejection of the design</li>
+<li>[Subgroup]: Highly motivated at the beginning; then the problems start.</li>
+<li>[Subgroup]: Finishing is good</li>
+<li>[Subgroup]: Waiting for feedback is bad</li>
+<li>[Subgroup]: being afraid of clients rejection of the design</li>
 </ul></li>
 </ul>
 </div>
 <div class="example">
-<p><br />sometimes you first sort the data under the overarching title or principle and than move it to subgroups later:</p>
+<p><br /> sometimes you first sort the data under the overarching title or principle and than move it to an already existing subgroup later:</p>
 <p>The utterance: »Its bad that you can do imprecise things here, compared to programming (talking about Illustrator)« was first sorted into »Media« and subsequently put into »using the right media«</p>
 </div>
 <h2 id="wrap-it-up-1"><a href="#wrap-it-up-1">Wrap it up</a></h2>
 <figure>
 <img src="images/lego_houseFinished.jpg" alt="it’s done! (though you could still change some things or two…)" /><figcaption>it’s done! (though you could still change some things or two…)</figcaption>
 </figure>
-<p>The steps above do usually follow each other. But like in other creative tasks there will be a lot of going back and forth between steps of creating groups, assigning data to them and revising these groups.</p>
-<p>These iterations may also happen in parts of the analysis. For example, after you revised your overall structure, you find that a grouping should undergo a major change and you put all its data out. Then you are back to developing a structure for a part of your analysis. Or you notice that some notes that you moved in proximity can be summarized by a clear principle, and you jump straight to the revision of that part of the analysis.</p>
-<p>This process can take up some time. The process may never come to an actual halt, but it will slow down at some point. Continuing to move data may still do minor improvements but there are no big changes anymore. Review the data a last time. The analysis is finished and it is time to create communicate your results.</p>
+<p>The steps above do build on each other. But like in other creative tasks there will be a lot of going back and forth between steps of creating groups, assigning data to them and revising these groups.</p>
+<p>These iterations may also happen in parts of the structure you create. For example, after you revised your overall structure, you find that a grouping should undergo a major change and you put all its data out. Then you are back to developing a structure for a part of your analysis. Or you notice that some notes that you moved in proximity can be summarized by a clear principle, and you jump straight to the revision of that part of the analysis, leaving the »fill in the data« step out.</p>
+<p>This process can take up some time. The analysis may never come to an actual halt, but it will slow down at some point. Continuing to move data may still do minor improvements but there are no big changes anymore. Review the data a last time. The analysis is finished and it is time to communicate your results.</p>
 <div class="example">
 <p><strong>Final structure:</strong></p>
 <ul>
@@ -1062,24 +1107,27 @@ While I think I gained something out of it, these changes did not result in a ne
 <li>chosing fonts </li>
 </ul></li>
 </ul>
-<p>  These are all the groups I created in my analysis. The results could be more concise, having fewer groups concentrating on fewer themes. However this would probably lead to more abstract principles which would probably be harder to use in design.</p>
-<p>The groups of groups are partly not principles themselves. I tried to find some, but was not able in a part of the cases: “changes and requirements” is not a useful design principle (but it’s subordinated groups are: “combining functions and aesthetics” etc.). In contrast, “using existing works for inspiration” is a group of groups which states a meaningful principle.</p>
-<p>You see that I could not use all data, so I made some less significant groups in the “Misc” section.</p>
+<p>  These are all the groups I created in my analysis. The results could be more concise, having fewer groups concentrating on fewer themes. However this would probably lead to more abstract principles which would presumably harder to use in design.</p>
+<p>The groups of groups are partly not principles themselves. I tried to find some, but was not able in a part of the cases: »changes and requirements« is not a useful design principle (but it’s subordinated groups are: »combining functions and aesthetics« etc.). In contrast, »using existing works for inspiration« is a group of groups which states a meaningful principle.</p>
+<p>You see that I could not use all data, so I made some less significant groups in the “misc” section.</p>
 </div>
 <h1 id="communicate-results"><a href="#communicate-results">Communicate Results</a></h1>
-<p>The Interaction Designer needs to know how the users may interact with the product. Your professor wants to know how you approached the term’s assignment – If you work with others, the results of your research need to be communicated.</p>
+<!-- TODO jan bis hier -->
+
+<p>If you work with others, the results of your research need to be communicated.</p>
 <p>Aside from getting the results of your research across, communicating your results has some positive side effects: collecting, organizing and summarizing your findings will make it easier for yourself to remember your findings and you may be even able to improve your analysis further.</p>
-<p>Keep in mind that the “right” way of communicating research results is highly dependent on several factors: The skills and knowledge of the audience, the goals of the project in general and  the research in particular and the kind of reports your audience is used to.</p>
-<p>So what I describe here can be only seen as a general introduction: I try not to focus on particular forms of deliverables but show you the elements you can combine in different media to communicate your results.</p>
+<p>Keep in mind that the »right« way of communicating research results is highly dependent on several factors: The skills and knowledge of the audience, the goals of the project in general (the research in particular) and the kind of reports your audience is used to.</p>
+<p>So what I describe here can only be seen as a general introduction: I try not to focus on particular forms of deliverables but show you the elements you can combine in different media to communicate your results.</p>
 <h2 id="getting-it-across"><a href="#getting-it-across">Getting it across</a></h2>
-<p>It can be hard to make an impact with your research: Your results are easily dismissed, if it is not clear why they matter.</p>
+<p>It can be hard to make an impact with your research: If it is not clear why the results of your research matter they are easily dismissed</p>
 <p>Probably the best form to communicate your research is to do the research (at least partly) with others. Those who do the research with you will know first-hand how it was done and what the results were. In addition, they will probably identify themselves with the research and its outcomes and might support your cause.</p>
-<p>However, this is not always possible and you may need to resort to a less interactive, more typical form of communication – like writing reports and making presentations. When you communicate your results in this way, keep in mind that reports and slides may easily end up as “dead documents”, as informations which are available but are not used. To make this less likely to happen, find out what the interests of the document’s audience are and how you can communicate with them to get their attention.  </p>
+<p>However, this is not always possible and you may need to resort to a less interactive, more typical form of communication – like writing reports and making presentations. When you communicate your results in this way, keep in mind that reports and slides may easily end up as »dead documents« – informations which are available but are not used.</p>
+<p>To make this less likely to happen, find out what the interests of the document’s audience are and how you can communicate with them to get their attention.  </p>
 <h2 id="who-is-your-audience"><a href="#who-is-your-audience">Who is your audience?</a></h2>
-<p>Communicate in a way which is can be easily understood your audience. If you want a programmer to understand you, you might highlight different aspects and use different words compared to presenting the results to your professor or boss. Think about what matters for those who should listen to you and structure your information accordingly: If your professor cares about novel ways of interaction, highlight aspects that might help when developing them; if some people you work with think that »users don’t get it«, emphasize the reasons for the behavior of the people you studied.</p>
+<p>Consider the audience’s needs when communicating. If you want a programmer to understand you, you might highlight different aspects and use different words compared to presenting the results to your professor or boss. Think about what matters for those who should listen to you and structure your information accordingly: If your professor cares about novel ways of interaction, highlight aspects that might help when developing them; if some people you work with think that »users don’t get it«, emphasize the reasons for the behavior of the people you studied.</p>
 <p>Keep in mind that the jargon that might be used by others has its own rules. Only use words and concepts that will be understood by your audience and which you know yourself – don’t fake it.</p>
 <h2 id="explain-your-research"><a href="#explain-your-research">Explain your Research</a></h2>
-<p>You should not only communicate your results but as well how you got to them. This enables others to evaluate your results in the context of the explained methods and enables you to show that you arrived at your results using an empirical and structured approach.</p>
+<p>You should not only communicate your results but as well how you got to them. This permits others to evaluate your reserach in the context of the explained methods and enables you to show that you arrived at your results using an empirical and structured approach.</p>
 <h3 id="explain-your-methods"><a href="#explain-your-methods">Explain your Methods</a></h3>
 <p>Explain the research methods you used to arrive at your results. This includes:</p>
 <ul>
@@ -1095,33 +1143,38 @@ While I think I gained something out of it, these changes did not result in a ne
 <p>(Data gathering)</p>
 <p>We gathered the data by asking open questions in a semi-structured interviews. In addition, we observed the research participants doing their work. The participants were invited to just continue to work on what they would have done when we would not have been there.</p>
 <p>The data gathering was done by single researchers, though one session was done by two team members together (one taking notes, the other asking the questions)</p>
-<p>We recorded the data by doing an audio recording of questions and answers in addition to notes. We photographed and sketched participants during key activities and made photos and sketches of tools important to their work.</p>
+<p>We recorded the data by doing an audio recording of questions and answers in addition to handwritten notes. We photographed and sketched participants during key activities and made photos and sketches of tools important to their work.</p>
 <p>(Analysis)</p>
 <p>After the research sessions we gathered all notes and supplemented forgotten or unclear data by using the audio recordings and sketches. We annotated all data for possible meanings and interrelations to create a preliminary scheme for organizing the data into meaningful principles. This patterns served as a starting point for organizing and reordering the data during several iterations. Thus, the process was similar to affinity diagramming (Beyer, Holtzblatt) or Thematic Analysis (Virginia, Clarke)</p>
 </div>
 <h3 id="site-and-sample"><a href="#site-and-sample">Site and Sample</a></h3>
-<p>To make your research less abstract for the audience, give an introduction to the environment you did the research in. Describe it in a way that allows others to imagine it, for example by showing sketches or photos of tools or the participant’s workplace. Remember to show only what the participants agreed to share with you and the audience you present it too.</p>
+<p>To make your research less abstract for the audience, give an introduction to the environment you did the research in. Describe it in a way that allows others to imagine it, for example by showing sketches, photos of tools or the participant’s workplace. Remember to show only what the participants agreed to share with you and the audience.</p>
 <p>In addition to the context, describe your research participants by giving a general user profile. Thus you don’t share any personal data of anyone but allow your audience to have some ideas of the participants.</p>
-<p>Participants were students (four of them) or recent graduates (one of them).  All had studied several terms already and had work experiences from at least one internship. Four were female, one wer male.</p>
+<div class="example">
+<p>Participants were students (four of them) or recent graduates (one of them).  All had studied several terms already and had work experiences from at least one internship. Four were female, one were male.</p>
 <p>All participants were asked to meet with us at the place where they usually work. Partly this was in their flats; We met one participant in a shared working space and one remotely via telephone and screensharing.</p>
+</div>
 <figure>
 <img src="images/ObservationDesign1.jpg" alt="observing the user" /><figcaption>observing the user</figcaption>
 </figure>
 <h2 id="components-of-deliverables-and-reports"><a href="#components-of-deliverables-and-reports">Components of deliverables and reports</a></h2>
 <p>Let me give a brief overview of typical building blocks for communicating your research. They are all useful on their own and you can combine them to use their strengths together.</p>
 <h3 id="text"><a href="#text">Text</a></h3>
-<p>Text is as very versatile way to convey informations. On the downside, text may seem not as quickly accessible as a diagram or a sketch. To lower the barriers, make sure that people know  why they are reading your text. Give essential information at the beginning (What is this text about? Why was the work done?) and make sure that it is easy to get a quick overview by structuring your text. Use headings, lists and italics to guide the reader.</p>
+<p>Text is as very versatile way to convey informations. On the downside, text may seem not as quickly accessible as a diagram or a sketch. To lower the barriers, make sure that people know why they are reading your text. Give essential information at the beginning (What is this text about? Why was the work done?) and make sure that it is easy to get a quick overview: Structure your text using headings, lists and italics to guide the reader.</p>
 <figure>
 <img src="images/exampleWrittenReport.png" alt="a page spead from a report" /><figcaption>a page spead from a report</figcaption>
 </figure>
-<p>There are lots of books which explain how to write concise and easy-to-get text. The most efficient guide I know was given by George Orwells in “Politics and the English Language” – I quote:</p>
+<p>There are lots of books which explain how to write concise and easy-to-get text. The most efficient guide I know was given by George Orwells in »Politics and the English Language« – I quote:</p>
 <blockquote>
-<p>1.Never use a metaphor, simile or other figure of speech which you are used to seeing in print.  </p>
-<p>2.Never use a long word where a short one will do.</p>
-<p>3.If it is possible to cut a word out, always cut it out.  </p>
-<p>4.Never use the passive where you can use the active.  </p>
-<p>5.Never use a foreign phrase, a scientific word or a jargon word if you can think of an everyday English equivalent.  </p>
-6. Break any of these rules sooner than say anything barbarous.
+
+<ol type="1">
+<li><p>Never use a metaphor, simile or other figure of speech which you are used to seeing in print.</p></li>
+<li><p>Never use a long word where a short one will do.</p></li>
+<li><p>If it is possible to cut a word out, always cut it out.</p></li>
+<li><p>Never use the passive where you can use the active.  </p></li>
+<li><p>Never use a foreign phrase, a scientific word or a jargon word if you can think of an everyday English equivalent.  </p></li>
+<li><p>Break any of these rules sooner than say anything barbarous.</p></li>
+</ol>
 </blockquote>
 <p><a href="#fn2" class="footnoteRef" id="fnref2"><sup>2</sup></a></p>
 <p>In addition, read the text aloud – in particular, if you already noticed that you have had difficulties finding the right word or to express a complicated concept. If you need to re-read sentences to make sense of them or to stress the right words, you should go for a rewrite.</p>
@@ -1131,7 +1184,7 @@ While I think I gained something out of it, these changes did not result in a ne
 <p><strong>Rather abstract:</strong> Users like the alignment function</p>
 <strong>Combined with Quote</strong>: Users like the alignment function. Sandy: »It is like doing work by magic – click! And its there!«
 </div>
-<p>Remember to protect the participant's identity if they did not give you the permission to share their quotes or names. If they did not give you the permission,  only share a plausible, but faked “quote” and don't use real names but faked ones as well. Don’t deceive your audience either: mention that the names and quotes are not real but are only corresponding to their actual counterparts.</p>
+<p>Remember to protect the participant's identity if they did not give you the permission to share their quotes or names. If they did not give you the permission, only share a plausible, but faked »quote« and don't use real names but faked ones as well. Don’t deceive your audience either: mention that the names and quotes are not real but are only corresponding to their actual counterparts.</p>
 <h3 id="scenarios"><a href="#scenarios">Scenarios</a></h3>
 <p>Activities don’t happen in isolation from each other: They depend on previous activities and (possible changing) motivations. One way to communicate a sequence of interrelated activities is a scenario. Simply put, a scenario is a short story written as text or given as a sequence of images (like a comic)</p>
 <p>A good framework for writing scenarios is asking yourself these questions:</p>
@@ -1143,9 +1196,9 @@ While I think I gained something out of it, these changes did not result in a ne
 </ul>
 <p>Answer them in your scenario.</p>
 <div class="example">
-<p>Annika studies media culture and needs to finish here homework on “Cultural subconceptualist theory in the works of Koons” in order to hand the homework in on time. She goes to the library to see if the book on “Capitalism in the works of Rushdie” by Andreas Geoffrey contains arguments supporting her view on the structuralist paradigm.</p>
+<p>Annika studies media culture and needs to finish here homework on »Cultural subconceptualist theory in the works of Koons« in order to hand the homework in on time. She goes to the library to see if the book on »Capitalism in the works of Rushdie« by Andreas Geoffrey contains arguments supporting her view on the structuralist paradigm.</p>
 <p>She enters the library and walks up to one of the computers standing in the corners of the library's halls.</p>
-<p>She wants to look up the name of the author, but she notes that she forgot the copy of the book that referenced the work. She still knows that “Rusdie” or “Rushdie” was in the title of the book she needs. After several trials she finds the right spelling of the name and, after scanning through a list, she finds the book she wants to read. The detail page of the search application gives the address of the library building she is in already and a code: “X0-3R52”… [scenario may continue]</p>
+<p>She wants to look up the name of the author, but she notes that she forgot the copy of the book that referenced the work. She still knows that »Rusdie« or »Rushdie« was in the title of the book she needs. After several trials she finds the right spelling of the name and, after scanning through a list, she finds the book she wants to read. The detail page of the search application gives the address of the library building she is in already and a code: »X0-3R52«… [scenario may continue]</p>
 </div>
 <div class="gallery two">
 <figure>
@@ -1158,10 +1211,9 @@ While I think I gained something out of it, these changes did not result in a ne
 <img src="images/szenario2_3.png" alt="I can’t find the right shelf!" /><figcaption>I can’t find the right shelf!</figcaption>
 </figure>
 <figure>
-<img src="images/szenario2_4.png" alt="I&#39;d better ask somebody … now I know where I need to go!" /><figcaption>I'd better ask somebody … now I know where I need to go!</figcaption>
+<img src="images/szenario2_4.png" alt="I&#39;d better ask somebody… now I know where I need to go!" /><figcaption>I'd better ask somebody… now I know where I need to go!</figcaption>
 </figure>
 </div>
-<p> </p>
 <h3 id="diagrams"><a href="#diagrams">Diagrams</a></h3>
 <p>Diagrams are useful to show high-level concepts, relations and dependencies – for example showing which activities need to be done to create a page of a magazine or the ways a group of students share files when working together on a joint project.</p>
 <figure>
@@ -1180,36 +1232,35 @@ While I think I gained something out of it, these changes did not result in a ne
 <figure>
 <img src="images/ObservationDesignU4Workplace.jpg" />
 </figure>
-<p>I suppose the image wins big times here.</p>
+<p>I suppose the image wins.</p>
 <p>While the above example just shows a setting, we could as well combine the strengths of text and images in an annotated photo.</p>
-<p>Or you could show your general findings about how people organize their desktops  by sketching a prototypical arrangement of items.</p>
-<p>Illustrations and photos in particular have another function aside of getting information across: They make the research and its findings more graspable, intuitive and “real” for your audience. Just like scenarios and quotes they enable to imagine how your research participants acted which in turn helps to develop empathy for them. Consider again our example from above in which an image and a text were compared. The photo does not only give some abstract information. It shows that you have been with actual participant or – in this case – did research on actual tools they use.</p>
+<p>Or you could show your general findings about how people organize their desktops by sketching a prototypical arrangement of items.</p>
+<p>Illustrations and photos in particular have another function aside of getting information across: They make the research and its findings more graspable, intuitive and »real« for your audience. Just like scenarios and quotes they enable to imagine how your research participants acted which in turn helps to develop empathy for them. Consider again our example from above in which an image and a text were compared. The photo does not only give some abstract information. It shows that you have been with actual participant or – in this case – did research on actual tools they use.</p>
 <p>When using photos, remember to protect the privacy of your participants. Only show photos of their workplaces or of themselves if they agreed to it.</p>
 <h2 id="typical-documents-for-reporting-results-deliverables"><a href="#typical-documents-for-reporting-results-deliverables">Typical Documents for reporting results (»Deliverables«)</a></h2>
 <p>You can combine text, images diagrams and scenarios in several ways to communicate your message. Let’s look at some possibilities.</p>
 <h3 id="quick-findings"><a href="#quick-findings">Quick findings</a></h3>
-<p>Quick findings are short, annotated lists of your most important findings. They include a brief description of methods, participants and environment and usually  a disclaimer that this is only a very brief summary and that the  (preliminary) results may be refined later.</p>
+<p>Quick findings are short, annotated lists of your most important findings. They include a brief description of methods, participants and environment and usually a disclaimer that this is only a very brief summary and that the  (preliminary) results may be refined later.</p>
 <p>Quick findings are very useful if your audience :</p>
 <ul>
-<li>already know about your research and want to have a look at your progress </li>
-<li> have very little time, and need an efficient access to your results </li>
+<li>already know about your research and want to have a look at your progress</li>
+<li> have very little time, and need an efficient access to your results</li>
 </ul>
 <h3 id="written-reports"><a href="#written-reports">Written Reports</a></h3>
 <p>Written reports are roughly four to a several dozen pages long. Nevertheless, only deliver what the audience needs and wants to know – be concise. It is easy to get sidetracked and to write length and complex sentences.</p>
 <p>Written reports consist mainly of text, but you should use images, quotes and diagrams too when they make sense.</p>
 <p>I suggest the following structure for your reports:</p>
 <ul>
-<li>summary of the key facts and findings </li>
-<li>Why: Research interest </li>
-<li>How: Research Methods </li>
-<li>Who and Where: Describe Participants and Site </li>
-<li>Findings </li>
+<li>summary of the key facts and findings</li>
+<li>Why: Research interest</li>
+<li>How: Research methods</li>
+<li>Who and Where: Describe participants and site </li>
+<li>Your findings </li>
 <li>Conclusions and suggestions </li>
 </ul>
 <figure>
 <img src="images/exampleWrittenReport2.png" alt="page spread from a report on wiki use for teaching at university" /><figcaption>page spread from a report on wiki use for teaching at university</figcaption>
 </figure>
-<p> </p>
 <h3 id="slides"><a href="#slides">Slides</a></h3>
 <p>Slides can deliver the same content as written reports or quick findings. They convey the information in a more visual way – so they have fewer text and more images, diagrams, and storyboards.</p>
 <p>If you give the presentation yourself try to deliver as few as possible of the information by text on the slides. You can do the talking and the slides supplement the information you give. On the other side, it may makes sense to use more text on the slides if you just share the slides with others and don’t present them yourself.</p>
