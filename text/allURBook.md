@@ -88,7 +88,7 @@ If preliminary findings vary and it is hard to see any patterns consider involvi
 
 # Prepare the session  
 
-## What do your want to find out?  {#questiontopics}
+## What do you want to find out?  {#questiontopics}
 
 Before you collect the data, decide what you want to find out. Let's
 look at some topics that might be of interest exploring:
@@ -192,7 +192,7 @@ You should ensure that questions you prepare are still on your mind when
 doing the interview. A good way to ensure this is to taking a cheat sheet along.
 
 What goes into such a sheet? The biggest part will be **questions** which you
-created beforehand (take a look at [»What do your want to find out?«](#questiontopics)  for 
+created beforehand (take a look at [»What do you want to find out?«](#questiontopics)  for 
 collecting possible questions). When you write the questions on the cheat sheet, 
 start with the general topics and progress towards more specific ones. 
 This is the order that makes sense in the course of a research session. 
@@ -1241,7 +1241,7 @@ you write down has a meaning on it’s own:
 
  <div class="example">
  
- Rather than writing *»she clicks«* (what? Why?) you could write *»Clicks save button → finishes balancing the elements«* or the like.
+ Rather than writing *»she clicks«* (what? Why?) you could write *»Clicks save button, has finished balancing the elements«* or the like.
  </div>
 
  <div class="example">
@@ -2354,7 +2354,7 @@ them. This permits others to evaluate your reserach in the context of the
 explained methods and enables you to show that you arrived at your
 results using an empirical and structured approach.
 
-### Explain your Methods 
+### Describe your Methods 
 
 Explain the research methods you used to arrive at your results. This
 includes:
@@ -2411,7 +2411,7 @@ Clarke)
 
 </div>
 
-### Site and Sample 
+### Describe site and sample 
 
 To make your research less abstract for the audience, give an
 introduction to the environment you did the research in. Describe it in
