@@ -6,7 +6,11 @@
 <!-- compile with  ""pandoc --toc -B templates/includeBefore.pandoc -A templates/includeAfter.pandoc  -s -c styles/styles.css text/allURBook.md -t html5 -o index.html"" -->
 
 # License
-This text and images (»=book«) are licensed under the terms of the [Creative Commons By 4.0](https://creativecommons.org/licenses/by/4.0/) License.  
+ <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">User Need Research for Beginners</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://jdittrich.github.io/userNeedResearchBook/" property="cc:attributionName" rel="cc:attributionURL">Jan Dittrich</a>  ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
+
+
+
 
 # About this text
 
