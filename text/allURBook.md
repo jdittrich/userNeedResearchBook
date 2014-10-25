@@ -102,6 +102,7 @@ I usually have three aspects I think of when I prepare my questions:
     motivations
 
 There could be many other aspects, but I find these three good because 
+
 * they  cover a wide range of possible topics questions
 * they cover design relevant topics
 * three points are easy enough to remember even in the midst of
