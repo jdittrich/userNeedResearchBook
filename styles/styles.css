@@ -42,21 +42,21 @@ h1.title{
 h1 {
   font-size:280%;
   line-height:1.35;
-  margin:2.5em 0 0.8em;
+  margin:4em 0 0.4em;
 	font-weight: normal;
 }
 
 h2 {
   font-weight:normal;
   font-size:180%;
-  margin:2em 0 0.8em;
+  margin:3em 0 0.4em;
 }
 
 h3 {
   font-weight:normal;
   text-transform:normal;
   font-size:150%;
-  margin:1em 0 0.8em;
+  margin:2em 0 0.4em;
   color:#5f5e5e;
 }
 
@@ -64,7 +64,7 @@ h4 {
   font-weight:normal;
   font-size:120%;
   letter-spacing:0.1em;
-  margin:1em 0 0.8em;
+  margin:1.5em 0 0.4em;
   color:#5f5e5e;
 }
 
@@ -72,7 +72,7 @@ h5 {
   font-weight:normal;
   font-style:italic;
   font-size:100%;
-  margin:1.5em 0 0.8em;
+  margin:1.5em 0 0.4em;
   color:#5f5e5e;
 }
 
@@ -80,7 +80,7 @@ h6 {
   font-weight:bold;
   font-size:90%;
   letter-spacing:0.1em;
-  margin:1.5em 0 0.8em;
+  margin:1.5em 0 0.4em;
 }
 
 p {
@@ -89,7 +89,7 @@ font-size:100%;
 margin:1em 0 0;
 }
 
-p + p {
+p + p {	
 margin:0;
 text-indent:1.5em;
 }
