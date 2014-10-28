@@ -88,7 +88,7 @@ You can consider doing your research iteratively: start with three or four parti
 
 If preliminary findings vary and it is hard to see any patterns consider involving more participants and  review the scope and goal of your research. It is possible that there is just a variety of patters and the need for more users to make sense of the data. But it could as well be the case that your research focus is very broad and hard to research. In this case try to narrow down the focus and the activities you need to know about before involving the next batch of participants. 
 
-# Prepare the session  
+# Prepare the research session  
 
 ## What do you want to find out?  {#questiontopics}
 
@@ -110,13 +110,7 @@ There could be many other aspects, but I find these three good because
 * three points are easy enough to remember even in the midst of
 research.
 
-
-When thinking about what you want to find out, keep in mind that user
-need research is not hypothesis testing (like when doing statistics for
-a scientific publications). You want to find out new things, especially
-such that you did not know about nor expected. Thus these questions are
-a starting point.
-
+ 
 Let me show you the questions I came up with for finding out about the
 needs of designers who create layouts.
 
@@ -184,6 +178,8 @@ would be a question that  urges to be answered with »yes« or »no«. Such shor
 answers give no context. But we need the context, the reasons for
 actions and the course of events to know not only how work is done but why it is done, too
 
+
+
 In later sections we will have a further look at the does and dont’s of
 questions.
 
@@ -192,7 +188,7 @@ questions.
 ## Write a cheat sheet  
 
 You should ensure that questions you prepare are still on your mind when
-doing the interview. A good way to ensure this is to taking a cheat sheet along.
+doing the interview. A good way to ensure this is to taking a cheat sheet (more formally also called »Interview Guide«) along.
 
 What goes into such a sheet? The biggest part will be **questions** which you
 created beforehand (take a look at [»What do you want to find out?«](#questiontopics)  for 
@@ -216,14 +212,13 @@ In this case you can help yourself along with some reminders on the sheet, like
 
 ## Equipment  
 
-With a participant ttalks about new and interesting things you want to
+With a participant talks about new and interesting things you want to
 be able to remember what was said. Thus we record the interview – and we
-will need some equipment for doing that. Lets have a look.
+will need some equipment for doing that. Let’s have a look what we can use.
 
 ![Equipment for user research: paper, pen, audio recorder](images/interviewEquipment.svg)
 
 ### Note taking  
-
 
 During the interview and observation you will take notes. For taking
 notes you need:
@@ -234,19 +229,18 @@ notes you need:
 
 ### Audio Recording  
 
-Audio record you interview to have a backup in case you could not keep
+If you audio-record you interview you have a backup in case you could not keep
 up with taking notes and to be able to fully concentrate on the
-participant if needed. Either use your smartphone and an audio 
-recording app or use an audio recorder. Try before if the audio on the recording 
+participant if needed. To do an audio recording, either use your smartphone and an audio 
+recording app or use an audio recorder. Test, if the audio on the recording 
 is still loud and clear enough if you have an arm’s length between you and the device. 
-Charge the devices fully.
-
+Charge the batteries fully so you don’t run out of battery in the midst of research. 
 
 ### Camera
 
 A camera is not a must but can be useful, especially if your research
 involves much participant observation or if you don’t feel confident
-about your sketching skills.
+about your sketching skills. 
 
 # Data Gathering  
 
@@ -260,8 +254,8 @@ whether a particular thing would be a great to have in the future. But then you
 would have to ask again for the next idea you have. Furthermore, it
 is very hard to reliably guess if something would be a great thing to
 have in the future. Instead of dealing with ideas directly we will find
-out about the how and why of our participant’s activities and thus set a reliable foundation
-for our designs.
+out about the how and why of our participant’s activities and thus set 
+a reliable foundation for our designs.
 
 Think of your participants as as competent in what they do. This is contrary to the idea of
 designers and programmers as people who improve the lives of those who
@@ -393,10 +387,15 @@ conversation: You ask questions, the user answered them. -->
 
 
 We gather data by asking questions and listening to the participant’s answers.
-However, the use of questions and answers in user needfinding is unlike the questions and answers in surveys. In surveys it is often aimed for short, definitive
+However, the use of questions and answers in user needfinding is unlike the 
+questions and answers in surveys. In surveys it is often aimed for short, definitive
 answers out of a determined set of possbilities (»on a 4 point scale: how much do you
-agree with…«). Instead of this, we aim for longer answers that are give »free« and not from a determined set of answers. Thus we are more likely to get rich descriptions, much like veritable stories
-which retell the participant’s experiences. In addition, these stories  tell us about the context of the user’s activities and the user’s motivations. To encourage giving such story like answers,  we will often ask for *descriptions* of activities and the *reasons* for doing them.
+agree with…«). Instead of this, we aim for longer answers that are give »free« and not 
+from a determined set of answers. Thus we are more likely to get rich descriptions, 
+much like veritable stories which retell the participant’s experiences. In addition, these
+ stories  tell us about the context of the user’s activities and the user’s motivations. 
+ To encourage giving such story like answers,  we will often ask for *descriptions* 
+ of activities and the *reasons* for doing them.
 
 
  <div class="example">
@@ -625,9 +624,14 @@ look like this:
 
 These questions demand very specific answers mostly out of a determined
 set: Yes or no, marks from A-F, a list of nouns. They would be useful if
-you would want to do statistics, for analysis leading to statements
+you would want to do statistics, for analysis that allows us to give results
 like »56.3% agreed strongly on Question X«. However, we want to find out
-about the *why* and *how* of the participant’s work here.
+about the *why* and *how* of the participant’s work here [^Research  concerned 
+with finding out about »how« and »why« using methods like interviews and 
+observations is also called »qualitative« reserach. In contrast,  »quantitative reserach« 
+usually tests hypothesis (like »an orange ›buy‹ button generates more 
+sales that a blue one «) and employs controlled experiments and statistics. In this book 
+we learn about qualitative methods] .
 
 Imagine, in contrast to the research session outlined above (short
 answers, short questions) a day-to-day situation, in which you get to
@@ -2680,7 +2684,7 @@ with others and don’t present them yourself.
 * **Interviewing Users : How to Uncover Compelling Insights** by Portigal, Steve. 1. Edition. New York: Rosenfeld Media, LLC, 2013. ISBN 978---1-9-33-82-0 <br> *As the title suggests, it’s focused on asking questions and listening to answers, but it covers additional methods as well. Includes lots of useful tips.*
 * **Shane, the Lone Ethnographer: A Beginner's Guide to Ethnography** by Galman, Sally Campbell. Lanham: Rowman Altamira, . ISBN 978-0-759-10344-3 <br> *Lots of the methods I described originated in ethnography. This book gives an hands-on and thoughtful introduction to enthography. Comes as a comic and is fun to read. Minor flaw: The lettering is a bit obscure*
 * **Successful Qualitative Research : A Practical Guide for Beginners** by Clarke, Victoria; Braun, Virginia: . New.. London: SAGE, 2013. ISBN 978-1-847-87581-5 <br> *This book is aimed at  aspiring academic researchers. Hands-on but covers the underlying (social science) theory as well. It inspired much of the analysis section in this book. Interesting for those who want to know more about doing thorough analysis of data (using the method of »Thematic Analysis«) *
-* **Rapid Contextual Design : A How-to Guide to Key Techniques for User-centered Design**by Holtzblatt, Karen; Wendell, Jessamyn Burns; Wood, Shelley. Amsterdam: Elsevier, 2005. ISBN 978-0-123-54051-5 <br> *Describes a collection of methods for user research. It is aimed at bigger teams (with time and money, I assume). However, its mentioned here since the idea of grouping data as core activity of data analyis is from it.*
+* **Rapid Contextual Design : A How-to Guide to Key Techniques for User-centered Design**by Holtzblatt, Karen; Wendell, Jessamyn Burns; Wood, Shelley. Amsterdam: Elsevier, 2005. ISBN 978-0-123-54051-5 <br> *Describes a collection of methods for user research. It is aimed at bigger teams (with time and money, I assume). However, its mentioned here since the idea of grouping data as core activity of data analysis is from it.*
 
 ### Examples
 
