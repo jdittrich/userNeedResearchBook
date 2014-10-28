@@ -1,0 +1,59 @@
+@media print{
+
+	#wrapper {
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:11pt;
+	color:black;
+	}
+	
+	#TOC{
+		font-size:70%;
+		-webkit-column-count: 2; 
+		-moz-column-count: 2;
+		column-count: 2;
+	}
+	
+	p {
+    orphans: 3;
+    widows: 3;
+	}
+	
+	a:after {
+	content: " (" attr(href) ")";
+	font-style:italic;
+	}
+	
+	a[href^="#"]:after {
+	display: none;
+	}
+	
+	*, *:before, *:after {
+    background: none repeat scroll 0 0 transparent !important;
+    box-shadow: none !important;
+    color: #000 !important;
+    text-shadow: none !important;
+	}
+	
+	a, a:visited {
+		color: #000;
+		text-decoration: underline; 
+	}
+	
+	h1, h2, h3, h4 {
+	page-break-after: avoid;
+	}
+	
+	img {
+	max-width: 100% !important;
+	}
+	
+	blockquote, .example {
+    border-left: 1pt solid black;
+    color: black;
+    font-family: Arial, sans-serif;
+    margin: 1em 0;
+    padding-left: 1.5em;
+	}
+}
+
+@page {margin: 2cm 2cm 2cm 2.5cm; }
