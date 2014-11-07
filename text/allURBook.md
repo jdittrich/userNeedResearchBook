@@ -74,7 +74,7 @@ If you would  like to participate (or have further questions) please write a mai
 
 </div>
 
-When using such ways of recruiting be sure to comply to the rules of the organizations or social groups involved. It does not help your research if the community you target gets cross with you for violating their privacy and customs. If you are unsure, just ask. These people you ask, lets say a clergyman or a meetup organizer may even be able to set you up with people who can help you. Once you started your reserach you can ask  participants if they know other people who match your ideas of possible participants. It is likely that they know some other people who work in the same job or have similar hobbies. This is called »snowball sampling«: The more people you ask the more additional people you get and you could ask those as well. This is like a snowball which, when rolled, gains more and more snow the bigger it gets. However, don't be afraid of an avalanche of participants, usually everyone you ask only knows some people and these may or may not respond. Just stop asking additional ones when you think the amount of participants is right. 
+When using such ways of recruiting be sure to comply to the rules of the organizations or social groups involved. It does not help your research if the community you target gets cross with you for violating their privacy and customs. If you are unsure, just ask. These people you ask, lets say a clergyman or a meetup organizer may even be able to set you up with people who can help you. Once you started your research you can ask  participants if they know other people who match your ideas of possible participants. It is likely that they know some other people who work in the same job or have similar hobbies. This is called »snowball sampling«: The more people you ask the more additional people you get and you could ask those as well. This is like a snowball which, when rolled, gains more and more snow the bigger it gets. However, don't be afraid of an avalanche of participants, usually everyone you ask only knows some people and these may or may not respond. Just stop asking additional ones when you think the amount of participants is right. 
 
 ## How many participants do I need?
 
@@ -298,7 +298,7 @@ about. You don't need to reveal all your questions and topics
 
 <div class="example">
 
-This reserach helps us to improve the workflow in the design process in order to be
+This research helps us to improve the workflow in the design process in order to be
 able to design solutions for people who do graphic design.
 
 </div>
@@ -433,7 +433,7 @@ environment that point out problems – for example quick fixes
 with tape, or added instructions on devices and machines. 
 
 
-It is not needed to have observation as a seperate step in the reserach process. 
+It is not needed to have observation as a seperate step in the research process. 
 It makes great sense to interveave it with asking questions and listening to the user. 
 Instead asking for descriptions of processes or tool, you can ask for a demonstration.
 
@@ -610,7 +610,7 @@ situations.
 ## Asking open questions  
 
 You may have noticed that the suggested questions from the previous
-section are not aiming for specific, short answers. In situations differen from user need reserach
+section are not aiming for specific, short answers. In situations differen from user need research
  you often  want answers to be short and precise: 
  »Are you a graphic designer?« »I am a Graphic Designer!« / »How
 much do you like your Job? Give a mark« »B!« / »Please name your Tools!«
@@ -626,9 +626,9 @@ These questions demand very specific answers mostly out of a determined
 set: Yes or no, marks from A-F, a list of nouns. They would be useful if
 you would want to do statistics, for analysis that allows us to give results
 like »56.3% agreed strongly on Question X«. However, we want to find out
-about the *why* and *how* of the participant’s work here [^Research  concerned 
+about the *why* and *how* of the participant’s work here ^[Research  concerned 
 with finding out about »how« and »why« using methods like interviews and 
-observations is also called »qualitative« reserach. In contrast,  »quantitative reserach« 
+observations is also called »qualitative« research. In contrast, »quantitative research« 
 usually tests hypothesis (like »an orange ›buy‹ button generates more 
 sales that a blue one «) and employs controlled experiments and statistics. In this book 
 we learn about qualitative methods] .
@@ -768,7 +768,7 @@ Each participant and his/her context is different and you can accommodate this b
 adjusting the research session to the context and the activities of the user. 
 This would not be possible when asking the same questions each time. 
 
-So you neither can’t nor should take yourself out of the reserach session – you will always have some sort of effect on the participant when you do the reserach. 
+So you neither can’t nor should take yourself out of the research session – you will always have some sort of effect on the participant when you do the research. 
 
 What you should avoid though is influencing the participant by
 »suggesting« favourable answers or actions. Some sorts of this type of  influence are obvious,
@@ -1183,7 +1183,7 @@ However, getting to know complex workflows takes longer. Same goes for getting d
 into (work) culture. As well, using observations will need some time too. So if you go beyond a simple interview you should plan 1-2h for one research session. 
 
 Don’t let this estimations fence you in: You will develop some
-intuition for the flow of the reserach session and how long it should take. 
+intuition for the flow of the research session and how long it should take. 
 
 Keep in mind that the research session should be comfortable for the participant. 
 If he/she looks absent, yawns etc. it is probably time to wrap it up.
@@ -2357,7 +2357,7 @@ audience and which you know yourself – don’t fake it.
 ## Explain your Research 
 
 You should not only communicate your results but as well how you got to
-them. This permits others to evaluate your reserach in the context of the
+them. This permits others to evaluate your research in the context of the
 explained methods and enables you to show that you arrived at your
 results using an empirical and structured approach.
 
@@ -2680,7 +2680,7 @@ with others and don’t present them yourself.
 
 ### Books
 
-*  **Observing the User Experience : A Practitioner's Guide to User Research** by Goodman, Elizabeth ; Kuniavsky, Mike; Moed, Andrea. 2nd Edition. Amsterdam: Elsevier, 2012. ISBN 978-0-123-84870-3 <br> *Covers multiple user reserach methods as well as reserach planning, recruiting and communicating results. Particulary interesting are the chapters on recruiting and analysis of qualitative data.* 
+*  **Observing the User Experience : A Practitioner's Guide to User Research** by Goodman, Elizabeth ; Kuniavsky, Mike; Moed, Andrea. 2nd Edition. Amsterdam: Elsevier, 2012. ISBN 978-0-123-84870-3 <br> *Covers multiple user research methods as well as research planning, recruiting and communicating results. Particulary interesting are the chapters on recruiting and analysis of qualitative data.* 
 * **Interviewing Users : How to Uncover Compelling Insights** by Portigal, Steve. 1. Edition. New York: Rosenfeld Media, LLC, 2013. ISBN 978---1-9-33-82-0 <br> *As the title suggests, it’s focused on asking questions and listening to answers, but it covers additional methods as well. Includes lots of useful tips.*
 * **Shane, the Lone Ethnographer: A Beginner's Guide to Ethnography** by Galman, Sally Campbell. Lanham: Rowman Altamira, . ISBN 978-0-759-10344-3 <br> *Lots of the methods I described originated in ethnography. This book gives an hands-on and thoughtful introduction to enthography. Comes as a comic and is fun to read. Minor flaw: The lettering is a bit obscure*
 * **Successful Qualitative Research : A Practical Guide for Beginners** by Clarke, Victoria; Braun, Virginia: . New.. London: SAGE, 2013. ISBN 978-1-847-87581-5 <br> *This book is aimed at  aspiring academic researchers. Hands-on but covers the underlying (social science) theory as well. It inspired much of the analysis section in this book. Interesting for those who want to know more about doing thorough analysis of data (using the method of »Thematic Analysis«) *
