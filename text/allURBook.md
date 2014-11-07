@@ -12,17 +12,17 @@
 
 # About this text
 
-This book is written for all those who want to design products according to the needs of human beings. This text teaches you how to find potential users and how to find out about their activities, motivations and problems. I demonstrate how to analyze the gathered data in a way that makes it usable and useful for you design process.
+This book is written for all those who want to design products according to the needs of human beings. This text teaches you how to find potential users and how to find out about their activities, motivations and problems. I demonstrate how to analyze the gathered data in a way that makes it usable and useful for your design process.
  
 To have knowledge about the »how« and »why« of the user’s work allows you to create innovative products that meet the users’ needs. As well, you can utilize this knowledge to improve existing products.
 
-I try to teach methods for user needs research in a way that is descriptive and allows quick application of the learned methods by using tools that are readily available to you. I give examples to demonstrate the use of methods in practice. I hope you can imagine yourself applying the describes methods when reading – and I want to avoid teaching something that seems like mere theory to you. 
+I try to teach methods for user needs research in a way that is descriptive and allows quick application of the learned methods by using tools that are readily available to you. I give examples to demonstrate the use of methods in practice. I hope you can imagine yourself applying the described methods when reading – and I want to avoid teaching something that seems like mere theory to you. 
 
-Don’t get me wrong (especially if you are a seasoned researcher for user needs or a professional in some other social science field). It is not that I think theory is superfluous and should be avoided by practitioners. I just want to empower beginners by provide a start in the field which is hands-on and leads to visible results.
+Don’t get me wrong (especially if you are a seasoned researcher for user needs or a professional in some other social science field). It is not that I think theory is superfluous and should be avoided by practitioners. I just want to empower beginners by providing a start in the field which is hands-on and leads to visible results.
 
 
 # Find People 
-In user research we want to find out what our users do and how and why  they do it.   If we know this, we can design our products accordingly. 
+In user research we want to find out what our users do and how and why  they do it. If we know this, we can design our products accordingly. 
 
 To be able to do research on the »how« and »why« of user’s work, you need to find some users who would like to answer your questions and would demonstrate some tasks. These users are our (research) participants. (Your participants may be called your »sample«, in contrast to all those who could be possibly be participants, the »population«. So a sample – some users – is a part of the population – all possible users) 
 
@@ -30,7 +30,7 @@ To be able to do research on the »how« and »why« of user’s work, you need 
 
 The participants in your research need to be similar to the possible users of your final product. If you plan to create an app for people to create bibliographies it makes sense that the participants are students or researchers. If you plan to design a skateboard try to find people who skate. The point is that you need to make up your mind who might give you the information about the how and why of the activities you want to support with your product.
 
-When selecting possible participants, I recommend doing a check based on (assumed) user behavior. Ask yourself: Are the people that may participant in your research likely to…
+When selecting possible participants, I recommend doing a check based on (assumed) user behavior. Ask yourself: Are the people that may participate in your research likely to…
 
 - …do the tasks the people do who should use your final product? 
 - …have similar problems?
@@ -38,7 +38,7 @@ When selecting possible participants, I recommend doing a check based on (assume
 
 I assume that you don't have the money to employ a recruiting agency to get your participants. Thus you will need to find and ask them yourself. Especially if you are on your own you may need to compromise and do research with participants that don't match your intended users exactly. When doing this, keep in mind to  check for similarity of tasks, problems and motivations . These checks don't ensure that the participants are exactly the ones who may use your final product. But you can be rather sure that they can tell you something that is of interest for you.
 
-If you design an app for people to create bibliographies and you can only get some bachelor and masters students, but no professors, your results will still reveal a lot about the processes of creating bibliographies. Assuming that the student’s motivation is probably writing final term papers and that the professors would write  journal papers is a possible difference but as long as you aware of it, you are probably o.k.  But if you want to design a skateboard and the only participants you can get are all elderly people who enjoy hiking your research you are in trouble (if you find elderly people who enjoy skating, go for it…).
+If you design an app for people to create bibliographies and you can only get some bachelor and masters students, but no professors, your results will still reveal a lot about the processes of creating bibliographies. Assuming that the student’s motivation is probably writing final term papers and that the professors would write  journal papers is a possible difference but as long as you aware of it, you are probably o.k., but if you want to design a skateboard and the only participants you can get are all elderly people who enjoy hiking, you are in trouble; if you find elderly people who enjoy skating, go for it.
 
 ## How can I find participants?
 
@@ -54,7 +54,7 @@ To find the right participants for your research, try to find out where those pe
 
 Inform possible participants about the study and what they can expect when they participate. Regardless of how you inform them – if by speaking directly to them, by using a note on a blackboard or by writing an eMail –  you should give them the following information: 
 
-- The purpose of the study 
+- the purpose of the study 
 - the research method (answering questions and observation)
 - the time frame (ranging usually from 30min-2h)
 - incentives (if you can afford it)
@@ -80,19 +80,19 @@ When using such ways of recruiting be sure to comply to the rules of the organiz
 
 When estimating how many participants you need,  consider how many resources (time and/or money) you can spend on doing the research. Each additional participant gives you additional data and a broader view on your possible users. However, each research session needs time do and adds to the amount of data to be analyzed – so plan accordingly. 
 
-You may think that more is better and that you just could shorten each session, ask fewer questions and skip observing the participants. However, if we want to find out about the »how« and »why« of the participants’ work we need time, and several sessions in hurry will lead to less useful results than research with one participant done right. Nevertheless, only doing research on very few users will restrict the variance of data – like noticing that there may be several ways to do the same thing. As well you might not see which patters are consistent among several people and which vary – which is certainly not possible if you would only have one participant. 
+You may think that more is better and that you just could shorten each session, ask fewer questions and skip observing the participants. However, if we want to find out about the »how« and »why« of the participants’ work we need time, and several sessions in hurry will lead to less useful results than research with one participant done right. Nevertheless, only doing research on very few users will restrict the variance of data – like noticing that there may be several ways to do the same thing. As well you might not see which patterns are consistent among several people and which vary – which would certainly be impossible if you only had one participant. 
 
 There are no clear cut rules of how many participants are enough. However, most of my projects have between 3 and 8 participants. If I really need to be sure that what I notice is consistent I'd do research with 10, but thats about the limit I can manage on my own. 
 
-You can consider doing your research iteratively: start with three or four participants and begin with the analysis as soon as possible (steps like writing your comments to the data or even starting to create possible grouping is possible after having the data of at least two participants). Take a look at the first (preliminary) findings: are the patterns repeating themselves and are they consistent between participants and situations? Or do they vary widely? If they are consistent, you may do research with few additional participants to refine and check and to explore details – or, if time is up, leave it the way it is. 
+You can consider doing your research iteratively: start with three or four participants and begin with the analysis as soon as possible. Steps like writing your comments to the data or even starting to create possible grouping is possible after having the data of at least two participants. Take a look at the first (preliminary) findings: Are the patterns repeating themselves and are they consistent between participants and situations? Or do they vary widely? If they are consistent, you may do research with few additional participants to refine and check and to explore details – or, if time is up, leave it the way it is. 
 
-If preliminary findings vary and it is hard to see any patterns consider involving more participants and  review the scope and goal of your research. It is possible that there is just a variety of patters and the need for more users to make sense of the data. But it could as well be the case that your research focus is very broad and hard to research. In this case try to narrow down the focus and the activities you need to know about before involving the next batch of participants. 
+If preliminary findings vary and it is hard to see any patterns consider involving more participants and review the scope and goal of your research. It is possible that there is just a variety of patterns and the need for more users to make sense of the data. But it could as well be the case that your research focus is very broad and hard to research. In this case try to narrow down the focus and the activities you need to know about before involving the next batch of participants. 
 
 # Prepare the research session  
 
 ## What do you want to find out?  {#questiontopics}
 
-Before you collect the data, decide what you want to find out. Let's
+Before you collect the data, decide what you want to find out. Let’s
 look at some topics that might be of interest exploring:
 
 I usually have three aspects I think of when I prepare my questions:
@@ -127,8 +127,7 @@ needs of designers who create layouts.
 Talking about activities or observing them is a very rich source of
 information. When asking about activities you can often use  follow up questions 
 to find out why and how users do what they do: *»You said, you apply paragraph styles. What do they do?«* 
-or *»You just used that›align‹ function – before you placed objects
-manually. What is the difference between those activities?.«*
+or *»You just used that ›align‹ function – before, you placed objects manually. What is the difference between those activities?.«*
 
 ####  Motivations
 
@@ -164,7 +163,7 @@ would like to… but I can’t do this, because…«).
 
 Naturally, the three general aspects of activities, motivations and
 problems are just giving you a starting point for developing your questions.
-Use them to create questions suitable for you own research.
+Use them to create questions suitable for your own research.
 
 When you have started with gathering data you can further refine your
 questions. You will get new ideas or want to refine questions since you tried them
@@ -174,9 +173,8 @@ generation during work was important for the participants and an interesting top
 Thus I added questions like »how do you generate new ideas« or »How do
 you know if an idea you have works?«. Note that I did not
 ask directly »do you generate ideas while implementing designs«. This
-would be a question that  urges to be answered with »yes« or »no«. Such short
-answers give no context. But we need the context, the reasons for
-actions and the course of events to know not only how work is done but why it is done, too
+would be a question that  urges to be answered with »yes« or »no«. Such short answers do not yield the context we need, the reasons for
+actions and the course of events to know not only how work is done but why it is done.
 
 
 
