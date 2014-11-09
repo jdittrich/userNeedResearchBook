@@ -1867,9 +1867,9 @@ The analysis methods described here can be used in both media. Nevertheless, eac
 
 ### Comparison
 
-![analysing data analog by using sticky notes](images/affinityDiagram2.jpg) 
+![analysing data analog by using sticky notes. Theme are written on yellow sticky notes, themes of themes are written on orange sticky notes](images/affinityDiagram2.jpg) 
 
-![analysing data digitally by using a word processor](images/analysisWord_copypaste.png)
+![analysing data digitally by using a word processor. Themes have gray headlines, themes of themes have black headlines](images/hierarchyWordprocessorAnalysis.png)
 
 The resources you need for analysing on your computer are: 
 
