@@ -19,7 +19,7 @@ I demonstrate how to analyze the gathered data in a way that makes it usable and
 To have knowledge about the »how« and »why« of the user’s work allows you to create innovative products that meet the users’ needs.
 As well, you can utilize this knowledge to improve existing products.
 
-I try to teach methods for user needs research in a way that is descriptive and allows quick application of the learned methods by using tools that are readily available to you.
+I will teach methods for user needs research in a way that is descriptive and allows quick application of the learned methods by using tools that are readily available to you.
 I give examples to demonstrate the use of methods in practice.
 I hope you can imagine yourself applying the described methods when reading – and I want to avoid teaching something that seems like mere theory to you.
 
@@ -27,23 +27,24 @@ Don’t get me wrong (especially if you are a seasoned researcher for user needs
 It is not that I think theory is superfluous and should be avoided by practitioners.
 I just want to empower beginners by providing a start in the field which is hands-on and leads to visible results.
 
+<!---  TODO Intro about here --->
 
 # Find People
 
 In user research we want to find out what our users do and how and why  they do it.
 If we know this, we can design our products accordingly.
 
-To be able to do research on the »how« and »why« of user’s work, you need to find some users who would like to answer your questions and would demonstrate some tasks.
+To be able to do research on the »how« and »why« of user’s work, you need to find some users who would like to answer your questions and would show you what they do.
 These users are our (research) participants.
 (Your participants may be called your »sample«, in contrast to all those who could be possibly be participants, the »population«.
  So a sample – some users – is a part of the population – all possible users)
 
 ## Who are possible participants?
 
-The participants in your research need to be similar to the possible users of your final product.
+The participants in your research need to be similar to the future users of your final product.
 If you plan to create an app for people to create bibliographies it makes sense that the participants are students or researchers.
 If you plan to design a skateboard try to find people who skate.
-The point is that you need to make up your mind who might give you the information about the how and why of the activities you want to support with your product.
+The point is: you need to make up your mind who might give you the information about the how and why of the activities you want to support with your product.
 
 When selecting possible participants, I recommend doing a check based on (assumed) user behavior.
 Ask yourself: Are the people that may participate in your research likely to…
@@ -74,14 +75,14 @@ For example, participants could be found among
 - the people who visit your or your companies homepage
 - participants of meetings/gatherings.
 
-To find the right participants for your research, try to find out where those people are: users of a particular software can be found on mailing lists, forums and user meetups.
-Young adults could be found via bulletin boards on campus.
+To find the right participants for your research, try to find out where those people are: users of a particular software can be found on mailing lists, forums and user meetings or events.
+Young adults could be found via bulletin boards on on university or college campus.
 Retired people may be found in church congregation and retirement homes.
 
 Inform possible participants about the study and what they can expect when they participate.
 Regardless of how you inform them – if by speaking directly to them, by using a note on a blackboard or by writing an eMail –  you should give them the following information:
 
-- the purpose of the study
+- the purpose of the study and the resulting benefits for the participant or the wider community (e.g. a product which is more suitable to their needs) 
 - the research method (answering questions and observation)
 - the time frame (ranging usually from 30min-2h)
 - incentives (if you can afford it)
@@ -103,16 +104,12 @@ If you would  like to participate (or have further questions) please write a mai
 
 </div>
 
-When using such ways of recruiting be sure to comply to the rules of the organizations or social groups involved.
-It does not help your research if the community you target gets cross with you for violating their privacy and customs.
+When you reach out to communities for recruiting be sure to comply to the rules of the organizations or social groups involved.
+It does not help your research if the community you target gets upset with you for violating their privacy and customs.
 If you are unsure, just ask.
 These people you ask, lets say a clergyman or a meetup organizer may even be able to set you up with people who can help you.
-Once you started your reserach you can ask  participants if they know other people who match your ideas of possible participants.
-It is likely that they know some other people who work in the same job or have similar hobbies.
-This is called »snowball sampling«: The more people you ask the more additional people you get and you could ask those as well.
-This is like a snowball which, when rolled, gains more and more snow the bigger it gets.
-However, don't be afraid of an avalanche of participants, usually everyone you ask only knows some people and these may or may not respond.
-Just stop asking additional ones when you think the amount of participants is right.
+Once you started your research  you can ask  participants if they know other people who match your ideas of possible participants.
+It is likely that they know some other people who work in the same job or have similar hobbies. (In the literature this is also called »Snowball sampling«)
 
 
 ## How many participants do I need?
@@ -128,18 +125,26 @@ As well you might not see which patterns are consistent among several people and
 
 There are no clear cut rules of how many participants are enough.
 However, most of my projects have between 3 and 8 participants.
-If I really need to be sure that what I notice is consistent I'd do research with 10, but thats about the limit I can manage on my own.
+If I really need to be sure that what I notice is consistent I'd do research with 10, but that is about the limit I can manage on my own.
 
-You can consider doing your research iteratively: start with three or four participants and begin with the analysis as soon as possible.
+An efficient way of involving the »right« amount of participants is doing your research iteratively: start with three or four participants and begin with the analysis as soon as possible.
 Steps like writing your comments to the data or even starting to create possible grouping is possible after having the data of at least two participants.
 Take a look at the first (preliminary) findings: Are the patterns repeating themselves and are they consistent between participants and situations?
 Or do they vary widely?
 If they are consistent, you may do research with few additional participants to refine and check and to explore details – or, if time is up, leave it the way it is.
 
-If preliminary findings vary and it is hard to see any patterns consider involving more participants and review the scope and goal of your research.
-It is possible that there is just a variety of patterns and the need for more users to make sense of the data.
-But it could as well be the case that your research focus is very broad and hard to research.
-In this case try to narrow down the focus and the activities you need to know about before involving the next batch of participants.
+If preliminary findings vary and it is hard to see any patterns you may need to involve more participants. 
+
+Reasons for the lack of patters in the data can be: 
+
+* Your research encompasses different groups of people with different needs – For example the groups students and professors share some traits, but many characteristics will vary.
+* The topic of your research is too broad – for example, »How do people do design« is very broad, »How do interface designers involve specifications of user research and engineers in their designs« is more specific.
+* Even if your research is focused and there is only one group of people involved, the actual patterns just vary. 
+
+In all these cases you can involve more participants. Before you do involve more participants try to check if you…
+
+* need to clarify your research topic (to focus your efforts) 
+* need to specify the involved groups (to recruit the right participants)
 
 # Prepare the research session
 
@@ -198,28 +203,36 @@ You can explore  these relations further in follow-up questions
 
 <div class="example">
 
--   Can you describe a situation in which you feel hindered by the tools you are using?
--   When do you feel hindered or slowed down?
--   Can you show me how you circumvent this from happening?
+-  When do you feel hindered or slowed down?
+-  Can you show me how you circumvent this from happening?
+-  What will happen if you can’t solve this problem?
 
 </div>
 
-Asking for problems provides some good starting points for designing (as you can try to avoid the problems with a better solution).
-The answers will tell you something about the motivations of the user too (e.g. »I would like to… but I can’t do this, because…«).
+Asking for problems provides some good starting points for designing (as you can try to avoid the problems with a better solution). 
+
+Problems are easily communicated and the need for a solution is often very clear. Thus they provide a good starting point when convincing others …
+
+* …that changes to a product/concept need to be made
+* …that your research makes sense and helps to avoid such problems. 
+
+However, only dealing with problems would lead to pathching exisitng solutions. If you want to create new ways of approaching things, you need to connect problems to the underlying motivations by asking for the difficulties a problem causes.
+
 
 Naturally, the three general aspects of activities, motivations and problems are just giving you a starting point for developing your questions.
 Use them to create questions suitable for your own research.
 
 When you have started with gathering data you can further refine your questions.
 You will get new ideas or want to refine questions since you tried them and may notice shortcomings or opportunities.
+
 For example, in the research on graphic design I noticed that idea generation during work was important for the participants and an interesting topic to research.
 Thus, I added questions like »How do you generate new ideas?« or »How do you know if an idea you have works?«.
+
 Note that I did not ask directly »Do you generate ideas while implementing designs?«.
 This would be a question that  urges to be answered with »yes« or »no«.
 Such short answers do not yield the context we need, the reasons for actions and the course of events to know not only how work is done but why it is done.
 
-In later sections we will have a further look at the does and dont’s of questions.
-
+In later sections we will have a further look at the do's and dont’s of questions.
 
 
 ## Write a cheat sheet  
@@ -230,7 +243,7 @@ doing the interview. A good way to ensure this is to taking a cheat sheet (more 
 What goes into such a sheet? The biggest part will be **questions** which you
 created beforehand (take a look at [»What do you want to find out?«](#questiontopics)  for 
 collecting possible questions). When you write the questions on the cheat sheet, 
-start with the general topics and progress towards more specific ones. 
+start with the general topics and progress towards more specific ones.
 This is the order that makes sense in the course of a research session. 
 Nevertheless, that order is only a helpful guess. You will usually deviate a bit (or a lot) from your cheat
 sheet.
@@ -247,38 +260,45 @@ In this case you can help yourself along with some reminders on the sheet, like
 »Activities/Motivations/Problems«, »How and Why«, or, for the graphics design topic:
 »creativity/variations/creative rules/technology« or the like.
 
+
 ## Equipment  
 
 With a participant talks about new and interesting things you want to
 be able to remember what was said. Thus we record the interview – and we
-will need some equipment for doing that. Let’s have a look what we can use.
+will need some equipment for doing that:
 
 ![Equipment for user research: paper, pen, audio recorder](images/interviewEquipment.svg)
 
-### Note taking  
 
-During the interview and observation you will take notes. For taking
-notes you need:
+- for note taking and sketching
+	-   Paper, lined or blank (15 or more sheets, just to be on the save side)
+	-   Pencil or Pen (Don't forget to bring backups!)
+	-   Something to write on. A clipboard is great.
+-  Audio Recording
+	- audio recorder or smartphone
+-  Photos and video
+	- a digital camera
 
--   Paper, lined or blank (15 or more sheets, just to be on the save side)
--   Pencil or Pen (Don't forget to bring backups!)
--   Something to write on. A clipboard is great.
 
+<!-- 
 ### Audio Recording  
+
+
 
 If you audio-record you interview you have a backup in case you could not keep
 up with taking notes and to be able to fully concentrate on the
 participant if needed. To do an audio recording, either use your smartphone and an audio 
 recording app or use an audio recorder. Test, if the audio on the recording 
 is still loud and clear enough if you have an arm’s length between you and the device. 
-Charge the batteries fully so you don’t run out of battery in the midst of research. 
+Charge the batteries fully so you don’t run out of battery in the midst of research. -->
 
 ### Camera
 
 A camera is not a must but can be useful, especially if your research
 involves much participant observation or if you don’t feel confident
 about your sketching skills. 
-
+ --> 
+ 
 # Data Gathering  
 
 In this chapter we will learn how to gather data to get to know about
@@ -294,11 +314,9 @@ have in the future. Instead of dealing with ideas directly we will find
 out about the how and why of our participant’s activities and thus set 
 a reliable foundation for our designs.
 
-Think of your participants as as competent in what they do. This is contrary to the idea of
-designers and programmers as people who improve the lives of those who
-»don’t get it«. Instead, we assume that the participants of our research
-have a reason of doing their work the way they do it. We try to find out
-these reasons behind their activities. 
+Think of your participants as competent in what they do: they are experts in their fields and in their daily work 
+
+Emphazing the expertise of the participants is contrary to the idea of designers and programmers as people who improve the lives of those who »don’t get it«. Instead of this, we assume that the participants of our research have a reason of doing their work the way they do it. We try to find out these reasons behind their activities.
 
 Getting to know the »how« and »why« of the users actions will allow us to
 evaluate our ideas (does it match their ideas of good work?) and to get
@@ -335,8 +353,7 @@ about. You don't need to reveal all your questions and topics
 
 <div class="example">
 
-This research helps us to improve the workflow in the design process in order to be
-able to design solutions for people who do graphic design.
+This research helps us to improve the workflow in the design process to design solutions for people who do graphic design.
 
 </div>
 
@@ -412,7 +429,6 @@ Thus the agreement is clear for both sides. See in the Appendix for an
 When you got the consent of the participant you can start the research
 session.
 
-<!-- TODO nela bis hier -->
 
 ## Modes of gathering data  
 
@@ -426,7 +442,7 @@ conversation: You ask questions, the user answered them. -->
 We gather data by asking questions and listening to the participant’s answers.
 However, the use of questions and answers in user needfinding is unlike the 
 questions and answers in surveys. In surveys it is often aimed for short, definitive
-answers out of a determined set of possbilities (»on a 4 point scale: how much do you
+answers out of a determined set of possibilities (»on a 4 point scale: how much do you
 agree with…«). Instead of this, we aim for longer answers that are give »free« and not 
 from a determined set of answers. Thus we are more likely to get rich descriptions, 
 much like veritable stories which retell the participant’s experiences. In addition, these
@@ -448,7 +464,7 @@ tool. It can be done without many resources. You are not tied to a specific plac
 you can talk about past events as well as future plans. 
 
 But because of this it can happen that you hardly focus on actual occurrences and
-experiences. Observations are thus a good supplement to asking questions and listening, since observations are naturally concern actual actions you can see happening at the very moment.
+experiences. Observations are thus a good supplement to asking questions and listening, since observations are naturally concernd with actual actions you can see happening at the very moment.
 
 ### Observation  
 
@@ -470,8 +486,8 @@ environment that point out problems – for example quick fixes
 with tape, or added instructions on devices and machines. 
 
 
-It is not needed to have observation as a seperate step in the research process. 
-It makes great sense to interveave it with asking questions and listening to the user. 
+It is not needed to have observation as a separate step in the research process. 
+It makes great sense to interweave it with asking questions and listening to the user. 
 Instead asking for descriptions of processes or tool, you can ask for a demonstration.
 
  <div class="example">
@@ -570,7 +586,7 @@ You probably have some ways to intuitively show that you listen
 However, when giving this kind of feedback you should be careful though
 not to skew the answers by indicating that some information is better
 than other. If you throw in a »yes, great« combined with nodding (as if you
-prefer what the participant did in comparsion to something else) or if you 
+prefer what the participant did in comparison to something else) or if you 
 just make a rather unmotivated »mm« and frown (as if what is
 told does not match your expectations) the participant will get
 selective about his/her answers and focus on stuff you seem to like. Try
@@ -602,7 +618,7 @@ fact that you got information you that helps you:
 Possibly you could even wrap the information up »So you…« and/or refer
 to an area you like further information about. So it will be clear
 that you care for the information and listened well – without casting
-some judgement on what was told to you. 
+some judgment on what was told to you. 
 
 ### Body Language  
 
@@ -633,24 +649,25 @@ video ask, before you start the recording.
 
 </div>
 
-Usually I fade out the length of thesequestions once the participant agreed,
+Usually I fade out the length of  these questions once the participant agreed,
 so the next time I'm photographing and I see no obvious obstacles (an
 obstacle might be a blueprint for a project under construction on screen
 or desk or anything else that is more confidential than what one would
 usually expect), I go with »May I…« the next time and fade out asking
 each time. Ask not only for recording activities – it goes for all other
 activities of yours you feel unsure about: just ask. By that, you show
-respect and care for the participant and you avoid arkward
+respect and care for the participant and you avoid awkward
 situations.
   
+
 
 ## Asking open questions  
 
 You may have noticed that the suggested questions from the previous
-section are not aiming for specific, short answers. In situations differen from user need research
- you often  want answers to be short and precise: 
- »Are you a graphic designer?« »I am a Graphic Designer!« / »How
-much do you like your Job? Give a mark« »B!« / »Please name your Tools!«
+section are not aiming for specific, short answers. 
+In situations different from user need research  you often  want answers to be 
+short and precise:  »Are you a graphic designer?« »I am a Graphic Designer!« / 
+»How much do you like your Job? Give a mark« »B!« / »Please name your Tools!«
 »InDesign, Photoshop«.
 
 If you would diagram who speaks for how long when we ask for specific
@@ -663,12 +680,12 @@ These questions demand very specific answers mostly out of a determined
 set: Yes or no, marks from A-F, a list of nouns. They would be useful if
 you would want to do statistics, for analysis that allows us to give results
 like »56.3% agreed strongly on Question X«. However, we want to find out
-about the *why* and *how* of the participant’s work here ^[Research  concerned 
+about the *why* and *how* of the participant’s work here [^Research  concerned 
 with finding out about »how« and »why« using methods like interviews and 
 observations is also called »qualitative« research. In contrast, »quantitative research« 
 usually tests hypothesis (like »an orange ›buy‹ button generates more 
 sales that a blue one «) and employs controlled experiments and statistics. In this book 
-we learn about qualitative methods] .
+we learn about qualitative methods].
 
 Imagine, in contrast to the research session outlined above (short
 answers, short questions) a day-to-day situation, in which you get to
@@ -677,7 +694,7 @@ such an exchange you will tell each other about your experiences, what you
 felt, why you did this and that etc. In a diagram it would look like
 this:
 
-![giving longer aswers, equal share](images/talkDiagram_friend.svg)
+![giving longer answers, equal share](images/talkDiagram_friend.svg)
 
 In contrast to a conversation, our main goal is to collect data; we
 don’t want to tell about our Job as a user researcher, but
@@ -734,7 +751,7 @@ characteristics.
 
 <div class="example">
 
-here are some of the questions
+Here are some possible questions
 
 -   Can you describe the worst experience in your day so far?
 -   Can you tell me how you create a layout?
@@ -749,7 +766,7 @@ question words, again, suggest an elaborate answer, not just one
 or two words.
 
 Thus, a template for such questions would look like *»tell me [how/why/what] +
-interest«*
+interest*
 
 Contrast this with questions like
 
@@ -757,13 +774,11 @@ Contrast this with questions like
 
 You: »Is this a good design?«
 
-Paricipant: »yes!«
+Participant: »yes!«
 
 </div>
 
-*»Is…«* -questions will be answered with »yes« or »no« – but we don't
-get to know *why* the participant to agrees or disagrees with our
-assumption.
+»Is…« -questions will be answered with »yes« or »no« – but we don't get to know why the participant to agrees or disagrees with our assumption. In addition, »Is…«-Questions are a subtle form or influence ^[Also called a »leading question«] : In case of doubt it is  likely that are participant just agrees to the suggestion you give by asking »Is…« 
 
 Sometimes,  »Is«-Questions will  come in a disguised
 form – as an addition which is made to an open question:
@@ -808,7 +823,7 @@ This would not be possible when asking the same questions each time.
 So you neither can’t nor should take yourself out of the research session – you will always have some sort of effect on the participant when you do the research. 
 
 What you should avoid though is influencing the participant by
-»suggesting« favourable answers or actions. Some sorts of this type of  influence are obvious,
+»suggesting« favorable answers or actions. Some sorts of this type of  influence are obvious,
 others are not.
 
 <div class="example">
@@ -848,15 +863,15 @@ say: »No, you can change it!«
 
 Remember that you want to find out what your participant does and why. To
 correct the participant is not very useful.  Use the possibility to further explore the topic
-without correcting the user ^[If, however, the participant would
+without correcting the user [^ If, however, the participant would
 clearly benefit from knowing some technical detail, just give the crucial information
  after the session] .
 
 <div class="example">
 
-You could just ask »What is useful about a change color function«, or,
-if talking about the function itself is really is important to you, you
-could ask »How did you expect to do the color change if there would be such a function?«
+You could just ask »what's the reason for you doing it this way«, or, 
+if talking about the function itself is really  important to you, you could 
+ask »How did you expect to do the color change if there would be such a function?«
 
 </div>
 
@@ -879,9 +894,8 @@ user has a reason. Try to find out what this reason may be.
 
 <div class="example">
 
-»What is good about that workflow?« or »Did you ever try an
-alternative workflow« or »can you think of other ways that might be
-feasible?« – and remember to ask follow-up question to further explore
+Again you could ask: »what's the reason for you doing it this way« 
+– and remember to ask follow-up question to further explore
 the issue.
 
 </div>
@@ -891,9 +905,9 @@ conversations you may shrug or frown if you disagree with an
 utterance or an action. Even if you don’t say »this is wrong«, frowning
 or shaking your head may have the same results. 
 
-So: don't be afraid to react towards the participant – reacting towards the participant is 
+So: don’t be afraid to react towards the participant – reacting towards the participant is 
 essential in our research. But don’t suggest »good« or »bad« answers or 
-»good« or »bad« activities using words, gestures or facial expressions.  
+»good« or »bad« ways of doing things by using words, gestures or facial expressions.  
 
 ### Silence feels strange but is o.k.  
 
@@ -1213,9 +1227,9 @@ generalizations, you can get more information and avoid doing research on
 ## Wrap it up
 
 When you covered the topics you wanted to know about and explored them
-sufficently by asking questions and observing it may be time to wrap up the research session. 
+sufficiently by asking questions and observing it may be time to wrap up the research session. 
 
-I made the experience that after 30 minutes I covered the my general questions. 
+I made the experience that after 30 minutes I covered the general questions. 
 However, getting to know complex workflows takes longer. Same goes for getting deeper insights
 into (work) culture. As well, using observations will need some time too. So if you go beyond a simple interview you should plan 1-2h for one research session. 
 
@@ -1256,32 +1270,31 @@ workflow.
 
 </div>
 
+<!-- TODO bis hier -->
 
-## Recording
+## Recording Data
 
-### Notes and Sketches on paper
+### Notes
 
-
-####  Notes  
 
 ![making notes on a clipboard](images/notizenKlemmbrett.jpg)
 
 
-During the interview you will take brief notes. This is rather similar
-like taking notes in school or university: You go for the gist of what
-was said but you don't write down the exact words (Except in the case you
-find an particular expression itself important). One finding, utterance or
-observation goes in one line.
+During the interview you will take brief notes. This is rather similar like taking notes in school
+or university: You go for the gist of what was said but you don't write down the exact words
+(Except in the case you find a particular expression itself important). One utterance or 
+observation concerning one topic goes in one line.
 
-You can’t just look at your note sheet and write down what the participants says without ever looking at him/her. So you need to do the notetaking *in addition* to observing, listening and asking. 
+You can’t just look at your note sheet and write down what the participants says without ever
+looking at him/her. So you need to do the notetaking in addition to observing, listening and 
+asking.
 
-If you don’t care too much about your handwriting you can write 
-notes without much looking at the paper except for some occasional glances. 
-In case you find something very important and fear forgetting it, you can ask the participant to 
-repeat the utterance – but keep this to a minimum.
+If you don’t care too much about your handwriting you can write notes without much looking
+at the paper except for some occasional glances. In case you find something very important
+and fear forgetting it, you can ask the participant to repeat the utterance – but keep this to
+a minimum.
 
-If you can, try to provide some context in your notes. Thus, the point
-you write down has a meaning on it’s own:
+If you can, try to provide some context in your notes. If a note has some own context information attached to it, it can be understood on its own, too. 
 
  <div class="example">
  
@@ -1294,28 +1307,58 @@ you write down has a meaning on it’s own:
  »creates empty pages to organize drafts«
 </div>
 
-If your notes have a meaning on their own it will be far easier to
-analyze them later.
+If your notes have a meaning on their own it will be far easier to analyze them later.
 
+### Audio
 
-####  Sketches  
+Unlike making notes on paper, making an audio recording is a rather passive process except
+ for pressing the record button.
 
-Observations are, by nature, visual and concerned with processes. 
-Make sketches or even little storyboards to
-capture what you see. It depends on the situation and your capabilities
-in drawing quickly (or rather, your trust in that capability). 
+I recommend using audio recordings – it is a useful supplement to your notes. It will record
+the audio during the research session so that you can listen to what was said hereafter.
+Note that it is not a perfect capture of all that happened: It records only sound, so if the
+participant points to the screen and refers to »this«, the recording is not much of help.
 
-It is very useful that you can choose what to draw: highlight what is important,
-leave out what is irrelevant and make annotations to ease understanding the sketches later.
+### Photos
+Making photos is rather easy and can capture lots of information. For example, you can
+photograph the participant's desk to aid your memory. Later, you can go back and see 
+what was on it: Paper, pens, computer; were there tidy looking stacks and containers 
+for all the utensils? Or was it seemingly messy?
 
-I mostly use my sketches the same way I use notes: Notes and sketches are made on a
-common sheet of paper; one sketched observation goes in one line, if
-possible.
+You can photograph the users screen if your research involves computers and gadgets. 
+Tech savvy users may cringe since a software based screenshot is technically superior – 
+but if the user does not know you to make a screenshot, a camera is a handy way to capture
+the screen.
+
+You should be able to to make  photos with your camera quickly and reliably. 
+Thus, use a device you know and which has a good auto-mode. 
+The only setting that I use beyond that is the exposure compensation 
+in case an important part of the image totally dark or disappears in light. 
+Exposure compensation allows adjusting for that.
+
+Avoid complicated set-ups or even arranging the participant and his/her tools. Arranging the participant and his/her tools would change the data you record.
+
+![photographing the working user](images/NutzerFotografieren.jpg)
+
+![photographing a screen instead of using screenshots](images/ObservationDesignU4ScreenFontMix.jpg)
+
+### Sketches
+The Observations you make are, by nature, visual and concerned with processes. 
+Make sketches or even little storyboards to capture what you see. 
+ 
+It is very useful that you can choose what to draw: highlight what is important, leave out what is irrelevant and make annotations to ease understanding the sketches later.
+
+I mostly use my sketches the same way I use notes: Notes and sketches are made on a common sheet of paper; one sketched observation goes in one line, if possible
 
 ![Sketches on the note sheet](images/sketchesInNotes.png)
 
+#After the Session
+After our research session we have our notes, sketches and possibly audio and photos. 
+Using these recordings as well as our memory we create a coherent document for 
+each participant which captures the research session and the recorded utterances and 
+observations. 
 
-####  After the interview  
+## Supplement from memory
 
 It is essential to take time after the research session to supplement your
  notes with information from your memory. While collecting
@@ -1423,275 +1466,297 @@ enable you to preserve information in the most situations. However, for
 complicated descriptions of workflows or if you just loose track by
 accident, it might be useful to have a backup by using audio recording.
 
-####  Getting it into the computer
+## transcribe notes {#transcribeNotes}
+When I added my supplements to the notes and sketches I usually type them in a 
+wordprocessor document. In addition, I scan my notes, so I can easily cut and paste my
+sketches into the document.
 
-When I added my supplements to the notes and sketches I usually type
-them in a wordprocessor document. In addition, I scan my notes, so I can easily cut
-and paste my sketches into the document. 
+When transcribing the notes, I take care that each line in the digital transcript has only one
+statement in it and not several, so that I don't tie two separate statements together. 
+On the other hand, make sure that the data you write down is meaningful on its own and 
+is not just a single word or a description which is free of any context and thus hard to 
+set in relation to other data.
 
-When transcribing the note, I take care that each line in the
-digital transcript has only one finding in it and not several, so that
-I don't tie two separate findings together. Make sure that the
-data you write down is meaningful on its own and is not just a single word or a
-description which is free of any context and thus hard to set in relation
-to other data.
+<div class="example">
 
- <div class="example">
- 
-Not meaningful on its own (means mostly: too short):
+**Not meaningful on its own (means mostly: too short):**
 
--   I duplicate objects
--   making space
+-  I duplicate objects
+-  making space 
 
 If there is any way to add the actual context (out of the memory or using other notes) 
-these notes should be supplemented with that context which hopefully helps us to get to know *why* are objects are duplicated and for *which purpose* is the space is made. 
+these notes should be supplemented with that context which hopefully helps us to get to
+know why are objects are duplicated and for which purpose is the space is made.
 
-</div>
+**Too many statements in one line (means as well: too long):**
 
- <div class="example">
+- Duplicating pages to save old ideas is common. Later she goes back to the duplicates and looks at them when she needs inspiration 
+- Tries to have enough space for the margins to write my comments in the margins; to do so she shrinks the main text area. I could as well try to make space down here, and use footnotes for the comments. 
+
+**Reasonable (each line can stand on its own and does not to cover multiple issues at once)**
  
- Too many findings in one line (means as well: too long):
-
--  Duplicating pages to save old ideas is common. Later she goes back     to the duplicates and looks at them when she needs inspiration
-- Tries to have enough space for the margins to write my comments in the margins; to do so she shrinks the main text area. I could as well try to make space down here, and use footnotes for the comments.
-
-</div>
-
- <div class="example">
- 
- Reasonable (Meaning on its own and not multiple findings at once):
-
--   Duplicating objects to save old ideas for later inspiration
--   Make space for additional comments by shrinking main text area.
--   Alternative places for additional comments: Either right margin or     bottom.
+- Duplicating objects to save old ideas for later inspiration 
+- Make space for additional comments by shrinking main text area. 
+- Alternative places for additional comments: Either right margin or bottom. 
 
 </div>
 
-The notes and later added supplements from my memory are treated alike
-in my documents since they are all data I gathered by listening or observing the participant. But I take care that later added design ideas and research
-questions are still easily distinguishable from the actual data that I
-gathered in the research session.
+The notes from the reserach session and later added supplements from my memory are treated alike in my documents since they are all data I gathered by listening or observing
+the participant. But I take care that later added design ideas and research questions 
+are still easily distinguishable from the actual data that I gathered in the research session.
 
+## Review Sketches, Photos and Audio
 
+### Sketches
 
-####  Making Photos
+Since my sketches are usually on the same sheet of paper as my notes, I review my sketches 
+when I am transcribing the notes. 
 
-Making photos is rather easy and can capture lots of information. For
-example, you can photograph the participant's desk to aid your memory.
-Later, you can go back and see what was on it: Paper, pens, computer;
-were there tidy looking stacks and containers for all the utensils? Or
-was it seemingly messy?
+If it makes sense I summarize the information of the sketch in a line or two (since it is easier to work with text than with images). Otherwise, I paste the sketch from a scan into the document with the transcript. 
 
-You can photograph the users screen if your research
-involves computers and gadgets. Tech savvy users may cringe since a
-software based screenshot is technically superior – but if the user does
-not know you to make a screenshot, a camera is a handy way to capture
-the screen.
+###Photos
 
-For utilizing photos you should know how to make good or at least
-o.k.ish photos with your camera quickly and reliably. Take a device you
-know and which has a good auto-mode. The only setting that I use beyond
-that is the exposure compensation in case an important part of the image 
-totally dark or disappears in light. Exposure compenstaion allows to adjust that. 
+After the research session go through your photos just like you went through your notes. 
+If it makes sense, you can use the information from the photos to supplement your notes. 
+It might as well useful to summarize what one sees on the photo. 
+These descriptions can be used more easy than the photo itself when doing the analysis.
 
-Avoid complicated set-ups or even arranging the participant and his/her tools.
-Arranging the participant and his/her tools would change the data you record.
-
-![photographing the working user](images/NutzerFotografieren.jpg)
+<div class="example">
 
 ![photographing a screen instead of using screenshots](images/ObservationDesignU4ScreenFontMix.jpg)
 
-After the research session go through your photos just like you went through
-your notes. If it makes sense, you can use the information from the
-photos to supplement your notes. It might as well useful to summarize
-what one sees on the photo. These descriptions can be used more easy
-than the photo itself when doing the analysis.
-
-<div class="example">
-
-For the photo above you might add the following line to your notes:
-»participant displays different font combinations in the layout
-application to see if the fonts go well together (see
-U2-14-9-14\_1.jpg)«
+For the photo above you might add the following line to your notes: »participant 
+displays different font combinations in the layout application to see if 
+the fonts go well together (see *U2-14-9-14_1.jpg* )«
 
 </div>
 
+###Audio
 
-###  Recording Audio
-
-Unlike making notes on paper, making an audio recording is a rather
-passive process except for pressing the record button.
-
-I recommend using audio recordings – it is a useful supplement to your
-notes. It will record the audio during the research session so that you
-can listen to what was said hereafter. Note that it is not a perfect
-capture of all that happened: It records only sound, so if the
-participant points to the screen and refers to »this«, the recording is
-not much of help.
-
-After the research session I listen to the recording. Usually I
-have the audio as a .mp3 and the notes as a typed out plaintext or
-wordprocessor document (see *notes and Sketches on Paper*), so I can open audio and
-transcript in parallel on my computer. When the audio contains information which is not in the
-document or if it supplements information that is already there, I pause
-the playback and write the additional information in the document. So
-the process is very similar to supplementing your notes from memory.
+After the research session I listen to the recording. Usually I have the audio as a .mp3 
+and the notes as a typed out plaintext or wordprocessor document (see: [Transcribe Notes](#transcribeNotes), so I can open audio and transcript in parallel on my computer. 
+When the audio contains information which is not in the document or if it 
+supplements information that is already there, I pause the playback and write the 
+additional information in the document. So the process is very similar to supplementing 
+your notes from memory.
 
 <div class="example">
 
-Recording: »…hmm I send it to my boss. She will check it. Now I go to
-that other document, and see…«
+Audio recording: »…hmm I send it to my boss. She will check it. Now I go to that 
+other document, and see…«
 
 The notes say: »Send document via mail«
 
-So I add the information about the cause of sending the mail:\
+So I add the information about the cause of sending the mail:
 »Send document via mail to the boss for checking.«
 
 </div>
 
-If you need to save time, go through your notes and see where they lack
-information. Then just jump to the parts of the audio that might
-complement these sections.
+If you need to save time, go through your notes and see where they lack information. Then just jump to the parts of the audio that might complement these sections.
 
-# Analysis
+\
+\
 
-## Introduction to data analysis
+As a result of supplementing our notes from memory and by using the audio, sketches and
+photos we now have a document which summerizes our reserach session. The data  is 
+mainly text-based, though if an information is better expressed via a sketch or an image 
+paste it in the document or refer to it. 
 
-### Why analysis?
+# Analysis 
 
-In the analysis we will take a closer look at the data and organize it
-after patters. By organizing after patterns the results can be remembered,
-communicated and be used in design. These uses would be hardly possible
-if when having several hundred single notes and observations like they
-come directly from interviews and observations. Thus we use an analysis
-of the data to process these notes and bring them in a usable, organized
-form.
+## Why Analysis?
+
+In the analysis we will take a closer look at the data and organize it after meaningful pattern. 
+After the interviews the data is organized by participants or the research sessions: All notes
+from one research session or participant are grouped together. This is a format which is 
+hard to use for designing. At best we could pick out single data pieces and tell which
+participant said it. 
+
+What would be more useful if we would organize the data by needs of users and their problems.  To do this we take the data – which is currently organized by participants – and cluster the data by meaningful principles. 
+
+![Analysis for creating principles independent from particular participants](images/aggregationAnalysis.svg)
+
+## Organization of data
+
+In the analysis we organize the data hierarchically. 
+The basis for our analysis are the utterances or observations, represented usually by a line 
+in your transcript, like »I find it boring to move around all the textboxes again!«. 
+These pieces of data will be grouped if they may share a similar theme. 
+These groups get a headline, stating the theme of by  the underlying pieces of data. 
+This is useful when designing, since you can refer to the headline instead of considering all
+ the underlying data each time. 
+
+Sometimes you will have groups which relate to a common theme themselves. In this case 
+it makes sense to make a group of groups and give the underlying groups of utterances and 
+observations and their headlines an overarching headline. 
 
 <div class="example">
 
 Here is a part of an analyis. 
 
--   *Overarching principle*: using existing work for inspiration 
-	-   *sub-principle*: review previous projects 
-		- Data: "I have a look at an old project to see how I solved this problem…"
-		- Data: Participant serches for…
+-   *Overarching theme*: using existing work for inspiration 
+	-   *sub-theme*: review previous projects 
+		- *Data:* » have a look at an old project to see how I solved this problem…«
+		- *Data:*  Participant searches for…
 		- …
-	-   *sub-principle*: use other’s work  for inspiration
-		- Data: "I look on google images how other calendars look like"
-		- Data: browses through the book to see…
+	-   *sub-theme*: use other’s work  for inspiration
+		- *Data:* »I look on google images how other calendars look like«
+		- *Data:* browses through the book to see…
 		- …
 		
 </div>
 
-### Invent by principles
+Such a hierarchial analysis could be done in two ways: 
 
-Maybe you know Bret Victors [talk on »Inventing on Principle«](http://vimeo.com/36579366). He shows
-how he used the principle (you could as well say »motto« or »guideline«)
-*»Creators need an immediate connection to what they're creating«* to
-design software that allows to program or create animations – without
-intermediate steps like choosing numerical values for parameters and
-without the need for *imagining* how the result will be and hereafter executing it. 
-Instead, in his solutions, taking actions and seeing the result happen in parallel. 
+1. **Top-Down**: You first name the groups and write the headlines and than sort pieces of data into the groups hereafter 
+2. **Bottom-Up**: You first group pieces of data which seem to share a similar theme and then give the group a comprehensive headline which states the topic shared by the underlying pieces of data. 
 
-By analyzing our data we can create such principles for our own
-projects. They may not as overarching and all-encompassing like Brat
-Victors principle, but they will help us to guide our designs and to
-evaluate them. You can ask yourself: »Does this idea follow my
-principles? Does it violate some of them?« or could ask »With which
-design could I realize this principle?«. Since the principles are based on our
-data, they will express the actual needs of your users and not some
-(potentially stereotypical) assumptions.
+We are going to use mainly the 2nd way, doing a so called »bottom-up« analysis. This does
+not mean that we never take a piece of data and sort it into an existing group. It just means
+that the group names are initially created are based on actual data.
 
-### What makes a principle as principle?  
-
-The principles we derive from the data should be a statement on their
-own – not just be describe a common property of the observations and
-utterances (i.e. the data) they are derived from. A simple test is to ask yourself if
-the principle could actually be true or false. The Principle »Colors«
-probably will sum up all data which has some relation to color. Nobody
-could say that the Principle »Color« is wrong. But »Colors are added later in
-design« is a principle that might be true or not. Thus it makes a
-statement instead of just referring to some common property like the
-same tool (»file mananger«) mentioned or similarly judged things
-(»good«) stuff. But what interests us is: What is the meaning of the
-file manager in the user’s workflow? What causes these things to be
-judged as »good«?
-
-Statement-like themes are very valuable in design, because they have a
-meaning you can test if ideas are coherent with the principle or not.
-You got a design idea? Check if it makes sense in the context of the
-principles you found out in user research. In need for inspiration? See
-if your principles refer to problematic areas where the users activities
-are clashing with the current tools.
+Thus in the analysis we may start with grouping moving similar data
 
 <div class="example">
 
-Let’s say we gathered this data (among others) in research 
-with beginners in web programming:
-
-- To try out stuff in HTML is fun
-- I analyse Javascript code to understand patterns
-- It is great to quickly test something using a JavaScript framework
-- To know these ›attributes‹ of HTML-›tags‹ makes writing code easier.
-
-
- You could order it by superficial similarity like this:
-
-- Utterances with HTML
-	- To try out stuff in HTML is fun
-	- To know these 'attributes' of HTML-'tags' makes writing code
- easier.
-- Utterances with JavaScript
-	- I analyze JavaScript code to understand patterns
-	- It is great to quickly test something using a JavaScript  framework
-
-These are ordered by simple word occurrence. But for designing and
-inspiration it is far more useful to order them by the meaning from 
-the users perspective:
-
-- Trying out is good
-	- To try out stuff in HTML is fun
-	- It is great to quickly test something using a javascript framework
-
-- Learning makes own coding better
-	- I analyse Javascript code to understand patterns
-	- To know these 'attributes' of HTML-'tags' makes writing code easier.
-
-Nevertheless, just creating groups which are based on commonalities
-can be an important step in the analysis. Just remember that you
-should come back and try to go beyond groups based on commonalities.
+- *Data:*  »I look on google images how other calendars look like«
+- *Data:*  Browses through the book to see…
 
 </div>
 
+Then we give that data a headline and name the topic:
 
-### Doing the right analysis?  
+<div class="example">
 
-The data analysis is done by inferring principles from single data
-points like utterances and observations. Thus the process is empirical
-(as it is based on gathered data) but if the same data is
-used, analysis made by different people will differ. This is because the
-result of the analysis depends on the reasonable but still individual
-and debatable interpretation of the data. You could say that »looking at
-last years design to quickly reuse elements« belongs to a group concerned with
-»I want to save  time« or to one related to the topic of
-»reviewing designs for inspiration« (given that it could serve both from
-the user's perspective).
+- **theme:** use other’s work  for inspiration
+	- *Data:* »I look on google images how other calendars look like«
+	- *Data:*  Browses through the book to see…
+	
+</div>
 
-There is no right or wrong nor a clear cut criteria of being »close
-enough« to the data when you create the principles and groups. Instead of
-having a clear, measurable rule like »you must have 0.5 significance in
-statistics, most important is that your analysis is plausible (instead
-of »right« or »wrong«). 
+When we come across a piece of data which shares the topic we can add it to the group too: 
 
-I compare the process of analysis to building a
-house from a pile of Lego® bricks. These bricks are like the
-not-yet-analysed data you start with. When you build a house out of
-these bricks, there is no »right« building. But neither is it a process
-which is arbitrary. 
+<div class="example">
 
-There are many, many ways to stack up the bricks – but
-only a very few of these generaly possible ways will result in something that can be
-plausibly called a house. 
+- *theme:* use other’s work  for inspiration
+	- **Data:  Searches on amazon to see how covers of books about the same topic look like**
+	- *Data:* »I look on google images how other calendars look like«
+	- *Data:*  Browses through the book to see…
+	
+</div>
+
+## Create meaningful groups
+
+I already talked about grouping data by shared themes. The question is: What is a meaningful theme?
+
+One method to group data and derive a theme would going through the data and see which utterances and observations mention the same thing or the same assessment. Thus all notes mentioning »color« would belong to one theme and get the headline „Color“; all notes mentioning »good«  belong to one theme and get the headline „good things“.  
+
+<div class="example">
+
+Let’s say we gathered this data (among others) in research on Do-It-Yourself-Work (DIY)
+
+- The shelf looks not as neat as a bought one, but it is mine
+- When it is broken and I need to get to work I can fix my bike quickly 
+- The cabinet’s door was loose. It annoyed me, so I repaired it. 
+- I look at the assembled bike and think: nobody else has the same 
+
+If we put the pieces of data which mention the same things in the same group we get these two groups: 
+
+- Theme: Bikes
+	I look at the assembled bike and think: nobody else has the same 
+	When my bike is broken and I need to get to work I can fix my bike quickly 
+- Theme: Furniture
+	- The cabinet’s door was loose. It annoyed me, so I repaired it. 
+	-The shelf looks not as clean as a bought one, but it is mine
+
+</div>
+
+Organizing the data by this »same things mentioned«-method would help us to find data concerned with a specific thing or assessment: If we want see everything that concerned furniture we can go through the data in the »furniture« group; If we would like to know what people liked we could look it up in a group titled »good«.
+
+However, the themes have no meaning on its own when organizing using the »same things mentioned«-method. You still need to go through the data points to find out what people did with their furniture and what they think of as »good«. The themes are just labels for the content. 
+
+Imagine we would not create the themes by looking for same things being mentioned but by the insights we drew from the data in the group by focusing on the meaning of activities, problems and goals for the participants. 
+
+ If we take the data about DIY again this could look like this:
+
+<div class="example">
+
+- Theme/Insight: Participants need to »make things work«
+	- The cabinet’s door was loose. It annoyed me, so I repaired it. 
+	- When my bike is broken and I need to get to work with it the next day I can fix my bike quickly
+- Theme/Insight: Good: DIY gives sense of individuality
+	- The shelf looks not as clean as a bought one, but it is mine
+	- I look at the assembled bike and think: nobody else has the same
+ 
+ </div>
+
+If we organize data by the insights about the participants and summarize the insight in the
+group’s title (the theme), this title is useful on its own: It is not just for accessing the data, it is
+an empirically based principle we can follow when we design. 
+
+If you design, let’s say, for a DIY-Online community, an insight like »DIY gives as sense of
+ownership«  may inspire the implementation of a function which allows people to share their
+designs and customizations. The insight that sometimes DIY is just about fixing things may
+lead to the provision of a wiki for collecting best practices for doing common repairs and
+maintenance. 
+
+If you have a new idea you can ask yourself »Does this idea follow my principles/group titles? Does it violate some of them?«. You may ask yourself »With which design could I realize this principle?«. Since the principles are based on our data, they will express the actual needs of your users and not some (potentially stereotypical) assumptions.
+
+Grouping your data based on insights about your participants provides great benefits. But it can be hard and may be not possible for all your data. Creating groups using the same-things-mentioned methods is still a useful method and these groups may still evolve. Usually I have quite some »same-things-mentioned«-groups in the beginning and far fewer at the end – but still my analysis will be a mixture of both styles.
+
+
+<div class="example">
+
+Understanding why organizing data based on insights is an important point which can be hard to grasp for beginners. I think examples can be a create help in understanding it, thus I want to provide an additional demonstration in the gist of the above mentioned DIY data. Like the DIY data this example is made up by me to be able to demonstrate the shift from same-things-mentioned to insight-based organization. 
+
+Let’s say we gathered this data (among others) in research with beginners in web programming:
+
+- To try out stuff in HTML is fun 
+- I analyze Javascript code to understand patterns 
+- It is great to quickly test something using a JavaScript framework 
+- To know these ›attributes‹ of HTML-›tags‹ makes writing code easier.
+
+If we put the pieces of data which mention the same things in the same group we get these two groups: 
+
+- Theme: Utterances with HTML 
+	- To try out stuff in HTML is fun 
+	- To know these 'attributes' of HTML-'tags' makes writing code easier. 
+- Theme: Utterances with JavaScript 
+	- I analyze JavaScript code to understand patterns 
+	- It is great to quickly test something using a JavaScript framework
+
+Organizing the data by the insights we may draw from the data the structure look like this: 
+
+- Theme/Insight: Trying out is good 
+	- To try out stuff in HTML is fun 
+	- It is great to quickly test something using a javascript framework 
+- Theme/Insight: Learning makes own coding better 
+	- I analyze Javascript code to understand patterns 
+	- To know these 'attributes' of HTML-'tags' makes writing code easier. 
+
+</div>
+
+## Doing the right Analysis
+
+The data analysis is done by inferring principles from single data points like utterances and
+observations. Thus the process is empirical (as it is based on gathered data) but if the same 
+data is used, analysis made by different people will differ. This is because the result of the 
+analysis depends on the reasonable but still individual and debatable interpretation of the 
+data. You could say that »looking at last years design to quickly reuse elements« belongs to a 
+group concerned with »I want to save time« or to one related to the topic of »reviewing 
+designs for inspiration« (given that it could serve both from the user's perspective).
+
+There is no right or wrong nor a clear cut criteria of being »close enough« to the data when 
+you create the principles and groups. Instead of having a clear, measurable rule like »you 
+must have 0.5 significance in statistics, most important is that your analysis is plausible 
+(instead of »right« or »wrong«).
+
+I compare the process of analysis to building a house from a pile of Lego® bricks. These 
+bricks are like the not-yet-analysed data you start with. When you build a house out of these 
+bricks, there is no »right« building. But neither is it a process which is arbitrary.
+
+There are many, many ways to stack up the bricks – but only a very few of these generally 
+possible ways will result in something that can be plausibly called a house.
 
 <div class="gallery two">
 
@@ -1712,137 +1777,153 @@ is not determined at the beginning, but a process, just like building
 your Lego® house, in which you trial, fail, find improvements and step by
 step come closer to a structure you are satisfied with.
 
+## Prepare Data for Analysis
 
+Before we start with the analysis we should prepare our data.
 
-### Hierarchical organization of data  
+### Add Participant Codes
 
-We will analyze our data by sorting it in groups (you can as well say:
-by clustering it). The data in one group will relate to a particular
-theme or, better, a principle, which is common to the data in the group.
+When you create groups of data it is good to know if the theme of the group is more or less 
+general or only concerns one participant. 
 
-We write down this theme or principle as a title for the group. If you
-analyze your data using paper notes, your titles will be written on a
-sticky note of a specific color (choose one, but stick with it). If you use a
-word processor, use a headline for the groups titles. 
+Thus you should supply your each datapoint (=line in the transcript) with a participant code. 
+A participant code works like a pseudonym: The user is not identifiable by his/her real name, 
+but by a stand-in for the name. I use neutral number codes: The first person I did a research 
+session with is P1, the second is P2 etc.
 
-Sometimes you will have groups which relate to a common principle themselves. In this case
-it makes sense to make a group of groups. If you analyze on paper notes,
-use sticky notes of a color different from the usual group sticky notes
-(lets say, normal group titles go on yellow notes, titles of
-groups-of-groups go on green sticky notes). If you analyze your data in
-a word processor use a bigger (hierarchically higher) headline (if you
-use the »headline 2«-style  for normal groups, choose "headline 1"-style for group-of-groups
-titles)
+<div class="example">
+If you have this on your transcript:
 
+- It is hard to know what exactly the client wants, because I dont talk directly to the client
+- The document is divided in sections, seperated by blank pages. 
+- The current ideas/prototypes are in the first section. All discarded or “paused” ones are in later sections (the archive”)
+[…]
 
-## Annotate and prepare the Data  
+It will look like this after adding the participant codes (the data is from the second research 
+session:
 
-The first step of analysis is to review your data and annotate it in
-order to find possible interpretations, principles and
-meaning behind the observations and utterances.
+- It is hard to know what exactly the client wants, because I don’t talk directly to the client –  **P2**
+- The document is divided in sections, seperated by blank pages.  –  **P2**
+- The current ideas/prototypes are in the first section. All discarded or ›paused‹ ones are in later sections (the archive”) –  **P2**
+[…]
 
-The annotations should be clearly distinguishable from data you got
-directly from observation or the participant’s answers – just like other things you
-did add yourself (e.g. design ideas). 
+</div>
 
-I would recommend using a word processor with a comment function. Open your transcript, mark the part
-you want to annotate with your interpretation, then click the »comment«
-button. If you don't use a word processor, but plaintext, use something
-like *»COMMENT:«* to mark your comments; If you prefer to do your annotations
-with a pen and a highlighter, print your notes with double line-spacing
-to have enough room for writing.
-
-Annotating your data is a creative process. If in doubt whether an
-annotation is relevant or not: opt for writing it. Later on it might
-become useful. If you are unsure about something or an idea seems to be
-far fetched, just go for it. Since you keep data and comments
-distinguishable from each other you can always throw stuff out again. The goal is not to
-come up with great annotations but to wrap your head around the data and
-to find possible ways to interpreting it.
+You just add the participant code at the end or beginning of each line. It is not the most 
+exiting work but it can be done quickly – Copy the current coder in the computer's clipboard 
+(STRG+C), place the cursor with the [arrow keys](http://en.wikipedia.org/wiki/Arrow_keys) 
+and the [end](http://en.wikipedia.org/wiki/End_key)/ 
+[home](http://en.wikipedia.org/wiki/Home_key) keys and paste the code (STRG+V). 
 
 ![Annotating data in a wordprocessor](images/commentsAnalysis.png)
 
+## Annotate
+After you added your participant codes you can start to review and to annotate your data in 
+order to find possible interpretations, principles and meaning behind the observations and 
+utterances. 
 
-## Analysis: analog or digital?  
+This will help you to get familiar with the data and to derive meaningful themes and insights 
+later.
+
+Annotations are possible interpretations and questions tied to a line in your transcript. It can 
+be full sentences as well as short list of words. 
+
+<div class="example">
+
+- It is hard to know what exactly the client wants, because I don’t talk directly to the client –  P2 **ANNOTATION: indirectness, division of tasks, friction, „I need to know the client“. ***
+- The document is divided in sections, seperated by blank pages.  –  P2 **ANNOTATION: Keeping/imposing order**
+- The current ideas/prototypes are in the first section. All discareded or “paused” ones are in later sections (the archive”) –  P2 **ANNOTATION: Keeps old ideas. Why? Possible: Later reuse, Inspiration, replication**
+
+</div>
+
+I suggest to annotate each line, but this is not a must. 
+
+The annotations should be clearly distinguishable from data you got directly from observation 
+or the participant’s answers – just like other things you did add yourself (e.g. design ideas).
+
+I would recommend using a word processor with a comment function. Open your transcript, 
+mark the part you want to annotate with your interpretation, then click the »comment« button. 
+If you don't use a word processor, but plaintext, use something like »COMMENT:« to mark 
+your comments; If you prefer to do your annotations with a pen and a highlighter, print your 
+notes with double line-spacing to have enough room for writing.
+
+Annotating your data is a creative process. If in doubt whether an annotation is relevant or 
+not: opt for writing it. Later on it might become useful. If you are unsure about something or 
+an idea seems to be far fetched, just go for it. Since you keep data and comments 
+distinguishable from each other you can always throw stuff out again. The goal is not to come 
+up with great annotations but to wrap your head around the data and to find possible ways to 
+interpreting it. 
+
+## Digital or Analog analyis?
+
+If you analyze your data using paper notes, your titles will be written on a sticky note of a specific color (choose one, but stick with it). If you use a word processor, use a headline for the groups titles.
+
+After annotating your data you should take the decision in which media you want to conduct your analysis: Digital in a word processor, where lines hold the basic units of data, or analog on paper, where sticky notes are your means of dealing with the data.
+
+The analysis methods described here can be used in both media. Nevertheless, each way has different strengths.
+
+### Comparsion
 
 ![analysing data analog by using sticky notes](images/affinityDiagram2.jpg) 
 
 ![analysing data digitally by using a word processor](images/analysisWord_copypaste.png)
 
+The resources you need for analysing on your computer are: 
 
-After annotating your data you should take the decision in which media
-you want to conduct your analysis: Digital in a word processor, where
-lines hold the basic units of data, or analog on paper, where sticky
-notes are your means of dealing with the data.
+- a word processor
 
-The analysis methods described here can be used in both media. Nevertheless, each
-way has different strengths.
+The resources you need for with pen and paper are: 
 
-### Comparison  
+- sticky notes
+- paper
+- printer (or a lot of patience to write all by hand)
+- (removable) tape
+- a big wall (2m*3m minimum – which is why the wall is usually the showstopper ). 
 
-The resources you need for the digital analysis in
-a word processor is the word processor itself. An analogue analysis
-needs sticky notes, paper, a printer (or a lot of patience to write all
-by hand), (removable) tape and a big wall (2m\*3m minimum!). Usually the
-wall is the showstopper here. But why should you want to use an analog
-analysis if it needs all these resources? Partly, the decision can be
-based on preferences: Some people like that they can move around the
-notes by hand and can get an overview of their data by just stepping
-back and glancing over it. 
 
-If you work with peers on your analysis you have some advantages when using 
-the analogue pen and paper approach: you can easily discuss your ideas with other 
- and will  get new ideas how to structure the data. 
- You could as well invite your boss to take a look and be part of the team, at least for some time. This type of on-site, collaborative, analysis is best done analogue. It is easy to move notes
-around, and you can refer by pointing to data or just carry it over to someone and
-ask for an interpretation. Using digital tools it is not that
-easy and direct– despite of all the great digital tools we have nowadays.
+But why should you want to use an analog analysis if it needs all these resources? Partly, the 
+decision can be based on preferences: Some people like that they can move around the notes 
+by hand and can get an overview of their data by just stepping back and glancing over it.
 
-### How-to
+If you work with peers on your analysis you have some advantages when using the analogue 
+pen and paper approach: you can easily discuss your ideas with other and will get new ideas 
+how to structure the data. You could as well invite your boss to take a look and be part of the 
+team, at least for some time. This type of on-site, collaborative, analysis is best done analogue. 
+It is easy to move notes around, and you can refer by pointing to data or just carry it over to 
+someone and ask for an interpretation. Using digital tools it is not that easy and direct– 
+despite of all the great digital tools we have nowadays.
 
-####  Analog
+### How-To
 
-For working analog I recommend the following steps to get
-analysis-ready:
+#### Analysis on the computer
 
-1.  Create table in a word processor, many rows, 2 columns (given you
-    print on DINA4) . Each table cell will be a note.
-	1.  In the table settings, switch off page breaks in cells and
-        switch »keep paragraphs together« on, so that one note/table
-        cell will not break between pages.
-	2.  In the table settings, choose a decent padding around each cell,
-        like 0.5cm
-	3.  Choose a font size of about 12pt, large enough to read it\
-        ![](images/createAnalogNotes.png)
-2.  copy/paste all your data (line by line) from the transcript into the
-    cells
-3.  print it
-4.  cut out each table cell (=piece of data) 
-5.  cover the wall with the paper from paper rolls (thus you can remove
-    the analysis, roll up the paper and archive it and you could remove
-    it from the wall temporarily)
-6.  during analysis you will stick your printed notes on the widths of paper
-    using removable tape, crepe tape or spray glue – something sticky
-    but non-permanent, so you can move the notes around in order to gradually
-    improve the structure.
+For analysis on your computer I suggest the following steps for preparing your analysis:
 
-####  word processor  
+1. Create a new document 
+2. Paste your transcript into that document 
+3. Add a page break before the transcript to separate not-yet-grouped data from your (upcoming) structure of lines grouped by principles. 
 
-For working digital I suggest the following steps for preparing your analysis:
+**Creating Groups:** Similar data is organized in lists. To rearrange data you can use copy paste, drag and drop and the tools the word processor provides (toolbar to move points in lists etc.) 
 
-1.  Create a new document
-2.  paste your transcript into that document
-3.  Add a page break before the transcript to separate not-yet-grouped
-    data from your (upcoming) structure of lines grouped by principles.
-4.  During analysis you will create groups. Each group gets a headline.
-    Create a hierarchy by using different paragraph styles – bigger
-    headlines encompass smaller, lower in hierarchy headlines.
-5.  Similar data is organized in lists. 
-6.  To rearrange data you can use copy paste, drag and drop and the
-     tools the word processor provides (toolbar to move points
-    in lists etc.)
-7.  If you use paragraph styles you can use the navigation tool of the
-    wordprocessor to scan through your structure
+**Group Titles/Themes**: Each group gets a headline. Create a hierarchy by using different paragraph styles – bigger headlines encompass smaller, lower in hierarchy headlines. If you use paragraph styles to format your headlines, you ca n use the navigation tool of the wordprocessor to go through your structure 
+
+#### Analysis with pen and paper
+
+For working analog I recommend the following steps to get analysis-ready:
+
+1. Create table in a word processor, many rows, 2 columns (given you print on DINA4) . Each table cell will be a note. 
+	1. In the table settings, switch off page breaks in cells and switch »keep paragraphs together« on, so that one note/table cell will not break between pages. 
+	2. In the table settings, choose a decent padding around each cell, like 0.5cm 
+	3. Choose a font size of about 12pt, large enough to read it\
+	![](images/createAnalogNotes.png)
+2. copy/paste all your data (line by line) from the transcript into the cells 
+3. print it 
+4. cut out each table cell (=piece of data) 
+5. cover the wall with the paper from paper rolls (thus you can remove the analysis, roll up the paper and archive it and you could remove it from the wall temporarily) 
+
+**Creating groups**: during analysis you will stick your printed notes on the widths of paper using removable tape, crepe tape or spray glue – something sticky but non-permanent, so you can move the notes around in order to gradually improve the structure.
+
+**Group titles/Themes**: Write your group titles on notes of determined colors, which are different from the color of the actual data points. If you print your data points on white paper you could use yellow sticky notes for group titles and pink ones for titles of a group of groups. 
 
 ## Develop a first Structure  {#firstStructure}
 
@@ -2336,7 +2417,6 @@ groups in the “misc” section.
 
 # Communicate Results 
 
-<!-- TODO jan bis hier -->
 
 If you work with others, the results of your research need
 to be communicated.
