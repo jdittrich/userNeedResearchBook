@@ -1,5 +1,5 @@
 /*
-based on: 
+based on:
 https://github.com/hypertexthero/typography/blob/master/style.css (Public Domain)
 */
 
@@ -22,20 +22,20 @@ a:hover {color:#606;}
 a:active {color:#900; outline:none;}
 
 h1 a:link,h2 a:link,h3 a:link,h4 a:link,h5 a:link, h1 a:visited,h2 a:visited,h3 a:visited,h4 a:visited,h5 a:visited{
-	font-weight:inherit;
-	color: inherit;
-	text-decoration:inherit;
+  font-weight:inherit;
+  color: inherit;
+  text-decoration:inherit;
 }
 
 h1 a:hover,h2 a:hover,h3 a:hover,h4 a:hover,h5 a:hover{
-	text-decoration:underline;
+  text-decoration:underline;
 }
 
 h1.title{
-	font-size: 400%;
-	text-transform: uppercase;
-	color: #396ba5;
-	font-weight: normal;
+  font-size: 400%;
+  text-transform: uppercase;
+  color: #396ba5;
+  font-weight: normal;
 
 }
 
@@ -43,7 +43,7 @@ h1 {
   font-size:280%;
   line-height:1.35;
   margin:4em 0 0.4em;
-	font-weight: normal;
+  font-weight: normal;
 }
 
 h2 {
@@ -89,13 +89,13 @@ font-size:100%;
 margin:1em 0 0;
 }
 
-p + p {	
+p + p {
 margin:0;
 text-indent:1.5em;
 }
 
 h1+h2, h2+h3, h3+h4{
-	margin-top:0.5em;
+  margin-top:0.5em;
 }
 
 
@@ -105,66 +105,66 @@ blockquote, .example {border-left:5px solid #eee; padding-left:1.5em; margin:1em
 blockquote small, .example small {display:block; line-height:1.7em;}
 
 .example p+p{
-	margin-top: 1em;
-	text-indent:0em;
+  margin-top: 1em;
+  text-indent:0em;
 }
 
 .figure, figure{
-	background-color: rgb(255, 255, 255);;
-	margin: 1em 0 1em 0px;
+  background-color: rgb(255, 255, 255);;
+  margin: 1em 0 1em 0px;
 }
 
 .figure>img, figure>img {
-	border-bottom: 1px solid #d3d3d3;
-	width: 100%;
+  border-bottom: 1px solid #d3d3d3;
+  width: 100%;
 }
 
 .gallery .figure>img, .gallery figure>img {
-	border-bottom: none;
+  border-bottom: none;
 }
 
 .figure>.caption, figure>figcaption, .gallery>.caption {
-	 color: #5b5b5b;
-	font-size: 80%;
-	 margin: 0px;
-	 width: 100%;
-	border-left:2px solid #AAA;
-	padding-left:0.25em;
-	
+   color: #5b5b5b;
+  font-size: 80%;
+   margin: 0px;
+   width: 100%;
+  border-left:2px solid #AAA;
+  padding-left:0.25em;
+
 }
 
 .gallery{
-	margin: 1em 0 1em 0px;
-	display:flex;
-	flex-wrap: wrap;
-	width:100%;
+  margin: 1em 0 1em 0px;
+  display:flex;
+  flex-wrap: wrap;
+  width:100%;
 }
 
 .gallery > img, .gallery > figure{
-	margin-right: 0.25em;
-	margin-bottom:0.25em;
-	border: 1px solid #d3d3d3;
-	display: flex;
-	align-items: flex-end;
+  margin-right: 0.25em;
+  margin-bottom:0.25em;
+  border: 1px solid #d3d3d3;
+  display: flex;
+  align-items: flex-end;
     flex-basis: 45%;
     flex-flow: row wrap;
 }
 
 .gallery > figure> figcaption{
-	margin-left: 0.25em;
-	border-left	: none;
+  margin-left: 0.25em;
+  border-left  : none;
 }
 
 .gallery.two > img, .gallery.two > figure{
-		flex-basis:45%;
+    flex-basis:45%;
 }
 
 .gallery.three > img, .gallery.three > figure{
-		flex-basis:30%;
+    flex-basis:30%;
 }
 
 .gallery.four > img, .gallery.four > figure{
-		flex-basis:22%;
+    flex-basis:22%;
 }
 
 ul, ol, dl {
@@ -172,13 +172,15 @@ text-align:left;
 }
 
 ul li{
-	list-style-type: none;
+  list-style-type: square;
 }
 
+/*
 ul li:before {
     color: #7b7a7a;
     content: "⁃ ";
 }
+*/
 
 dt {font-weight:bold;}
 code {font-family:courier, monospace;}

@@ -680,7 +680,7 @@ These questions demand very specific answers mostly out of a determined
 set: Yes or no, marks from A-F, a list of nouns. They would be useful if
 you would want to do statistics, for analysis that allows us to give results
 like »56.3% agreed strongly on Question X«. However, we want to find out
-about the *why* and *how* of the participant’s work here [^Research  concerned 
+about the *why* and *how* of the participant’s work here ^[Research  concerned 
 with finding out about »how« and »why« using methods like interviews and 
 observations is also called »qualitative« research. In contrast, »quantitative research« 
 usually tests hypothesis (like »an orange ›buy‹ button generates more 
@@ -863,7 +863,7 @@ say: »No, you can change it!«
 
 Remember that you want to find out what your participant does and why. To
 correct the participant is not very useful.  Use the possibility to further explore the topic
-without correcting the user [^ If, however, the participant would
+without correcting the user ^[If, however, the participant would
 clearly benefit from knowing some technical detail, just give the crucial information
  after the session] .
 
@@ -1572,9 +1572,9 @@ from one research session or participant are grouped together. This is a format 
 hard to use for designing. At best we could pick out single data pieces and tell which
 participant said it. 
 
-What would be more useful if we would organize the data by needs of users and their problems.  To do this we take the data – which is currently organized by participants – and cluster the data by meaningful principles. 
+What would be more useful if we would organize the data by needs of users and their problems.  To do this we take the data – which is currently organized by participants – and cluster the data by meaningful themes. 
 
-![Analysis for creating principles independent from particular participants](images/aggregationAnalysis.svg)
+![Analysis for creating themes independent from particular participants](images/aggregationAnalysis.svg)
 
 ## Organization of data
 
@@ -1582,13 +1582,16 @@ In the analysis we organize the data hierarchically.
 The basis for our analysis are the utterances or observations, represented usually by a line 
 in your transcript, like »I find it boring to move around all the textboxes again!«. 
 These pieces of data will be grouped if they may share a similar theme. 
-These groups get a headline, stating the theme of by  the underlying pieces of data. 
+These groups get a headline, stating the theme of by  the underlying pieces of data.  
 This is useful when designing, since you can refer to the headline instead of considering all
- the underlying data each time. 
+ the underlying data each time.  
+ 
 
 Sometimes you will have groups which relate to a common theme themselves. In this case 
 it makes sense to make a group of groups and give the underlying groups of utterances and 
 observations and their headlines an overarching headline. 
+
+
 
 <div class="example">
 
@@ -1700,7 +1703,7 @@ designs and customizations. The insight that sometimes DIY is just about fixing 
 lead to the provision of a wiki for collecting best practices for doing common repairs and
 maintenance. 
 
-If you have a new idea you can ask yourself »Does this idea follow my principles/group titles? Does it violate some of them?«. You may ask yourself »With which design could I realize this principle?«. Since the principles are based on our data, they will express the actual needs of your users and not some (potentially stereotypical) assumptions.
+If you have a new idea you can ask yourself »Does this idea follow what is stated in the group titles? Does it violate it them?«. You may ask yourself »With which design could I realize this principle?«. Since the principles are based on our data, they will express the actual needs of your users and not some (potentially stereotypical) assumptions.
 
 Grouping your data based on insights about your participants provides great benefits. But it can be hard and may be not possible for all your data. Creating groups using the same-things-mentioned methods is still a useful method and these groups may still evolve. Usually I have quite some »same-things-mentioned«-groups in the beginning and far fewer at the end – but still my analysis will be a mixture of both styles.
 
@@ -1738,8 +1741,8 @@ Organizing the data by the insights we may draw from the data the structure look
 
 ## Doing the right Analysis
 
-The data analysis is done by inferring principles from single data points like utterances and
-observations. Thus the process is empirical (as it is based on gathered data) but if the same 
+The data analysis is done by inferring themes from several  data points. Thus the process is 
+empirical (as it is based on gathered data) but if the same 
 data is used, analysis made by different people will differ. This is because the result of the 
 analysis depends on the reasonable but still individual and debatable interpretation of the 
 data. You could say that »looking at last years design to quickly reuse elements« belongs to a 
@@ -1747,7 +1750,7 @@ group concerned with »I want to save time« or to one related to the topic of �
 designs for inspiration« (given that it could serve both from the user's perspective).
 
 There is no right or wrong nor a clear cut criteria of being »close enough« to the data when 
-you create the principles and groups. Instead of having a clear, measurable rule like »you 
+you group your data in themes. Instead of having a clear, measurable rule like »you 
 must have 0.5 significance in statistics, most important is that your analysis is plausible 
 (instead of »right« or »wrong«).
 
@@ -1819,7 +1822,7 @@ and the [end](http://en.wikipedia.org/wiki/End_key)/
 
 ## Annotate
 After you added your participant codes you can start to review and to annotate your data in 
-order to find possible interpretations, principles and meaning behind the observations and 
+order to find possible interpretations, themes and meaning behind the observations and 
 utterances. 
 
 This will help you to get familiar with the data and to derive meaningful themes and insights 
@@ -1830,9 +1833,9 @@ be full sentences as well as short list of words.
 
 <div class="example">
 
-- It is hard to know what exactly the client wants, because I don’t talk directly to the client –  P2 **ANNOTATION: indirectness, division of tasks, friction, „I need to know the client“. ***
-- The document is divided in sections, seperated by blank pages.  –  P2 **ANNOTATION: Keeping/imposing order**
-- The current ideas/prototypes are in the first section. All discareded or “paused” ones are in later sections (the archive”) –  P2 **ANNOTATION: Keeps old ideas. Why? Possible: Later reuse, Inspiration, replication**
+- It is hard to know what exactly the client wants, because I don’t talk directly to the client –  P2 **ANNOTATION: indirectness, division of tasks, friction, „I need to know the client“.**
+- The document is divided in sections, separated by blank pages.  –  P2 **ANNOTATION: Keeping/imposing order**
+- The current ideas/prototypes are in the first section. All discarded or “paused” ones are in later sections (the archive”) –  P2 **ANNOTATION: Keeps old ideas. Why? Possible: Later reuse, Inspiration, replication**
 
 </div>
 
@@ -1843,7 +1846,7 @@ or the participant’s answers – just like other things you did add yourself (
 
 I would recommend using a word processor with a comment function. Open your transcript, 
 mark the part you want to annotate with your interpretation, then click the »comment« button. 
-If you don't use a word processor, but plaintext, use something like »COMMENT:« to mark 
+If you don't use a word processor, but plaintext, use something like »COMMENT:« or »ANNOTATION:« to mark 
 your comments; If you prefer to do your annotations with a pen and a highlighter, print your 
 notes with double line-spacing to have enough room for writing.
 
@@ -1854,7 +1857,7 @@ distinguishable from each other you can always throw stuff out again. The goal i
 up with great annotations but to wrap your head around the data and to find possible ways to 
 interpreting it. 
 
-## Digital or Analog analyis?
+## Digital or analog analyis?
 
 If you analyze your data using paper notes, your titles will be written on a sticky note of a specific color (choose one, but stick with it). If you use a word processor, use a headline for the groups titles.
 
@@ -1862,7 +1865,7 @@ After annotating your data you should take the decision in which media you want 
 
 The analysis methods described here can be used in both media. Nevertheless, each way has different strengths.
 
-### Comparsion
+### Comparison
 
 ![analysing data analog by using sticky notes](images/affinityDiagram2.jpg) 
 
@@ -1901,9 +1904,10 @@ For analysis on your computer I suggest the following steps for preparing your a
 
 1. Create a new document 
 2. Paste your transcript into that document 
-3. Add a page break before the transcript to separate not-yet-grouped data from your (upcoming) structure of lines grouped by principles. 
+3. Add a page break before the transcript to separate not-yet-grouped data from your (upcoming) structure of lines grouped by themes. 
 
 **Creating Groups:** Similar data is organized in lists. To rearrange data you can use copy paste, drag and drop and the tools the word processor provides (toolbar to move points in lists etc.) 
+\
 
 **Group Titles/Themes**: Each group gets a headline. Create a hierarchy by using different paragraph styles – bigger headlines encompass smaller, lower in hierarchy headlines. If you use paragraph styles to format your headlines, you ca n use the navigation tool of the wordprocessor to go through your structure 
 
@@ -1922,14 +1926,15 @@ For working analog I recommend the following steps to get analysis-ready:
 5. cover the wall with the paper from paper rolls (thus you can remove the analysis, roll up the paper and archive it and you could remove it from the wall temporarily) 
 
 **Creating groups**: during analysis you will stick your printed notes on the widths of paper using removable tape, crepe tape or spray glue – something sticky but non-permanent, so you can move the notes around in order to gradually improve the structure.
+\
 
 **Group titles/Themes**: Write your group titles on notes of determined colors, which are different from the color of the actual data points. If you print your data points on white paper you could use yellow sticky notes for group titles and pink ones for titles of a group of groups. 
 
 ## Develop a first Structure  {#firstStructure}
 
 After you annotated your data you can start to structure the it.
-Structuring the data means suggesting principles behind the data, naming
-these principles and decide which data falls under which principle.
+Structuring the data means suggesting themes behind the data, naming
+these themes  and decide which data falls under which theme.
 
 You don't use all your data yet. Start with what you find useful when
 skimming through it or use just the data of two participants for now.
@@ -1941,22 +1946,22 @@ The goal is to set up some preliminary structure, like a scaffold.
 ### Move in Approximation
 
 The easiest way to start a structure is moving similar data in
-approximation. If you do you anaysis on paper,  cluster notes you
-assume to follow a common principle in one place and notes for other
-principles in other places. If you analyze using a wordprocessor, move similar 
+approximation. If you do you analysis on paper,  cluster notes you
+assume to follow a common theme in one place and notes for other
+themes in other places. If you analyze using a wordprocessor, move similar 
 notes in adjacent lines. Create different groups, each containing similar notes,
 by using several line breaks above and below such a group or by 
-creating a list for each assumed group or principle.
+creating a list for each assumed theme.
 
 <div class="example">
 
 - Asking herself: what would impress the person (a safety advisor)
  »probably not that the blueprint is beautiful«
-- Good: Something that is not only useful, but aesthetical as well
+- Good: Something that is not only useful, but aesthetically as well
 
-*These Principles have in common that they are about aesthetics
+*These themes have in common that they are about aesthetics
 and requirements. I did not have a good idea about a possible
-group title or even a principle, so I just moved them in
+group title or even an insight I can draw from them, so I just moved them in
 approximation.*
 
 </div>
@@ -1972,15 +1977,14 @@ approximation.*
 
 ### Name Commonalities  
 
-You may have some data you assume to encompass a common principle but
-you don't know the principle yet. But you have a vague feeling that it
+You may have some data you assume to encompass a common theme but
+you don't know if you can state an insight about the data. But you have a vague feeling that it
 may be connected to something. In this case just give that group of data a
-preliminary title. A group name, even if it is not a principle, will
+preliminary title. A group name, even if it is not an insight, will
 make dealing with the data easier since it gives your data some structure. 
 
 As you gather other data that falls under that (yet
-vague) category you may get an idea of how to state the principle in a
-better way.
+vague) category you may be able to formulate and insight you gain about the underlying data. 
 
 <div class="example">
 
@@ -1999,19 +2003,19 @@ data but telling nothing useful for design (yet)*
 </div>
 
 
-### Name principles  
+### State insights  
 
 You may have read through your annotations and have noticed something
-that may make a good principle right away. Great. Just write it down and
+that may make a good insight right away. Great. Just write it down and
 assign the data to it. Even if you have only one or two pieces
-of data that fit the principle, don't worry, just see if the principle
-will emerge to be bigger. If not, you can still revise the principle or
+of data that fit the insight, don't worry, just see if the insight
+will emerge to be bigger. If not, you can still revise the insight or
 just get rid of it and see where else the data might fit.
 
 
 <div class="example">
 
-My first found principles were these:
+My first found insights were these:
 
 -   Review previous projects
 -   Test designs in the media you deliver in
@@ -2037,32 +2041,35 @@ the indented sub-lists are group titles):
 -   TrialAndError
 -   Mutual dependencies of design elements like type area, content, font size etc. (?)
 
-Note that some are actual, meaningful principles (»Finishing is
+Note that some of the themes are actual, meaningful insights (»Finishing is
 good«, »(Page) Format is hard to change later«), while some are
 mere group titles based on commonalities of the  data they encompass (»Inspiration«, »Trial and Error«).
 
 </div>
 
+Now you will have some preliminary, data based themes, each created based on a few data points. 
+Now we will see if these themes are useful for organizing more than just a few data points. 
+
 ## Fill the Structure  
-When you came up with some principles and ideas to structure your data
+When you came up with some themes to structure your data
 you need to see if the structure is feasible. Go through your data and
-sort it into the principles you can up with, or just move the data into proximity to
-similar data.
+sort it into the themes – be it actual insights or just stated commonalities –  
+you came up with, or just move the data into proximity to similar data.
 
 The difference to the previous step is that we now focus on involving
-all the data into the process of generating principles. In contrast, 
+all the data into the process of generating themes. In contrast, 
 in the previous steps we focused more on generating a structure. 
 
 If the previous step was building a (data-based) scaffold, now we try to build the actual walls.
 
 ![Build upon your preliminary structure to see if the idea actually works](images/lego_houseWalls.jpg)
 
-Aim for 3 to 10 pieces of data per group. While
+Aim for 3 to 10 pieces of data per theme. While
 it is temporarily o.k. to have very small groups, at the end each
-principle should be derived from several data points and not on a single
-utterance. On the other hand if a principle encompasses more than 10
+theme should be derived from several data points and not on a single
+utterance. On the other hand if a theme encompasses more than 10
 utterances or observations, think if creating two aspects or
-»subprinciples« would make sense.
+»subthemes« would make sense.
 
 Usually I would go chronologically through all my notes starting with
 the first participant and ending with the most recent one – though any
@@ -2070,7 +2077,7 @@ other scheme will suffice as well. Just be sure that you know with which data yo
 dealt with already and with which you did not.
 
 When filling the data in the structure you may notice that you 
-need additional groups and principles; some principles may need
+need to create additional themes; some may need
 to be renamed as well. Just go ahead and make these changes if you feel they are
 needed.
 
@@ -2118,31 +2125,36 @@ place later:
 	-   bad: Doing the same steps over and over again.
 	-   \[…many other points…\]
 
-Inside the misc group some possibilities for future principles
+Inside the misc group some possibilities for future insights
 emerged – for example the first (god: Shortcuts) and the third
 point (»bad: doing the…« could be part of a newly formed
-principle named »I want to avoid repetitive tasks«
+insights named »I want to avoid repetitive tasks«
 
 </div>
 
+Now your  groups will be informed by several data points each. But there will be many themes that are 
+created by the »same things mentioned«-Method; they don’t state insights. In addition there might be 
+overlapping themes and groups encompassing many data while other groups may be only informed by 
+few data points from just one participant. It is time to revise the structure.   
+
 ## Revise the Structure  
 
-After you went through your data and sorted it into principles, review
-your work. You now may have a clearer view of what constitutes the
-principles after you matched the data with them.
+After you went through your data and sorted it into themes and tried 
+to formulate insights, review your work. You now may have a clearer 
+view of what constitutes the themes after you matched the data with them.
 
 If you recently dealt with just a particular part of the analysis (like dealing
 with two particular groups), your view might be
-too narrow: Glance over the whole range of principles and clusters and
-rediscover groups that might be a better fit for some data.
+too narrow: Glance over the whole range of clustered data, themes and insights and
+rediscover themes which might be a better fit for some data.
 
-Have a look at structures that need improvement: Groups that have a title but don't form
-an actual principle yet as well as data for which you did not find a
-good place. This data might be helpful to create actual principles.
+Have a look at structures that need improvement: Groups that have a theme
+ but don't express an actual insight yet as well as data for which you did not find a
+good place. This data might be helpful to create insights.
 
-Take a critical look at the principles in relation to the data they
+Take a critical look at  insights in relation to the data they
 encompass: Is there a fit or did you fall prey to wishful thinking? 
-Possibly there is actually only a weak match between the stated principle and the
+Possibly there is actually only a weak match between the stated insight and the
 data. In this case revise your structure.
 
 ![Some parts need to be revised and newly created](images/lego_houseRevise.jpg)
@@ -2151,8 +2163,8 @@ data. In this case revise your structure.
 ### Find better names  
 
 Groups based on commonalities or vague similarity will hopefully evolve
-into principles. To archive this, try to revise group titles: make them
-more concise, clear and meaningful. Try to find an actual principle for a group if 
+into insights. To archive this, try to revise group titles: make them
+more concise, clear and meaningful. Try to state an actual insights for a group if 
  a group of data is just named with a title based on mere commonalities of
 the data in that group. This will almost certainly require moving some data between
 groups as well in order to accommodate the data to the improved 
@@ -2164,7 +2176,7 @@ For one group I used the title »Arranging«, since arranging and aligning
  objects, lines and text to a predefined grid or to each other was a
  task that reoccured frequently. But the title  »Arranging« just names a
  commonality. To make clear that the group is
- about a user activity and to create a meaningful principle I
+ about a user activity and to state the theme as an insight,  I
  renamed »Arranging« to »Arranging objects is an important activity«
 
 </div>
@@ -2173,9 +2185,9 @@ For one group I used the title »Arranging«, since arranging and aligning
 <div class="example">
 
 I had a group titled »repetitive and manually«. This could be easily
- renamed into a meaningful principle: »repetitive and ›do-it-manually‹
+ stated as an insight: »repetitive and ›do-it-manually‹
  tasks are tedious«. By just adding the users view (»are tedious«) the
- title became a useful principle for design. 
+ title became an insight which is a useful principle for design. 
 
 </div>
 
@@ -2190,14 +2202,13 @@ I had the following structure:
 	-   Review previous projects
 	-   Others (Web, Bookshop)
 
- »Inspiration« was not a principle so I had a look at
+ »Inspiration« is a title based on the »same-things-mentioned«-principle so I had a look at
  the underlying data. They all were about inspiration – but they
  had another commonality: All inspiration techniques used
  other, existing designs, often ones that were created by the
  same person or even for the same project (It would have been
  possible that people take a walk or have frequent brainstormings or take drugs to get new
- ideas etc.). So I renamed it and created the principle: »I use
- existing designs for inspiration«
+ ideas etc.). The insight I came up with was: »I use  existing designs for inspiration« 
 
 </div>
 
@@ -2212,8 +2223,8 @@ While we want to make use of the data we have, it is most
 important to create sound and helpful principles based on the data – 
 instead of just  putting everything under a label. 
 
-It is possible that you can make a principle to be stated more clearly but in result, the  clearer title 
-may no longer encompass all data in the group. In this case, go for clarity of principle, even if it means that the principle does not encompass all the data currently subsumed in the group. 
+It is possible that you can state an insight more clearly but as a result, the  clearer title 
+may no longer encompass all data in the group. In this case, go for clarity of the groups title, even if it means that the theme does not encompass all the data currently subsumed in the group. 
 
 Take out the data that does not fit the improved title and see if it might
 fit better to another group. If not, place it in a »not yet grouped« or
@@ -2230,9 +2241,9 @@ I reviewed the following group:
 	-   bad: uncertainty before feedback from client
 
 \
-The title was not a meaningful principle and I felt that the
-analysis might benefit if I use the data in other groupings
-and principles. I already had a cluster related to motivations
+The title was not a meaningful insight and I felt that the
+analysis might benefit if I use the data in other themes. 
+I already had a cluster related to motivations
 and emotions– where I moved *»bad: uncertainty before feedback
 from client«*. The *»good: getting feedback«* was moved to a
 cluster named *»Exchange with others«*. 
@@ -2259,9 +2270,8 @@ be taken out, put into other groups or to the temporary »misc« group.
 
 <div class="example">
 
-The previous examples were concerned with whole principles and groups
-and thus focused on the macro level. Sometimes you just move data
-itself, without any trigger like renaming, just because
+The previous examples were concerned with whole themes and thus focused on the macro level. 
+Sometimes you just move data itself, without any trigger like renaming, just because
 you found a better fit. For example *»using the maximum possible height
 on a sheet of paper«* was grouped into »media«. Later, I moved it to *»budget«*
 because budget is something the user is directly concerned with,
@@ -2275,14 +2285,14 @@ paper«* is a practice that results from that concern.)
 
 ### Create Subgroups  
 
-Some groups may grow rather big, especially if they are not actual
-principles but based on mere commonalities of underlying data (like
-»dealing with color«). This is an excellent opportunity to create
-principles by creating subgroups. The process of developing subgroups
+Some groups may grow rather big, especially if their themes  are not insights 
+but are based on mere commonalities of underlying data (like
+»dealing with color«). This is an excellent opportunity to develop themes 
+by creating subgroups. The process of developing subgroups
 is like in  [»Develop a first structure«](#firstStructure) (just inside the group): Move
-similar data in proximity and try to create clear-cut principles if
+similar data in proximity and try to create clear-cut insights if
 possible. In this process you might find a more suitable way to state
-the principle of the main group as well.
+the theme of the main group as well.
 
 <div class="example">
 
@@ -2400,15 +2410,15 @@ time to communicate your results.
  
 These are all the groups I created in my analysis. The results could be
 more concise, having fewer groups concentrating on fewer themes. However
-this would probably lead to more abstract principles which would
+this would probably lead to more abstract insights which would
 presumably harder to use in design.
 
-The groups of groups are partly not principles themselves. I tried to
+The groups of groups are partly not insights themselves. I tried to
 find some, but was not able in a part of the cases: »changes and
-requirements« is not a useful design principle (but it’s subordinated
+requirements« is not an insight (but it’s subordinated
 groups are: »combining functions and aesthetics« etc.). In contrast,
 »using existing works for inspiration« is a group of groups which states
-a meaningful principle.
+a meaningful insight.
 
 You see that I could not use all data, so I made some less significant
 groups in the “misc” section.
