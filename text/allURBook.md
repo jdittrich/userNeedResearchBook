@@ -27,9 +27,10 @@ Don’t get me wrong (especially if you are a seasoned researcher for user needs
 It is not that I think theory is superfluous and should be avoided by practitioners.
 I just want to empower beginners by providing a start in the field which is hands-on and leads to visible results.
 
-# User Need Research?
+# Introduction
 
-## Why you should so user research?
+## Why should I use the methods described in this book?
+
 User Need Research helps us to find out is how and why users do their work. 
 This is different from usability testing. Testing is great for finding out about users problems, 
 bugs and possibilities to tweak an existing product. However, usability tests tell you few 
@@ -94,8 +95,8 @@ totally contra-intuitive way of seeing our project it was totally worth
 the effort since we possibly would have put lots of money into solving
 problems that were not even existing or to dismiss needs which  that are crucial for our users.
 
-## The structure of this book 
-I will show you the process of user need research in the following chapters of this book. It is organized in the following sections:
+## this text’s structure 
+I will show you the process of researching the user’s needs in the following chapters of this book. The book is organized in the following sections:
 
 1. Finding Participants for your studies 
 2. Preparing your research session 
