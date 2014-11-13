@@ -27,7 +27,103 @@ Don’t get me wrong (especially if you are a seasoned researcher for user needs
 It is not that I think theory is superfluous and should be avoided by practitioners.
 I just want to empower beginners by providing a start in the field which is hands-on and leads to visible results.
 
-<!---  TODO Intro about here --->
+# User Need Research?
+
+## Why you should so user research?
+User Need Research helps us to find out is how and why users do their work. 
+This is different from usability testing. Testing is great for finding out about users problems, 
+bugs and possibilities to tweak an existing product. However, usability tests tell you few 
+about the why and how if users work. You may give them a task to accomplish in the usability
+ testing – but are these the tasks they are doing in their actual work? And if yes – why is this
+ task done anyway?
+ 
+Thus we need methods that may inform us about things we don't know about yet. 
+Methods that allow us to explore the actual actions and the reasons behind them –
+ because even if you might be puzzled about some things you observe they usually make 
+ perfect sense for the users. 
+ 
+I think the usefulness of User Need Research is best understood by examples.
+
+## Example for User Need Research: e-Learning
+
+Some time ago I did research on the use of computers and web for learning purposes. 
+At the institution, a web based learning software (an LMS, Learning management system) 
+was already existing. I assumed that students would probably use it for collaboration, 
+professors for preparing interactive quizzes for the students and for enabling them to 
+review material. But we did not want to rely on our guesses, so we did research on how 
+and why students and teaching staff used computers and web for learning (note that we 
+deliberately did research on the use web and computers for learning, not for using the
+specific system that was existing).
+
+We recruited students and teaching staff from various courses and did interviews with them. The gathered data was than 
+analyzed to find out how and why computers and internet were used for learning.
+
+We found out that not quizzes, workgroups and videos were the tools of trade, but file exchange. The following uses of files were typical: 
+
+1. slides (=learning material) send by the professors or their assistants
+
+2. Texts (=homework) the students send to the professors or their assistants. 
+
+3. Project work of student group in the specific file formats (if a group worked on images it might be photoshop® files etc.) 
+
+4. Exercise material of students like old exam questions for practice.
+ 
+In addition, students and teaching staff exchanges messages via mail; 
+among students mail and facebook® Messages were rather popular, too. 
+
+Why did students and teaching staff alike use files and messages instead of 
+specialized learning solutions?
+
+All these methods we saw used skills teaching staff and students already had: 
+Creating files and exchanging them and writing messages So a major need was 
+to get material to students and receive material from them with the least effort 
+and the least demand for learning new skills. Same for the students: They needed
+to do their projects and homework as efficiently as possible and they too did rely 
+on mail and on services like dropbox® to do project work together or share old exam 
+questions for practicing. 
+
+This led us to several ideas which guided the project in the following phases:
+
+* Consider File Up/and Download as a core tool 
+* Carefully Test the solution to make it at least as usable and useful as existing ways of file exchange
+* To increase adoption to the new system ensure that people know about the feasibility for their standard-usecases (Files!) and before showing the additional possibilities. 
+* In General: Keep in mind that change is hard
+
+Even tough the study was not too big and the results did not uncover some 
+totally contra-intuitive way of seeing our project it was totally worth 
+the effort since we possibly would have put lots of money into solving
+problems that were not even existing or to dismiss needs which  that are crucial for our users.
+
+## The structure of this book 
+I will show you the process of user need research in the following chapters of this book. It is organized in the following sections:
+
+1. Finding Participants for your studies 
+2. Preparing your research session 
+3. Gather data by asking questions  and observation
+4. analyzing the gathered data
+5. reporting your results
+
+In each chapter I will give several examples. The examples have their own formatting, it looks like this: 
+
+<div class="example">
+
+*This is not a user research interview, but a famous bot chatting with me:*
+
+[…]
+
+ELIZA: You seem to be quite positive.
+
+YOU:   I am!
+
+ELIZA: Is it because you are that you came to me ?
+
+[…]
+</div>
+
+Partly, the examples will draw from a little study about graphic designer’s use of their tools.
+
+Thats about what you should know about the book.
+
 
 # Find People
 
@@ -1501,7 +1597,7 @@ know why are objects are duplicated and for which purpose is the space is made.
 
 </div>
 
-The notes from the reserach session and later added supplements from my memory are treated alike in my documents since they are all data I gathered by listening or observing
+The notes from the research session and later added supplements from my memory are treated alike in my documents since they are all data I gathered by listening or observing
 the participant. But I take care that later added design ideas and research questions 
 are still easily distinguishable from the actual data that I gathered in the research session.
 
