@@ -95,7 +95,7 @@ totally contra-intuitive way of seeing our project it was totally worth
 the effort since we possibly would have put lots of money into solving
 problems that were not even existing or to dismiss needs which  that are crucial for our users.
 
-## this text’s structure 
+## This text’s structure 
 I will show you the process of researching the user’s needs in the following chapters of this book. The book is organized in the following sections:
 
 1. Finding Participants for your studies 
