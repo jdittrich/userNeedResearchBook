@@ -43,7 +43,12 @@ Methods that allow us to explore the actual actions and the reasons behind them 
  because even if you might be puzzled about some things you observe they usually make 
  perfect sense for the users. 
  
-I think the usefulness of User Need Research is best understood by examples.
+ This is not simply done by asking users what they want. Doing this, you usually get to 
+ know that people want a better version of what they already have. For design it is more 
+ useful to know the needs behind this wishes. Henry Ford allegedly 
+ said »If I had asked people what they wanted, they would have said faster horses«.  Instead of 
+ faster horses, Ford sold a product that satisfied an underlying motivation – Getting quickly 
+ from A to B – instead of the  specific wish.  
 
 ## Example for User Need Research: e-Learning
 
@@ -376,25 +381,6 @@ will need some equipment for doing that:
 -  Photos and video
 	- a digital camera
 
-
-<!-- 
-### Audio Recording  
-
-
-
-If you audio-record you interview you have a backup in case you could not keep
-up with taking notes and to be able to fully concentrate on the
-participant if needed. To do an audio recording, either use your smartphone and an audio 
-recording app or use an audio recorder. Test, if the audio on the recording 
-is still loud and clear enough if you have an arm’s length between you and the device. 
-Charge the batteries fully so you don’t run out of battery in the midst of research. -->
-
-### Camera
-
-A camera is not a must but can be useful, especially if your research
-involves much participant observation or if you don’t feel confident
-about your sketching skills. 
- --> 
  
 # Data Gathering  
 
@@ -403,10 +389,11 @@ the activities, motivations and problems of our research participants.
 
 Contrary to a common misconception of user need research, our inquiry
 will not be (directly) about future ideas and design – we are will not 
-ask »do you think that a [gadget] would help you?«.  yes, you *could* ask
-whether a particular thing would be a great to have in the future. But then you  
-would have to ask again for the next idea you have. Furthermore, it
-is very hard to reliably guess if something would be a great thing to
+ask »do you think that a \[gadget\] would help you?«.  
+
+Yes, you *could* ask whether a particular thing would be a great to 
+have in the future. But then you   would have to ask again for the next idea you have. 
+Furthermore, it is very hard to reliably guess if something would be a great thing to
 have in the future. Instead of dealing with ideas directly we will find
 out about the how and why of our participant’s activities and thus set 
 a reliable foundation for our designs.
@@ -654,7 +641,7 @@ ensure that the research session will be a pleasant experience.
 ### Start with simple questions  
 
 Start simple with some demographical questions  – like like: *»Lets start with
-some simple questions about your job«*. You could ask *»What is your job
+some simple questions about your job«*. You can ask *»What is your job
 title«* and maybe follow *»How do you name your Job when friends ask you
 what you do?«.* As well it might be interesting how experienced the
 person is: *»How long have you been working in your current
@@ -966,8 +953,8 @@ clearly benefit from knowing some technical detail, just give the crucial inform
 
 <div class="example">
 
-You could just ask »what's the reason for you doing it this way«, or, 
-if talking about the function itself is really  important to you, you could 
+You can just ask »what's the reason for you doing it this way«, or, 
+if talking about the function itself is really  important to you, you can 
 ask »How did you expect to do the color change if there would be such a function?«
 
 </div>
@@ -980,7 +967,7 @@ in a workflow of the user which seem outright superfluous.
 »When I write a text I write a draft and then send it to my colleague
 via mail as an attached .doc file. My colleague comments on it and
 returns the mail to me« You may think that this is rather inefficient.
-You could be tempted to say »Why don't you paste the text in the mail
+You may be tempted to say »Why don't you paste the text in the mail
 and comment directly? Or write it live on Etherpad? This would be far
 quicker!«
 
@@ -1099,7 +1086,7 @@ should be asked first, then the second:
 
 It is tempting to skip investigating the »how« and »why« of the
 participant’s work and to ask the participant instead directly  
-how the final product should be like
+how the final product should be like.
 
  <div class="example">
  
@@ -1987,7 +1974,7 @@ by hand and can get an overview of their data by just stepping back and glancing
 
 If you work with peers on your analysis you have some advantages when using the analogue 
 pen and paper approach: you can easily discuss your ideas with other and will get new ideas 
-how to structure the data. You could as well invite your boss to take a look and be part of the 
+how to structure the data. You can as well invite your boss to take a look and be part of the 
 team, at least for some time. This type of on-site, collaborative, analysis is best done analogue. 
 It is easy to move notes around, and you can refer by pointing to data or just carry it over to 
 someone and ask for an interpretation. Using digital tools it is not that easy and direct– 
@@ -2020,12 +2007,12 @@ For working analog I recommend the following steps to get analysis-ready:
 2. copy/paste all your data (line by line) from the transcript into the cells 
 3. print it 
 4. cut out each table cell (=piece of data) 
-5. cover the wall with the paper from paper rolls (thus you can remove the analysis, roll up the paper and archive it and you could remove it from the wall temporarily) 
+5. cover the wall with the paper from paper rolls (thus you can remove the analysis, roll up the paper and archive it and you can remove it from the wall temporarily) 
 
 **Creating groups**: during analysis you will stick your printed notes on the widths of paper using removable tape, crepe tape or spray glue – something sticky but non-permanent, so you can move the notes around in order to gradually improve the structure.
 \
 
-**Group titles/Themes**: Write your group titles on notes of determined colors, which are different from the color of the actual data points. If you print your data points on white paper you could use yellow sticky notes for group titles and pink ones for titles of a group of groups. 
+**Group titles/Themes**: Write your group titles on notes of determined colors, which are different from the color of the actual data points. If you print your data points on white paper you can use yellow sticky notes for group titles and pink ones for titles of a group of groups. 
 
 ## Develop a first Structure  {#firstStructure}
 
