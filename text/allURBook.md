@@ -6,7 +6,12 @@
 <!-- compile with  "pandoc --toc -B templates/includeBefore.pandoc -A templates/includeAfter.pandoc  -s -c styles/styles.css -c styles/print.css text/allURBook.md -t html5 -o index.html" -->
 
 # License
+
+Text and images are under the following License (if not stated otherwise)
+
  <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">A Beginner’s Guide to Finding User Needs</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://jdittrich.github.io/userNeedResearchBook/" property="cc:attributionName" rel="cc:attributionURL">Jan Dittrich</a>  licensed under a  <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+ 
+Libraries used for this webpage have their own licenses and are *not* covered by the Creative Commons license above. 
 
 
 
@@ -16,16 +21,9 @@ This book is written for all those who want to design products according to the 
 This text teaches you how to find potential users and how to find out about their activities, motivations and problems.
 I demonstrate how to analyze the gathered data in a way that makes it usable and useful for your design process.
 
-To have knowledge about the »how« and »why« of the user’s work allows you to create innovative products that meet the users’ needs.
-As well, you can utilize this knowledge to improve existing products.
+To have knowledge about the »how« and »why« of the user’s work allows you to create innovative products that meet the users’ needs. As well, you can utilize this knowledge to improve existing products.
 
-I will teach methods for user needs research in a way that is descriptive and allows quick application of the learned methods by using tools that are readily available to you.
-I give examples to demonstrate the use of methods in practice.
-I hope you can imagine yourself applying the described methods when reading – and I want to avoid teaching something that seems like mere theory to you.
-
-Don’t get me wrong (especially if you are a seasoned researcher for user needs or a professional in some other social science field).
-It is not that I think theory is superfluous and should be avoided by practitioners.
-I just want to empower beginners by providing a start in the field which is hands-on and leads to visible results.
+The user needs research methods in this book are taught in a descriptive way and by using tools that are readily available to you. This allows quick application of the learned methods. I hope you can imagine yourself applying the described methods when reading
 
 # Introduction
 
@@ -35,7 +33,7 @@ User Need Research helps us to find out is how and why users do their work.
 This is different from usability testing. Testing is great for finding out about users problems, 
 bugs and possibilities to tweak an existing product. However, usability tests tell you few 
 about the why and how if users work. You may give them a task to accomplish in the usability
- testing – but are these the tasks they are doing in their actual work? And if yes – why is this
+ testing – but are these the tasks they are doing in their actual work? And if so – why is this
  task done anyway?
  
 Thus we need methods that may inform us about things we don't know about yet. 
@@ -47,21 +45,22 @@ Methods that allow us to explore the actual actions and the reasons behind them 
  know that people want a better version of what they already have. For design it is more 
  useful to know the needs behind this wishes. Henry Ford allegedly 
  said »If I had asked people what they wanted, they would have said faster horses«.  Instead of 
- faster horses, Ford sold a product that satisfied an underlying motivation – Getting quickly 
+ faster horses, Ford sold a product that satisfied an underlying motivation – getting quickly 
  from A to B – instead of the  specific wish.  
 
 ## Example for User Need Research: e-Learning
 
-Some time ago I did research on the use of computers and web for learning purposes. 
+Some time ago I did research on the use of computers and web for learning purposes. A web based learning software (also called  »LMS«, Learning management system)
+
 At the institution, a web based learning software (an LMS, Learning management system) 
-was already existing. I assumed that students would probably use it for collaboration, 
+was already existing. We assumed that students would probably use it for collaboration, 
 professors for preparing interactive quizzes for the students and for enabling them to 
 review material. But we did not want to rely on our guesses, so we did research on how 
 and why students and teaching staff used computers and web for learning (note that we 
 deliberately did research on the use web and computers for learning, not for using the
 specific system that was existing).
 
-We recruited students and teaching staff from various courses and did interviews with them. The gathered data was than 
+We recruited students and teaching staff from various courses and did interviews with them. The gathered data was then 
 analyzed to find out how and why computers and internet were used for learning.
 
 We found out that not quizzes, workgroups and videos were the tools of trade, but file exchange. The following uses of files were typical: 
@@ -70,12 +69,12 @@ We found out that not quizzes, workgroups and videos were the tools of trade, bu
 
 2. Texts (=homework) the students send to the professors or their assistants. 
 
-3. Project work of student group in the specific file formats (if a group worked on images it might be photoshop® files etc.) 
+3. Project work of student group in the specific file formats (if a group worked on images it might be Photoshop® files etc.) 
 
 4. Exercise material of students like old exam questions for practice.
  
 In addition, students and teaching staff exchanges messages via mail; 
-among students mail and facebook® Messages were rather popular, too. 
+among students, email and Facebook® Messages were rather popular, too. 
 
 Why did students and teaching staff alike use files and messages instead of 
 specialized learning solutions?
@@ -85,19 +84,19 @@ Creating files and exchanging them and writing messages So a major need was
 to get material to students and receive material from them with the least effort 
 and the least demand for learning new skills. Same for the students: They needed
 to do their projects and homework as efficiently as possible and they too did rely 
-on mail and on services like dropbox® to do project work together or share old exam 
+on mail and on services like Dropbox® to do project work together or share old exam 
 questions for practicing. 
 
 This led us to several ideas which guided the project in the following phases:
 
-* Consider File Up/and Download as a core tool 
-* Carefully Test the solution to make it at least as usable and useful as existing ways of file exchange
+* Consider file up- and download as a core tool 
+* Carefully test the solution to make it at least as usable and useful as existing ways of file exchange
 * To increase adoption to the new system ensure that people know about the feasibility for their standard-usecases (Files!) and before showing the additional possibilities. 
-* In General: Keep in mind that change is hard
+* In general: Keep in mind that change is hard
 
 Even tough the study was not too big and the results did not uncover some 
-totally contra-intuitive way of seeing our project it was totally worth 
-the effort since we possibly would have put lots of money into solving
+totally unexpected perspective on our project. Nevertheless, it was  worth 
+the effort. Without the research we  would have put lots of money into solving
 problems that were not even existing or to dismiss needs which  that are crucial for our users.
 
 ## This text’s structure 
@@ -156,39 +155,38 @@ Ask yourself: Are the people that may participate in your research likely to…
 - …have similar motivations?
 
 I assume that you don't have the money to employ a recruiting agency to get your participants.
-Thus you will need to find and ask them yourself.
+Thus, you will need to find and ask them yourself.
 Especially if you are on your own you may need to compromise and do research with participants that don't match your intended users exactly.
 When doing this, keep in mind to  check for similarity of tasks, problems and motivations.
 These checks don't ensure that the participants are exactly the ones who may use your final product.
 But you can be rather sure that they can tell you something that is of interest for you.
 
 If you design an app for people to create bibliographies and you can only get some bachelor and masters students, but no professors, your results will still reveal a lot about the processes of creating bibliographies.
-Assuming that the student’s motivation is probably writing final term papers and that the professors would write  journal papers is a possible difference but as long as you aware of it, you are probably o.k., but if you want to design a skateboard and the only participants you can get are all elderly people who enjoy hiking, you are in trouble;
- if you find elderly people who enjoy skating, go for it.
+The student’s motivation is probably writing final term papers and the professors would like to  write journal papers. This  is a possible difference. But as long as you aware of it, you are probably fine. But if you want to design a skateboard and the only participants you can get are all elderly people who enjoy hiking, you are in trouble  (if you find elderly people who enjoy skating, go for it).
 
 ## How can I find participants?
 
 Think of methods to make possible participants aware of your research and the possibility to participate.
 For example, participants could be found among
 
-- employees of other departments
-- friends and family
-- the people who see your posts on social media
-- the people who visit your or your companies homepage
-- participants of meetings/gatherings.
+- Employees of other departments
+- Friends and family
+- The people who see your posts on social media
+- The people who visit your or your companies homepage
+- Participants of meetings/gatherings.
 
 To find the right participants for your research, try to find out where those people are: users of a particular software can be found on mailing lists, forums and user meetings or events.
 Young adults could be found via bulletin boards on on university or college campus.
 Retired people may be found in church congregation and retirement homes.
 
 Inform possible participants about the study and what they can expect when they participate.
-Regardless of how you inform them – if by speaking directly to them, by using a note on a blackboard or by writing an eMail –  you should give them the following information:
+Regardless of how you inform them – if by speaking directly to them, by using a note on a blackboard or by writing an email –  you should give them the following information:
 
-- the purpose of the study and the resulting benefits for the participant or the wider community (e.g. a product which is more suitable to their needs) 
-- the research method (answering questions and observation)
-- the time frame (ranging usually from 30min-2h)
-- incentives (if you can afford it)
-- your contact information
+- The purpose of the study and the resulting benefits for the participant or the wider community (e.g. a product which is more suitable to their needs) 
+- The research method (answering questions and observation)
+- The time frame (ranging usually from 30min-2h)
+- Incentives (if you can afford it)
+- Your contact information
 
 
 <div class="example">
@@ -196,7 +194,7 @@ Regardless of how you inform them – if by speaking directly to them, by using 
 **Are you a designer?**
 
 We, a team of students of the Weimar University,  want to improve the free layout program frame drawer and want the application to match your workflow and needs.
-Therefore we would like to gather some insights in the way you work.
+Therefore, we would like to gather some insights in the way you work.
 
 If you would like to support us, someone from our team would visit your workplace and ask you some questions and look over your shoulder while you work.
 This would take approximately 1h.
@@ -221,11 +219,11 @@ Each additional participant gives you additional data and a broader view on your
 However, each research session needs time do and adds to the amount of data to be analyzed – so plan accordingly.
 
 You may think that more is better and that you just could shorten each session, ask fewer questions and skip observing the participants.
-However, if we want to find out about the »how« and »why« of the participants’ work we need time, and several sessions in hurry will lead to less useful results than research with one participant done right.
+However, if you want to find out about the »how« and »why« of the participants’ work we need time, and several sessions in hurry will lead to less useful results than research with one participant done right.
 Nevertheless, only doing research on very few users will restrict the variance of data – like noticing that there may be several ways to do the same thing.
 As well you might not see which patterns are consistent among several people and which vary – which would certainly be impossible if you only had one participant.
 
-There are no clear cut rules of how many participants are enough.
+There, are no clear cut rules of how many participants are enough.
 However, most of my projects have between 3 and 8 participants.
 If I really need to be sure that what I notice is consistent I'd do research with 10, but that is about the limit I can manage on my own.
 
@@ -237,7 +235,7 @@ If they are consistent, you may do research with few additional participants to 
 
 If preliminary findings vary and it is hard to see any patterns you may need to involve more participants. 
 
-Reasons for the lack of patters in the data can be: 
+Reasons for the lack of patterns in the data can be: 
 
 * Your research encompasses different groups of people with different needs – For example the groups students and professors share some traits, but many characteristics will vary.
 * The topic of your research is too broad – for example, »How do people do design« is very broad, »How do interface designers involve specifications of user research and engineers in their designs« is more specific.
@@ -245,8 +243,8 @@ Reasons for the lack of patters in the data can be:
 
 In all these cases you can involve more participants. Before you do involve more participants try to check if you…
 
-* need to clarify your research topic (to focus your efforts) 
-* need to specify the involved groups (to recruit the right participants)
+* …need to clarify your research topic (to focus your efforts) 
+*… need to specify the involved groups (to recruit the right participants)
 
 # Prepare the research session
 
@@ -318,7 +316,7 @@ Problems are easily communicated and the need for a solution is often very clear
 * …that changes to a product/concept need to be made
 * …that your research makes sense and helps to avoid such problems. 
 
-However, only dealing with problems would lead to pathching exisitng solutions. If you want to create new ways of approaching things, you need to connect problems to the underlying motivations by asking for the difficulties a problem causes.
+However, only dealing with problems would lead to patching existing solutions. If you want to create new ways of approaching things, you need to connect problems to the underlying motivations by asking for the difficulties a problem causes.
 
 
 Naturally, the three general aspects of activities, motivations and problems are just giving you a starting point for developing your questions.
@@ -398,9 +396,9 @@ have in the future. Instead of dealing with ideas directly we will find
 out about the how and why of our participant’s activities and thus set 
 a reliable foundation for our designs.
 
-Think of your participants as competent in what they do: they are experts in their fields and in their daily work 
+Think of your participants as competent in what they do: they are experts in their fields and in their daily work.
 
-Emphazing the expertise of the participants is contrary to the idea of designers and programmers as people who improve the lives of those who »don’t get it«. Instead of this, we assume that the participants of our research have a reason of doing their work the way they do it. We try to find out these reasons behind their activities.
+Emphasizing the expertise of the participants is contrary to the idea of designers and programmers as people who improve the lives of those who »don’t get it«. Instead of this, we assume that the participants of our research have a reason of doing their work the way they do it. We try to find out these reasons behind their activities.
 
 Getting to know the »how« and »why« of the users actions will allow us to
 evaluate our ideas (does it match their ideas of good work?) and to get
@@ -422,7 +420,7 @@ Greet the participant and thank for his/her time:
 
 <div class="example">
 
-Hello Lisa, great to meet you. I’m pleased, that you could free some
+Hello Lisa great to meet you. I’m pleased, that you could free some
 time for showing and telling me how you work.
 
 </div>
@@ -510,7 +508,7 @@ case keep the signed form, but hand the participant a copy of the form.
 Thus the agreement is clear for both sides. See in the Appendix for an
 [example of such a form](#consentForm). 
 
-When you got the consent of the participant you can start the research
+After you got the consent of the participant you can start the research
 session.
 
 
@@ -640,7 +638,7 @@ ensure that the research session will be a pleasant experience.
 
 ### Start with simple questions  
 
-Start simple with some demographical questions  – like like: *»Lets start with
+Start simple with some demographical questions  – like: *»Lets start with
 some simple questions about your job«*. You can ask *»What is your job
 title«* and maybe follow *»How do you name your Job when friends ask you
 what you do?«.* As well it might be interesting how experienced the
@@ -795,8 +793,8 @@ question« since these questions don’t have a determined set of answers.
 
 <div class="example">
 
-Open questions would be: *"Describe how you started your work today"*
-or *"Why did you copy that page?"*
+Open questions would be: *»Describe how you started your work today«*
+or *»Why did you copy that page?«*
 
 </div>
 
@@ -809,7 +807,7 @@ to get.
 A participant is describing me the printing process: *»…then I look up
  which color specification the printery needs…«* That is a new step
 in the workflow I did not expect (Naively, I thought that you just send
-the document to the printery like you would when you print it on your desktop printer – have a file, print it). Thus I discovered a step in the workflow and a potential field of work
+the document to the printery like you would when you print it on your desktop printer – have a file, print it). Thus, I discovered a step in the workflow and a potential field of work
 (taking care of color spaces and profiles) of which I did not know
 that it even exists!
 
@@ -883,7 +881,7 @@ Avoiding closed questions is actually harder than one thinks. We intuitively try
 to make answering easier with such additions like »Do you […]«.
 
 When you create your questions check if they demand some predetermined
-outcomes – if the do, they are closed questions. In this case reformulate the questions in a way 
+outcomes – if they do, they are closed questions. In this case reformulate the questions in a way 
 that allows non-restricted, story-like answers.
 
 ## Overcoming problems  
@@ -1124,8 +1122,8 @@ Would a function for choosing a color scheme help you?
 
 This is like asking »Do you want an additional tool which might be
 useful at some point and get it for free?«. If the participant can think
-of a few occasions in which such a tool *might* be useful, the answer
-will be »yes«. In addition,nothing can be found out about the »how« and »why« of the
+of a few occasions in which such a tool  *might*  be useful, the answer
+will be »yes«. In addition, nothing can be found out about the »how« and »why« of the
 participant's work – just like with other questions that ask for »yes«
 or »no« outcomes. 
 
@@ -1158,7 +1156,7 @@ further information by referring to previous answers or demonstrations.
 
 ### Referring back  for further elaboration
 
-![continue with same topic by referring back to someting just said](images/talkDiagram_ReferBackDirect.svg)
+![Continue with same topic by referring back to something just said](images/talkDiagram_ReferBackDirect.svg)
 
 A typical use of that method is asking for further information on
 something that was mentioned and which interests you in particular. 
@@ -1258,7 +1256,7 @@ activities or motivations. A general principle is independent of
 such »minor« day to day things. But these seemingly trivial informations about the 
 context of activities  give us the insights we need to find out why and how the participant is doing something in the real, particular situation. Such »general« procedures may as well be heavily idealized and rarely applied in the way they are described.
 
-A way to get  real-world, rich data is to ask for an example. Thus you 
+A way to get  real-world, rich data is to ask for an example. Thus, you 
 don’t blatantly reject the »general« answer but you convey that you are interested and
 want to understand it better:
 
@@ -1304,7 +1302,7 @@ By asking for examples and specific events instead of context-free
 generalizations, you can get more information and avoid doing research on
 »general«, possibly not actually practiced ways of work.
 
-![observing user’s actions after asking for a demonstration](images/ObservationDesignU3Cutting.jpg)
+![Observing user’s actions after asking for a demonstration](images/ObservationDesignU3Cutting.jpg)
 
 
 
@@ -1414,7 +1412,7 @@ Tech savvy users may cringe since a software based screenshot is technically sup
 but if the user does not know you to make a screenshot, a camera is a handy way to capture
 the screen.
 
-You should be able to to make  photos with your camera quickly and reliably. 
+You should be able to make  photos with your camera quickly and reliably. 
 Thus, use a device you know and which has a good auto-mode. 
 The only setting that I use beyond that is the exposure compensation 
 in case an important part of the image totally dark or disappears in light. 
@@ -1520,7 +1518,7 @@ actually refer to.
 Similarly, if my writing is rather messy, I rewrite some words to ensure
 that I can later decipher what I wrote.
 
-I write and draw my supplements in another color than the original notes. When I wrote my notes
+I write and draw my supplements in another color than the color of the original notes. When I wrote my notes
 during the interview with a blue pen I use black for the supplements or
 vice versa, since I like to be able to keep track of what I did in which
 step of the process.
@@ -1642,7 +1640,7 @@ If you need to save time, go through your notes and see where they lack informat
 \
 
 As a result of supplementing our notes from memory and by using the audio, sketches and
-photos we now have a document which summerizes our reserach session. The data  is 
+photos we now have a document which summarizes our research session. The data  is 
 mainly text-based, though if an information is better expressed via a sketch or an image 
 paste it in the document or refer to it. 
 
@@ -1663,7 +1661,7 @@ What would be more useful if we would organize the data by needs of users and th
 ## Organization of data
 
 In the analysis we organize the data hierarchically. 
-The basis for our analysis are the utterances or observations, represented usually by a line 
+The basis for our analysis are the utterances or observations, usually represented by a line 
 in your transcript, like »I find it boring to move around all the textboxes again!«. 
 These pieces of data will be grouped if they may share a similar theme. 
 These groups get a headline, stating the theme of by  the underlying pieces of data.  
@@ -1679,7 +1677,7 @@ observations and their headlines an overarching headline.
 
 <div class="example">
 
-Here is a part of an analyis. 
+Here is a part of an analysis. 
 
 -   *Overarching theme*: using existing work for inspiration 
 	-   *sub-theme*: review previous projects 
@@ -1695,14 +1693,14 @@ Here is a part of an analyis.
 
 Such a hierarchial analysis could be done in two ways: 
 
-1. **Top-Down**: You first name the groups and write the headlines and than sort pieces of data into the groups hereafter 
+1. **Top-Down**: You first name the groups and write the headlines and then sort pieces of data into the groups hereafter 
 2. **Bottom-Up**: You first group pieces of data which seem to share a similar theme and then give the group a comprehensive headline which states the topic shared by the underlying pieces of data. 
 
 We are going to use mainly the 2nd way, doing a so called »bottom-up« analysis. This does
 not mean that we never take a piece of data and sort it into an existing group. It just means
 that the group names are initially created are based on actual data.
 
-Thus in the analysis we may start with grouping moving similar data
+Thus, in the analysis we may start with grouping moving similar data
 
 <div class="example">
 
@@ -1736,7 +1734,7 @@ When we come across a piece of data which shares the topic we can add it to the 
 
 I already talked about grouping data by shared themes. The question is: What is a meaningful theme?
 
-One method to group data and derive a theme would going through the data and see which utterances and observations mention the same thing or the same assessment. Thus all notes mentioning »color« would belong to one theme and get the headline „Color“; all notes mentioning »good«  belong to one theme and get the headline „good things“.  
+One method to group data and derive a theme would be going through the data and see which utterances and observations mention the same thing or the same assessment. Thus, all notes mentioning »color« would belong to one theme and get the headline »Color«; all notes mentioning »good«  belong to one theme and get the headline »good things«.  
 
 <div class="example">
 
@@ -1787,14 +1785,14 @@ designs and customizations. The insight that sometimes DIY is just about fixing 
 lead to the provision of a wiki for collecting best practices for doing common repairs and
 maintenance. 
 
-If you have a new idea you can ask yourself »Does this idea follow what is stated in the group titles? Does it violate it them?«. You may ask yourself »With which design could I realize this principle?«. Since the principles are based on our data, they will express the actual needs of your users and not some (potentially stereotypical) assumptions.
+If you have a new idea you can ask yourself »Does this idea follow what is stated in the group titles? Does it violate it them?«. You may ask yourself »With which design could I realize this principle?«. Since the insights are based on our data, they will express the actual needs of your users and not some (potentially stereotypical) assumptions.
 
 Grouping your data based on insights about your participants provides great benefits. But it can be hard and may be not possible for all your data. Creating groups using the same-things-mentioned methods is still a useful method and these groups may still evolve. Usually I have quite some »same-things-mentioned«-groups in the beginning and far fewer at the end – but still my analysis will be a mixture of both styles.
 
 
 <div class="example">
 
-Understanding why organizing data based on insights is an important point which can be hard to grasp for beginners. I think examples can be a create help in understanding it, thus I want to provide an additional demonstration in the gist of the above mentioned DIY data. Like the DIY data this example is made up by me to be able to demonstrate the shift from same-things-mentioned to insight-based organization. 
+Understanding why organizing data based on insights is an important point which can be hard to grasp for beginners. I think examples can help in understanding it, thus I want to provide an additional demonstration in the gist of the above mentioned DIY data. Like the DIY data, this example is made up by me to be able to demonstrate the shift from same-things-mentioned to insight-based organization. 
 
 Let’s say we gathered this data (among others) in research with beginners in web programming:
 
@@ -1873,7 +1871,7 @@ Before we start with the analysis we should prepare our data.
 When you create groups of data it is good to know if the theme of the group is more or less 
 general or only concerns one participant. 
 
-Thus you should supply your each datapoint (=line in the transcript) with a participant code. 
+Thus, you should supply your each datapoint (=line in the transcript) with a participant code. 
 A participant code works like a pseudonym: The user is not identifiable by his/her real name, 
 but by a stand-in for the name. I use neutral number codes: The first person I did a research 
 session with is P1, the second is P2 etc.
@@ -1881,16 +1879,16 @@ session with is P1, the second is P2 etc.
 <div class="example">
 If you have this on your transcript:
 
-- It is hard to know what exactly the client wants, because I dont talk directly to the client
-- The document is divided in sections, seperated by blank pages. 
-- The current ideas/prototypes are in the first section. All discarded or “paused” ones are in later sections (the archive”)
+- It is hard to know what exactly the client wants, because I don’t talk directly to the client
+- The document is divided in sections, separated by blank pages. 
+- The current ideas/prototypes are in the first section. All discarded or »paused« ones are in later sections (the archive”)
 […]
 
 It will look like this after adding the participant codes (the data is from the second research 
 session:
 
 - It is hard to know what exactly the client wants, because I don’t talk directly to the client –  **P2**
-- The document is divided in sections, seperated by blank pages.  –  **P2**
+- The document is divided in sections, separated by blank pages.  –  **P2**
 - The current ideas/prototypes are in the first section. All discarded or ›paused‹ ones are in later sections (the archive”) –  **P2**
 […]
 
@@ -1917,9 +1915,9 @@ be full sentences as well as short list of words.
 
 <div class="example">
 
-- It is hard to know what exactly the client wants, because I don’t talk directly to the client –  P2 **ANNOTATION: indirectness, division of tasks, friction, „I need to know the client“.**
+- It is hard to know what exactly the client wants, because I don’t talk directly to the client –  P2 **ANNOTATION: indirectness, division of tasks, friction, »I need to know the client«.**
 - The document is divided in sections, separated by blank pages.  –  P2 **ANNOTATION: Keeping/imposing order**
-- The current ideas/prototypes are in the first section. All discarded or “paused” ones are in later sections (the archive”) –  P2 **ANNOTATION: Keeps old ideas. Why? Possible: Later reuse, Inspiration, replication**
+- The current ideas/prototypes are in the first section. All discarded or »paused« ones are in later sections (»the archive«) –  P2 **ANNOTATION: Keeps old ideas. Why? Possible: Later reuse, Inspiration, replication**
 
 </div>
 
@@ -1951,11 +1949,11 @@ The analysis methods described here can be used in both media. Nevertheless, eac
 
 ### Comparison
 
-![analysing data analog by using sticky notes. Theme are written on yellow sticky notes, themes of themes are written on orange sticky notes](images/affinityDiagram2.jpg) 
+![analyzing data analog by using sticky notes. Theme are written on yellow sticky notes, themes of themes are written on orange sticky notes](images/affinityDiagram2.jpg) 
 
-![analysing data digitally by using a word processor. Themes have gray headlines, themes of themes have black headlines](images/hierarchyWordprocessorAnalysis.png)
+![analyzing data digitally by using a word processor. Themes have gray headlines, themes of themes have black headlines](images/hierarchyWordprocessorAnalysis.png)
 
-The resources you need for analysing on your computer are: 
+The resources you need for analyzing on your computer are: 
 
 - a word processor
 
@@ -2074,7 +2072,7 @@ vague) category you may be able to formulate and insight you gain about the unde
 
 - Inspiration
 	-  I try to get new ideas by looking at google images
-	-  While showering I get new ideas
+	-   I get new ideas while showering
 	-  […]
 
 -  Media
@@ -2125,7 +2123,7 @@ the indented sub-lists are group titles):
 -   TrialAndError
 -   Mutual dependencies of design elements like type area, content, font size etc. (?)
 
-Note that some of the themes are actual, meaningful insights (»Finishing is
+Note that some themes are actual, meaningful insights (»Finishing is
 good«, »(Page) Format is hard to change later«), while some are
 mere group titles based on commonalities of the  data they encompass (»Inspiration«, »Trial and Error«).
 
@@ -2179,7 +2177,7 @@ needed.
 
  \
 
- Actually the example above is  is not great in terms of analysis: 
+ Actually the example above is not great in terms of analysis: 
  The »Test in the Media you target«  data is almost all from one 
  person (P3) and the »being closer«-Group
  has only a single data point. In later iterations I'll change this
@@ -2204,9 +2202,9 @@ group, where I could offload the data for now and try to find a better
 place later:
 
 -   \[Titel:\]misc
-	-   god: Shortcuts
+	-   God: Shortcuts
 	-   I need to ask the print shop what this design would cost
-	-   bad: Doing the same steps over and over again.
+	-   Bad: Doing the same steps over and over again.
 	-   \[…many other points…\]
 
 Inside the misc group some possibilities for future insights
@@ -2248,17 +2246,18 @@ data. In this case revise your structure.
 
 Groups based on commonalities or vague similarity will hopefully evolve
 into insights. To archive this, try to revise group titles: make them
-more concise, clear and meaningful. Try to state an actual insights for a group if 
- a group of data is just named with a title based on mere commonalities of
-the data in that group. This will almost certainly require moving some data between
-groups as well in order to accommodate the data to the improved 
+more concise, clear and meaningful. if  a group of data is just named 
+with a title based on mere commonalities of the data in that group, 
+try to state an actual insight for a group . This will almost certainly 
+require moving some data between groups as well in order to 
+accommodate the data to the improved 
 structure.
 
 <div class="example"> 
 
 For one group I used the title »Arranging«, since arranging and aligning
  objects, lines and text to a predefined grid or to each other was a
- task that reoccured frequently. But the title  »Arranging« just names a
+ task that occured frequently. But the title  »Arranging« just names a
  commonality. To make clear that the group is
  about a user activity and to state the theme as an insight,  I
  renamed »Arranging« to »Arranging objects is an important activity«
@@ -2297,10 +2296,10 @@ I had the following structure:
 </div>
 
 
-### (re) move data to other groups  
+### (Re) Move data to other groups  
 
 When improving your structure it might be necessary to remove pieces of data from
-groups, either moving to to a temporary »misc« group or to another, more suitable
+groups, either moving to a temporary »misc« group or to another, more suitable
 group.
 
 While we want to make use of the data we have, it is most
@@ -2321,8 +2320,8 @@ groups with that data.
 I reviewed the following group:
 
 -   Feedback
-	-   good: getting feedback
-	-   bad: uncertainty before feedback from client
+	-   Good: getting feedback
+	-   Bad: uncertainty before feedback from client
 
 \
 The title was not a meaningful insight and I felt that the
@@ -2345,7 +2344,7 @@ that a big part of the data was concerned with balancing
 *functional* or *practical* requirements (price, readability etc.) with
 requirements concerning *style* (using colors, being innovative)
 
-Thus I renamed the group to »trying to combine aesthetics and
+Thus, I renamed the group to »trying to combine aesthetics and
 functionality«. As the new title was more specific some data needed to
 be taken out, put into other groups or to the temporary »misc« group.
 
@@ -2380,14 +2379,14 @@ the theme of the main group as well.
 
 <div class="example">
 
-I had a group with more than ten points regarding »Collegues and
+I had a group with more than ten points regarding »Colleagues and
 Friends«. This title was rather general and thus not very useful for
 design. I created two subgroups which were more meaningful.
 
 \
 Before:
 
-- Collegues, Friends etc.
+- Colleagues, Friends etc.
 	-   A friend told her that concrete is visualized dashed
 	-   Puts sketches on the wall: Others will see it and talk with me.
 	-   Which design do we take? Talks with fellow designer
@@ -2424,7 +2423,7 @@ a sub point of motivation related groups.
 \
 
 sometimes you first sort the data under the overarching title or principle
-and than move it to an already existing subgroup later:
+and then move it to an already existing subgroup later:
 
 The utterance: »Its bad that you can do imprecise things here,
 compared to programming (talking about Illustrator)« was first sorted
@@ -2489,12 +2488,12 @@ time to communicate your results.
 -   Misc 
 	-   designer vs. technology 
 	-   making calculations 
-	-   chosing fonts 
+	-   choosing fonts 
 
  
 These are all the groups I created in my analysis. The results could be
-more concise, having fewer groups concentrating on fewer themes. However
-this would probably lead to more abstract insights which would
+more concise, having fewer groups concentrating on fewer themes. 
+However, this would probably lead to more abstract insights which would
 presumably harder to use in design.
 
 The groups of groups are partly not insights themselves. I tried to
@@ -2505,7 +2504,7 @@ groups are: »combining functions and aesthetics« etc.). In contrast,
 a meaningful insight.
 
 You see that I could not use all data, so I made some less significant
-groups in the “misc” section.
+groups in the »misc« section.
 
 </div>
 
@@ -2531,7 +2530,8 @@ elements you can combine in different media to communicate your results.
 
 ## Getting it across
 
-It can be hard to make an impact with your research: If it is not clear why the results of your research matter they are easily dismissed 
+It can be hard to make an impact with your research: If it is not clear why the 
+results of your research matter they are easily dismissed 
 
 Probably the best form to communicate your research is to do the
 research (at least partly) with others. Those who do the research with
@@ -2585,9 +2585,9 @@ includes:
 <div class="example">
 
 I recruited the participants by asking on mailing lists, bulletin boards
-and in facebook groups. The request was like this:
+and in Facebook groups. The request was like this:
 
-“We, a team of students of the Weimar University, want to improve the
+»We, a team of students of the Weimar University, want to improve the
 free layout program frame drawer and want the application to match your
 workflow and needs. Therefore we would like to gather some insights in
 the way you work.
@@ -2598,7 +2598,7 @@ you work. This would take approximately 1h.
 
 All participants get a \$10 voucher for the university's cafeteria. If
 you would like to participate (or have further questions) please write a
-mail to jan.dittrich@example.com”
+mail to jan.dittrich@example.com«
 
 (Data gathering)
 
@@ -2673,7 +2673,7 @@ text about? Why was the work done?) and make sure that it is easy to get
 a quick overview:  Structure your text using headings, lists and
 italics to guide the reader.
 
-![a page spead from a report](images/exampleWrittenReport.png)
+![a page spread from a report](images/exampleWrittenReport.png)
 
 
 There are lots of books which explain how to write concise and
@@ -2712,6 +2712,7 @@ Quotes convey the participant’s motivations and feelings. This is
 important to help others to have empathy with the users.
 
 <div class="example">
+
 **Rather abstract:** Users like the alignment function
 
 **Combined with Quote**: Users like the alignment function. Sandy: »It is
@@ -2846,7 +2847,7 @@ summary and that the  (preliminary) results may be refined later.
 Quick findings are very useful if your audience :
 
 -   already know about your research and want to have a look at your progress
--    have very little time, and need an efficient access to your  results
+-    have very little time, and need efficient access to your  results
 
 ### Written Reports
 
