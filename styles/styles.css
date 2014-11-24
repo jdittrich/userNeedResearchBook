@@ -36,13 +36,14 @@ h1.title{
   text-transform: uppercase;
   color: #396ba5;
   font-weight: normal;
+  margin-top:0em;
 
 }
 
 h1 {
   font-size:280%;
   line-height:1.35;
-  margin:4em 0 0.4em;
+  margin:3.5em 0 0.4em;
   font-weight: normal;
 }
 

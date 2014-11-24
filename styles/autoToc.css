@@ -1,15 +1,24 @@
+#wrapper{
+margin-left: 15em;
+}
+
+#wrapper.tocHidden{
+margin-left:auto;
+}
+
 #autoToc {
     font-family:sans-serif;
     color:black;
     background:rgb(230,235,240);
     top: 0px;
     left: 0px;
+    bottom:0;
     height: 100%;
     position:fixed;
-    width: 20%;
-    min-width:100px;
-    max-width:350px;
+    width: 20em;
     font-size:0.8rem;
+    box-sizing: border-box;
+    padding:0 0 2em 0;
 }
 
 #autoToc a.toggle{
@@ -26,15 +35,16 @@
 
 #autoToc.hidden ul{
 display:none;
-
+padding:0;
 }
 
 #autoToc.hidden  {
-width: 40px;
+width: 20em;
 min-width:auto;
 height:auto;
-padding-top:0;
+padding-bottom: 0px;
 overflow:hidden;
+bottom: auto;
 }
 
 
@@ -44,7 +54,8 @@ overflow:hidden;
     padding-top: 0.5em;
     list-style: none;
     height: 100%;
-    overflow:scroll;
+    box-sizing: border-box;
+    overflow-y: scroll;
 }
 
 #autoToc li {

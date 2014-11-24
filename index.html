@@ -1537,8 +1537,11 @@ $(function(){
             $("#autoToc").toggleClass("hidden");
             if($("#autoToc").hasClass("hidden")){
                 $("#autoToc .toggle").text("show TOC");
+                $("#wrapper").addClass("tocHidden");
+                
             }else{
                 $("#autoToc .toggle").text("hide TOC");
+                $("#wrapper").removeClass("tocHidden"); 
             }
         });
     })  
