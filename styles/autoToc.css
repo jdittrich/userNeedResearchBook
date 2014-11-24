@@ -1,0 +1,83 @@
+#autoToc {
+    font-family:sans-serif;
+    color:black;
+    background:rgb(230,235,240);
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    position:fixed;
+    width: 20%;
+    min-width:100px;
+    max-width:350px;
+    font-size:0.8rem;
+}
+
+#autoToc a.toggle{
+    border: medium none;
+    padding: 4px 10px;
+    background:rgba(0,0,0,0.1);
+    color: black;
+    border-bottom: 1px solid rgba(0,0,0,0.2);
+    text-align: left;
+    box-shadow: -14px 3px 2px hsla(0, 0%, 0%, 0.2);
+}
+
+
+
+#autoToc.hidden ul{
+display:none;
+
+}
+
+#autoToc.hidden  {
+width: 40px;
+min-width:auto;
+height:auto;
+padding-top:0;
+overflow:hidden;
+}
+
+
+#autoToc ul {
+    margin: 0;
+    padding: 0;
+    padding-top: 0.5em;
+    list-style: none;
+    height: 100%;
+    overflow:scroll;
+}
+
+#autoToc li {
+    padding: 5px 10px;
+}
+
+#autoToc .toc-h1 a  {
+    font-weight:bold;
+    
+}
+
+#autoToc a {
+    color:black;
+    text-decoration: none;
+    display: block;
+}
+
+#autoToc a:hover {
+    text-decoration:underline;
+}
+
+#autoToc .toc-h2 {
+    padding-left: 10px;
+}
+
+#autoToc .toc-h3 {
+    padding-left: 20px;
+}
+
+#autoToc .toc-active {
+    background: rgb(57, 107, 165);
+}
+
+#autoToc .toc-active a{
+    color: white;
+}

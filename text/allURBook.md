@@ -3,7 +3,7 @@
 % 2014
 
 
-<!-- compile with  "pandoc --toc -B templates/includeBefore.pandoc -A templates/includeAfter.pandoc  -s -c styles/styles.css -c styles/print.css text/allURBook.md -t html5 -o index.html" -->
+<!-- compile with  "pandoc --toc -B templates/includeBefore.pandoc -A templates/includeAfter.pandoc  -s -c styles/styles.css -c styles/print.css -c styles/autoToc.css text/allURBook.md -t html5 -o index.html" -->
 
 # License
 

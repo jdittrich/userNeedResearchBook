@@ -1,1 +1,21 @@
 </div>
+<script src="libs/jquery.js"></script>
+<script src="libs/toc_jquery.js"></script>
+<script>
+$(function(){
+        $('<div id="autoToc"></div>').appendTo('body');
+        $('#TOC').hide();
+        $('#autoToc').toc({
+             'container': '#wrapper'
+        });
+        
+        $('<a class="toggle">hide TOC</a>').prependTo("#autoToc").click(function(){
+            $("#autoToc").toggleClass("hidden");
+            if($("#autoToc").hasClass("hidden")){
+                $("#autoToc .toggle").text("show TOC");
+            }else{
+                $("#autoToc .toggle").text("hide TOC");
+            }
+        });
+    })  
+</script>
