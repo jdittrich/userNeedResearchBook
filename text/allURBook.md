@@ -23,7 +23,9 @@ I demonstrate how to analyze the gathered data in a way that makes it usable and
 
 To have knowledge about the »how« and »why« of the user’s work allows you to create innovative products that meet the users’ needs. As well, you can utilize this knowledge to improve existing products.
 
-The user needs research methods in this book are taught in a descriptive way and by using tools that are readily available to you. This allows quick application of the learned methods. I hope you can imagine yourself applying the described methods when reading
+The user needs research methods in this book are taught in a descriptive way and by using tools that are readily available to you. This allows quick application of the learned methods. I hope you can imagine yourself applying the described methods when reading. 
+
+If you find spelling mistakes or have other suggestions for fixes you can submit a [pull request](https://help.github.com/articles/using-pull-requests/) at the [book’s github repository](https://github.com/jdittrich/userNeedResearchBook).
 
 # Introduction
 
@@ -36,8 +38,8 @@ about the why and how if users work. You may give them a task to accomplish in t
  testing – but are these the tasks they are doing in their actual work? And if so – why is this
  task done anyway?
  
-Thus we need methods that may inform us about things we don't know about yet. 
-Methods that allow us to explore the actual actions and the reasons behind them –
+Thus you need methods that may inform you about things you don’t know about yet. 
+These are methods which allow us to explore the actual actions and the reasons behind them –
  because even if you might be puzzled about some things you observe they usually make 
  perfect sense for the users. 
  
@@ -132,7 +134,7 @@ Thats about what you should know about the book.
 
 # Find People
 
-In user research we want to find out what our users do and how and why  they do it.
+In user research you want to find out what our users do and how and why they do it.
 If we know this, we can design our products accordingly.
 
 To be able to do research on the »how« and »why« of user’s work, you need to find some users who would like to answer your questions and would show you what they do.
@@ -1679,12 +1681,12 @@ observations and their headlines an overarching headline.
 
 Here is a part of an analysis. 
 
--   *Overarching theme*: using existing work for inspiration 
-	-   *sub-theme*: review previous projects 
+-   *Overarching theme*: using existing work for inspiration 
+	-   *sub-theme*: review previous projects 
 		- *Data:* » have a look at an old project to see how I solved this problem…«
 		- *Data:*  Participant searches for…
 		- …
-	-   *sub-theme*: use other’s work  for inspiration
+	-   *sub-theme*: use other’s work  for inspiration
 		- *Data:* »I look on google images how other calendars look like«
 		- *Data:* browses through the book to see…
 		- …
@@ -1713,7 +1715,7 @@ Then we give that data a headline and name the topic:
 
 <div class="example">
 
-- **theme:** use other’s work  for inspiration
+- **theme:** use other’s work  for inspiration
 	- *Data:* »I look on google images how other calendars look like«
 	- *Data:*  Browses through the book to see…
 	
@@ -1723,7 +1725,7 @@ When we come across a piece of data which shares the topic we can add it to the 
 
 <div class="example">
 
-- *theme:* use other’s work  for inspiration
+- *theme:* use other’s work  for inspiration
 	- **Data:  Searches on amazon to see how covers of books about the same topic look like**
 	- *Data:* »I look on google images how other calendars look like«
 	- *Data:*  Browses through the book to see…
@@ -2458,39 +2460,39 @@ time to communicate your results.
 
 **Final structure:**
 
--   Arranging Objects as important part of the work 
--   using existing work for inspiration 
-	-   review previous projects 
-	-   use other’s work  
-	-   use previous ideas from same project 
+-   Arranging Objects as important part of the work 
+-   using existing work for inspiration 
+	-   review previous projects 
+	-   use other’s work  
+	-   use previous ideas from same project 
 -   Media
-	-   Test design in the target media 
-	-   Find suitable media 
--   Being attached to ones own ideas         
--   Working visually 
--   Social 
-	-   Exchange Knowledge 
-	-   Collaborative decision making 
--   Motivation 
-	-   Highly motivated at the beginning; then the problems start 
+	-   Test design in the target media 
+	-   Find suitable media 
+-   Being attached to ones own ideas         
+-   Working visually 
+-   Social 
+	-   Exchange Knowledge 
+	-   Collaborative decision making 
+-   Motivation 
+	-   Highly motivated at the beginning; then the problems start 
 	-   Finishing is good
-	-   Waiting for feedback is bad 
-	-   being afraid of clients rejection of the design 
--   repetitive and manual work (negative)  
--   changes and requirements 
-	-   Some changes like page format are hard to change later 
-	-   combine function and aesthetics 
-	-   changes cause other changes 
-	-   considering the budget 
-	-   trial and error as method 
-	-   use the actual content for testing (not fake content) 
-	-   fixate things to have a starting point 
--   Misc 
-	-   designer vs. technology 
-	-   making calculations 
-	-   choosing fonts 
+	-   Waiting for feedback is bad 
+	-   being afraid of clients rejection of the design 
+-   repetitive and manual work (negative)  
+-   changes and requirements 
+	-   Some changes like page format are hard to change later 
+	-   combine function and aesthetics 
+	-   changes cause other changes 
+	-   considering the budget 
+	-   trial and error as method 
+	-   use the actual content for testing (not fake content) 
+	-   fixate things to have a starting point 
+-   Misc 
+	-   designer vs. technology 
+	-   making calculations 
+	-   choosing fonts 
 
- 
+ 
 These are all the groups I created in my analysis. The results could be
 more concise, having fewer groups concentrating on fewer themes. 
 However, this would probably lead to more abstract insights which would
@@ -2547,7 +2549,7 @@ this way, keep in mind that reports and slides may easily end up as
 
 To make this less likely to happen, find out what the interests of the
 document’s audience are and how you can communicate with them to get
-their attention.  
+their attention.  
 
 ## Who is your audience? 
 
@@ -2577,9 +2579,9 @@ results using an empirical and structured approach.
 Explain the research methods you used to arrive at your results. This
 includes:
 
--   Selection of participants (sampling) 
--   Data gathering 
--   Data analyis 
+-   Selection of participants (sampling) 
+-   Data gathering 
+-   Data analyis 
 
 
 <div class="example">
@@ -2644,7 +2646,7 @@ anyone but allow your audience to have some ideas of the participants.
 <div class="example">
 
 Participants were students (four of them) or recent graduates (one of
-them).  All had studied several terms already and had work experiences
+them).  All had studied several terms already and had work experiences
 from at least one internship. Four were female, one were male.
 
 All participants were asked to meet with us at the place where they
@@ -2690,10 +2692,10 @@ Orwells in »Politics and the English Language« – I quote:
 
 3. If it is possible to cut a word out, always cut it out.
 
-4. Never use the passive where you can use the active.  
+4. Never use the passive where you can use the active.  
 
 5. Never use a foreign phrase, a scientific word or a jargon word if
-    you can think of an everyday English equivalent.  
+    you can think of an everyday English equivalent.  
 
 6. Break any of these rules sooner than say anything barbarous.
 
@@ -2737,12 +2739,12 @@ of images (like a comic)
 A good framework for writing scenarios is asking yourself these
 questions:
 
--   **Person**: Who is the main person in the scenario? 
+-   **Person**: Who is the main person in the scenario? 
 -   **Motivations**: Why does this person what he/she does? What is the
-    motivation? 
+    motivation? 
 -   **Activities**: What are the actions of the person and how are they
-    done?  
--    **Context**: Where and When does the scenario take place?  
+    done?  
+-    **Context**: Where and When does the scenario take place?  
 
 Answer them in your scenario.
 
@@ -2768,7 +2770,7 @@ building she is in already and a code: »X0-3R52«… \[scenario may continue\]
 
 <div class="gallery two">
 
-![the search interface of the librarie’s  computer](images/szenario2_1.png) 
+![the search interface of the library's  computer](images/szenario2_1.png) 
 
 ![remembering the code. Is it a zero or the letter ›O‹?](images/szenario2_2.png) 
 
@@ -2842,12 +2844,12 @@ communicate your message. Let’s look at some possibilities.
 Quick findings are short, annotated lists of your most important
 findings. They include a brief description of methods, participants and
 environment and usually a disclaimer that this is only a very brief
-summary and that the  (preliminary) results may be refined later.
+summary and that the  (preliminary) results may be refined later.
 
 Quick findings are very useful if your audience :
 
 -   already know about your research and want to have a look at your progress
--    have very little time, and need efficient access to your  results
+-    have very little time, and need efficient access to your  results
 
 ### Written Reports
 
@@ -2864,9 +2866,9 @@ I suggest the following structure for your reports:
 -   summary of the key facts and findings
 -   Why: Research interest
 -   How: Research methods
--   Who and Where: Describe participants and site 
--   Your findings 
--   Conclusions and suggestions 
+-   Who and Where: Describe participants and site 
+-   Your findings 
+-   Conclusions and suggestions 
 
 ![page spread from a report on wiki use for teaching at university](images/exampleWrittenReport2.png)
 
@@ -2892,11 +2894,11 @@ with others and don’t present them yourself.
 
 ### Books
 
-*  **Observing the User Experience : A Practitioner's Guide to User Research** by Goodman, Elizabeth ; Kuniavsky, Mike; Moed, Andrea. 2nd Edition. Amsterdam: Elsevier, 2012. ISBN 978-0-123-84870-3 <br> *Covers multiple user research methods as well as research planning, recruiting and communicating results. Particulary interesting are the chapters on recruiting and analysis of qualitative data.* 
+*  **Observing the User Experience : A Practitioner's Guide to User Research** by Goodman, Elizabeth ; Kuniavsky, Mike; Moed, Andrea. 2nd Edition. Amsterdam: Elsevier, 2012. ISBN 978-0-123-84870-3 <br> *Covers multiple user research methods as well as research planning, recruiting and communicating results. Particularly interesting are the chapters on recruiting and analysis of qualitative data.* 
 * **Interviewing Users : How to Uncover Compelling Insights** by Portigal, Steve. 1. Edition. New York: Rosenfeld Media, LLC, 2013. ISBN 978---1-9-33-82-0 <br> *As the title suggests, it’s focused on asking questions and listening to answers, but it covers additional methods as well. Includes lots of useful tips.*
-* **Shane, the Lone Ethnographer: A Beginner's Guide to Ethnography** by Galman, Sally Campbell. Lanham: Rowman Altamira, . ISBN 978-0-759-10344-3 <br> *Lots of the methods I described originated in ethnography. This book gives an hands-on and thoughtful introduction to enthography. Comes as a comic and is fun to read. Minor flaw: The lettering is a bit obscure*
+* **Shane, the Lone Ethnographer: A Beginner's Guide to Ethnography** by Galman, Sally Campbell. Lanham: Rowman Altamira. ISBN 978-0-759-10344-3 <br> *Lots of the methods I described originated in ethnography. This book gives an hands-on and thoughtful introduction to enthography. Comes as a comic and is fun to read. Minor flaw: The lettering is a bit obscure*
 * **Successful Qualitative Research : A Practical Guide for Beginners** by Clarke, Victoria; Braun, Virginia: . New.. London: SAGE, 2013. ISBN 978-1-847-87581-5 <br> *This book is aimed at  aspiring academic researchers. Hands-on but covers the underlying (social science) theory as well. It inspired much of the analysis section in this book. Interesting for those who want to know more about doing thorough analysis of data (using the method of »Thematic Analysis«) *
-* **Rapid Contextual Design : A How-to Guide to Key Techniques for User-centered Design**by Holtzblatt, Karen; Wendell, Jessamyn Burns; Wood, Shelley. Amsterdam: Elsevier, 2005. ISBN 978-0-123-54051-5 <br> *Describes a collection of methods for user research. It is aimed at bigger teams (with time and money, I assume). However, its mentioned here since the idea of grouping data as core activity of data analysis is from it.*
+* **Rapid Contextual Design : A How-to Guide to Key Techniques for User-centered Design**by Holtzblatt, Karen; Wendell, Jessamyn Burns; Wood, Shelley. Amsterdam: Elsevier, 2005. ISBN 978-0-123-54051-5 <br> *Describes a collection of methods for user research. It is aimed at bigger teams (with time and money, I assume). However, its mentioned here since the idea of grouping data as core activity of data analysis is from it.*
 
 ### Examples
 
