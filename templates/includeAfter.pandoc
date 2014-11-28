@@ -8,6 +8,9 @@ $(function(){
         $('#autoToc').toc({
              'container': '#wrapper',
              'highlightOffset': 10,
+             'anchorName': function(i, heading, prefix) { //custom function for anchor name
+        return prefix+i;},
+             
         });
         
         $('<a class="toggle">hide TOC</a>').prependTo("#autoToc").click(function(){
