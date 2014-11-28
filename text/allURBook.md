@@ -1183,9 +1183,6 @@ or
 </div>
 
 
-
-### Referring back  for further elaboration
-
 ![change the topic by referring to something said some time ago](images/talkDiagram_ReferBackDistance.svg)
 
 You can refer back to the answer which was just given and
