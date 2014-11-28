@@ -62,7 +62,6 @@
 <li><a href="#dont-make-the-user-the-designer">Don't make the user the designer</a></li>
 <li><a href="#referring-back">Referring back</a><ul>
 <li><a href="#referring-back-for-further-elaboration">Referring back for further elaboration</a></li>
-<li><a href="#referring-back-for-further-elaboration-1">Referring back for further elaboration</a></li>
 <li><a href="#referring-back-to-check-your-understanding">Referring back to check your understanding</a></li>
 </ul></li>
 <li><a href="#how-exactly-would-you-do-it">How exactly would you do it?</a></li>
@@ -615,7 +614,6 @@ conversation: You ask questions, the user answered them. -->
 <div class="example">
 <p>You said that you would continue with setting up the ›masterpage‹. Can you show me how?</p>
 </div>
-<h3 id="referring-back-for-further-elaboration-1"><a href="#referring-back-for-further-elaboration-1">Referring back for further elaboration</a></h3>
 <figure>
 <img src="images/talkDiagram_ReferBackDistance.svg" alt="change the topic by referring to something said some time ago" /><figcaption>change the topic by referring to something said some time ago</figcaption>
 </figure>
@@ -1533,6 +1531,9 @@ $(function(){
         $('#autoToc').toc({
              'container': '#wrapper',
              'highlightOffset': 10,
+             'anchorName': function(i, heading, prefix) { //custom function for anchor name
+        return prefix+i;},
+             
         });
         
         $('<a class="toggle">hide TOC</a>').prependTo("#autoToc").click(function(){
