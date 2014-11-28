@@ -6,7 +6,8 @@ $(function(){
         $('<div id="autoToc"></div>').appendTo('body');
         $('#TOC').hide();
         $('#autoToc').toc({
-             'container': '#wrapper'
+             'container': '#wrapper',
+             'highlightOffset': 10,
         });
         
         $('<a class="toggle">hide TOC</a>').prependTo("#autoToc").click(function(){
