@@ -17,7 +17,7 @@ Libraries used for this webpage have their own licenses and are *not* covered by
 
 # About this text
 
-This book is written for all those who want to design products according to the needs of human beings.
+This book is written for all those who want to design products according to the needs of people.
 This text teaches you how to find potential users and how to find out about their activities, motivations and problems.
 I demonstrate how to analyze the gathered data in a way that makes it usable and useful for your design process.
 
@@ -32,20 +32,20 @@ If you find spelling mistakes or have other suggestions for fixes you can submit
 ## Why should I use the methods described in this book?
 
 User Need Research helps us to find out is how and why users do their work. 
-This is different from usability testing. Testing is great for finding out about users problems, 
-bugs and possibilities to tweak an existing product. However, usability tests tell you few 
-about the why and how if users work. You may give them a task to accomplish in the usability
- testing – but are these the tasks they are doing in their actual work? And if so – why is this
- task done anyway?
+This is different from usability testing. Testing is great for finding out about users’ problems, existing 
+bugs and the possibilities to tweak an existing product. However, usability tests tell you little 
+about the »why« and »how« of users’ work. In  usability  testing you may give the user a task to accomplish 
+ – but are these the tasks they are doing in their actual work? And if so – why is this
+ task being done anyway?
  
-Thus you need methods that may inform you about things you don’t know about yet. 
+Thus you need methods that  inform you about things you don’t know about yet. 
 These are methods which allow us to explore the actual actions and the reasons behind them –
  because even if you might be puzzled about some things you observe they usually make 
  perfect sense for the users. 
  
- This is not simply done by asking users what they want. Doing this, you usually get to 
- know that people want a better version of what they already have. For design it is more 
- useful to know the needs behind this wishes. Henry Ford allegedly 
+ Finding out about users’ needs  is not done by just asking users what they want, because in 
+ this case you are usually told that people want a better version of what they already have. 
+ For design it is more useful to know the *needs* behind these wishes. Henry Ford allegedly 
  said »If I had asked people what they wanted, they would have said faster horses«.  Instead of 
  faster horses, Ford sold a product that satisfied an underlying motivation – getting quickly 
  from A to B – instead of the  specific wish.  
@@ -55,51 +55,51 @@ These are methods which allow us to explore the actual actions and the reasons b
 Some time ago I did research on the use of computers and web for learning purposes. A web based learning software (also called  »LMS«, Learning management system)
 
 At the institution, a web based learning software (an LMS, Learning management system) 
-was already existing. We assumed that students would probably use it for collaboration, 
+was already in place. We assumed that students would probably use it for collaboration, 
 professors for preparing interactive quizzes for the students and for enabling them to 
 review material. But we did not want to rely on our guesses, so we did research on how 
-and why students and teaching staff used computers and web for learning (note that we 
-deliberately did research on the use web and computers for learning, not for using the
-specific system that was existing).
+and why students and teaching staff used computers and the web for learning (note that we 
+deliberately did research on the use web and computers for learning, instead of focussing 
+just on the learning software itself).
 
-We recruited students and teaching staff from various courses and did interviews with them. The gathered data was then 
-analyzed to find out how and why computers and internet were used for learning.
+We recruited students and teaching staff from various courses and interviewed with them. The gathered data was  
+analyzed to find out how and why computers and the internet were used for learning.
 
-We found out that not quizzes, workgroups and videos were the tools of trade, but file exchange. The following uses of files were typical: 
+We discovered that  quizzes, workgroups and videos were not so important. We found out that the most important aspect of the system was exchanging files. The following uses of files were typical: 
 
-1. slides (=learning material) send by the professors or their assistants
+1. Slides (=learning material) sent by the professors or their assistants
 
-2. Texts (=homework) the students send to the professors or their assistants. 
+2. Texts (=homework) the students sent to the professors or their assistants. 
 
-3. Project work of student group in the specific file formats (if a group worked on images it might be Photoshop® files etc.) 
+3. Project work of a student group in the specific file formats (if a group worked on images it might be Photoshop® files etc.) 
 
 4. Exercise material of students like old exam questions for practice.
  
-In addition, students and teaching staff exchanges messages via mail; 
-among students, email and Facebook® Messages were rather popular, too. 
+In addition, students and teaching staff exchanged messages via mail; 
+among students, email and Facebook® Messages were  popular, too. 
 
 Why did students and teaching staff alike use files and messages instead of 
-specialized learning solutions?
+the specialized learning solutions?
 
-All these methods we saw used skills teaching staff and students already had: 
+All these methods we saw used skills the teaching staff and students already had: 
 Creating files and exchanging them and writing messages So a major need was 
 to get material to students and receive material from them with the least effort 
-and the least demand for learning new skills. Same for the students: They needed
-to do their projects and homework as efficiently as possible and they too did rely 
-on mail and on services like Dropbox® to do project work together or share old exam 
+and the least demand for learning new skills. It was the same for the students: They needed
+to do their projects and homework as efficiently as possible and they relied 
+on mail and services like Dropbox® to do project work together or to share old exam 
 questions for practicing. 
 
 This led us to several ideas which guided the project in the following phases:
 
 * Consider file up- and download as a core tool 
 * Carefully test the solution to make it at least as usable and useful as existing ways of file exchange
-* To increase adoption to the new system ensure that people know about the feasibility for their standard-usecases (Files!) and before showing the additional possibilities. 
+* To increase adoption to the new system, ensure that people know about the feasibility for their standard-usecases (Files!) before showing the additional possibilities. 
 * In general: Keep in mind that change is hard
 
-Even tough the study was not too big and the results did not uncover some 
-totally unexpected perspective on our project. Nevertheless, it was  worth 
-the effort. Without the research we  would have put lots of money into solving
-problems that were not even existing or to dismiss needs which  that are crucial for our users.
+Even though the study was not too big and the results did not uncover some 
+totally unexpected perspective on our project, it was completely worth the effort. 
+We did not need to put lots of money into solving problems that did not even 
+exist or  remove functions that were critical for our users.
 
 ## This text’s structure 
 I will show you the process of researching the user’s needs in the following chapters of this book. The book is organized in the following sections:
@@ -107,8 +107,8 @@ I will show you the process of researching the user’s needs in the following c
 1. Finding Participants for your studies 
 2. Preparing your research session 
 3. Gather data by asking questions  and observation
-4. analyzing the gathered data
-5. reporting your results
+4. Analyzing the gathered data
+5. Reporting your results
 
 In each chapter I will give several examples. The examples have their own formatting, it looks like this: 
 
@@ -1733,7 +1733,7 @@ When we come across a piece of data which shares the topic we can add it to the 
 
 I already talked about grouping data by shared themes. The question is: What is a meaningful theme?
 
-One method to group data and derive a theme would be going through the data and see which utterances and observations mention the same thing or the same assessment. Thus, all notes mentioning »color« would belong to one theme and get the headline »Color«; all notes mentioning »good«  belong to one theme and get the headline »good things«.  
+One method to group data and to derive a theme would be going through the data and see which utterances and observations mention the same thing or the same assessment. Thus, all notes mentioning »color« would belong to one theme and get the headline »Color«; all notes mentioning »good«  belong to one theme and get the headline »good things«.  
 
 <div class="example">
 
@@ -1755,9 +1755,9 @@ If we put the pieces of data which mention the same things in the same group we 
 
 </div>
 
-Organizing the data by this »same things mentioned«-method would help us to find data concerned with a specific thing or assessment: If we want see everything that concerned furniture we can go through the data in the »furniture« group; If we would like to know what people liked we could look it up in a group titled »good«.
+Organizing the data by this »same things mentioned«-method would help us  find data concerned with a specific thing or assessment: If we want see everything that concerned furniture we can go through the data in the »furniture« group; If we would like to know what people liked we could look it up in a group titled »good«.
 
-However, the themes have no meaning on its own when organizing using the »same things mentioned«-method. You still need to go through the data points to find out what people did with their furniture and what they think of as »good«. The themes are just labels for the content. 
+However, the themes have no meaning on its own when organizing using the »same things mentioned«-method. Additionally if it was already clear before the research that furniture was connected to DIY work, then summarising to say "there is furniture" doesn't tell us anything new. Therefore, you still need to go through the data points to find out what people did with their furniture and what they think of as »good«. The themes are just labels for the content. 
 
 Imagine we would not create the themes by looking for same things being mentioned but by the insights we drew from the data in the group by focusing on the meaning of activities, problems and goals for the participants. 
 
@@ -1786,14 +1786,14 @@ maintenance.
 
 If you have a new idea you can ask yourself »Does this idea follow what is stated in the group titles? Does it violate it them?«. You may ask yourself »With which design could I realize this principle?«. Since the insights are based on our data, they will express the actual needs of your users and not some (potentially stereotypical) assumptions.
 
-Grouping your data based on insights about your participants provides great benefits. But it can be hard and may be not possible for all your data. Creating groups using the same-things-mentioned methods is still a useful method and these groups may still evolve. Usually I have quite some »same-things-mentioned«-groups in the beginning and far fewer at the end – but still my analysis will be a mixture of both styles.
+Grouping your data based on insights about your participants provides great benefits. But it can be hard and may be not possible for all your data. Creating groups using the same-things-mentioned methods is still a useful method and these groups may still evolve. Usually I have  some »same-things-mentioned«-groups in the beginning and far fewer at the end – but  my analysis will be a mixture of both styles.
 
 
 <div class="example">
 
-Understanding why organizing data based on insights is an important point which can be hard to grasp for beginners. I think examples can help in understanding it, thus I want to provide an additional demonstration in the gist of the above mentioned DIY data. Like the DIY data, this example is made up by me to be able to demonstrate the shift from same-things-mentioned to insight-based organization. 
+Understanding why organizing data based on insights is an important point which can be hard to grasp for beginners. Here are is another example:
 
-Let’s say we gathered this data (among others) in research with beginners in web programming:
+Let’s say we gathered this data (amongst others) when researching beginners in web programming:
 
 - To try out stuff in HTML is fun 
 - I analyze Javascript code to understand patterns 
