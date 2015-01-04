@@ -59,11 +59,11 @@ was already in place. We assumed that students would probably use it for collabo
 professors for preparing interactive quizzes for the students and for enabling them to 
 review material. But we did not want to rely on our guesses, so we did research on how 
 and why students and teaching staff used computers and the web for learning (note that we 
-deliberately did research on the use web and computers for learning, instead of focussing 
+deliberately did research on the use web and computers for learning, instead of focusing 
 just on the learning software itself).
 
-We recruited students and teaching staff from various courses and interviewed with them. The gathered data was  
-analyzed to find out how and why computers and the internet were used for learning.
+We recruited students and teaching staff from various courses and interviewed them. The gathered data 
+was analyzed to find out how and why computers and the Internet were used for learning.
 
 We discovered that  quizzes, workgroups and videos were not so important. We found out that the most important aspect of the system was exchanging files. The following uses of files were typical: 
 
@@ -158,7 +158,8 @@ Ask yourself: Are the people that may participate in your research likely to…
 
 I assume that you don't have the money to employ a recruiting agency to get your participants.
 Thus, you will need to find and ask them yourself.
-Especially if you are on your own you may need to compromise and do research with participants that don't match your intended users exactly.
+Especially if you are on your own you may need to compromise and do research with participants 
+that don't match your intended users exactly.
 When doing this, keep in mind to  check for similarity of tasks, problems and motivations.
 These checks don't ensure that the participants are exactly the ones who may use your final product.
 But you can be rather sure that they can tell you something that is of interest for you.
@@ -177,12 +178,14 @@ For example, participants could be found among
 - The people who visit your or your companies homepage
 - Participants of meetings/gatherings.
 
-To find the right participants for your research, try to find out where those people are: users of a particular software can be found on mailing lists, forums and user meetings or events.
+To find the right participants for your research, try to find out where those people are: users of a 
+particular software can be found on mailing lists, forums and user meetings or events.
 Young adults could be found via bulletin boards on on university or college campus.
 Retired people may be found in church congregation and retirement homes.
 
 Inform possible participants about the study and what they can expect when they participate.
-Regardless of how you inform them – if by speaking directly to them, by using a note on a blackboard or by writing an email –  you should give them the following information:
+Regardless of how you inform them – if by speaking directly to them, by using a note on a blackboard 
+or by writing an email –  you should give them the following information:
 
 - The purpose of the study and the resulting benefits for the participant or the wider community (e.g. a product which is more suitable to their needs) 
 - The research method (answering questions and observation)
@@ -195,10 +198,12 @@ Regardless of how you inform them – if by speaking directly to them, by using 
 
 **Are you a designer?**
 
-We, a team of students of the Weimar University,  want to improve the free layout program frame drawer and want the application to match your workflow and needs.
+We, a team of students of the Weimar University,  want to improve the free layout program frame 
+drawer and want the application to match your workflow and needs.
 Therefore, we would like to gather some insights in the way you work.
 
-If you would like to support us, someone from our team would visit your workplace and ask you some questions and look over your shoulder while you work.
+If you would like to support us, someone from our team would visit your workplace and ask you some 
+questions and look over your shoulder while you work.
 This would take approximately 1h.
 
 All participants get a $10 voucher for the university's cafeteria.
@@ -229,11 +234,9 @@ There, are no clear cut rules of how many participants are enough.
 However, most of my projects have between 3 and 8 participants.
 If I really need to be sure that what I notice is consistent I'd do research with 10, but that is about the limit I can manage on my own.
 
-An efficient way of involving the »right« amount of participants is doing your research iteratively: start with three or four participants and begin with the analysis as soon as possible.
-Steps like writing your comments to the data or even starting to create possible grouping is possible after having the data of at least two participants.
-Take a look at the first (preliminary) findings: Are the patterns repeating themselves and are they consistent between participants and situations?
-Or do they vary widely?
-If they are consistent, you may do research with few additional participants to refine and check and to explore details – or, if time is up, leave it the way it is.
+An efficient way of involving the »right« amount of participants is doing your research iteratively: start with three or four participants and begin with the analysis as soon as possible. Steps like writing your comments to the data or even starting to create possible grouping is possible after having the data of at least two participants.
+
+Take a look at the first (preliminary) findings: Are the patterns repeating themselves and are they consistent between participants and situations? Or do they vary widely? If they are consistent, you may do research with few additional participants to refine and check and to explore details – or, if time is up, leave it the way it is.
 
 If preliminary findings vary and it is hard to see any patterns you may need to involve more participants. 
 
