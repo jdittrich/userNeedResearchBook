@@ -19,18 +19,39 @@ margin-left:auto;
     font-size:0.8rem;
     box-sizing: border-box;
     padding:0 0 2em 0;
+		box-shadow: 3px 3px 2px hsla(0, 0%, 0%, 0.2);
 }
 
 #autoToc a.toggle{
     border: medium none;
     padding: 4px 10px;
-    background:rgba(0,0,0,0.1);
+    background:rgba(0,0,0,0.15);
     color: black;
-    border-bottom: 1px solid rgba(0,0,0,0.2);
+		border:1px solid rgba(0,0,0,0.1);
+    border-bottom: 2px solid rgba(0,0,0,0.2);
     text-align: left;
-    box-shadow: -14px 3px 2px hsla(0, 0%, 0%, 0.2);
+		font-weight: bold;
+    box-shadow: 0px 1px 2px hsla(0, 0%, 0%, 0.2);
 }
 
+#autoToc a.toggle:hover{
+background:rgba(0,0,0,0.3);
+	text-decoration: none;
+}
+
+#autoToc.hidden a.toggle:after{
+	content:"▾";
+	float:right;
+	margin-right:1em;
+	margin-top:-0.1em;
+}
+
+#autoToc:not(.hidden) a.toggle:after{
+	content:"▴";
+	float:right;
+	margin-right:1em;
+	margin-top:-0.1em;
+}
 
 
 #autoToc.hidden ul{
@@ -56,6 +77,7 @@ bottom: auto;
     height: 100%;
     box-sizing: border-box;
     overflow-y: scroll;
+		margin-top: 0.3em;
 }
 
 #autoToc li {

@@ -5,7 +5,6 @@
   <meta name="generator" content="pandoc">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
   <meta name="author" content="Jan Dittrich">
-  <meta name="dcterms.date" content="2014-01-01">
   <title>A Beginner’s Guide to Finding User Needs</title>
   <style type="text/css">code{white-space: pre;}</style>
   <!--[if lt IE 9]>
@@ -20,7 +19,7 @@
 <header>
 <h1 class="title">A Beginner’s Guide to Finding User Needs</h1>
 <h2 class="author">Jan Dittrich</h2>
-<h3 class="date">2014</h3>
+<h3 class="date">2014, 2015</h3>
 </header>
 <nav id="TOC">
 <ul>
@@ -168,7 +167,7 @@
 </ol>
 <p>In addition, students and teaching staff exchanged messages via mail; among students, email and Facebook® Messages were popular, too.</p>
 <p>Why did students and teaching staff alike use files and messages instead of the specialized learning solutions?</p>
-<p>All these methods we saw used skills the teaching staff and students already had: Creating files and exchanging them and writing messages So a major need was to get material to students and receive material from them with the least effort and the least demand for learning new skills. It was the same for the students: They needed to do their projects and homework as efficiently as possible and they relied on mail and services like Dropbox® to do project work together or to share old exam questions for practicing.</p>
+<p>All these methods we saw used skills the teaching staff and students already had: Creating files and exchanging them and writing messages. So a major need was to get material to students and receive material from them with the least effort and the least demand for learning new skills. It was the same for the students: They needed to do their projects and homework as efficiently as possible and they relied on mail and services like Dropbox® to do project work together or to share old exam questions for practicing.</p>
 <p>This led us to several ideas which guided the project in the following phases:</p>
 <ul>
 <li>Consider file up- and download as a core tool</li>
@@ -1527,6 +1526,8 @@ While I think I gained something out of it, these changes did not result in a ne
 <script src="libs/toc_jquery.js"></script>
 <script>
 $(function(){
+				
+
         $('<div id="autoToc"></div>').appendTo('body');
         $('#TOC').hide();
         $('#autoToc').toc({
@@ -1534,8 +1535,28 @@ $(function(){
              'highlightOffset': 10,
              'anchorName': function(i, heading, prefix) { //custom function for anchor name
         return prefix+i;},
-             
         });
+				
+	
+				//media query: hide tOC if window is small, show if it is wide
+				var widthChange = function(mq){
+					if (mq.matches) {
+						 $("#autoToc").removeClass("hidden")
+						 $("#wrapper").removeClass("tocHidden"); 
+					}
+					else {
+						$("#autoToc").addClass("hidden")
+						$("#wrapper").addClass("tocHidden");
+					}
+				}
+				
+				if(window.matchMedia){
+					var mq = window.matchMedia("(min-width:60em)");
+					mq.addListener(widthChange);
+					widthChange(mq);
+				}
+				//END: media query code
+
         
         $('<a class="toggle">hide TOC</a>').prependTo("#autoToc").click(function(){
             $("#autoToc").toggleClass("hidden");

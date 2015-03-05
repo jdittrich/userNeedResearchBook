@@ -1,6 +1,6 @@
 % A Beginner’s Guide to Finding User Needs
 % Jan Dittrich
-% 2014
+% 2014, 2015
 
 
 <!-- compile with  "pandoc --toc -B templates/includeBefore.pandoc -A templates/includeAfter.pandoc  -s -c styles/styles.css -c styles/print.css -c styles/autoToc.css text/allURBook.md -t html5 -o index.html" -->
@@ -82,7 +82,7 @@ Why did students and teaching staff alike use files and messages instead of
 the specialized learning solutions?
 
 All these methods we saw used skills the teaching staff and students already had: 
-Creating files and exchanging them and writing messages So a major need was 
+Creating files and exchanging them and writing messages. So a major need was 
 to get material to students and receive material from them with the least effort 
 and the least demand for learning new skills. It was the same for the students: They needed
 to do their projects and homework as efficiently as possible and they relied 
