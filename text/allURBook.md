@@ -18,6 +18,7 @@ Libraries used for this webpage have their own licenses and are *not* covered by
 * [lisacharlotterost](https://github.com/lisacharlotterost)
 
 
+
 # About this text
 
 This book is written for all those who want to design products according to the needs of people.
@@ -51,7 +52,7 @@ These are methods which allow us to explore the actual actions and the reasons b
  For design it is more useful to know the *needs* behind these wishes. Henry Ford allegedly 
  said »If I had asked people what they wanted, they would have said faster horses«.  Instead of 
  faster horses, Ford sold a product that satisfied an underlying motivation – getting quickly 
- from A to B – instead of the  specific wish.  
+ from A to B – instead of the  specific wish.
 
 ## Example for User Need Research: e-Learning
 
@@ -252,13 +253,13 @@ Reasons for the such unsatisfactory results could be:
 In all these cases you can involve more participants – but before you do involve more participants try to check if you…
 
 * …need to clarify your research topic (to focus your efforts) 
-*… need to specify the involved groups (to recruit the right participants)
+* … need to specify the involved groups (to recruit the right participants)
 
 # Prepare the research session
 
 ## What do you want to find out?  {#questiontopics}
 
-Before you collect the data, decide what you want to find out.
+Before you collect the data, you should specify what you want to find out.
 Let’s look at some topics that might be of interest exploring:
 
 I usually have three aspects I think of when I prepare my questions:
@@ -304,8 +305,7 @@ or *»You just used that ›align‹ function – before, you placed objects man
 </div>
 
 Questions about Motivations are usually about emotions and often their relation to activities as well.
-You can explore  these relations further in follow-up questions
-( »You said you hate talking with this client. What in particular makes it a bad experience for you?« )
+You can explore these relations further in follow-up questions – »You said you hate talking with this client. What in particular makes it a bad experience for you?«.
 
 ####  Problems
 
@@ -317,7 +317,7 @@ You can explore  these relations further in follow-up questions
 
 </div>
 
-Asking for problems provides some good starting points for designing (as you can try to avoid the problems with a better solution). 
+Asking for problems provides some good starting points for designing since you can try to avoid the problems with a better solution. 
 
 Problems are easily communicated and the need for a solution is often very clear. Thus they provide a good starting point when convincing others …
 
@@ -326,12 +326,11 @@ Problems are easily communicated and the need for a solution is often very clear
 
 However, only dealing with problems would lead to patching existing solutions. If you want to create new ways of approaching things, you need to connect problems to the underlying motivations by asking for the difficulties a problem causes.
 
-
 Naturally, the three general aspects of activities, motivations and problems are just giving you a starting point for developing your questions.
 Use them to create questions suitable for your own research.
 
 When you have started with gathering data you can further refine your questions.
-You will get new ideas or want to refine questions since you tried them and may notice shortcomings or opportunities.
+You will get new ideas or you may want to refine the aims of your reserach since may haved noticed shortcomings or opportunities.
 
 For example, in the research on graphic design I noticed that idea generation during work was important for the participants and an interesting topic to research.
 Thus, I added questions like »How do you generate new ideas?« or »How do you know if an idea you have works?«.
