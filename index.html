@@ -13,6 +13,7 @@
   <link rel="stylesheet" href="styles/styles.css">
   <link rel="stylesheet" href="styles/print.css">
   <link rel="stylesheet" href="styles/autoToc.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
 <div id="wrapper">
@@ -23,7 +24,9 @@
 </header>
 <nav id="TOC">
 <ul>
-<li><a href="#license">License</a></li>
+<li><a href="#license">License</a><ul>
+<li><a href="#contributers">Contributers</a></li>
+</ul></li>
 <li><a href="#about-this-text">About this text</a></li>
 <li><a href="#introduction">Introduction</a><ul>
 <li><a href="#why-should-i-use-the-methods-described-in-this-book">Why should I use the methods described in this book?</a></li>
@@ -138,12 +141,16 @@
 </ul></li>
 </ul>
 </nav>
-<!-- compile with  "pandoc --toc -B templates/includeBefore.pandoc -A templates/includeAfter.pandoc  -s -c styles/styles.css -c styles/print.css -c styles/autoToc.css text/allURBook.md -t html5 -o index.html" -->
+<!-- compile with  "pandoc --toc -H templates/includeHeader.pandoc -B templates/includeBefore.pandoc -A templates/includeAfter.pandoc  -s -c styles/styles.css -c styles/print.css -c styles/autoToc.css text/allURBook.md -t html5 -o index.html" -->
 
 <h1 id="license"><a href="#license">License</a></h1>
 <p>Text and images are under the following License (if not stated otherwise)</p>
 <p><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">A Beginner’s Guide to Finding User Needs</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://jdittrich.github.io/userNeedResearchBook/" property="cc:attributionName" rel="cc:attributionURL">Jan Dittrich</a> licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</p>
 <p>Libraries used for this webpage have their own licenses and are <em>not</em> covered by the Creative Commons license above.</p>
+<h2 id="contributers"><a href="#contributers">Contributers</a></h2>
+<ul>
+<li><a href="https://github.com/lisacharlotterost">lisacharlotterost</a></li>
+</ul>
 <h1 id="about-this-text"><a href="#about-this-text">About this text</a></h1>
 <p>This book is written for all those who want to design products according to the needs of people. This text teaches you how to find potential users and how to find out about their activities, motivations and problems. I demonstrate how to analyze the gathered data in a way that makes it usable and useful for your design process.</p>
 <p>To have knowledge about the »how« and »why« of the user’s work allows you to create innovative products that meet the users’ needs. As well, you can utilize this knowledge to improve existing products.</p>
@@ -236,24 +243,25 @@
 <p>When you reach out to communities for recruiting be sure to comply to the rules of the organizations or social groups involved. It does not help your research if the community you target gets upset with you for violating their privacy and customs. If you are unsure, just ask. These people you ask, lets say a clergyman or a meetup organizer may even be able to set you up with people who can help you. Once you started your research you can ask participants if they know other people who match your ideas of possible participants. It is likely that they know some other people who work in the same job or have similar hobbies. (In the literature this is also called »Snowball sampling«)</p>
 <h2 id="how-many-participants-do-i-need"><a href="#how-many-participants-do-i-need">How many participants do I need?</a></h2>
 <p>When estimating how many participants you need, consider how many resources (time and/or money) you can spend on doing the research. Each additional participant gives you additional data and a broader view on your possible users. However, each research session needs time do and adds to the amount of data to be analyzed – so plan accordingly.</p>
-<p>You may think that more is better and that you just could shorten each session, ask fewer questions and skip observing the participants. However, if you want to find out about the »how« and »why« of the participants’ work we need time, and several sessions in hurry will lead to less useful results than research with one participant done right. Nevertheless, only doing research on very few users will restrict the variance of data – like noticing that there may be several ways to do the same thing. As well you might not see which patterns are consistent among several people and which vary – which would certainly be impossible if you only had one participant.</p>
-<p>There, are no clear cut rules of how many participants are enough. However, most of my projects have between 3 and 8 participants. If I really need to be sure that what I notice is consistent I'd do research with 10, but that is about the limit I can manage on my own.</p>
-<p>An efficient way of involving the »right« amount of participants is doing your research iteratively: start with three or four participants and begin with the analysis as soon as possible. Steps like writing your comments to the data or even starting to create possible grouping is possible after having the data of at least two participants.</p>
-<p>Take a look at the first (preliminary) findings: Are the patterns repeating themselves and are they consistent between participants and situations? Or do they vary widely? If they are consistent, you may do research with few additional participants to refine and check and to explore details – or, if time is up, leave it the way it is.</p>
-<p>If preliminary findings vary and it is hard to see any patterns you may need to involve more participants.</p>
-<p>Reasons for the lack of patterns in the data can be:</p>
+<p>You may think that more is better and that you just could shorten each session, ask fewer questions and skip observing the participants. But you need time if you want to find out about the »how« and »why« of the participants’ work . Several sessions in hurry will lead to less useful results than research with one participant done right. Nevertheless, only doing research on very few users will restrict the variance of data – like noticing that there may be several ways to do the same thing. As well you might not see which patterns are consistent among several people and which vary – which would certainly be impossible if you only had one participant.</p>
+<p>There are no clear cut rules of how many participants are enough. However, most of my projects have between 3 and 8 participants. If I really need to be sure that what I notice is consistent I'd do research with 10, but that is about the limit I can manage on my own.</p>
+<p>An efficient way of involving the »right« amount of participants is doing your research iteratively: start with three or four participants and analyse the data (how this is done is descibed in the section on <a href="#Analysis">Analysing Data</a>)</p>
+<p>Take a look at the (preliminary) findings: If the results seem clear and consistent, you may do research with few additional participants to refine and check and to explore details – or, if time is up, leave it the way it is.</p>
+<p>If preliminary findings are unclear or contradictory, you may need to involve more participants.</p>
+<p>Reasons for the such unsatisfactory results could be:</p>
 <ul>
 <li>Your research encompasses different groups of people with different needs – For example the groups students and professors share some traits, but many characteristics will vary.</li>
 <li>The topic of your research is too broad – for example, »How do people do design« is very broad, »How do interface designers involve specifications of user research and engineers in their designs« is more specific.</li>
 <li>Even if your research is focused and there is only one group of people involved, the actual patterns just vary.</li>
 </ul>
-<p>In all these cases you can involve more participants. Before you do involve more participants try to check if you…</p>
+<p>In all these cases you can involve more participants – but before you do involve more participants try to check if you…</p>
 <ul>
-<li>…need to clarify your research topic (to focus your efforts) *… need to specify the involved groups (to recruit the right participants)</li>
+<li>…need to clarify your research topic (to focus your efforts)</li>
+<li>… need to specify the involved groups (to recruit the right participants)</li>
 </ul>
 <h1 id="prepare-the-research-session"><a href="#prepare-the-research-session">Prepare the research session</a></h1>
 <h2 id="questiontopics"><a href="#questiontopics">What do you want to find out?</a></h2>
-<p>Before you collect the data, decide what you want to find out. Let’s look at some topics that might be of interest exploring:</p>
+<p>Before you collect the data, you should specify what you want to find out. Let’s look at some topics that might be of interest exploring:</p>
 <p>I usually have three aspects I think of when I prepare my questions:</p>
 <ol type="1">
 <li>Activities, things the user does</li>
@@ -286,7 +294,7 @@
 <li>Can you show me a piece of work you are proud of?</li>
 </ul>
 </div>
-<p>Questions about Motivations are usually about emotions and often their relation to activities as well. You can explore these relations further in follow-up questions ( »You said you hate talking with this client. What in particular makes it a bad experience for you?« )</p>
+<p>Questions about Motivations are usually about emotions and often their relation to activities as well. You can explore these relations further in follow-up questions – »You said you hate talking with this client. What in particular makes it a bad experience for you?«.</p>
 <h4 id="problems"><a href="#problems">Problems</a></h4>
 <div class="example">
 <ul>
@@ -295,7 +303,7 @@
 <li>What will happen if you can’t solve this problem?</li>
 </ul>
 </div>
-<p>Asking for problems provides some good starting points for designing (as you can try to avoid the problems with a better solution).</p>
+<p>Asking for problems provides some good starting points for designing since you can try to avoid the problems with a better solution.</p>
 <p>Problems are easily communicated and the need for a solution is often very clear. Thus they provide a good starting point when convincing others …</p>
 <ul>
 <li>…that changes to a product/concept need to be made</li>
@@ -303,7 +311,7 @@
 </ul>
 <p>However, only dealing with problems would lead to patching existing solutions. If you want to create new ways of approaching things, you need to connect problems to the underlying motivations by asking for the difficulties a problem causes.</p>
 <p>Naturally, the three general aspects of activities, motivations and problems are just giving you a starting point for developing your questions. Use them to create questions suitable for your own research.</p>
-<p>When you have started with gathering data you can further refine your questions. You will get new ideas or want to refine questions since you tried them and may notice shortcomings or opportunities.</p>
+<p>When you have started with gathering data you can further refine your questions. You will get new ideas or you may want to refine the aims of your reserach since may haved noticed shortcomings or opportunities.</p>
 <p>For example, in the research on graphic design I noticed that idea generation during work was important for the participants and an interesting topic to research. Thus, I added questions like »How do you generate new ideas?« or »How do you know if an idea you have works?«.</p>
 <p>Note that I did not ask directly »Do you generate ideas while implementing designs?«. This would be a question that urges to be answered with »yes« or »no«. Such short answers do not yield the context we need, the reasons for actions and the course of events to know not only how work is done but why it is done.</p>
 <p>In later sections we will have a further look at the do's and dont’s of questions.</p>
@@ -801,7 +809,7 @@ Memory fades quickly
 <p>For the photo above you might add the following line to your notes: »participant displays different font combinations in the layout application to see if the fonts go well together (see <em>U2-14-9-14_1.jpg</em> )«</p>
 </div>
 <h3 id="audio-1"><a href="#audio-1">Audio</a></h3>
-<p>After the research session I listen to the recording. Usually I have the audio as a .mp3 and the notes as a typed out plaintext or wordprocessor document (see: <a href="#transcribeNotes">Transcribe Notes</a>, so I can open audio and transcript in parallel on my computer. When the audio contains information which is not in the document or if it supplements information that is already there, I pause the playback and write the additional information in the document. So the process is very similar to supplementing your notes from memory.</p>
+<p>After the research session I listen to the recording. Usually I have the audio as a .mp3 and the notes as a typed out plaintext or wordprocessor document (see: <a href="#transcribeNotes">Transcribe Notes</a>), so I can open audio and transcript in parallel on my computer. When the audio contains information which is not in the document or if it supplements information that is already there, I pause the playback and write the additional information in the document. So the process is very similar to supplementing your notes from memory.</p>
 <div class="example">
 <p>Audio recording: »…hmm I send it to my boss. She will check it. Now I go to that other document, and see…«</p>
 <p>The notes say: »Send document via mail«</p>
@@ -1539,8 +1547,8 @@ $(function(){
 				
 	
 				//media query: hide tOC if window is small, show if it is wide
-				var widthChange = function(mq){
-					if (mq.matches) {
+				var widthChange = function(mediaQuery){
+					if (mediaQuery.matches) {
 						 $("#autoToc").removeClass("hidden")
 						 $("#wrapper").removeClass("tocHidden"); 
 					}
@@ -1551,9 +1559,9 @@ $(function(){
 				}
 				
 				if(window.matchMedia){
-					var mq = window.matchMedia("(min-width:60em)");
-					mq.addListener(widthChange);
-					widthChange(mq);
+					var mediaQuery = window.matchMedia("(min-width:60em)");
+					mediaQuery.addListener(widthChange);
+					widthChange(mediaQuery);
 				}
 				//END: media query code
 
