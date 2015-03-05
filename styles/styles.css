@@ -15,6 +15,10 @@ max-width:40em;
 color:rgb(10, 10, 10);
 }
 
+#wrapper h1,h2,h3,h4, p, figure, img{
+	max-width:100%;
+}
+
 a {outline:none !important; font-weight:normal; text-decoration:underline;}
 a:link {color:#51739a;}
 a:visited {color:#606;}
