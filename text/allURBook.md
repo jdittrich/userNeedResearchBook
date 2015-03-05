@@ -3,7 +3,7 @@
 % 2014, 2015
 
 
-<!-- compile with  "pandoc --toc -B templates/includeBefore.pandoc -A templates/includeAfter.pandoc  -s -c styles/styles.css -c styles/print.css -c styles/autoToc.css text/allURBook.md -t html5 -o index.html" -->
+<!-- compile with  "pandoc --toc -H templates/includeHeader.pandoc -B templates/includeBefore.pandoc -A templates/includeAfter.pandoc  -s -c styles/styles.css -c styles/print.css -c styles/autoToc.css text/allURBook.md -t html5 -o index.html" -->
 
 # License
 
@@ -13,6 +13,9 @@ Text and images are under the following License (if not stated otherwise)
  
 Libraries used for this webpage have their own licenses and are *not* covered by the Creative Commons license above. 
 
+##Contributers
+
+* [lisacharlotterost](https://github.com/lisacharlotterost)
 
 
 # About this text
@@ -226,27 +229,27 @@ Each additional participant gives you additional data and a broader view on your
 However, each research session needs time do and adds to the amount of data to be analyzed – so plan accordingly.
 
 You may think that more is better and that you just could shorten each session, ask fewer questions and skip observing the participants.
-However, if you want to find out about the »how« and »why« of the participants’ work we need time, and several sessions in hurry will lead to less useful results than research with one participant done right.
+But you need time if you want to find out about the »how« and »why« of the participants’ work . Several sessions in hurry will lead to less useful results than research with one participant done right.
 Nevertheless, only doing research on very few users will restrict the variance of data – like noticing that there may be several ways to do the same thing.
 As well you might not see which patterns are consistent among several people and which vary – which would certainly be impossible if you only had one participant.
 
-There, are no clear cut rules of how many participants are enough.
+There are no clear cut rules of how many participants are enough.
 However, most of my projects have between 3 and 8 participants.
 If I really need to be sure that what I notice is consistent I'd do research with 10, but that is about the limit I can manage on my own.
 
-An efficient way of involving the »right« amount of participants is doing your research iteratively: start with three or four participants and begin with the analysis as soon as possible. Steps like writing your comments to the data or even starting to create possible grouping is possible after having the data of at least two participants.
+An efficient way of involving the »right« amount of participants is doing your research iteratively: start with three or four participants and analyse the data (how this is done is descibed in the section on [Analysing Data](#Analysis))
 
-Take a look at the first (preliminary) findings: Are the patterns repeating themselves and are they consistent between participants and situations? Or do they vary widely? If they are consistent, you may do research with few additional participants to refine and check and to explore details – or, if time is up, leave it the way it is.
+Take a look at the (preliminary) findings: If the results seem clear and consistent, you may do research with few additional participants to refine and check and to explore details – or, if time is up, leave it the way it is.
 
-If preliminary findings vary and it is hard to see any patterns you may need to involve more participants. 
+If preliminary findings are unclear or contradictory, you may need to involve more participants. 
 
-Reasons for the lack of patterns in the data can be: 
+Reasons for the such unsatisfactory results could be: 
 
 * Your research encompasses different groups of people with different needs – For example the groups students and professors share some traits, but many characteristics will vary.
 * The topic of your research is too broad – for example, »How do people do design« is very broad, »How do interface designers involve specifications of user research and engineers in their designs« is more specific.
 * Even if your research is focused and there is only one group of people involved, the actual patterns just vary. 
 
-In all these cases you can involve more participants. Before you do involve more participants try to check if you…
+In all these cases you can involve more participants – but before you do involve more participants try to check if you…
 
 * …need to clarify your research topic (to focus your efforts) 
 *… need to specify the involved groups (to recruit the right participants)
@@ -1618,7 +1621,7 @@ the fonts go well together (see *U2-14-9-14_1.jpg* )«
 ###Audio
 
 After the research session I listen to the recording. Usually I have the audio as a .mp3 
-and the notes as a typed out plaintext or wordprocessor document (see: [Transcribe Notes](#transcribeNotes), so I can open audio and transcript in parallel on my computer. 
+and the notes as a typed out plaintext or wordprocessor document (see: [Transcribe Notes](#transcribeNotes)), so I can open audio and transcript in parallel on my computer. 
 When the audio contains information which is not in the document or if it 
 supplements information that is already there, I pause the playback and write the 
 additional information in the document. So the process is very similar to supplementing 
