@@ -20,7 +20,7 @@ Libraries used for this webpage have their own licenses and are *not* covered by
 
 # About this text
 
-This book is written for all those who want to design products according to the needs of people.
+This book is written for all those who want to design products, applications or webservices according to the needs of people.
 This text teaches you how to find potential users and how to find out about their activities, motivations and problems.
 I demonstrate how to analyze the gathered data in a way that makes it usable and useful for your design process.
 
@@ -395,35 +395,28 @@ will need some equipment for doing that:
  
 # Data Gathering  
 
-In this chapter we will learn how to gather data to get to know about
-the activities, motivations and problems of our research participants.
+In this chapter we will learn how to gather data to get to know about the activities, motivations and problems of our research participants.
+We will gather informations by listening to descriptions and explanations of our participants and by observing them working.  The resulting data will be text and images.
 
-Contrary to a common misconception of user need research, our inquiry
-will not be (directly) about future ideas and design – we are will not 
-ask »do you think that a \[gadget\] would help you?«.  
+Contrary to a common misconception of user need research, our inquiry will not be (directly) about future ideas and design – we are will not ask »do you think that a \[gadget\] 
+would help you?«. It  is very hard to reliably guess if something would be a great thing to have in the future and the answer 
+would tell you not much about the actual activities, motivations or problems of the participant.  Instead of dealing with ideas directly we will find out about the how and why of our participant’s activities and thus set a reliable
+ foundation for our designs. 
 
-Yes, you *could* ask whether a particular thing would be a great to 
-have in the future. But then you   would have to ask again for the next idea you have. 
-Furthermore, it is very hard to reliably guess if something would be a great thing to
-have in the future. Instead of dealing with ideas directly we will find
-out about the how and why of our participant’s activities and thus set 
-a reliable foundation for our designs.
-
-Think of your participants as competent in what they do: they are experts in their fields and in their daily work.
-
-Emphasizing the expertise of the participants is contrary to the idea of designers and programmers as people who improve the lives of those who »don’t get it«. Instead of this, we assume that the participants of our research have a reason of doing their work the way they do it. We try to find out these reasons behind their activities.
-
-Getting to know the »how« and »why« of the users actions will allow us to
-evaluate our ideas (does it match their ideas of good work?) and to get
-inspiration for new ideas (how can we support this motivation?)
-
+We see our participants as competent in what they do: they are experts in their fields and in their daily work.
+Emphasizing the expertise of the participants is contrary to the idea of designers and programmers as people who improve the lives of those 
+who »don’t get it«. 
+Instead of this, we assume that the participants of our research have a reason of doing their work the way they do it.
+ We try to find out these reasons behind their activities.
+Getting to know the »how« and »why« of the users actions will allow us to evaluate our ideas (does it match their ideas of good work?) and 
+to get inspiration for new ideas (how can we support this motivation?)
 
 ## Inform and get Consent
 
 When you have found a participant, a place, a time and have your equipment ready
 we can start with the actual research session. 
 
-It is pretty straight forward: be friendly. If you come to
+My  advice is  simple: be friendly. If you come to
 their place (which is preferable, since you can observe the actual
 context) be a nice guest; if they come to your place or you meet in some
 »neutral space«, be a nice host.
@@ -1558,7 +1551,7 @@ enable you to preserve information in the most situations. However, for
 complicated descriptions of workflows or if you just loose track by
 accident, it might be useful to have a backup by using audio recording.
 
-## transcribe notes {#transcribeNotes}
+## Transcribe Notes {#TranscribeNotes}
 When I added my supplements to the notes and sketches I usually type them in a 
 wordprocessor document. In addition, I scan my notes, so I can easily cut and paste my
 sketches into the document.
