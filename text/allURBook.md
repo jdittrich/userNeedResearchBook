@@ -396,18 +396,20 @@ will need some equipment for doing that:
 # Data Gathering  
 
 In this chapter we will learn how to gather data to get to know about the activities, motivations and problems of our research participants.
-We will gather informations by listening to descriptions and explanations of our participants and by observing them working.  The resulting data will be text and images.
+We will gather informations by listening to descriptions and explanations of our participants and by observing them working.
+The resulting data will be text and images.
 
-Contrary to a common misconception of user need research, our inquiry will not be (directly) about future ideas and design – we are will not ask »do you think that a \[gadget\] 
-would help you?«. It  is very hard to reliably guess if something would be a great thing to have in the future and the answer 
-would tell you not much about the actual activities, motivations or problems of the participant.  Instead of dealing with ideas directly we will find out about the how and why of our participant’s activities and thus set a reliable
- foundation for our designs. 
+Contrary to a common misconception of user need research, our inquiry will not be (directly) about future ideas and design – 
+we are will not ask »do you think that a \[gadget\] would help you?«. It  is very hard to reliably guess if something would be a 
+great thing to have in the future and the answer would tell you not much about the actual activities, motivations or problems 
+of the participant. Instead of dealing with ideas directly we will find out about the how and why of our participant’s activities 
+and thus set a reliable foundation for our designs. 
 
 We see our participants as competent in what they do: they are experts in their fields and in their daily work.
 Emphasizing the expertise of the participants is contrary to the idea of designers and programmers as people who improve the lives of those 
 who »don’t get it«. 
 Instead of this, we assume that the participants of our research have a reason of doing their work the way they do it.
- We try to find out these reasons behind their activities.
+We try to find out these reasons behind their activities.
 Getting to know the »how« and »why« of the users actions will allow us to evaluate our ideas (does it match their ideas of good work?) and 
 to get inspiration for new ideas (how can we support this motivation?)
 
@@ -416,7 +418,7 @@ to get inspiration for new ideas (how can we support this motivation?)
 When you have found a participant, a place, a time and have your equipment ready
 we can start with the actual research session. 
 
-My  advice is  simple: be friendly. If you come to
+My  advice is  simple: Be friendly. If you come to
 their place (which is preferable, since you can observe the actual
 context) be a nice guest; if they come to your place or you meet in some
 »neutral space«, be a nice host.
@@ -552,7 +554,8 @@ tool. It can be done without many resources. You are not tied to a specific plac
 you can talk about past events as well as future plans. 
 
 But because of this it can happen that you hardly focus on actual occurrences and
-experiences. Observations are thus a good supplement to asking questions and listening, since observations are naturally concernd with actual actions you can see happening at the very moment.
+experiences. Observations are thus a good supplement to asking questions and listening, since 
+observations are naturally concerned with actual actions you can see happening at the very moment.
 
 ### Observation  
 
@@ -627,7 +630,8 @@ choosing the fonts«
 
 Avoid positioning yourself as the expert in the participant’s domain by suggesting
  procedures and by telling the participant  how and why something should be done. 
-If the participant would just look up to you and your concept of how work should be done we would not get to know anything.
+If the participant would just look up to you and your concept of how work should be
+ done we would not get to know anything.
 
 
 ![observing the user’s work](images/ObservationDesign1.jpg)
@@ -1199,7 +1203,9 @@ intrusive:
 
  <div class="example">
  
- »…so this was a design made by some artist. It was really wired, I shared the office with him for some time. He always came with that dog of him which…« »Hmm…you previously talked about creating a cover for the book – you said that you try several designs. Can you describe how you try them?«
+ »…so this was a design made by some artist. It was really wired, I shared the office with him for some time. 
+ He always came with that dog of him which…« »Hmm…you previously talked about creating a cover for the book – 
+ you said that you try several designs. Can you describe how you try them?«
 
 </div>
 
@@ -1255,9 +1261,11 @@ It may seem great – after all, a general process which you can apply to
 just about anything is a finding we seem want! But actually these *»in
 general«* descriptions pose some problems: Since they are general and thus abstract 
 they lack a rich context and stand rather disconnected to other 
-activities or motivations. A general principle is independent of  
+activities or motivations. A general principle is independent of 
 such »minor« day to day things. But these seemingly trivial informations about the 
-context of activities  give us the insights we need to find out why and how the participant is doing something in the real, particular situation. Such »general« procedures may as well be heavily idealized and rarely applied in the way they are described.
+context of activities  give us the insights we need to find out why and how the participant is 
+doing something in the real, particular situation. Such »general« procedures may as well 
+be heavily idealized and rarely applied in the way they are described.
 
 A way to get  real-world, rich data is to ask for an example. Thus, you 
 don’t blatantly reject the »general« answer but you convey that you are interested and
@@ -1316,7 +1324,8 @@ sufficiently by asking questions and observing it may be time to wrap up the res
 
 I made the experience that after 30 minutes I covered the general questions. 
 However, getting to know complex workflows takes longer. Same goes for getting deeper insights
-into (work) culture. As well, using observations will need some time too. So if you go beyond a simple interview you should plan 1-2h for one research session. 
+into (work) culture. As well, using observations will need some time too. So if you go beyond a simple 
+interview you should plan 1-2h for one research session. 
 
 Don’t let this estimations fence you in: You will develop some
 intuition for the flow of the research session and how long it should take. 
@@ -1379,7 +1388,8 @@ at the paper except for some occasional glances. In case you find something very
 and fear forgetting it, you can ask the participant to repeat the utterance – but keep this to
 a minimum.
 
-If you can, try to provide some context in your notes. If a note has some own context information attached to it, it can be understood on its own, too. 
+If you can, try to provide some context in your notes. If a note has some own context information attached to it, 
+it can be understood on its own, too. 
 
  <div class="example">
  
@@ -1421,7 +1431,8 @@ The only setting that I use beyond that is the exposure compensation
 in case an important part of the image totally dark or disappears in light. 
 Exposure compensation allows adjusting for that.
 
-Avoid complicated set-ups or even arranging the participant and his/her tools. Arranging the participant and his/her tools would change the data you record.
+Avoid complicated set-ups or even arranging the participant and his/her tools. Arranging the participant and his/her 
+tools would change the data you record.
 
 ![photographing the working user](images/NutzerFotografieren.jpg)
 
@@ -1431,9 +1442,11 @@ Avoid complicated set-ups or even arranging the participant and his/her tools. A
 The Observations you make are, by nature, visual and concerned with processes. 
 Make sketches or even little storyboards to capture what you see. 
  
-It is very useful that you can choose what to draw: highlight what is important, leave out what is irrelevant and make annotations to ease understanding the sketches later.
+It is very useful that you can choose what to draw: highlight what is important, leave out what is 
+irrelevant and make annotations to ease understanding the sketches later.
 
-I mostly use my sketches the same way I use notes: Notes and sketches are made on a common sheet of paper; one sketched observation goes in one line, if possible
+I mostly use my sketches the same way I use notes: Notes and sketches are made on a common 
+sheet of paper; one sketched observation goes in one line, if possible
 
 ![Sketches on the note sheet](images/sketchesInNotes.png)
 
@@ -1502,7 +1515,8 @@ memory:
 </div>
 
 
-When revising your sketches, redraw the lines if the sketch is ambiguous otherwise and add annotations if you think that they might ease interpreting the sketch later on.
+When revising your sketches, redraw the lines if the sketch is ambiguous otherwise and add annotations if you 
+think that they might ease interpreting the sketch later on.
 
 Think of your future self: Some notes may make perfect sense to you now
 but since memory fades, they will seem cryptic later. So supplement and
@@ -1512,7 +1526,8 @@ memories of the experience have faded.
  <div class="example">
 
 I have line *»Big changes«* in my
-Notes. I remember that I made this note when the participant told me that her colleagues make bigger changes between to two versions of their designs than she does. 
+Notes. I remember that I made this note when the participant told me that her colleagues make bigger 
+changes between to two versions of their designs than she does. 
 I added this information to the notes, since it provided a way to understand what the »big changes«
 actually refer to. 
 
@@ -1543,7 +1558,8 @@ step of the process.
 Using different colors is useful for another type of supplement:
 Ideas or remarks in connection to your notes. When I go
 through the notes I often have some ideas for a design or a question
-which I would like to further explore in a future interview.  I write them down in a third color or I prefix the note with *»IDEA:«* or *»QUESTION«* in order to prevent myself of mixing ideas 
+which I would like to further explore in a future interview.  I write them down in a third color or 
+I prefix the note with *»IDEA:«* or *»QUESTION«* in order to prevent myself of mixing ideas 
 with empirical data. 
 
 Writing notes, drawing sketches and supplementing them hereafter will
@@ -1576,7 +1592,8 @@ know why are objects are duplicated and for which purpose is the space is made.
 **Too many statements in one line (means as well: too long):**
 
 - Duplicating pages to save old ideas is common. Later she goes back to the duplicates and looks at them when she needs inspiration 
-- Tries to have enough space for the margins to write my comments in the margins; to do so she shrinks the main text area. I could as well try to make space down here, and use footnotes for the comments. 
+- Tries to have enough space for the margins to write my comments in the margins; to do so she shrinks the 
+main text area. I could as well try to make space down here, and use footnotes for the comments. 
 
 **Reasonable (each line can stand on its own and does not to cover multiple issues at once)**
  
@@ -1586,7 +1603,8 @@ know why are objects are duplicated and for which purpose is the space is made.
 
 </div>
 
-The notes from the research session and later added supplements from my memory are treated alike in my documents since they are all data I gathered by listening or observing
+The notes from the research session and later added supplements from my memory are treated alike 
+in my documents since they are all data I gathered by listening or observing
 the participant. But I take care that later added design ideas and research questions 
 are still easily distinguishable from the actual data that I gathered in the research session.
 
@@ -1597,7 +1615,8 @@ are still easily distinguishable from the actual data that I gathered in the res
 Since my sketches are usually on the same sheet of paper as my notes, I review my sketches 
 when I am transcribing the notes. 
 
-If it makes sense I summarize the information of the sketch in a line or two (since it is easier to work with text than with images). Otherwise, I paste the sketch from a scan into the document with the transcript. 
+If it makes sense I summarize the information of the sketch in a line or two (since it is easier to work with text than with images). 
+Otherwise, I paste the sketch from a scan into the document with the transcript. 
 
 ###Photos
 
@@ -1637,7 +1656,8 @@ So I add the information about the cause of sending the mail:
 
 </div>
 
-If you need to save time, go through your notes and see where they lack information. Then just jump to the parts of the audio that might complement these sections.
+If you need to save time, go through your notes and see where they lack information. Then just jump 
+to the parts of the audio that might complement these sections.
 
 \
 \
@@ -1657,7 +1677,8 @@ from one research session or participant are grouped together. This is a format 
 hard to use for designing. At best we could pick out single data pieces and tell which
 participant said it. 
 
-What would be more useful if we would organize the data by needs of users and their problems.  To do this we take the data – which is currently organized by participants – and cluster the data by meaningful themes. 
+What would be more useful if we would organize the data by needs of users and their problems. 
+To do this we take the data – which is currently organized by participants – and cluster the data by meaningful themes. 
 
 ![Analysis for creating themes independent from particular participants](images/aggregationAnalysis.svg)
 
@@ -1737,7 +1758,9 @@ When we come across a piece of data which shares the topic we can add it to the 
 
 I already talked about grouping data by shared themes. The question is: What is a meaningful theme?
 
-One method to group data and to derive a theme would be going through the data and see which utterances and observations mention the same thing or the same assessment. Thus, all notes mentioning »color« would belong to one theme and get the headline »Color«; all notes mentioning »good«  belong to one theme and get the headline »good things«.  
+One method to group data and to derive a theme would be going through the data and see which utterances 
+and observations mention the same thing or the same assessment. Thus, all notes mentioning »color« would 
+belong to one theme and get the headline »Color«; all notes mentioning »good«  belong to one theme and get the headline »good things«.  
 
 <div class="example">
 
@@ -1759,11 +1782,17 @@ If we put the pieces of data which mention the same things in the same group we 
 
 </div>
 
-Organizing the data by this »same things mentioned«-method would help us  find data concerned with a specific thing or assessment: If we want see everything that concerned furniture we can go through the data in the »furniture« group; If we would like to know what people liked we could look it up in a group titled »good«.
+Organizing the data by this »same things mentioned«-method would help us  find data concerned 
+with a specific thing or assessment: If we want see everything that concerned furniture we can go through 
+the data in the »furniture« group; If we would like to know what people liked we could look it up in a group titled »good«.
 
-However, the themes have no meaning on its own when organizing using the »same things mentioned«-method. Additionally if it was already clear before the research that furniture was connected to DIY work, then summarising to say "there is furniture" doesn't tell us anything new. Therefore, you still need to go through the data points to find out what people did with their furniture and what they think of as »good«. The themes are just labels for the content. 
+However, the themes have no meaning on its own when organizing using the »same things mentioned«-method. 
+Additionally if it was already clear before the research that furniture was connected to DIY work, then summarizing 
+to say "there is furniture" doesn't tell us anything new. Therefore, you still need to go through the data points to find 
+out what people did with their furniture and what they think of as »good«. The themes are just labels for the content. 
 
-Imagine we would not create the themes by looking for same things being mentioned but by the insights we drew from the data in the group by focusing on the meaning of activities, problems and goals for the participants. 
+Imagine we would not create the themes by looking for same things being mentioned but by the insights we 
+drew from the data in the group by focusing on the meaning of activities, problems and goals for the participants. 
 
  If we take the data about DIY again this could look like this:
 
@@ -1788,9 +1817,15 @@ designs and customizations. The insight that sometimes DIY is just about fixing 
 lead to the provision of a wiki for collecting best practices for doing common repairs and
 maintenance. 
 
-If you have a new idea you can ask yourself »Does this idea follow what is stated in the group titles? Does it violate it them?«. You may ask yourself »With which design could I realize this principle?«. Since the insights are based on our data, they will express the actual needs of your users and not some (potentially stereotypical) assumptions.
+If you have a new idea you can ask yourself »Does this idea follow what is stated in the group titles? 
+Does it violate it them?«. You may ask yourself »With which design could I realize this principle?«. Since the 
+insights are based on our data, they will express the actual needs of your users and not some 
+(potentially stereotypical) assumptions.
 
-Grouping your data based on insights about your participants provides great benefits. But it can be hard and may be not possible for all your data. Creating groups using the same-things-mentioned methods is still a useful method and these groups may still evolve. Usually I have  some »same-things-mentioned«-groups in the beginning and far fewer at the end – but  my analysis will be a mixture of both styles.
+Grouping your data based on insights about your participants provides great benefits. But it can be hard and 
+may be not possible for all your data. Creating groups using the same-things-mentioned methods is still a useful 
+method and these groups may still evolve. Usually I have  some »same-things-mentioned«-groups in the beginning 
+and far fewer at the end – but  my analysis will be a mixture of both styles.
 
 
 <div class="example">
@@ -1944,9 +1979,11 @@ interpreting it.
 
 ## Digital or analog analyis?
 
-If you analyze your data using paper notes, your titles will be written on a sticky note of a specific color (choose one, but stick with it). If you use a word processor, use a headline for the groups titles.
+If you analyze your data using paper notes, your titles will be written on a sticky note of a specific color (choose one, 
+but stick with it). If you use a word processor, use a headline for the groups titles.
 
-After annotating your data you should take the decision in which media you want to conduct your analysis: Digital in a word processor, where lines hold the basic units of data, or analog on paper, where sticky notes are your means of dealing with the data.
+After annotating your data you should take the decision in which media you want to conduct your analysis: 
+Digital in a word processor, where lines hold the basic units of data, or analog on paper, where sticky notes are your means of dealing with the data.
 
 The analysis methods described here can be used in both media. Nevertheless, each way has different strengths.
 
@@ -2013,7 +2050,9 @@ For working analog I recommend the following steps to get analysis-ready:
 **Creating groups**: during analysis you will stick your printed notes on the widths of paper using removable tape, crepe tape or spray glue – something sticky but non-permanent, so you can move the notes around in order to gradually improve the structure.
 \
 
-**Group titles/Themes**: Write your group titles on notes of determined colors, which are different from the color of the actual data points. If you print your data points on white paper you can use yellow sticky notes for group titles and pink ones for titles of a group of groups. 
+**Group titles/Themes**: Write your group titles on notes of determined colors, which are different from the color 
+of the actual data points. If you print your data points on white paper you can use yellow sticky notes for group titles and 
+pink ones for titles of a group of groups. 
 
 ## Develop a first Structure  {#firstStructure}
 
@@ -2310,7 +2349,8 @@ important to create sound and helpful principles based on the data –
 instead of just  putting everything under a label. 
 
 It is possible that you can state an insight more clearly but as a result, the  clearer title 
-may no longer encompass all data in the group. In this case, go for clarity of the groups title, even if it means that the theme does not encompass all the data currently subsumed in the group. 
+may no longer encompass all data in the group. In this case, go for clarity of the groups title, 
+even if it means that the theme does not encompass all the data currently subsumed in the group. 
 
 Take out the data that does not fit the improved title and see if it might
 fit better to another group. If not, place it in a »not yet grouped« or
