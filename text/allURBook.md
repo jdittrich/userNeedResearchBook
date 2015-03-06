@@ -1,6 +1,6 @@
-% A Beginner’s Guide to Finding User Needs
+% A Beg­­­­­­­inner’s Guide to Finding User Needs
 % Jan Dittrich
-% 2014, 2015
+% 2014, 2015­
 
 
 <!-- compile with  "pandoc --toc -H templates/includeHeader.pandoc -B templates/includeBefore.pandoc -A templates/includeAfter.pandoc  -s -c styles/styles.css -c styles/print.css -c styles/autoToc.css text/allURBook.md -t html5 -o index.html" -->
@@ -16,7 +16,6 @@ Libraries used for this webpage have their own licenses and are *not* covered by
 ##Contributers
 
 * [lisacharlotterost](https://github.com/lisacharlotterost)
-
 
 
 # About this text
@@ -259,7 +258,7 @@ In all these cases you can involve more participants – but before you do invol
 
 ## What do you want to find out?  {#questiontopics}
 
-Before you collect the data, you should specify what you want to find out.
+Before you collect the data, you should specify what you want to find out. Based on that you can gather questions you want to ask.
 Let’s look at some topics that might be of interest exploring:
 
 I usually have three aspects I think of when I prepare my questions:
@@ -341,7 +340,6 @@ Such short answers do not yield the context we need, the reasons for actions and
 
 In later sections we will have a further look at the do's and dont’s of questions.
 
-
 ## Write a cheat sheet  
 
 You should ensure that questions you prepare are still on your mind when
@@ -366,6 +364,14 @@ happens to emerge in the research session.
 In this case you can help yourself along with some reminders on the sheet, like
 »Activities/Motivations/Problems«, »How and Why«, or, for the graphics design topic:
 »creativity/variations/creative rules/technology« or the like.
+
+The cheat sheet is a tool to support you during the interview and help you along when your 
+mind goes blank for a moment. It is not for ensuring that you ask all questions in the same 
+way and in the same order.  Instead of controlling the situation user need research emphasizes 
+the importance of exploring a given situation and it’s peculiarities. It is totally ok and even 
+beneficial to come up with new questions which are not on the cheat sheet, or to react towards 
+a new topic the participant brings up if you have the impression that this will give you new 
+and interesting insights. 
 
 
 ## Equipment  
@@ -515,7 +521,7 @@ case keep the signed form, but hand the participant a copy of the form.
 Thus the agreement is clear for both sides. See in the Appendix for an
 [example of such a form](#consentForm). 
 
-After you got the consent of the participant you can start the research
+After you got the consent of the participant, you can start the research
 session.
 
 
