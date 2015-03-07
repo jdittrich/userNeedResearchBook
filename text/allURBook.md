@@ -9,7 +9,7 @@
 
 Text and images are under the following License (if not stated otherwise)
 
- <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">A Beginner’s Guide to Finding User Needs</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://jdittrich.github.io/userNeedResearchBook/" property="cc:attributionName" rel="cc:attributionURL">Jan Dittrich</a>  licensed under a  <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+ <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">A Beginner’s Guide to Finding User Needs</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://jdittrich.github.io/userNeedResearchBook/" property="cc:attributionName" rel="cc:attributionURL">Jan Dittrich</a>  licensed under a  <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
  
 Libraries used for this webpage have their own licenses and are *not* covered by the Creative Commons license above. 
 
@@ -21,7 +21,7 @@ Libraries used for this webpage have their own licenses and are *not* covered by
 # About this text
 
 This book is written for all those who want to design products, applications or webservices according to the needs of people.
-This text teaches you how to find potential users and how to find out about their activities, motivations and problems.
+You will learn how to find potential users and how to find out about their activities, motivations and problems.
 I demonstrate how to analyze the gathered data in a way that makes it usable and useful for your design process.
 
 To have knowledge about the »how« and »why« of the user’s work allows you to create innovative products that meet the users’ needs. As well, you can utilize this knowledge to improve existing products.
@@ -531,15 +531,14 @@ conversation: You ask questions, the user answered them. -->
 
 We gather data by asking questions and listening to the participant’s answers.
 However, the use of questions and answers in user needfinding is unlike the 
-questions and answers in surveys. In surveys it is often aimed for short, definitive
+questions and answers in questionnaires. In questionnaires it is often aimed for short, definitive
 answers out of a determined set of possibilities (»on a 4 point scale: how much do you
-agree with…«). Instead of this, we aim for longer answers that are give »free« and not 
-from a determined set of answers. Thus we are more likely to get rich descriptions, 
+agree with…«). Instead of this, we aim for longer answers that are not 
+from a determined set of possible asnwers. Thus we are more likely to get rich descriptions, 
 much like veritable stories which retell the participant’s experiences. In addition, these
  stories  tell us about the context of the user’s activities and the user’s motivations. 
  To encourage giving such story like answers,  we will often ask for *descriptions* 
  of activities and the *reasons* for doing them.
-
 
  <div class="example">
 
@@ -570,12 +569,10 @@ well. It is more vivid, and the potentially distorting step of translating a
 process into a description is no longer required. When you observe, you
 will even notice things your participants would never consider
 mentioning: It may have become second nature for them which tools they use, 
-how they apply these tools to their work and 
-which problems they meet. As well, you may notice interesting properties of the
-context like means of communicating with co-workers or cues in the
-environment that point out problems – for example quick fixes 
-with tape, or added instructions on devices and machines. 
-
+how they apply these tools to their work and which problems they meet. 
+As well, you may gain information about the context, like means of communicating 
+with co-workers or cues in the environment that point out problems
+ – for example quick fixes with tape, or added instructions on devices and machines. 
 
 It is not needed to have observation as a separate step in the research process. 
 It makes great sense to interweave it with asking questions and listening to the user. 
@@ -594,7 +591,7 @@ Researcher: »Can you show me how you do it?«
 Think of yourself as an apprentice of the participant. The participant
 is the master or expert who can teach you some of his/her skills. 
 This means that understanding the user by observing is not a passive process. 
-Like an apprentice you can and should ask questions.
+Like an apprentice, you can and should ask questions.
 
 <div class="example">
 
@@ -660,11 +657,10 @@ so far.
 
 A very obvious advantage of these questions is that they will help you
 to get to know some context of the participant’s work. But there is
-another advantage: Such questions like asking for the job title or years in the job 
- etc. are easy  to answer and it is a pretty clear how to answer to them. This gets
-the participants into the mode of answering questions and opening up
-towards you. After a brief section with these easy-to-answer questions 
-you can  transition into more open questions.
+another advantage: Such questions – like asking for the job title or years in the job 
+ etc. – are easy  to answer. This gets the participants used to answering 
+ questions and opening up towards you. After a brief section with these 
+ easy-to-answer questions you can  transition into more open questions.
 
 ### Affirm that you listen  
 
@@ -768,7 +764,7 @@ look like this:
 
 ![short closed questions](images/talkDiagram_closed.svg)
 
-These questions demand very specific answers mostly out of a determined
+These questions demand very specific answers from a determined
 set: Yes or no, marks from A-F, a list of nouns. They would be useful if
 you would want to do statistics, for analysis that allows us to give results
 like »56.3% agreed strongly on Question X«. However, we want to find out
@@ -799,7 +795,7 @@ getting answers in a user needs research session look like this:
 The questions we want to ask should encourage answers which describe
 experiences and give some insight into the »why« and »how« of the users
 activities and motivations. This type of question is called »open
-question« since these questions don’t have a determined set of answers.
+question« since these questions don’t have a determined (»closed«) set of answers.
 
 <div class="example">
 
@@ -817,8 +813,8 @@ to get.
 A participant is describing me the printing process: *»…then I look up
  which color specification the printery needs…«* That is a new step
 in the workflow I did not expect (Naively, I thought that you just send
-the document to the printery like you would when you print it on your desktop printer – have a file, print it). Thus, I discovered a step in the workflow and a potential field of work
-(taking care of color spaces and profiles) of which I did not know
+the document to the printery like you would when you print it on your desktop printer – 
+have a file, print it). Thus, I discovered a step in the workflow and a potential field of work (taking care of color spaces and profiles) of which I did not know
 that it even exists!
 
 </div>
@@ -853,12 +849,13 @@ Here are some possible questions
 </div>
 
 All these questions start with »…can you describe« or »…can you tell me«, which
-encourages a longer answer (»describing« or »telling« is something needs usually more than one word). In addition, all sentences contain a *Why-*, *What-* or *How-*. These
+encourages a longer answer (since »describing« or »telling« demands more than one word). 
+In addition, all sentences contain a *Why-*, *What-* or *How-*. These
 question words, again, suggest an elaborate answer, not just one
 or two words.
 
-Thus, a template for such questions would look like *»tell me [how/why/what] +
-interest*
+Thus, a template for such questions would look like *»Please tell me [how/why/what] +
+[your interest]*
 
 Contrast this with questions like
 
@@ -870,15 +867,15 @@ Participant: »yes!«
 
 </div>
 
-»Is…« -questions will be answered with »yes« or »no« – but we don't get to know why the participant to agrees or disagrees with our assumption. In addition, »Is…«-Questions are a subtle form or influence ^[Also called a »leading question«] : In case of doubt it is  likely that are participant just agrees to the suggestion you give by asking »Is…« 
+»Is…« -questions will be answered with »yes« or »no« – but we don't get to know why the participant to approoves or disapproves. In addition, »Is…«-Questions are a subtle form or influence ^[Also called a »leading question«] : In case of doubt it is  likely that are participant just agrees to the suggestion you give by asking »Is…« 
 
 Sometimes,  »Is«-Questions will  come in a disguised
 form – as an addition which is made to an open question:
 
 <div class="example"> 
 
-You: »Can you tell me how you solve this problem? …Do you do it by just
- calling the client and resolving the issue?« 
+You: »Can you tell me how you solve this problem? *…Do you do it by just
+ calling the client and resolving the issue?*« 
  
  Participant: »Yes, I do« 
  
@@ -1236,9 +1233,9 @@ afterwards by opening the pdf in addition«
 \
 \
 
-These techniques explained here involve jumping back to some previously
-mentioned topic. This may seem difficult, since you need to remember some
-particular information (to refer to it later)  while carrying on with the research. 
+Jumping back to some previously
+mentioned topic may seem difficult, since you need to remember some
+particular information (to refer to it later) while carrying on with the research. 
 However, it is not that hard – just give it a try. As well, keep in mind that you can 
 make brief notes reminding you of things that are of interest. With a look on your 
 note sheet they will return to your memory in case you 
@@ -1346,16 +1343,18 @@ misunderstood something! So: Your, you said that your work is to…
 
 </div>
 
-By verbalizing what you learned you can fill any gaps and create fade out the research session.
+When verbalizing what you learned, the participant can fill gaps and clarify any misunderstandings. 
+It is also a good way to fade out the research session.
+ 
 When you finished going though your notes and giving your summary, thank the participant for
 taking the time. If you have any incentives or compensation, give them
 to the participant. In addition, I try to give an outlook on the next steps in the
-research. I think it is nice to let the participant know how the data matters for
+research to let the participant know how the data matters for
 me:
 
  <div class="example">
  
- My next steps would be going though audio and notes. After
+My next steps would be going though audio and notes. After
 anonymizing what we recorded, me and my colleague analyze the data and the
 data from other research sessions to find out how graphic designers work. 
 
@@ -1364,7 +1363,6 @@ workflow.
 
 </div>
 
-<!-- TODO bis hier -->
 
 ## Recording Data
 
@@ -1572,8 +1570,8 @@ When I added my supplements to the notes and sketches I usually type them in a
 wordprocessor document. In addition, I scan my notes, so I can easily cut and paste my
 sketches into the document.
 
-When transcribing the notes, I take care that each line in the digital transcript has only one
-statement in it and not several, so that I don't tie two separate statements together. 
+When transcribing the notes, take care that each line in the digital transcript has only one
+statement in it and not several, so that you don't tie two separate statements together. 
 On the other hand, make sure that the data you write down is meaningful on its own and 
 is not just a single word or a description which is free of any context and thus hard to 
 set in relation to other data.
