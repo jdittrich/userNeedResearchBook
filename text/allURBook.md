@@ -1618,7 +1618,7 @@ Otherwise, I paste the sketch from a scan into the document with the transcript.
 
 ###Photos
 
-After the research session go through your photos just like you went through your notes. 
+Go through your photos just like you went through your notes. 
 If it makes sense, you can use the information from the photos to supplement your notes. 
 It might as well useful to summarize what one sees on the photo. 
 These descriptions can be used more easy than the photo itself when doing the analysis.
@@ -1635,7 +1635,7 @@ the fonts go well together (see *U2-14-9-14_1.jpg* )«
 
 ###Audio
 
-After the research session I listen to the recording. Usually I have the audio as a .mp3 
+Listen to the recording of your reserach session. Usually, I have the audio as a .mp3 
 and the notes as a typed out plaintext or wordprocessor document (see: [Transcribe Notes](#transcribeNotes)), so I can open audio and transcript in parallel on my computer. 
 When the audio contains information which is not in the document or if it 
 supplements information that is already there, I pause the playback and write the 
@@ -1670,13 +1670,13 @@ paste it in the document or refer to it.
 ## Why Analysis?
 
 In the analysis we will take a closer look at the data and organize it after meaningful pattern. 
-After the interviews the data is organized by participants or the research sessions: All notes
+
+After the interviews, the data is organized by participants or the research sessions: All notes
 from one research session or participant are grouped together. This is a format which is 
-hard to use for designing. At best we could pick out single data pieces and tell which
-participant said it. 
+hard to use for designing. 
 
 What would be more useful if we would organize the data by needs of users and their problems. 
-To do this we take the data – which is currently organized by participants – and cluster the data by meaningful themes. 
+To do this, we take the data – which is currently organized by participants – and cluster the data by meaningful themes. 
 
 ![Analysis for creating themes independent from particular participants](images/aggregationAnalysis.svg)
 
@@ -1688,13 +1688,11 @@ in your transcript, like »I find it boring to move around all the textboxes aga
 These pieces of data will be grouped if they may share a similar theme. 
 These groups get a headline, stating the theme of by  the underlying pieces of data.  
 This is useful when designing, since you can refer to the headline instead of considering all
- the underlying data each time.  
+ the underlying data each time. 
  
-
 Sometimes you will have groups which relate to a common theme themselves. In this case 
 it makes sense to make a group of groups and give the underlying groups of utterances and 
 observations and their headlines an overarching headline. 
-
 
 
 <div class="example">
@@ -1772,11 +1770,11 @@ Let’s say we gathered this data (among others) in research on Do-It-Yourself-W
 If we put the pieces of data which mention the same things in the same group we get these two groups: 
 
 - Theme: Bikes
-	I look at the assembled bike and think: nobody else has the same 
-	When my bike is broken and I need to get to work I can fix my bike quickly 
+	- I look at the assembled bike and think: nobody else has the same 
+	- When my bike is broken and I need to get to work I can fix my bike quickly 
 - Theme: Furniture
 	- The cabinet’s door was loose. It annoyed me, so I repaired it. 
-	-The shelf looks not as clean as a bought one, but it is mine
+	- The shelf looks not as clean as a bought one, but it is mine
 
 </div>
 
@@ -1784,10 +1782,10 @@ Organizing the data by this »same things mentioned«-method would help us  find
 with a specific thing or assessment: If we want see everything that concerned furniture we can go through 
 the data in the »furniture« group; If we would like to know what people liked we could look it up in a group titled »good«.
 
-However, the themes have no meaning on its own when organizing using the »same things mentioned«-method. 
-Additionally if it was already clear before the research that furniture was connected to DIY work, then summarizing 
-to say "there is furniture" doesn't tell us anything new. Therefore, you still need to go through the data points to find 
-out what people did with their furniture and what they think of as »good«. The themes are just labels for the content. 
+However, organizing by the »same things mentioned«-method has its shortcomings: A theme named »furniture« communicates 
+only that the underlying data has *something* to do with furniture. You still need to go through the underlying data 
+to find out what people did with their furniture and what motivates them or which problems they face.
+The names of themes  created by organizing by the »same things mentioned«-method are just labels for the content and have no meaning on its own.
 
 Imagine we would not create the themes by looking for same things being mentioned but by the insights we 
 drew from the data in the group by focusing on the meaning of activities, problems and goals for the participants. 
@@ -1869,11 +1867,11 @@ designs for inspiration« (given that it could serve both from the user's perspe
 
 There is no right or wrong nor a clear cut criteria of being »close enough« to the data when 
 you group your data in themes. Instead of having a clear, measurable rule like »you 
-must have 0.5 significance in statistics, most important is that your analysis is plausible 
+must have p&#060;0.05 significance« in statistics, most important is that your analysis is plausible 
 (instead of »right« or »wrong«).
 
 I compare the process of analysis to building a house from a pile of Lego® bricks. These 
-bricks are like the not-yet-analysed data you start with. When you build a house out of these 
+bricks are like the not-yet-analyzed data you start with. When you build a house out of these 
 bricks, there is no »right« building. But neither is it a process which is arbitrary.
 
 There are many, many ways to stack up the bricks – but only a very few of these generally 
@@ -1975,7 +1973,7 @@ distinguishable from each other you can always throw stuff out again. The goal i
 up with great annotations but to wrap your head around the data and to find possible ways to 
 interpreting it. 
 
-## Digital or analog analyis?
+## Digital or analog analysis?
 
 If you analyze your data using paper notes, your titles will be written on a sticky note of a specific color (choose one, 
 but stick with it). If you use a word processor, use a headline for the groups titles.
@@ -1985,7 +1983,7 @@ Digital in a word processor, where lines hold the basic units of data, or analog
 
 The analysis methods described here can be used in both media. Nevertheless, each way has different strengths.
 
-### Comparison
+### Comparison of digital and analog data analysis
 
 ![analyzing data analog by using sticky notes. Theme are written on yellow sticky notes, themes of themes are written on orange sticky notes](images/affinityDiagram2.jpg) 
 
@@ -2011,10 +2009,10 @@ by hand and can get an overview of their data by just stepping back and glancing
 If you work with peers on your analysis you have some advantages when using the analogue 
 pen and paper approach: you can easily discuss your ideas with other and will get new ideas 
 how to structure the data. You can as well invite your boss to take a look and be part of the 
-team, at least for some time. This type of on-site, collaborative, analysis is best done analogue. 
+team, at least for some time. This type of on-site, collaborative, analysis is best done analog. 
 It is easy to move notes around, and you can refer by pointing to data or just carry it over to 
 someone and ask for an interpretation. Using digital tools it is not that easy and direct– 
-despite of all the great digital tools we have nowadays.
+despite of all the great digital innovations we have nowadays.
 
 ### How-To
 
@@ -2739,8 +2737,7 @@ Orwells in »Politics and the English Language« – I quote:
 6. Break any of these rules sooner than say anything barbarous.
 
 </blockquote>
-^[Orwells Rules for writers:
-[http://wikilivres.ca/wiki/Politics\_and\_the\_English\_Language](http://wikilivres.ca/wiki/Politics_and_the_English_Language)]
+^[[Orwell’s Rules for writers](http://wikilivres.ca/wiki/Politics_and_the_English_Language)]
 
 In addition, read the text aloud – in particular, if you already noticed
 that you have had difficulties finding the right word or to express a
@@ -2950,9 +2947,7 @@ with others and don’t present them yourself.
 ### Consent and Release Form {#consentForm}
 
 (based on a form from
-[http://www.usability.gov](http://www.usability.gov/), downloadable
-under
-[http://www.usability.gov/how-to-and-tools/resources/templates/consent-recording-release-form-adult.html](http://www.usability.gov/how-to-and-tools/resources/templates/consent-recording-release-form-adult.html),
+[http://www.usability.gov](http://www.usability.gov/), [downloadable here](http://www.usability.gov/how-to-and-tools/resources/templates/consent-recording-release-form-adult.html),
 released as public domain)
 
 \

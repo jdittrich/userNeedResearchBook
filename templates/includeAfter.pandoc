@@ -4,7 +4,7 @@
 <script>
 $(function(){
 	$('<div id="autoToc"></div>').appendTo('body');
-	$('#TOC').hide();
+	$('#TOC').addClass("hidden");
 	$('#autoToc').toc({
 			 'container': '#wrapper',
 			 'highlightOffset': 10,
