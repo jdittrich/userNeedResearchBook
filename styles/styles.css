@@ -47,14 +47,14 @@ h1.title{
 h1 {
   font-size:280%;
   line-height:1.35;
-  margin:3.5em 0 0.4em;
+  margin:2.5em 0 0.4em;
   font-weight: normal;
  }
 
 h2 {
   font-weight:normal;
   font-size:180%;
-  margin:3em 0 0.4em;
+  margin:2em 0 0.4em;
 }
 
 h3 {
@@ -100,7 +100,7 @@ text-indent:1.5em;
 }
 
 h1+h2, h2+h3, h3+h4{
-  margin-top:0.5em;
+  margin-top:0.7em;
 }
 
 
