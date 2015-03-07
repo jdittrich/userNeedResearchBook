@@ -3,48 +3,46 @@
 <script src="libs/toc_jquery.js"></script>
 <script>
 $(function(){
-				
+	$('<div id="autoToc"></div>').appendTo('body');
+	$('#TOC').hide();
+	$('#autoToc').toc({
+			 'container': '#wrapper',
+			 'highlightOffset': 10,
+			 'anchorName': function(i, heading, prefix) { //custom function for anchor name
+	return prefix+i;},
+	});
+		
+	$('<a class="toggle">hide TOC</a>').prependTo("#autoToc").click(function(){
+		$("#autoToc").toggleClass("hidden");
+		if($("#autoToc").hasClass("hidden")){
+				$("#autoToc .toggle").text("show TOC");
+				$("#wrapper").addClass("tocHidden");
 
-        $('<div id="autoToc"></div>').appendTo('body');
-        $('#TOC').hide();
-        $('#autoToc').toc({
-             'container': '#wrapper',
-             'highlightOffset': 10,
-             'anchorName': function(i, heading, prefix) { //custom function for anchor name
-        return prefix+i;},
-        });
-				
+		}else{
+				$("#autoToc .toggle").text("hide TOC");
+				$("#wrapper").removeClass("tocHidden"); 
+		}
+	});
 	
-				//media query: hide tOC if window is small, show if it is wide
-				var widthChange = function(mediaQuery){
-					if (mediaQuery.matches) {
-						 $("#autoToc").removeClass("hidden")
-						 $("#wrapper").removeClass("tocHidden"); 
-					}
-					else {
-						$("#autoToc").addClass("hidden")
-						$("#wrapper").addClass("tocHidden");
-					}
-				}
-				
-				if(window.matchMedia){
-					var mediaQuery = window.matchMedia("(min-width:60em)");
-					mediaQuery.addListener(widthChange);
-					widthChange(mediaQuery);
-				}
-				//END: media query code
+	//media query: hide TOC if window is small, show if it is wide
+	var widthChange = function(mediaQuery){
+		if (mediaQuery.matches) {
+			 $("#autoToc").removeClass("hidden")
+			 $("#wrapper").removeClass("tocHidden"); 
+				$("#autoToc .toggle").text("hide TOC");
+		}
+		else {
+			$("#autoToc").addClass("hidden")
+			$("#wrapper").addClass("tocHidden");
+			$("#autoToc .toggle").text("show TOC");
+		}
+	}
 
-        
-        $('<a class="toggle">hide TOC</a>').prependTo("#autoToc").click(function(){
-            $("#autoToc").toggleClass("hidden");
-            if($("#autoToc").hasClass("hidden")){
-                $("#autoToc .toggle").text("show TOC");
-                $("#wrapper").addClass("tocHidden");
-                
-            }else{
-                $("#autoToc .toggle").text("hide TOC");
-                $("#wrapper").removeClass("tocHidden"); 
-            }
-        });
-    })  
+	if(window.matchMedia){
+		var mediaQuery = window.matchMedia("(min-width:60em)");
+		mediaQuery.addListener(widthChange);
+		widthChange(mediaQuery);
+	}
+	//END: media query code
+})
 </script>
