@@ -3,7 +3,7 @@
 % 2014, 2015­
 
 
-<!-- compile with  "pandoc --toc -H templates/includeHeader.pandoc -B templates/includeBefore.pandoc -A templates/includeAfter.pandoc  -s -c styles/styles.css -c styles/print.css -c styles/autoToc.css text/allURBook.md -t html5 -o index.html" -->
+<!-- compile with  "pandoc --toc -V lang:en -H templates/includeHeader.pandoc -B templates/includeBefore.pandoc -A templates/includeAfter.pandoc  -s -c styles/styles.css -c styles/print.css -c styles/autoToc.css text/allURBook.md -t html5 -o index.html" -->
 
 # License
 
@@ -1567,7 +1567,7 @@ accident, it might be useful to have a backup by using audio recording.
 
 ## Transcribe Notes {#TranscribeNotes}
 When I added my supplements to the notes and sketches I usually type them in a 
-wordprocessor document. In addition, I scan my notes, so I can easily cut and paste my
+wordprocessor document. In addition, I scan my notes, so I can easily cut and paste the 
 sketches into the document.
 
 When transcribing the notes, take care that each line in the digital transcript has only one
@@ -1613,15 +1613,15 @@ are still easily distinguishable from the actual data that I gathered in the res
 Since my sketches are usually on the same sheet of paper as my notes, I review my sketches 
 when I am transcribing the notes. 
 
-If it makes sense I summarize the information of the sketch in a line or two (since it is easier to work with text than with images). 
+If it makes sense, I summarize the information of the sketch in a line or two (since it is easier to work with text than with images). 
 Otherwise, I paste the sketch from a scan into the document with the transcript. 
 
 ###Photos
 
 Go through your photos just like you went through your notes. 
 If it makes sense, you can use the information from the photos to supplement your notes. 
-It might as well useful to summarize what one sees on the photo. 
-These descriptions can be used more easy than the photo itself when doing the analysis.
+It might as well useful to describe the photo. 
+These descriptions are easier to handle than the photo itself when doing the analysis.
 
 <div class="example">
 
@@ -1635,7 +1635,7 @@ the fonts go well together (see *U2-14-9-14_1.jpg* )«
 
 ###Audio
 
-Listen to the recording of your reserach session. Usually, I have the audio as a .mp3 
+Listen to the recording of your research session. Usually, I have the audio as a .mp3 
 and the notes as a typed out plaintext or wordprocessor document (see: [Transcribe Notes](#transcribeNotes)), so I can open audio and transcript in parallel on my computer. 
 When the audio contains information which is not in the document or if it 
 supplements information that is already there, I pause the playback and write the 
@@ -1687,12 +1687,9 @@ The basis for our analysis are the utterances or observations, usually represent
 in your transcript, like »I find it boring to move around all the textboxes again!«. 
 These pieces of data will be grouped if they may share a similar theme. 
 These groups get a headline, stating the theme of by  the underlying pieces of data.  
-This is useful when designing, since you can refer to the headline instead of considering all
- the underlying data each time. 
+This is useful when designing, since you can refer to the title instead of considering all  the underlying data each time. 
  
-Sometimes you will have groups which relate to a common theme themselves. In this case 
-it makes sense to make a group of groups and give the underlying groups of utterances and 
-observations and their headlines an overarching headline. 
+Sometimes you will have several themes, which relate to a common theme themselves. In this case, it makes sense to make a group of groups with a title which states the overarching theme of this group of groups.
 
 
 <div class="example">
@@ -1711,10 +1708,10 @@ Here is a part of an analysis.
 		
 </div>
 
-Such a hierarchial analysis could be done in two ways: 
+Such a hierarchical analysis could be done in two ways: 
 
-1. **Top-Down**: You first name the groups and write the headlines and then sort pieces of data into the groups hereafter 
-2. **Bottom-Up**: You first group pieces of data which seem to share a similar theme and then give the group a comprehensive headline which states the topic shared by the underlying pieces of data. 
+1. **Top-Down**: You first name the groups and write the titles and then sort pieces of data into the groups hereafter 
+2. **Bottom-Up**: You first group pieces of data which seem to share a similar theme and then give the group a comprehensive title which states the topic shared by the underlying pieces of data. 
 
 We are going to use mainly the 2nd way, doing a so called »bottom-up« analysis. This does
 not mean that we never take a piece of data and sort it into an existing group. It just means
@@ -1756,7 +1753,7 @@ I already talked about grouping data by shared themes. The question is: What is 
 
 One method to group data and to derive a theme would be going through the data and see which utterances 
 and observations mention the same thing or the same assessment. Thus, all notes mentioning »color« would 
-belong to one theme and get the headline »Color«; all notes mentioning »good«  belong to one theme and get the headline »good things«.  
+belong to one theme and get the title »Color«; all notes mentioning »good«  belong to one theme and get the title »good things«.
 
 <div class="example">
 
@@ -1794,29 +1791,30 @@ drew from the data in the group by focusing on the meaning of activities, proble
 
 <div class="example">
 
-- Theme/Insight: Participants need to »make things work«
+- Theme ((based on an insight about the participants): Participants need to »make things work«
 	- The cabinet’s door was loose. It annoyed me, so I repaired it. 
 	- When my bike is broken and I need to get to work with it the next day I can fix my bike quickly
-- Theme/Insight: Good: DIY gives sense of individuality
+- Theme (based on an insight about the participants): Good: DIY gives sense of individuality
 	- The shelf looks not as clean as a bought one, but it is mine
 	- I look at the assembled bike and think: nobody else has the same
  
  </div>
 
-If we organize data by the insights about the participants and summarize the insight in the
-group’s title (the theme), this title is useful on its own: It is not just for accessing the data, it is
-an empirically based principle we can follow when we design. 
+If we organize data by themes based on the insights about the participants and summarize that 
+insight in the group’s title, the theme’s title is  a useful piece of information on its own: 
+It is not just for accessing the data, it is an empirically based principle we can follow when 
+we design.
 
-If you design, let’s say, for a DIY-Online community, an insight like »DIY gives as sense of
+If you design, let’s say, for a DIY-Online community, a theme based on an insight, like »DIY gives as sense of
 ownership«  may inspire the implementation of a function which allows people to share their
 designs and customizations. The insight that sometimes DIY is just about fixing things may
 lead to the provision of a wiki for collecting best practices for doing common repairs and
 maintenance. 
 
 If you have a new idea you can ask yourself »Does this idea follow what is stated in the group titles? 
-Does it violate it them?«. You may ask yourself »With which design could I realize this principle?«. Since the 
-insights are based on our data, they will express the actual needs of your users and not some 
-(potentially stereotypical) assumptions.
+Does it violate it them?«. You may ask yourself »Which design could I  create based on this theme?«. 
+Since the themes are based on our data, they will express the actual needs of your users and not 
+some (potentially stereotypical) assumptions.
 
 Grouping your data based on insights about your participants provides great benefits. But it can be hard and 
 may be not possible for all your data. Creating groups using the same-things-mentioned methods is still a useful 
@@ -1826,7 +1824,8 @@ and far fewer at the end – but  my analysis will be a mixture of both styles.
 
 <div class="example">
 
-Understanding why organizing data based on insights is an important point which can be hard to grasp for beginners. Here are is another example:
+To understand how to organize data by themes based on insights can be hard to grasp for beginners. 
+To ease the learning I provide another example:
 
 Let’s say we gathered this data (amongst others) when researching beginners in web programming:
 
@@ -1837,35 +1836,35 @@ Let’s say we gathered this data (amongst others) when researching beginners in
 
 If we put the pieces of data which mention the same things in the same group we get these two groups: 
 
-- Theme: Utterances with HTML 
+- Theme (based on same-things-being-mentioned):: Utterances with HTML 
 	- To try out stuff in HTML is fun 
 	- To know these 'attributes' of HTML-'tags' makes writing code easier. 
-- Theme: Utterances with JavaScript 
+- Theme (based on same-things-being-mentioned):: Utterances with JavaScript 
 	- I analyze JavaScript code to understand patterns 
 	- It is great to quickly test something using a JavaScript framework
 
 Organizing the data by the insights we may draw from the data the structure look like this: 
 
-- Theme/Insight: Trying out is good 
+- Theme (based on an insight about the participants): Trying out is good 
 	- To try out stuff in HTML is fun 
 	- It is great to quickly test something using a javascript framework 
-- Theme/Insight: Learning makes own coding better 
+- Theme (based on an insight about the participants): Learning makes own coding better 
 	- I analyze Javascript code to understand patterns 
 	- To know these 'attributes' of HTML-'tags' makes writing code easier. 
 
 </div>
 
-## Doing the right Analysis
+## Doing the »right« Analysis
 
 The data analysis is done by inferring themes from several  data points. Thus the process is 
 empirical (as it is based on gathered data) but if the same 
 data is used, analysis made by different people will differ. This is because the result of the 
 analysis depends on the reasonable but still individual and debatable interpretation of the 
 data. You could say that »looking at last years design to quickly reuse elements« belongs to a 
-group concerned with »I want to save time« or to one related to the topic of »reviewing 
+theme concerned with »I want to save time« or to one related to the topic of »reviewing 
 designs for inspiration« (given that it could serve both from the user's perspective).
 
-There is no right or wrong nor a clear cut criteria of being »close enough« to the data when 
+There is no »right« or »wrong« nor a clear cut criteria of being »close enough« to the data when 
 you group your data in themes. Instead of having a clear, measurable rule like »you 
 must have p&#060;0.05 significance« in statistics, most important is that your analysis is plausible 
 (instead of »right« or »wrong«).
@@ -1902,8 +1901,8 @@ Before we start with the analysis we should prepare our data.
 
 ### Add Participant Codes
 
-When you create groups of data it is good to know if the theme of the group is more or less 
-general or only concerns one participant. 
+When you create groups of data it is good to know if the theme of the group is 
+relevant across several participants or only concerns one participant. 
 
 Thus, you should supply your each datapoint (=line in the transcript) with a participant code. 
 A participant code works like a pseudonym: The user is not identifiable by his/her real name, 
@@ -1955,7 +1954,7 @@ be full sentences as well as short list of words.
 
 </div>
 
-I suggest to annotate each line, but this is not a must. 
+I suggest annotating each line, but this is not a must.
 
 The annotations should be clearly distinguishable from data you got directly from observation 
 or the participant’s answers – just like other things you did add yourself (e.g. design ideas).
@@ -1976,7 +1975,7 @@ interpreting it.
 ## Digital or analog analysis?
 
 If you analyze your data using paper notes, your titles will be written on a sticky note of a specific color (choose one, 
-but stick with it). If you use a word processor, use a headline for the groups titles.
+but stick with it). If you use a word processor, use a headline for the groups’ titles.
 
 After annotating your data you should take the decision in which media you want to conduct your analysis: 
 Digital in a word processor, where lines hold the basic units of data, or analog on paper, where sticky notes are your means of dealing with the data.
@@ -2027,7 +2026,7 @@ For analysis on your computer I suggest the following steps for preparing your a
 **Creating Groups:** Similar data is organized in lists. To rearrange data you can use copy paste, drag and drop and the tools the word processor provides (toolbar to move points in lists etc.) 
 \
 
-**Group Titles/Themes**: Each group gets a headline. Create a hierarchy by using different paragraph styles – bigger headlines encompass smaller, lower in hierarchy headlines. If you use paragraph styles to format your headlines, you ca n use the navigation tool of the wordprocessor to go through your structure 
+**State themes in  titles of  groups**: Each group gets a headline. Create a hierarchy by using different paragraph styles – bigger headlines for overarching themes of themes, smaller headlines for themes that encompass the data directly. If you use paragraph styles to format your headlines, you can use the navigation tool of the wordprocessor to go through your structure 
 
 #### Analysis with pen and paper
 
@@ -2043,11 +2042,14 @@ For working analog I recommend the following steps to get analysis-ready:
 4. cut out each table cell (=piece of data) 
 5. cover the wall with the paper from paper rolls (thus you can remove the analysis, roll up the paper and archive it and you can remove it from the wall temporarily) 
 
-**Creating groups**: during analysis you will stick your printed notes on the widths of paper using removable tape, crepe tape or spray glue – something sticky but non-permanent, so you can move the notes around in order to gradually improve the structure.
+**Creating groups**: during analysis you will stick your printed notes on the widths of paper 
+using removable tape, crepe tape or spray glue – something sticky but non-permanent, so you can 
+move the notes around in order to gradually improve the structure.
 \
 
-**Group titles/Themes**: Write your group titles on notes of determined colors, which are different from the color 
-of the actual data points. If you print your data points on white paper you can use yellow sticky notes for group titles and 
+**State themes in  titles of  groups**: Write your group titles on notes of determined colors, 
+which are different from the color of the actual data points. If you print your data points on 
+white paper you can use yellow sticky notes for group titles and 
 pink ones for titles of a group of groups. 
 
 ## Develop a first Structure  {#firstStructure}
@@ -2097,9 +2099,8 @@ approximation.*
 
 ### Name Commonalities  
 
-You may have some data you assume to encompass a common theme but
-you don't know if you can state an insight about the data. But you have a vague feeling that it
-may be connected to something. In this case just give that group of data a
+You may have some data you assume to encompass a common theme but you 
+are unsure about . In this case just give that group of data a
 preliminary title. A group name, even if it is not an insight, will
 make dealing with the data easier since it gives your data some structure. 
 
@@ -2185,7 +2186,7 @@ If the previous step was building a (data-based) scaffold, now we try to build t
 ![Build upon your preliminary structure to see if the idea actually works](images/lego_houseWalls.jpg)
 
 Aim for 3 to 10 pieces of data per theme. While
-it is temporarily o.k. to have very small groups, at the end each
+it is temporarily ok to have very small groups, at the end each
 theme should be derived from several data points and not on a single
 utterance. On the other hand if a theme encompasses more than 10
 utterances or observations, think if creating two aspects or
@@ -2196,10 +2197,9 @@ the first participant and ending with the most recent one – though any
 other scheme will suffice as well. Just be sure that you know with which data you
 dealt with already and with which you did not.
 
-When filling the data in the structure you may notice that you 
-need to create additional themes; some may need
-to be renamed as well. Just go ahead and make these changes if you feel they are
-needed.
+When filling the data in the structure, you may notice that you need to 
+create additional themes. Some of the titles of the themes may need to be 
+renamed as well. Just go ahead and make these changes if you feel they are needed.
 
 <div class="example">
 
@@ -2252,39 +2252,40 @@ insights named »I want to avoid repetitive tasks«
 
 </div>
 
-Now your  groups will be informed by several data points each. But there will be many themes that are 
-created by the »same things mentioned«-Method; they don’t state insights. In addition there might be 
-overlapping themes and groups encompassing many data while other groups may be only informed by 
-few data points from just one participant. It is time to revise the structure.   
+Now your groups will be informed by several data points each. 
+But there will be many themes which are created by the »same things mentioned«-Method; 
+they don’t state insights. In addition, there might be overlapping themes and groups encompassing 
+many data points  while other groups may be only informed by few data points 
+from just one participant. It is time to revise the structure.
 
 ## Revise the Structure  
 
-After you went through your data and sorted it into themes and tried 
-to formulate insights, review your work. You now may have a clearer 
-view of what constitutes the themes after you matched the data with them.
+After you went through your data and sorted it into themes , 
+review your work. You now may have a clearer view of what 
+constitutes the themes after you sorted the data in these themes.
 
-If you recently dealt with just a particular part of the analysis (like dealing
-with two particular groups), your view might be
-too narrow: Glance over the whole range of clustered data, themes and insights and
-rediscover themes which might be a better fit for some data.
+If you recently dealt with just a particular part of the analysis (like dealing 
+with two particular groups), your view might be too narrow: Glance over the 
+whole range of clustered data,  and rediscover themes which might be a better 
+fit for some data.
 
-Have a look at structures that need improvement: Groups that have a theme
- but don't express an actual insight yet as well as data for which you did not find a
-good place. This data might be helpful to create insights.
+Have a look at structures that need improvement: Groups, which  have a title which 
+does not express an actual insight yet and data, for which you did not find a good place. 
+This data might be helpful to get insights and create new themes .
 
-Take a critical look at  insights in relation to the data they
-encompass: Is there a fit or did you fall prey to wishful thinking? 
-Possibly there is actually only a weak match between the stated insight and the
-data. In this case revise your structure.
+Take a critical look at the themes in relation to the data they encompass: Is there a fit or 
+did you fall prey to wishful thinking? Possibly there is actually only a weak match between 
+the stated theme and the data. In this case, revise your structure.
+ 
 
 ![Some parts need to be revised and newly created](images/lego_houseRevise.jpg)
 
 
 ### Find better names  
 
-Groups based on commonalities or vague similarity will hopefully evolve
-into insights. To archive this, try to revise group titles: make them
-more concise, clear and meaningful. if  a group of data is just named 
+Groups based on commonalities or vague similarity will hopefully evolve 
+into insights about the participants. To archive this, try to revise group titles:
+ make them more concise, clear and meaningful. If  a group of data is just named 
 with a title based on mere commonalities of the data in that group, 
 try to state an actual insight for a group . This will almost certainly 
 require moving some data between groups as well in order to 
@@ -2337,14 +2338,15 @@ I had the following structure:
 ### (Re) Move data to other groups  
 
 When improving your structure it might be necessary to remove pieces of data from
-groups, either moving to a temporary »misc« group or to another, more suitable
+groups, either moving the data to a temporary »misc« group or to another, more suitable
 group.
 
 While we want to make use of the data we have, it is most
 important to create sound and helpful principles based on the data – 
 instead of just  putting everything under a label. 
 
-It is possible that you can state an insight more clearly but as a result, the  clearer title 
+It is possible that you can state an insight more clearly  insight more clearly by rewriting 
+the group’s title, but as a result, the clearer title 
 may no longer encompass all data in the group. In this case, go for clarity of the groups title, 
 even if it means that the theme does not encompass all the data currently subsumed in the group. 
 
