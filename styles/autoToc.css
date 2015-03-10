@@ -1,107 +1,113 @@
 @media screen {
-	#wrapper{
-	margin-left: 15em;
-	}
-
-	#wrapper.tocHidden{
-	margin-left:auto;
-	}
 
 	/*enables hiding pandoc auto-generated TOC*/
-	#TOC.hidden{
-		display:none;
-	}
-
-	#autoToc {
-			font-family:sans-serif;
-			color:black;
-			background:rgb(230,235,240);
-			top: 0px;
-			left: 0px;
-			bottom:0;
-			height: 100%;
-			position:fixed;
-			width: 20em;
-			font-size:0.8rem;
-			box-sizing: border-box;
-			padding:0 0 2em 0;
-			box-shadow: 3px 3px 2px hsla(0, 0%, 0%, 0.2);
-	}
-
-	#autoToc a.toggle{
-			border: medium none;
-			padding: 4px 10px;
-			background:rgba(0,0,0,0.15);
-			color: black;
-			border:1px solid rgba(0,0,0,0.1);
-			border-bottom: 2px solid rgba(0,0,0,0.2);
-			text-align: left;
-			font-weight: bold;
-			box-shadow: 0px 1px 2px hsla(0, 0%, 0%, 0.2);
-	}
-
-	#autoToc a.toggle:hover{
-	background:rgba(0,0,0,0.3);
-		text-decoration: none;
-	}
-
-	#autoToc.hidden a.toggle:after{
-		content:"▾";
-		float:right;
-		margin-right:1em;
-		margin-top:-0.1em;
-	}
-
-	#autoToc:not(.hidden) a.toggle:after{
-		content:"▴";
-		float:right;
-		margin-right:1em;
-		margin-top:-0.1em;
-	}
-
-
-	#autoToc.hidden ul{
+#TOC.hidden{
 	display:none;
-	padding:0;
-	}
+}
 
-	#autoToc.hidden  {
+#layoutWrapper{
+	position:relative;
+	padding-left:0em;
+}
+
+
+#layoutWrapper.menuactive{
+	position:relative;
+	padding-left:20em;
+	padding-left:20rem;
+}
+
+#autoToc {
+	font-family:sans-serif;
+	color:black;
+	background:rgb(230,235,240);
+	top: 0px;
+	left: 0px;
+	bottom:0;
+	height:100%;
+	position:fixed;
+	font-size:0.8rem;
+	box-sizing: border-box;
+	padding:0 0 2em 0;
+	box-shadow: 3px 3px 2px hsla(0, 0%, 0%, 0.2);
 	width: 20em;
+	width: 20rem;
 	min-width:auto;
-	height:auto;
-	padding-bottom: 0px;
 	overflow:hidden;
-	bottom: auto;
-	}
+}
 
 
-	#autoToc ul {
-			margin: 0;
-			padding: 0;
-			padding-top: 0.5em;
-			list-style: none;
-			height: 100%;
-			box-sizing: border-box;
-			overflow-y: scroll;
-			margin-top: 0.3em;
-	}
 
-	#autoToc li {
+
+
+#autoToc a.toggle{
+		border: medium none;
+		padding: 4px 10px;
+		background:rgba(0,0,0,0.15);
+		color: black;
+		border:1px solid rgba(0,0,0,0.1);
+		border-bottom: 2px solid rgba(0,0,0,0.2);
+		text-align: left;
+		font-weight: bold;
+		box-shadow: 0px 1px 2px hsla(0, 0%, 0%, 0.2);
+}
+
+#autoToc a.toggle:hover{
+background:rgba(0,0,0,0.3);
+	text-decoration: none;
+}
+
+#layoutWrapper:not(.menuactive) #autoToc a.toggle:after{
+	content:"▾";
+	float:right;
+	margin-right:1em;
+	margin-top:-0.1em;
+}
+
+#layoutWrapper.menuactive #autoToc a.toggle:after{
+	content:"▴";
+	float:right;
+	margin-right:1em;
+	margin-top:-0.1em;
+}
+
+
+#autoToc ul{
+display:none;
+padding:0;
+}
+
+
+
+
+#layoutWrapper.menuactive #autoToc ul {
+	margin: 0;
+	padding: 0;
+	padding-top: 0.5em;
+	list-style: none;
+	height: 100%;
+	box-sizing: border-box;
+	overflow-y: scroll;
+	margin-top: 0.3em;
+	display:block;
+}
+
+#autoToc li {
 			padding: 5px 10px;
 	}
 
-	#autoToc .toc-h1 a  {
+#autoToc .toc-h1 a  {
 			font-weight:bold;
 
 	}
 
-	#autoToc a {
+#autoToc a {
 			color:black;
 			text-decoration: none;
 			display: block;
 	}
 
-	#autoToc a:hover {
+#autoToc a:hover {
 			text-decoration:underline;
 	}
 
