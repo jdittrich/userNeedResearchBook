@@ -10,14 +10,14 @@
   <!--[if lt IE 9]>
     <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
   <![endif]-->
-  <
-  <link rel="stylesheet" href="styles/bower_components/base.css">bower_components
+  <link rel="stylesheet" href="styles/normalize.css">
   <link rel="stylesheet" href="styles/styles.css">
   <link rel="stylesheet" href="styles/print.css">
   <link rel="stylesheet" href="styles/autoToc.css">
 </head>
 <body>
-<div id="wrapper">
+<div id="layoutWrapper">
+<div id="main">
 <header>
 <h1 class="title">A Beg­­­­­­­inner’s Guide to Finding User Needs</h1>
 <h2 class="author">Jan Dittrich</h2>
@@ -142,7 +142,7 @@
 </ul></li>
 </ul>
 </nav>
-<!-- compile with  "pandoc --toc -V lang:en -H templates/includeHeader.pandoc -B templates/includeBefore.pandoc -A templates/includeAfter.pandoc  -s -c styles/styles.css -c styles/print.css -c styles/autoToc.css text/allURBook.md -t html5 -o index.html" -->
+<!-- compile with  "pandoc --toc -V lang:en -H templates/includeHeader.pandoc -B templates/includeBefore.pandoc -A templates/includeAfter.pandoc  -s -c styles/normalize.css -c styles/styles.css -c styles/print.css -c styles/autoToc.css text/allURBook.md -t html5 -o index.html" -->
 
 <h1 id="license"><a href="#license">License</a></h1>
 <p>Text and images are under the following License (if not stated otherwise)</p>
@@ -1534,47 +1534,48 @@ While I think I gained something out of it, these changes did not result in a ne
 </ol>
 </section>
 </div>
+</div>
 <script src="libs/jquery.js"></script>
 <script src="libs/toc_jquery.js"></script>
 <script>
 $(function(){
-	$('<div id="autoToc"></div>').appendTo('body');
+	$('<div id="autoToc"></div>').appendTo('#layoutWrapper');
 	$('#TOC').addClass("hidden");
 	$('#autoToc').toc({
-			 'container': '#wrapper',
+			 'container': '#layoutWrapper',
 			 'highlightOffset': 10,
 			 'anchorName': function(i, heading, prefix) { //custom function for anchor name
 	return prefix+i;},
 	});
 		
 	$('<a class="toggle">hide TOC</a>').prependTo("#autoToc").click(function(){
-		$("#autoToc").toggleClass("hidden");
-		if($("#autoToc").hasClass("hidden")){
+		$("#layoutWrapper").toggleClass("menuactive");
+		if($("#layoutWrapper").hasClass("menuactive")){
+				$("#autoToc .toggle").text("hide TOC");
+				$("#wrapper").removeClass("tocHidden"); 
 				$("#autoToc .toggle").text("show TOC");
 				$("#wrapper").addClass("tocHidden");
 
 		}else{
-				$("#autoToc .toggle").text("hide TOC");
-				$("#wrapper").removeClass("tocHidden"); 
+				$("#autoToc .toggle").text("show TOC");
+				$("#wrapper").addClass("tocHidden");
 		}
 	});
 	
 	//media query: hide TOC if window is small, show if it is wide
 	var widthChange = function(mediaQuery){
 		if (mediaQuery.matches) {
-			 $("#autoToc").removeClass("hidden")
-			 $("#wrapper").removeClass("tocHidden"); 
-				$("#autoToc .toggle").text("hide TOC");
+			$("#layoutWrapper").addClass("menuactive")
+			$("#autoToc .toggle").text("hide TOC");
 		}
 		else {
-			$("#autoToc").addClass("hidden")
-			$("#wrapper").addClass("tocHidden");
+			$("#layoutWrapper").removeClass("menuactive")
 			$("#autoToc .toggle").text("show TOC");
-		}
+		}	
 	}
 
 	if(window.matchMedia){
-		var mediaQuery = window.matchMedia("(min-width:60em)");
+		var mediaQuery = window.matchMedia("(min-width:60rem)");
 		mediaQuery.addListener(widthChange);
 		widthChange(mediaQuery);
 	}
