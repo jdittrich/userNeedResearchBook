@@ -1539,10 +1539,14 @@ While I think I gained something out of it, these changes did not result in a ne
 <script src="libs/toc_jquery.js"></script>
 <script>
 $(function(){
+	var layoutWrapperSelector = "#layoutWrapper";
+	var textWrapperSelector ="#main";
+
+
 	$('<div id="autoToc"></div>').appendTo('#layoutWrapper');
 	$('#TOC').addClass("hidden");
 	$('#autoToc').toc({
-			 'container': '#layoutWrapper',
+			 'container': textWrapperSelector,
 			 'highlightOffset': 10,
 			 'anchorName': function(i, heading, prefix) { //custom function for anchor name
 	return prefix+i;},
@@ -1552,13 +1556,8 @@ $(function(){
 		$("#layoutWrapper").toggleClass("menuactive");
 		if($("#layoutWrapper").hasClass("menuactive")){
 				$("#autoToc .toggle").text("hide TOC");
-				$("#wrapper").removeClass("tocHidden"); 
-				$("#autoToc .toggle").text("show TOC");
-				$("#wrapper").addClass("tocHidden");
-
 		}else{
 				$("#autoToc .toggle").text("show TOC");
-				$("#wrapper").addClass("tocHidden");
 		}
 	});
 	
