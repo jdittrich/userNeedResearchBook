@@ -5,28 +5,32 @@ https://github.com/hypertexthero/typography/blob/master/style.css (Public Domain
 some inspiration from yahoo’s: http://purecss.io/, in particular:http://purecss.io/layouts/side-menu/
 */
 
-body{width:100%}
+body{
+  width:100%;
+  margin:0;
+  padding:0;
+}
 #layoutWrapper{
-	padding:0;
-	margin:0;
-	width:100%; /*important for responsive display,  breakpoint switches this for :auto*/
+  padding:0;
+  margin:0;
+  width:100%; /*important for responsive display,  breakpoint switches this for :auto*/
 }
 
 #main {
-font-family:sans-serif;
-font-size:110%;
-line-height:1.6em;
-margin:0;
-padding:1em;
-margin:auto;
-width:auto;
-max-width:40em;
-max-width:40rem;
-color:rgb(20, 20, 20);
+  font-family:sans-serif;
+  font-size:110%;
+  line-height:1.6em;
+  margin:0;
+  padding:1em;
+  margin:auto;
+  width:auto;
+  max-width:40em;
+  max-width:40rem;
+  color:rgb(20, 20, 20);
 }
 
 #main h1,h2,h3,h4, p, figure, img{
-	max-width:100%;
+  max-width:100%;
 }
 
 a {outline:none !important; font-weight:normal; text-decoration:underline;}
@@ -58,7 +62,7 @@ h1 {
   line-height:1.35;
   margin:2.5em 0 0.4em;
   font-weight: normal;
- }
+}
 
 h2 {
   font-weight:normal;
@@ -98,14 +102,14 @@ h6 {
 }
 
 p {
-text-align:left;
-font-size:100%;
-margin:1em 0 0;
+  text-align:left;
+  font-size:100%;
+  margin:1em 0 0;
 }
 
 p + p {
-margin:0;
-text-indent:1.5em;
+  margin:0;
+  text-indent:1.5em;
 }
 
 h1+h2, h2+h3, h3+h4{
@@ -115,8 +119,19 @@ h1+h2, h2+h3, h3+h4{
 
 p + ul, p + ol, p + dl {margin-bottom:1.5em;}
 
-blockquote, .example {border-left:5px solid #eee; padding-left:1.5em; margin:1em 0; color:#5a5a5a; font-family:serif; font-style: italic}
-blockquote small, .example small {display:block; line-height:1.7em;}
+blockquote, .example {
+  border-left:5px solid #eee;
+  padding-left:1.5em;
+  margin:1em 0;
+  color:#5a5a5a;
+  font-family:serif;
+  font-style: italic
+}
+
+blockquote small, .example small {
+  display:block;
+  line-height:1.7em;
+}
 
 .example p+p{
   margin-top: 1em;
@@ -138,13 +153,12 @@ blockquote small, .example small {display:block; line-height:1.7em;}
 }
 
 .figure>.caption, figure>figcaption, .gallery>.caption {
-   color: #5b5b5b;
+  color: #5b5b5b;
   font-size: 80%;
-   margin: 0px;
-   width: 100%;
+  margin: 0px;
+  width: 100%;
   border-left:2px solid #AAA;
   padding-left:0.25em;
-
 }
 
 .gallery{
@@ -160,8 +174,8 @@ blockquote small, .example small {display:block; line-height:1.7em;}
   border: 1px solid #d3d3d3;
   display: flex;
   align-items: flex-end;
-    flex-basis: 45%;
-    flex-flow: row wrap;
+  flex-basis: 45%;
+  flex-flow: row wrap;
 }
 
 .gallery > figure> figcaption{
@@ -170,19 +184,19 @@ blockquote small, .example small {display:block; line-height:1.7em;}
 }
 
 .gallery.two > img, .gallery.two > figure{
-    flex-basis:45%;
+  flex-basis:45%;
 }
 
 .gallery.three > img, .gallery.three > figure{
-    flex-basis:30%;
+  flex-basis:30%;
 }
 
 .gallery.four > img, .gallery.four > figure{
-    flex-basis:22%;
+  flex-basis:22%;
 }
 
 ul, ol, dl {
-text-align:left;
+  text-align:left;
 }
 
 ul li{
@@ -190,24 +204,39 @@ ul li{
 }
 
 
-dt {font-weight:bold;}
-code {font-family:courier, monospace;}
+dt {
+  font-weight:bold;
+}
 
-p > code {padding:0.25em; background:#eee;}
+code {
+  font-family:courier, monospace;
+}
 
-pre {text-align:left; font-size:100%;}
+p > code {
+  padding:0.25em;
+  background:#eee;
+}
 
-hr {height:0; color:#eee; border:1px solid #eee; margin:2em 0 1em;}
+pre {
+  text-align:left;
+  font-size:100%;
+}
+
+hr {
+  height:0;
+  color:#eee;
+  border:1px solid #eee;
+  margin:2em 0 1em;
+}
+
 .normal {font-weight:normal;}
 .quiet {color:#999;}
 .pull-left {float:left; margin:0.5em 2em 1em 0;}
 .pull-right {float:right; margin:0.5em 0 1em 2em;}
 
-
-
 @media (min-width: 60rem) {  /*calculated breakpoint: text width= 40rem + 2*1rem padding + 18rem menu width; */
-	#layoutWrapper{
-	    width:auto; /*if viewport is wider than 60rem: auto, otherwise 100% (see above)*/
-	}
+  #layoutWrapper{
+	width:auto; /*if viewport is wider than 60rem: auto, otherwise 100% (see above)*/
+  }
 }
 
