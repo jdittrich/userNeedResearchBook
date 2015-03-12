@@ -1,6 +1,6 @@
-% A Beg­­­­­­­inner’s Guide to Finding User Needs
+% A Beg­inner’s Guide to Finding User Needs
 % Jan Dittrich
-% 2014, 2015­
+% 2014, 2015
 
 
 <!-- compile with  "pandoc --toc -V lang:en -H templates/includeHeader.pandoc -B templates/includeBefore.pandoc -A templates/includeAfter.pandoc  -s -c styles/normalize.css -c styles/styles.css -c styles/print.css -c styles/autoToc.css text/allURBook.md -t html5 -o index.html" -->
@@ -16,7 +16,6 @@ Libraries used for this webpage have their own licenses and are *not* covered by
 ##Contributers
 
 * [lisacharlotterost](https://github.com/lisacharlotterost)
-
 
 # About this text
 
@@ -34,14 +33,14 @@ If you find spelling mistakes or have other suggestions for fixes you can submit
 
 ## Why should I use the methods described in this book?
 
-User Need Research helps us to find out is how and why users do their work. 
+User Need Research helps us to find out how and why users do their work. 
 This is different from usability testing. Testing is great for finding out about users’ problems, existing 
 bugs and the possibilities to tweak an existing product. However, usability tests tell you little 
 about the »why« and »how« of users’ work. In  usability  testing you may give the user a task to accomplish 
  – but are these the tasks they are doing in their actual work? And if so – why is this
  task being done anyway?
  
-Thus you need methods that  inform you about things you don’t know about yet. 
+Because of this you need methods that inform you about things you don’t know about yet. 
 These are methods which allow us to explore the actual actions and the reasons behind them –
  because even if you might be puzzled about some things you observe they usually make 
  perfect sense for the users. 
