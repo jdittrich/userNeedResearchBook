@@ -1549,12 +1549,7 @@ $(function(){
 			 'container': textWrapperSelector,
 			 'highlightOffset': 10,
 			 'anchorName': function(i, heading, prefix) { //custom function for anchor name
-				if(heading.id){
-					return heading.id;
-				}else{
-					return prefix+i;
-				}
-			}
+	return prefix+i;},
 	});
 		
 	$('<a class="toggle">hide TOC</a>').prependTo("#autoToc").click(function(){
