@@ -1635,7 +1635,7 @@ the fonts go well together (see *U2-14-9-14_1.jpg* )«
 ###Audio
 
 Listen to the recording of your research session. Usually, I have the audio as a .mp3 
-and the notes as a typed out plaintext or wordprocessor document (see: [Transcribe Notes](#transcribeNotes)), so I can open audio and transcript in parallel on my computer. 
+and the notes as a typed out plaintext or wordprocessor document (see: [Transcribe Notes](#TranscribeNotes)), so I can open audio and transcript in parallel on my computer. 
 When the audio contains information which is not in the document or if it 
 supplements information that is already there, I pause the playback and write the 
 additional information in the document. So the process is very similar to supplementing 
