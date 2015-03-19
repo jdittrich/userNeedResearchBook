@@ -30,8 +30,8 @@ body{
 }
 
 body>h1, body>h2, body>h3, body>p{/*epub titlepage*/
-	padding-left:20px;
-	padding-right:20px;
+  padding-left:20px;
+  padding-right:20px;
 }
 
 
@@ -56,7 +56,7 @@ h1 a:hover,h2 a:hover,h3 a:hover,h4 a:hover,h5 a:hover{
 }
 
 h1,h2,h3,h4,h5,h6{
-	 line-height:1.35em;
+   line-height:1.35em;
 }
 
 h1.title{
@@ -150,57 +150,49 @@ blockquote small, .example small {
 .figure, figure{
   background-color: rgb(255, 255, 255);;
   margin: 1em 0 1em 0px;
+  box-sizing: border-box;
 }
 
 .figure>img, figure>img {
-  border-bottom: 1px solid #d3d3d3;
   width: 100%;
-}
-
-.gallery .figure>img, .gallery figure>img {
-  border-bottom: none;
+  display: block;
 }
 
 .figure>.caption, figure>figcaption, .gallery>.caption {
   color: #5b5b5b;
   font-size: 80%;
-  margin: 0px;
+  margin: 0.33em 0 0 0;
   width: 100%;
   padding-left:0em;
+  line-height: 1.45em;
 }
 
 .gallery{
   margin: 1em 0 1em 0px;
-  display:flex;
-  flex-wrap: wrap;
   width:100%;
 }
 
 .gallery > img, .gallery > figure{
-  margin-right: 0.25em;
+  border-right: solid 0.25em transparent;
   margin-bottom:0.25em;
-  border: 1px solid #d3d3d3;
-  display: flex;
-  align-items: flex-end;
-  flex-basis: 45%;
-  flex-flow: row wrap;
+  display: inline-block;
+  vertical-align: top;
 }
 
 .gallery > figure> figcaption{
-  margin-left: 0.25em;
-  border-left  : none;
+  padding-right: 1em;
 }
 
 .gallery.two > img, .gallery.two > figure{
-  flex-basis:45%;
+  width: 49%;
 }
 
 .gallery.three > img, .gallery.three > figure{
-  flex-basis:30%;
+  width:32%;
 }
 
 .gallery.four > img, .gallery.four > figure{
-  flex-basis:22%;
+  width:24%;
 }
 
 ul, ol, dl {
@@ -244,7 +236,7 @@ hr {
 
 @media (min-width: 60rem) {  /*calculated breakpoint: text width= 40rem + 2*1rem padding + 18rem menu width; */
   #layoutWrapper{
-	width:auto; /*if viewport is wider than 60rem: auto, otherwise 100% (see above)*/
+  width:auto; /*if viewport is wider than 60rem: auto, otherwise 100% (see above)*/
   }
 }
 
