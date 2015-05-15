@@ -415,8 +415,7 @@ Greet the participant and thank for his/her time:
 
 
 
-> Hello Lisa great to meet you. I’m pleased, that you could free some
-time for showing and telling me how you work.
+> Hello Lisa, great to meet you. I’m pleased, that you could free some time for showing and telling me how you work.
 
 You may sprinkle in a bit of smalltalk:
 
@@ -514,7 +513,7 @@ much like veritable stories which retell the participant’s experiences. In add
  To encourage giving such story like answers,  we will often ask for *descriptions* 
  of activities and the *reasons* for doing them.
 
-> »can you describe me how you decided to use this layout?«
+> »Can you describe me how you decided to use this layout?«
 >
 > »You said that you need to look that color model up. Why?«
 
@@ -1578,7 +1577,7 @@ Then we give that data a headline and name the topic:
 
 
 
->- **theme:** use other’s work  for inspiration
+>- **Theme:** Use other’s work  for inspiration
 >	- *Data:* »I look on google images how other calendars look like«
 >	- *Data:*  Browses through the book to see…
 
@@ -1586,7 +1585,7 @@ When we come across a piece of data which shares the topic we can add it to the 
 
 
 
->- *theme:* use other’s work  for inspiration
+>- *Theme:* use other’s work  for inspiration
 >	- **Data:  Searches on amazon to see how covers of books about the same topic look like**
 >	- *Data:* »I look on google images how other calendars look like«
 >	- *Data:*  Browses through the book to see…
