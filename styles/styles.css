@@ -142,7 +142,7 @@ blockquote small, .example small {
   line-height:1.7em;
 }
 
-.example p+p{
+.example p+p, blockquote p+p{
   margin-top: 1em;
   text-indent:0em;
 }

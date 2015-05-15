@@ -114,20 +114,19 @@ I will show you the process of researching the user’s needs in the following c
 
 In each chapter I will give several examples. The examples have their own formatting, it looks like this: 
 
-<div class="example">
 
-*This is not a user research interview, but a famous bot chatting with me:*
+> *This is not a user research interview, but a famous bot chatting with me:*
+>
+> […]
+>
+> ELIZA: You seem to be quite positive.
+>
+> YOU:   I am!
+>
+> ELIZA: Is it because you are that you came to me ?
+>
+>[…]
 
-[…]
-
-ELIZA: You seem to be quite positive.
-
-YOU:   I am!
-
-ELIZA: Is it because you are that you came to me ?
-
-[…]
-</div>
 
 Partly, the examples will draw from a little study about graphic designer’s use of their tools.
 
@@ -196,22 +195,19 @@ or by writing an email –  you should give them the following information:
 - Your contact information
 
 
-<div class="example">
-
-**Are you a designer?**
-
-We, a team of students of the Weimar University,  want to improve the free layout program frame 
+> **Are you a designer?**
+>
+> We, a team of students of the Weimar University,  want to improve the free layout program frame 
 drawer and want the application to match your workflow and needs.
 Therefore, we would like to gather some insights in the way you work.
-
-If you would like to support us, someone from our team would visit your workplace and ask you some 
+>
+> If you would like to support us, someone from our team would visit your workplace and ask you some 
 questions and look over your shoulder while you work.
 This would take approximately 1h.
-
-All participants get a $10 voucher for the university's cafeteria.
+>
+> All participants get a $10 voucher for the university's cafeteria.
 If you would  like to participate (or have further questions) please write a mail to jan.dittrich@example.com
 
-</div>
 
 When you reach out to communities for recruiting be sure to comply to the rules of the organizations or social groups involved.
 It does not help your research if the community you target gets upset with you for violating their privacy and customs.
@@ -276,13 +272,10 @@ Let me show you the questions I came up with for finding out about the needs of 
 
 ####  Activities
 
-<div class="example">
+> -   Can you describe the task you are currently working on?
+> -   Can you show me how you create a graphic/layout?
+> -   Can you show me how you use the application?
 
--   Can you describe the task you are currently working on?
--   Can you show me how you create a graphic/layout?
--   Can you show me how you use the application?
-
-</div>
 
 Talking about activities or observing them is a very rich source of
 information.
@@ -292,28 +285,23 @@ or *»You just used that ›align‹ function – before, you placed objects man
 
 ####  Motivations
 
-<div class="example">
+> -   Can you describe the worst experience in your day so far?
+> -   Can you describe the best experience in your day so far?
+> -   Which tasks in your job do you like the least?
+> -   Which tasks in your job do you like the most?
+> -   Can you show me a piece of work you are proud of?
 
--   Can you describe the worst experience in your day so far?
--   Can you describe the best experience in your day so far?
--   Which tasks in your job do you like the least?
--   Which tasks in your job do you like the most?
--   Can you show me a piece of work you are proud of?
-
-</div>
 
 Questions about Motivations are usually about emotions and often their relation to activities as well.
 You can explore these relations further in follow-up questions – »You said you hate talking with this client. What in particular makes it a bad experience for you?«.
 
 ####  Problems
 
-<div class="example">
 
--  When do you feel hindered or slowed down?
--  Can you show me how you circumvent this from happening?
--  What will happen if you can’t solve this problem?
+> -  When do you feel hindered or slowed down?
+> -  Can you show me how you circumvent this from happening?
+> -  What will happen if you can’t solve this problem?
 
-</div>
 
 Asking for problems provides some good starting points for designing since you can try to avoid the problems with a better solution. 
 
@@ -425,87 +413,74 @@ context) be a nice guest; if they come to your place or you meet in some
 Greet the participant and thank for his/her time:
 
 
-<div class="example">
 
-Hello Lisa great to meet you. I’m pleased, that you could free some
+
+> Hello Lisa great to meet you. I’m pleased, that you could free some
 time for showing and telling me how you work.
-
-</div>
 
 You may sprinkle in a bit of smalltalk:
 
-<div class="example">Did you have a good start into the day?</div>
+> Did you have a good start into the day?
 
 Participants should at least roughly know what the research is
 about. You don't need to reveal all your questions and topics
  but the general topic should be described
 
-<div class="example">
 
-This research helps us to improve the workflow in the design process to design solutions for people who do graphic design.
+>This research helps us to improve the workflow in the design process to design solutions for people who do graphic design.
 
-</div>
 
 Make clear that you are here to learn – and not an evaluator of the
 quality of the participant’s work.
 
-<div class="example">
-
-…Therefore we'd like to get to know how you work. You are an expert in
+>…Therefore we'd like to get to know how you work. You are an expert in
  that field and we'd like to learn from you. This is not some kind of
  test – when I ask questions there are no wrong answers
 
-</div>
 
 Although you may have described the timeframe and the method already
 when recruiting, tell the participant what you are going to do
 
-<div class="example">
-
-We will have a conversation about your work and I'll be asking some
+> We will have a conversation about your work and I'll be asking some
 questions. In addition, I’m interested in watching you when you do your work. 
 The whole process will take about an hour of time. 
 
-</div>
 
 The participant must know how you record data and who will see it. So
 tell the Participant:
 
-<div class="example"> 
 
-I'd like to take notes, and, in addition, record audio – if that is
+> I'd like to take notes, and, in addition, record audio – if that is
 ok with you. The audio recording helps me to focus on your work as I
- don’t need to concentrate as much on writing notes, if I have the
- recording as backup. Me and a colleague will listen to the audio;
-  we will anonymize and transcribe the data before we share
- it with the product design team.
+don’t need to concentrate as much on writing notes, if I have the
+recording as backup. Me and a colleague will listen to the audio;
+we will anonymize and transcribe the data before we share
+it with the product design team.
+>
+> If you feel uncomfortable with being recorded at any time we can pause
+the recording.
+>
+> You can cancel the interview at any time if you feel it is needed.
 
-If you feel uncomfortable with being recorded at any time we can pause
- the recording.
 
-You can cancel the interview at any time if you feel it is needed.
-
-</div>
 
 I had rarely someone who did not agree to being recorded. If that
 happens you can ask if they have any specific worries – possibly you can
 inform them about that specific aspect and they might agree when they
 have  additional information.
 
-<div class="example">
 
-[Example from an in-house research project] »Audio recording… I’m not sure about this…« 
+> [Example from an in-house research project] »Audio recording… I’m not sure about this…« 
 »Thats fine with me. Though, may I ask what worries are?« »Hmm…yeah, I don't like, you know, human
  resources to get that data«
- 
- »I understand your concern. It is fine if you don't agree but I can
+> 
+>  »I understand your concern. It is fine if you don't agree but I can
  assure you that Human Resources is a separate section. We don't share
  personal data and what we record today is not accessible to them. Also, all data
  that leaves my computer or the one of my colleague is being anonymized
  and we remove all data that points to you as person, including names,
  workplace and so on.
 
-</div>
 
 If they don’t agree, just stick with writing notes.
 
@@ -539,13 +514,9 @@ much like veritable stories which retell the participant’s experiences. In add
  To encourage giving such story like answers,  we will often ask for *descriptions* 
  of activities and the *reasons* for doing them.
 
- <div class="example">
-
-»can you describe me how you decided to use this layout?«
-
-»You said that you need to look that color model up. Why?«
-
-</div>
+> »can you describe me how you decided to use this layout?«
+>
+> »You said that you need to look that color model up. Why?«
 
 Asking questions and getting answers form a participant is a very versatile
 tool. It can be done without many resources. You are not tied to a specific place and 
@@ -577,14 +548,11 @@ It is not needed to have observation as a separate step in the research process.
 It makes great sense to interweave it with asking questions and listening to the user. 
 Instead asking for descriptions of processes or tool, you can ask for a demonstration.
 
- <div class="example">
-
-Participant: »So I got this image and now I would try to get a
+> Participant: »So I got this image and now I would try to get a
 suitable crop for that flyer«
- 
-Researcher: »Can you show me how you do it?«
+> 
+> Researcher: »Can you show me how you do it?«
 
-</div>
 
 
 Think of yourself as an apprentice of the participant. The participant
@@ -592,37 +560,30 @@ is the master or expert who can teach you some of his/her skills.
 This means that understanding the user by observing is not a passive process. 
 Like an apprentice, you can and should ask questions.
 
-<div class="example">
 
-Ask about reasons: »You drew that object and changed it size, then you
+> Ask about reasons: »You drew that object and changed it size, then you
 deleted it again… what was the reason behind this?
-
-Ask about things you notice in the environment: »Can you tell me what
+>
+> Ask about things you notice in the environment: »Can you tell me what
 these markings are for?«
-
-</div>
 
 Teaching an apprentice is not a theoretical or artificially set up
 process:
 
-<div class="example">
-
-The tasks you observe should be tasks the participant is actually doing 
+> The tasks you observe should be tasks the participant is actually doing 
 (and not something set up for you): 
-
-Participant: »What should I do now?«
-
-You: »What would you do if I would not be here?«
-
-Naturally they should be relevant to your interests as well: 
-
-[continuing the conversation above] Participant: »I would either crop this bunch of images
+>
+> Participant: »What should I do now?«
+>
+> You: »What would you do if I would not be here?«
+>
+> Naturally they should be relevant to your interests as well: 
+>
+> [continuing the conversation above] Participant: »I would either crop this bunch of images
  or I'd try to find a suitable font for the headlines in this document
-
-You: »If the tasks are equally relevant to you I'd be more interested in watching you 
+>
+> You: »If the tasks are equally relevant to you I'd be more interested in watching you 
 choosing the fonts«
-
-</div>
 
 Avoid positioning yourself as the expert in the participant’s domain by suggesting
  procedures and by telling the participant  how and why something should be done. 
@@ -683,12 +644,10 @@ information you get.
 Same goes for longer intersections at the end of an
 answer. Intuitively you may say:
 
-<div class="example">
 
-»It was great to hear that you exchange files by mail!« (Since you may
+> »It was great to hear that you exchange files by mail!« (Since you may
 have already thought of a feature that might be helpful in that case)
 
-</div>
 
 But the participant will try to be a nice person him/herself and
 probably try to make you happy by going on about the problems with files
@@ -696,11 +655,10 @@ in mails even though sending files per mail is possibly not that bad in the part
 Instead of  reassuring the participant using  judgments and emotions, focus on the 
 fact that you got information you that helps you:
 
-<div class="example">
 
-»That was interesting to hear –«
 
-</div>
+> »That was interesting to hear –«
+
 
 Possibly you could even wrap the information up »So you…« and/or refer
 to an area you like further information about. So it will be clear
@@ -727,14 +685,12 @@ maintaining eye contact is not possible all the time – but keep eye contact wh
 Even if you got the consent to audio record and make photos or
 video ask, before you start the recording.
 
-<div class="example"> 
 
-»I'd start the recording, if thats o.k.« (go ahead if there are no
+> »I'd start the recording, if thats o.k.« (go ahead if there are no
  objections)
- 
- »May I take a picture?«
+> 
+> »May I take a picture?«
 
-</div>
 
 Usually I fade out the length of  these questions once the participant agreed,
 so the next time I'm photographing and I see no obvious obstacles (an
@@ -796,56 +752,51 @@ experiences and give some insight into the »why« and »how« of the users
 activities and motivations. This type of question is called »open
 question« since these questions don’t have a determined (»closed«) set of answers.
 
-<div class="example">
 
-Open questions would be: *»Describe how you started your work today«*
+> Open questions would be: *»Describe how you started your work today«*
 or *»Why did you copy that page?«*
-
-</div>
 
 Using such open questions encourage telling longer, story-like
 answers. These answers will even contain information you did not expect
 to get.
 
-<div class="example">
 
-A participant is describing me the printing process: *»…then I look up
- which color specification the printery needs…«* That is a new step
-in the workflow I did not expect (Naively, I thought that you just send
+> A participant is describing me the printing process: *»…then I look up
+ which color specification the printery needs…«* 
+>
+>That is a new step in the workflow I did not expect (Naively, I thought that you just send
 the document to the printery like you would when you print it on your desktop printer – 
-have a file, print it). Thus, I discovered a step in the workflow and a potential field of work (taking care of color spaces and profiles) of which I did not know
-that it even exists!
+have a file, print it). 
+>
+> Thus, I discovered a step in the workflow and a potential field of work (taking care of color spaces and profiles) of which I did not know that it even exists!
 
-</div>
 
 The information you get will not be abstract as in answers like »good«
 or »I dislike it« but tied to a situation. This is preferable, because a
 future product will be used in real situations and not in an abstract
 space of thought.
 
-<div class="example">
 
-»I like it when the feedback [to the design] comes quickly. No annoying
+> »I like it when the feedback [to the design] comes quickly. No annoying
 waiting… it always makes me nervous. Do they [the client] like it or
-do I need to throw out work?« – this tells us more about the situation
+do I need to throw out work?« 
+>
+> – this tells us more about the situation
 than a client’s feedback being just described as »good«.
-
-</div>
 
 
 If you look back to the questions already mentioned, they will share some
 characteristics.
 
-<div class="example">
 
-Here are some possible questions
 
--   Can you describe the worst experience in your day so far?
--   Can you tell me how you create a layout?
--   Can you tell me what makes a client »difficult«
--   Can you describe how do you get new ideas?
+> Here are some possible questions
+> 
+> -   Can you describe the worst experience in your day so far?
+> -   Can you tell me how you create a layout?
+> -   Can you tell me what makes a client »difficult«
+> -   Can you describe how do you get new ideas?
 
-</div>
 
 All these questions start with »…can you describe« or »…can you tell me«, which
 encourages a longer answer (since »describing« or »telling« demands more than one word). 
@@ -858,30 +809,24 @@ Thus, a template for such questions would look like *»Please tell me [how/why/w
 
 Contrast this with questions like
 
-<div class="example">
 
-You: »Is this a good design?«
+> You: »Is this a good design?«
+> 
+> Participant: »yes!«
 
-Participant: »yes!«
-
-</div>
 
 »Is…« -questions will be answered with »yes« or »no« – but we don't get to know why the participant to approoves or disapproves. In addition, »Is…«-Questions are a subtle form or influence ^[Also called a »leading question«] : In case of doubt it is  likely that are participant just agrees to the suggestion you give by asking »Is…« 
 
 Sometimes,  »Is«-Questions will  come in a disguised
 form – as an addition which is made to an open question:
 
-<div class="example"> 
-
-You: »Can you tell me how you solve this problem? *…Do you do it by just
+> You: »Can you tell me how you solve this problem? *…Do you do it by just
  calling the client and resolving the issue?*« 
- 
- Participant: »Yes, I do« 
- 
- Please note that the question did not contain the word »is«, but follows the same pattern of
+> 
+> Participant: »Yes, I do« 
+> 
+> Please note that the question did not contain the word »is«, but follows the same pattern of
  asking for a binary »yes« or »no« response.
-
-</div>
 
 Avoiding closed questions is actually harder than one thinks. We intuitively try
 to make answering easier with such additions like »Do you […]«.
@@ -914,22 +859,14 @@ What you should avoid though is influencing the participant by
 »suggesting« favorable answers or actions. Some sorts of this type of  influence are obvious,
 others are not.
 
-<div class="example">
-
-»This is good, isn’t it?!«
-
-</div>
+> »This is good, isn’t it?!«
 
 Is a very obvious influence, since it blatantly states what you
 think the answer should be: A »yes«. 
 
 There are less obvious influences as well:
 
-<div class="example">
-
-»Would you like a better version of this with a big button here?«
-
-</div>
+> »Would you like a better version of this with a big button here?«
 
 In this example, a positive word (»better«) and a suggestion go together. Who would
 not like an improvement?! A »yes« is guaranteed – as well as a meaningless
@@ -940,53 +877,49 @@ feedback since it might suggest that there are »good« and »bad« answers.
 For example, it may be tempting to correct users and show the »right
 way« of doing something:
 
-<div class="example">
 
-If you know that there is a »change color« function in the application
+> If you know that there is a »change color« function in the application
 and the user says: »Well; I am annoyed by that application – I'd like
 to change the colors but they are fixed!« It may be tempting to
 say: »No, you can change it!«
 
-</div>
 
 Remember that you want to find out what your participant does and why. To
 correct the participant is not very useful.  Use the possibility to further explore the topic
 without correcting the user ^[If, however, the participant would
-clearly benefit from knowing some technical detail, just give the crucial information
- after the session] .
+clearly benefit from knowing some technical detail, just give the crucial information after the session] .
 
-<div class="example">
 
-You can just ask »what's the reason for you doing it this way«, or, 
+> You can just ask »what's the reason for you doing it this way«, or, 
 if talking about the function itself is really  important to you, you can 
 ask »How did you expect to do the color change if there would be such a function?«
 
-</div>
 
 Similarly, you could be surprised or even annoyed by steps or actions
 in a workflow of the user which seem outright superfluous.
 
-<div class="example">
 
-»When I write a text I write a draft and then send it to my colleague
+
+> »When I write a text I write a draft and then send it to my colleague
 via mail as an attached .doc file. My colleague comments on it and
-returns the mail to me« You may think that this is rather inefficient.
+returns the mail to me« 
+>
+>You may think that this is rather inefficient.
 You may be tempted to say »Why don't you paste the text in the mail
 and comment directly? Or write it live on Etherpad? This would be far
 quicker!«
 
-</div>
+
 
 Remember that nobody does inefficient things by purpose. Assume that the
 user has a reason. Try to find out what this reason may be.
 
-<div class="example">
 
-Again you could ask: »what's the reason for you doing it this way« 
+
+> Again you could ask: »what's the reason for you doing it this way« 
 – and remember to ask follow-up question to further explore
 the issue.
 
-</div>
 
 Your influencing feedback could be non-verbal as well. Like in everyday
 conversations you may shrug or frown if you disagree with an
@@ -1003,13 +936,10 @@ Sometimes, the participant will take time to think before answering.
 Intuitively, you may want to fill the silence to help the participant
 along.
 
-<div class="example">
-
-»Can you describe me what happened after you were finished with
+> »Can you describe me what happened after you were finished with
 creating the print-ready-file? [1 sec] Was it all well?« »yeah, sort
 of well I think«
 
-</div>
 
 It is tempting to fill the silence with suggestions for the answer. But
 it can skew the answers and can turn a open question (»can you
@@ -1021,54 +951,40 @@ answer within a few seconds. If you notice silence which you want to fill, count
 to 3 or 5 before probing further. When the set time is up, you can ask
 about the question rather than giving suggestions, like
 
-<div class="example">
 
-What makes the question hard to answer?
-
-</div>
+> What makes the question hard to answer?
 
 Or 
 
-<div class="example">
+> Can you tell me what you are thinking about?
 
-Can you tell me what you are thinking about?
-
-</div>
 
 If the participant has started to give an answer already but stops talking and makes a longer pause and you still like to know more, you could »echo« the most recent statement or words the participant has said.
 
-<div class="example">
 
-Participant: »So I had it finished and send it away to the client and then almost nothing… [Pause]« 
 
-Researcher: »almost nothing?«
+> Participant: »So I had it finished and send it away to the client and then almost nothing… [Pause]« 
+>
+> Researcher: »almost nothing?«
 
-</div>
 
 This is a technique to make people carry on without skewing their
 answer.
 
-<div class="example">
 
-Researcher:»almost nothing?« 
-
-Participant: »Yes, there was a brief mail that they got the
+> Researcher:»almost nothing?« 
+>
+> Participant: »Yes, there was a brief mail that they got the
  design but I was unsure if that person actually gave it to
  the people who can decide something. That waiting just sucks.«
 
-</div>
 
 ### Keep your questions simple
 
 Questions should be simple to understand and only one question should be asked at
 once. 
 
- <div class="example">
-
-Can you describe how you align these elements? What is good about the
- resulting design?
-
-</div>
+> Can you describe how you align these elements? What is good about the resulting design?
 
 The question asks two things at once. This is has some disadvantages:
 
@@ -1078,13 +994,11 @@ The question asks two things at once. This is has some disadvantages:
 So, one question should be asked at once. In the example above one question
 should be asked first, then the second:
 
- <div class="example">
- 
- »Can you describe how you align these elements?« [Answer]
 
-»What is good about the resulting design? « [Answer]
+> »Can you describe how you align these elements?« [Answer]
+>
+> »What is good about the resulting design? « [Answer]
 
-</div>
 
 ## Don't make the user the designer
 
@@ -1092,21 +1006,13 @@ It is tempting to skip investigating the »how« and »why« of the
 participant’s work and to ask the participant instead directly  
 how the final product should be like.
 
- <div class="example">
- 
- Which function do you need for aligning objects?
- 
- </div>
+> Which function do you need for aligning objects?
 
 This is basically asking the user for the design of the software.
 
- <div class="example">
- 
- Yes, there should be a button for, like equal distributions… here.
+> Yes, there should be a button for, like equal distributions… here.
 It should be easy, so it should have a button with a ›distr‹ on it in
 red, so I don’t oversee it…
-
-</div>
 
 Asking the user for a design sounds like a reasonable thing to do – the resulting
 designs would be directly based on the suggestions of the participant.
@@ -1120,11 +1026,7 @@ come up with a great interface spontaneously?
 Another (highly tempting) way of »making the participant the designer«
 is to ask for the usefulness of hypothetical functions that you fancy yourself:
 
-<div class="example">
-
-Would a function for choosing a color scheme help you?
-
-</div>
+> Would a function for choosing a color scheme help you?
 
 This is like asking »Do you want an additional tool which might be
 useful at some point and get it for free?«. If the participant can think
@@ -1137,13 +1039,11 @@ If you *really* want to discuss a function instead of focusing on what the
 participant does and why this is done, give some context to the question and tie it to a
 specific situation.
 
- <div class="example">
  
- We think of a system in which colors can be changed like you just
+> We think of a system in which colors can be changed like you just
 changed the paragraph-styles. How would such a feature be relevant or
 not in the task you just described?
 
-</div>
 
 Thus, you can get more information on the tasks for which the feature could be
 useful. The question is not tied to all possible
@@ -1170,22 +1070,13 @@ In this case, refer back to the information and ask for elaboration.
 
 Here are some examples:
 
- <div class="example">
- 
- That typography settings – you said they are far more precise than the
- ones in wordprocessors. Can you explain me how these differences help you to
- design compared to the ones in wordprocessors?
-
-</div>
+> That typography settings – you said they are far more precise than the
+ones in wordprocessors. Can you explain me how these differences help you to
+design compared to the ones in wordprocessors?
 
 or
 
- <div class="example">
- 
- You said that you would continue with setting up the ›masterpage‹. Can you show me how?
-
-</div>
-
+> You said that you would continue with setting up the ›masterpage‹. Can you show me how?
 
 ![change the topic by referring to something said some time ago](images/talkDiagram_ReferBackDistance.svg)
 
@@ -1197,37 +1088,33 @@ in. By referring to something previously mentioned or demonstrated you can show
 that you have been attentive and thus make the topic change less
 intrusive:
 
- <div class="example">
  
- »…so this was a design made by some artist. It was really wired, I shared the office with him for some time. 
- He always came with that dog of him which…« »Hmm…you previously talked about creating a cover for the book – 
- you said that you try several designs. Can you describe how you try them?«
+> »…so this was a design made by some artist. It was really wired, I shared the office with him for some time. 
+>
+> He always came with that dog of him which…« »Hmm…you previously talked about creating a cover for the book –
+>
+> you said that you try several designs. Can you describe how you try them?«
 
-</div>
 
 ### Referring back to check your understanding
 
 You can refer back to answers to check your grasp of what
 the participant talked about. In this case, even closed questions are ok.
 
- <div class="example">
- 
- »I saw you choose the color from that palette down there – is this the
+
+
+> »I saw you choose the color from that palette down there – is this the
 same palette you choose the background color from?« »No, it is not –
 the palette I am using here is…«
 
-</div>
-
 or
 
- <div class="example">
  
- »So: If I want to print something first I need to ask for their color
+> »So: If I want to print something first I need to ask for their color
 profile, when I have this, I load it in InDesign, choose the profile
 in the pdf dialog and then export it?« »Yes. I usually to a test
 afterwards by opening the pdf in addition«
 
-</div>
 
 \
 \
@@ -1246,12 +1133,10 @@ forgot about them.
 
 After you ask a question,  participants will sometimes answer *»in general«*
 
- <div class="example">
  
- »In general, I have a workflow of these steps: Research, Ideation,
+> »In general, I have a workflow of these steps: Research, Ideation,
 Creation, Evaluation. So in research I…«
 
-</div>
 
 It may seem great – after all, a general process which you can apply to
 just about anything is a finding we seem want! But actually these *»in
@@ -1267,43 +1152,35 @@ A way to get  real-world, rich data is to ask for an example. Thus, you
 don’t blatantly reject the »general« answer but you convey that you are interested and
 want to understand it better:
 
- <div class="example"> 
- 
- Can you show me an example of how you put that principles into
+
+> Can you show me an example of how you put that principles into
  practice?
 
-</div>
 
 You can as well ask  for a specific occasion of the »general« happening or being
 done. The answer will be give the context of the activities happening in an actual situation.
 
- <div class="example">
- 
- In the magazine project – can you describe how your design process was 
+
+> In the magazine project – can you describe how your design process was 
  there?
 
-</div>
 
 Or
 
- <div class="example"> 
- 
- »Can you show me how you do this in the project you are working on now  – if that makes sense?«
 
-</div>
+> »Can you show me how you do this in the project you are working on now  – if that makes sense?«
+
 
 Very often you may discover that the reality is far less consistent and
 far more context-depended then in the general examples. The findings are more
 interesting and inspiring as well:
 
- <div class="example"> 
- 
- Participant: »Well, in this project we have a tight deadline. So we needed to speed
+
+> Participant: »Well, in this project we have a tight deadline. So we needed to speed
  up. So I did some research… well, I reused some I did have from a
  similar project…  and talked to a fellow student who did something
  similar. And then…«
 
-</div>
 
 By asking for examples and specific events instead of context-free
 generalizations, you can get more information and avoid doing research on
@@ -1334,13 +1211,11 @@ questions.  I try to summarize what I learned from the participant
 by going through my notes and verbalize the information. You can
 even announce it like this:
 
- <div class="example">
  
- This was very interesting. To wrap it up I want to give a brief
+> This was very interesting. To wrap it up I want to give a brief
 summary of what I learned. Please feel free to correct me, if I
 misunderstood something! So: Your, you said that your work is to…
 
-</div>
 
 When verbalizing what you learned, the participant can fill gaps and clarify any misunderstandings. 
 It is also a good way to fade out the research session.
@@ -1351,16 +1226,14 @@ to the participant. In addition, I try to give an outlook on the next steps in t
 research to let the participant know how the data matters for
 me:
 
- <div class="example">
  
-My next steps would be going though audio and notes. After
+> My next steps would be going though audio and notes. After
 anonymizing what we recorded, me and my colleague analyze the data and the
 data from other research sessions to find out how graphic designers work. 
-
-We will try to improve our products by making it more suitable to this
+>
+> We will try to improve our products by making it more suitable to this
 workflow.
 
-</div>
 
 
 ## Recording Data
@@ -1388,16 +1261,12 @@ a minimum.
 If you can, try to provide some context in your notes. If a note has some own context information attached to it, 
 it can be understood on its own, too. 
 
- <div class="example">
- 
- Rather than writing *»she clicks«* (what? Why?) you could write *»Clicks save button, has finished balancing the elements«* or the like.
- </div>
 
- <div class="example">
- 
- Rather than »creates empty page« write
- »creates empty pages to organize drafts«
-</div>
+> * Rather than writing *»she clicks«* (what? Why?) you could write *»Clicks save button, has finished balancing the elements«* or the like.
+>
+> * Rather than »creates empty page« write
+> »creates empty pages to organize drafts«
+
 
 If your notes have a meaning on their own it will be far easier to analyze them later.
 
@@ -1456,7 +1325,7 @@ observations.
 ## Supplement from memory
 
 It is essential to take time after the research session to supplement your
- notes with information from your memory. While collecting
+notes with information from your memory. While collecting
 the data with the participant you will be very busy listening and
 thinking of following questions. So you may not be able to keep up with
 writing notes and drawing sketches. There is no need to worry since
@@ -1470,32 +1339,24 @@ chronologically and add annotations.
 A part of these additions are things that are not in the
 notes yet but still in my memory. In this case I *add* them, like
 
- <div class="example">
  
- [ADDITION]: 
+> \[ADDITION\]: 
+> 
+> *She looks at her sketches before she starts working*  
  
- *She looks at her sketches before she starts working* 
- 
- </div>
 
 or I supplement some *existing* point with additional information:
 
- <div class="example">
- 
- Sketching paper kept ready. \[ADDITION\]: *In transit: in the backpack; at
+> Sketching paper kept ready. \[ADDITION\]: *In transit: in the backpack; at
 the workplace: right on the desk*
-
-</div>
 
 You can give brief notes more meaning by adding context from your
 memory:
 
- <div class="example"> 
  
- * She saves old ideas \[ADDITION\]: For later inspiration in other
- projects *
+> *She saves old ideas \[ADDITION\]: For later inspiration in other
+projects*
  
- </div>
 
 <div class="gallery four">
 
@@ -1520,15 +1381,14 @@ but since memory fades, they will seem cryptic later. So supplement and
 clarify your sketches and notes so you can comprehend them after your
 memories of the experience have faded.
 
- <div class="example">
 
-I have line *»Big changes«* in my
+> I have line *»Big changes«* in my
 Notes. I remember that I made this note when the participant told me that her colleagues make bigger 
 changes between to two versions of their designs than she does. 
 I added this information to the notes, since it provided a way to understand what the »big changes«
 actually refer to. 
 
-</div>
+
 
 Similarly, if my writing is rather messy, I rewrite some words to ensure
 that I can later decipher what I wrote.
@@ -1538,19 +1398,19 @@ during the interview with a blue pen I use black for the supplements or
 vice versa, since I like to be able to keep track of what I did in which
 step of the process.
 
- <div class="example">
 
-![](images/NotesSupplements2Anno.png)
- 
- In this scanned part of a note sheet you see how the supplements are
- used: **1)** These parts have been partly rewritten in black as it was too
+
+>![](images/NotesSupplements2Anno.png)
+> 
+> In this scanned part of a note sheet you see how the supplements are
+ used: 
+>
+>**1)** These parts have been partly rewritten in black as it was too
  messy before. **2)** At the right you see an newly drawn annotated sketch
  that provides a visual representation (how the document is organized
  by inserting empty pages). **3.)** More information has been provided. It
  was »keeping for inspiration«, now its »keeping *old stuff* for
  inspiration«
- 
- </div>
 
 Using different colors is useful for another type of supplement:
 Ideas or remarks in connection to your notes. When I go
@@ -1575,30 +1435,29 @@ On the other hand, make sure that the data you write down is meaningful on its o
 is not just a single word or a description which is free of any context and thus hard to 
 set in relation to other data.
 
-<div class="example">
 
 **Not meaningful on its own (means mostly: too short):**
-
--  I duplicate objects
--  making space 
+ 
+> -  I duplicate objects
+> -  making space 
 
 If there is any way to add the actual context (out of the memory or using other notes) 
 these notes should be supplemented with that context which hopefully helps us to get to
 know why are objects are duplicated and for which purpose is the space is made.
 
+
 **Too many statements in one line (means as well: too long):**
 
-- Duplicating pages to save old ideas is common. Later she goes back to the duplicates and looks at them when she needs inspiration 
-- Tries to have enough space for the margins to write my comments in the margins; to do so she shrinks the 
-main text area. I could as well try to make space down here, and use footnotes for the comments. 
+> - Duplicating pages to save old ideas is common. Later she goes back to the duplicates and looks at them when she needs inspiration 
+> - Tries to have enough space for the margins to write my comments in the margins; to do so she shrinks the main text area. I could as well try to make space down here, and use footnotes for the comments. 
+
 
 **Reasonable (each line can stand on its own and does not to cover multiple issues at once)**
  
-- Duplicating objects to save old ideas for later inspiration 
-- Make space for additional comments by shrinking main text area. 
-- Alternative places for additional comments: Either right margin or bottom. 
+> - Duplicating objects to save old ideas for later inspiration 
+> - Make space for additional comments by shrinking main text area. 
+> - Alternative places for additional comments: Either right margin or bottom. 
 
-</div>
 
 The notes from the research session and later added supplements from my memory are treated alike 
 in my documents since they are all data I gathered by listening or observing
@@ -1622,15 +1481,13 @@ If it makes sense, you can use the information from the photos to supplement you
 It might as well useful to describe the photo. 
 These descriptions are easier to handle than the photo itself when doing the analysis.
 
-<div class="example">
 
-![photographing a screen instead of using screenshots](images/ObservationDesignU4ScreenFontMix.jpg)
+> ![photographing a screen instead of using screenshots](images/ObservationDesignU4ScreenFontMix.jpg)
+>
+> For the photo above you might add the following line to your notes: »participant 
+> displays different font combinations in the layout application to see if 
+> the fonts go well together (see *U2-14-9-14_1.jpg* )«
 
-For the photo above you might add the following line to your notes: »participant 
-displays different font combinations in the layout application to see if 
-the fonts go well together (see *U2-14-9-14_1.jpg* )«
-
-</div>
 
 ###Audio
 
@@ -1641,17 +1498,14 @@ supplements information that is already there, I pause the playback and write th
 additional information in the document. So the process is very similar to supplementing 
 your notes from memory.
 
-<div class="example">
 
-Audio recording: »…hmm I send it to my boss. She will check it. Now I go to that 
+> Audio recording: »…hmm I send it to my boss. She will check it. Now I go to that 
 other document, and see…«
-
-The notes say: »Send document via mail«
-
-So I add the information about the cause of sending the mail:
-»Send document via mail to the boss for checking.«
-
-</div>
+>
+> The notes say: »Send document via mail«
+>
+> So I add the information about the cause of sending the mail:
+> »Send document via mail to the boss for checking.«
 
 If you need to save time, go through your notes and see where they lack information. Then just jump 
 to the parts of the audio that might complement these sections.
@@ -1691,21 +1545,19 @@ This is useful when designing, since you can refer to the title instead of consi
 Sometimes you will have several themes, which relate to a common theme themselves. In this case, it makes sense to make a group of groups with a title which states the overarching theme of this group of groups.
 
 
-<div class="example">
+> Here is a part of an analysis. 
+>
+> -   *Overarching theme*: using existing work for inspiration 
+>	-   *sub-theme*: review previous projects 
+>		- *Data:* » have a look at an old project to see how I solved this problem…«
+>		- *Data:*  Participant searches for…
+>		- …
+>	-   *sub-theme*: use other’s work  for inspiration
+>		- *Data:* »I look on google images how other calendars look like«
+>		- *Data:* browses through the book to see…
+>		- …
+>
 
-Here is a part of an analysis. 
-
--   *Overarching theme*: using existing work for inspiration 
-	-   *sub-theme*: review previous projects 
-		- *Data:* » have a look at an old project to see how I solved this problem…«
-		- *Data:*  Participant searches for…
-		- …
-	-   *sub-theme*: use other’s work  for inspiration
-		- *Data:* »I look on google images how other calendars look like«
-		- *Data:* browses through the book to see…
-		- …
-		
-</div>
 
 Such a hierarchical analysis could be done in two ways: 
 
@@ -1718,33 +1570,27 @@ that the group names are initially created are based on actual data.
 
 Thus, in the analysis we may start with grouping moving similar data
 
-<div class="example">
+> - *Data:*  »I look on google images how other calendars look like«
+> - *Data:*  Browses through the book to see…
 
-- *Data:*  »I look on google images how other calendars look like«
-- *Data:*  Browses through the book to see…
-
-</div>
 
 Then we give that data a headline and name the topic:
 
-<div class="example">
 
-- **theme:** use other’s work  for inspiration
-	- *Data:* »I look on google images how other calendars look like«
-	- *Data:*  Browses through the book to see…
-	
-</div>
+
+>- **theme:** use other’s work  for inspiration
+>	- *Data:* »I look on google images how other calendars look like«
+>	- *Data:*  Browses through the book to see…
 
 When we come across a piece of data which shares the topic we can add it to the group too: 
 
-<div class="example">
 
-- *theme:* use other’s work  for inspiration
-	- **Data:  Searches on amazon to see how covers of books about the same topic look like**
-	- *Data:* »I look on google images how other calendars look like«
-	- *Data:*  Browses through the book to see…
-	
-</div>
+
+>- *theme:* use other’s work  for inspiration
+>	- **Data:  Searches on amazon to see how covers of books about the same topic look like**
+>	- *Data:* »I look on google images how other calendars look like«
+>	- *Data:*  Browses through the book to see…
+
 
 ## Create meaningful groups
 
@@ -1752,60 +1598,54 @@ I already talked about grouping data by shared themes. The question is: What is 
 
 One method to group data and to derive a theme would be going through the data and see which utterances 
 and observations mention the same thing or the same assessment. Thus, all notes mentioning »color« would 
-belong to one theme and get the title »Color«; all notes mentioning »good«  belong to one theme and get the title »good things«.
+belong to one theme and get the title »Color«; all notes mblockquote p+p entioning »good«  belong to one theme and get the title »good things«.
 
-<div class="example">
 
-Let’s say we gathered this data (among others) in research on Do-It-Yourself-Work (DIY)
+> Let’s say we gathered this data (among others) in research on Do-It-Yourself-Work (DIY)
+> 
+> - The shelf looks not as neat as a bought one, but it is mine
+> - When it is broken and I need to get to work I can fix my bike quickly 
+> - The cabinet’s door was loose. It annoyed me, so I repaired it. 
+> - I look at the assembled bike and think: nobody else has the same 
+> 
+> If we put the pieces of data which mention the same things in the same group we get these two groups: 
+> 
+> - Theme: Bikes
+> 	- I look at the assembled bike and think: nobody else has the same 
+> 	- When my bike is broken and I need to get to work I can fix my bike quickly 
+> - Theme: Furniture
+> 	- The cabinet’s door was loose. It annoyed me, so I repaired it. 
+> 	- The shelf looks not as clean as a bought one, but it is mine
 
-- The shelf looks not as neat as a bought one, but it is mine
-- When it is broken and I need to get to work I can fix my bike quickly 
-- The cabinet’s door was loose. It annoyed me, so I repaired it. 
-- I look at the assembled bike and think: nobody else has the same 
-
-If we put the pieces of data which mention the same things in the same group we get these two groups: 
-
-- Theme: Bikes
-	- I look at the assembled bike and think: nobody else has the same 
-	- When my bike is broken and I need to get to work I can fix my bike quickly 
-- Theme: Furniture
-	- The cabinet’s door was loose. It annoyed me, so I repaired it. 
-	- The shelf looks not as clean as a bought one, but it is mine
-
-</div>
 
 Organizing the data by this »same things mentioned«-method would help us  find data concerned 
 with a specific thing or assessment: If we want see everything that concerned furniture we can go through 
 the data in the »furniture« group; If we would like to know what people liked we could look it up in a group titled »good«.
 
-However, organizing by the »same things mentioned«-method has its shortcomings: A theme named »furniture« communicates 
-only that the underlying data has *something* to do with furniture. You still need to go through the underlying data 
+However, organizing by the »same things mentioned«-method has its shortcomings: A theme named »furniture« communicates only that the underlying data has *something* to do with furniture. You still need to go through the underlying data 
 to find out what people did with their furniture and what motivates them or which problems they face.
 The names of themes  created by organizing by the »same things mentioned«-method are just labels for the content and have no meaning on its own.
 
 Imagine we would not create the themes by looking for same things being mentioned but by the insights we 
 drew from the data in the group by focusing on the meaning of activities, problems and goals for the participants. 
 
- If we take the data about DIY again this could look like this:
+If we take the data about DIY again this could look like this:
 
-<div class="example">
 
-- Theme ((based on an insight about the participants): Participants need to »make things work«
-	- The cabinet’s door was loose. It annoyed me, so I repaired it. 
-	- When my bike is broken and I need to get to work with it the next day I can fix my bike quickly
-- Theme (based on an insight about the participants): Good: DIY gives sense of individuality
-	- The shelf looks not as clean as a bought one, but it is mine
-	- I look at the assembled bike and think: nobody else has the same
+> - Theme ((based on an insight about the participants): Participants need to »make things work«
+> 	- The cabinet’s door was loose. It annoyed me, so I repaired it. 
+> 	- When my bike is broken and I need to get to work with it the next day I can fix my bike quickly
+> - Theme (based on an insight about the participants): Good: DIY gives sense of individuality
+> 	- The shelf looks not as clean as a bought one, but it is mine
+> 	- I look at the assembled bike and think: nobody else has the same
  
- </div>
 
 If we organize data by themes based on the insights about the participants and summarize that 
 insight in the group’s title, the theme’s title is  a useful piece of information on its own: 
 It is not just for accessing the data, it is an empirically based principle we can follow when 
 we design.
 
-If you design, let’s say, for a DIY-Online community, a theme based on an insight, like »DIY gives as sense of
-ownership«  may inspire the implementation of a function which allows people to share their
+If you design, let’s say, for a DIY-Online community, a theme based on an insight, like »DIY gives as sense of ownership«  may inspire the implementation of a function which allows people to share their
 designs and customizations. The insight that sometimes DIY is just about fixing things may
 lead to the provision of a wiki for collecting best practices for doing common repairs and
 maintenance. 
@@ -1815,43 +1655,43 @@ Does it violate them?«. You may ask yourself »Which design could I  create bas
 Since the themes are based on our data, they will express the actual needs of your users and not 
 some (potentially stereotypical) assumptions.
 
-Grouping your data based on insights about your participants provides great benefits. But it can be hard and 
-may be not possible for all your data. Creating groups using the same-things-mentioned methods is still a useful 
-method and these groups may still evolve. Usually I have  some »same-things-mentioned«-groups in the beginning 
+Grouping your data based on insights about your participants provides great benefits. 
+But it can be hard and may be not possible for all your data. 
+Creating groups using the same-things-mentioned methods is still a useful method and these 
+groups may still evolve. Usually I have  some »same-things-mentioned«-groups in the beginning 
 and far fewer at the end – but  my analysis will be a mixture of both styles.
 
 
-<div class="example">
+
 
 To understand how to organize data by themes based on insights can be hard to grasp for beginners. 
 To ease the learning I provide another example:
 
-Let’s say we gathered this data (amongst others) when researching beginners in web programming:
+> Let’s say we gathered this data (amongst others) when researching beginners in web programming:
+> 
+> - To try out stuff in HTML is fun 
+> - I analyze Javascript code to understand patterns 
+> - It is great to quickly test something using a JavaScript framework 
+> - To know these ›attributes‹ of HTML-›tags‹ makes writing code easier.
+> 
+> If we put the pieces of data which mention the same things in the same group we get these two groups: 
+> 
+> - Theme (based on same-things-being-mentioned):: Utterances with HTML 
+> 	- To try out stuff in HTML is fun 
+> 	- To know these 'attributes' of HTML-'tags' makes writing code easier. 
+> - Theme (based on same-things-being-mentioned):: Utterances with JavaScript 
+> 	- I analyze JavaScript code to understand patterns 
+> 	- It is great to quickly test something using a JavaScript framework
+> 
+> Organizing the data by the insights we may draw from the data the structure look like this: 
+> 
+> - Theme (based on an insight about the participants): Trying out is good 
+> 	- To try out stuff in HTML is fun 
+> 	- It is great to quickly test something using a javascript framework 
+> - Theme (based on an insight about the participants): Learning makes own coding better 
+> 	- I analyze Javascript code to understand patterns 
+> 	- To know these 'attributes' of HTML-'tags' makes writing code easier. 
 
-- To try out stuff in HTML is fun 
-- I analyze Javascript code to understand patterns 
-- It is great to quickly test something using a JavaScript framework 
-- To know these ›attributes‹ of HTML-›tags‹ makes writing code easier.
-
-If we put the pieces of data which mention the same things in the same group we get these two groups: 
-
-- Theme (based on same-things-being-mentioned):: Utterances with HTML 
-	- To try out stuff in HTML is fun 
-	- To know these 'attributes' of HTML-'tags' makes writing code easier. 
-- Theme (based on same-things-being-mentioned):: Utterances with JavaScript 
-	- I analyze JavaScript code to understand patterns 
-	- It is great to quickly test something using a JavaScript framework
-
-Organizing the data by the insights we may draw from the data the structure look like this: 
-
-- Theme (based on an insight about the participants): Trying out is good 
-	- To try out stuff in HTML is fun 
-	- It is great to quickly test something using a javascript framework 
-- Theme (based on an insight about the participants): Learning makes own coding better 
-	- I analyze Javascript code to understand patterns 
-	- To know these 'attributes' of HTML-'tags' makes writing code easier. 
-
-</div>
 
 ## Doing the »right« Analysis
 
@@ -1908,23 +1748,21 @@ A participant code works like a pseudonym: The user is not identifiable by his/h
 but by a stand-in for the name. I use neutral number codes: The first person I did a research 
 session with is P1, the second is P2 etc.
 
-<div class="example">
-If you have this on your transcript:
+> If you have this on your transcript:
+>
+> - It is hard to know what exactly the client wants, because I don’t talk directly to the client
+> - The document is divided in sections, separated by blank pages. 
+> - The current ideas/prototypes are in the first section. All discarded or »paused« ones are in later sections (the archive”)
+> […]
+> 
+> It will look like this after adding the participant codes (the data is from the second research 
+> session:
+> 
+> - It is hard to know what exactly the client wants, because I don’t talk directly to the client –  **P2**
+> - The document is divided in sections, separated by blank pages.  –  **P2**
+> - The current ideas/prototypes are in the first section. All discarded or ›paused‹ ones are in later sections (the archive”) –  **P2**
+> […]
 
-- It is hard to know what exactly the client wants, because I don’t talk directly to the client
-- The document is divided in sections, separated by blank pages. 
-- The current ideas/prototypes are in the first section. All discarded or »paused« ones are in later sections (the archive”)
-[…]
-
-It will look like this after adding the participant codes (the data is from the second research 
-session:
-
-- It is hard to know what exactly the client wants, because I don’t talk directly to the client –  **P2**
-- The document is divided in sections, separated by blank pages.  –  **P2**
-- The current ideas/prototypes are in the first section. All discarded or ›paused‹ ones are in later sections (the archive”) –  **P2**
-[…]
-
-</div>
 
 You just add the participant code at the end or beginning of each line. It is not the most 
 exiting work but it can be done quickly – Copy the current coder in the computer's clipboard 
@@ -1945,13 +1783,10 @@ later.
 Annotations are possible interpretations and questions tied to a line in your transcript. It can 
 be full sentences as well as short list of words. 
 
-<div class="example">
+> - It is hard to know what exactly the client wants, because I don’t talk directly to the client –  P2 **ANNOTATION: indirectness, division of tasks, friction, »I need to know the client«.**
+> - The document is divided in sections, separated by blank pages.  –  P2 **ANNOTATION: Keeping/imposing order**
+> - The current ideas/prototypes are in the first section. All discarded or »paused« ones are in later sections (»the archive«) –  P2 **ANNOTATION: Keeps old ideas. Why? Possible: Later reuse, Inspiration, replication**
 
-- It is hard to know what exactly the client wants, because I don’t talk directly to the client –  P2 **ANNOTATION: indirectness, division of tasks, friction, »I need to know the client«.**
-- The document is divided in sections, separated by blank pages.  –  P2 **ANNOTATION: Keeping/imposing order**
-- The current ideas/prototypes are in the first section. All discarded or »paused« ones are in later sections (»the archive«) –  P2 **ANNOTATION: Keeps old ideas. Why? Possible: Later reuse, Inspiration, replication**
-
-</div>
 
 I suggest annotating each line, but this is not a must.
 
@@ -2074,18 +1909,17 @@ notes in adjacent lines. Create different groups, each containing similar notes,
 by using several line breaks above and below such a group or by 
 creating a list for each assumed theme.
 
-<div class="example">
 
-- Asking herself: what would impress the person (a safety advisor)
+> - Asking herself: what would impress the person (a safety advisor)
  »probably not that the blueprint is beautiful«
-- Good: Something that is not only useful, but aesthetically as well
-
-*These themes have in common that they are about aesthetics
+> - Good: Something that is not only useful, but aesthetically as well
+>
+> *These themes have in common that they are about aesthetics
 and requirements. I did not have a good idea about a possible
 group title or even an insight I can draw from them, so I just moved them in
 approximation.*
 
-</div>
+
 
 <div class="gallery two">
 
@@ -2106,21 +1940,20 @@ make dealing with the data easier since it gives your data some structure.
 As you gather other data that falls under that (yet
 vague) category you may be able to formulate and insight you gain about the underlying data. 
 
-<div class="example">
 
-- Inspiration
-	-  I try to get new ideas by looking at google images
-	-   I get new ideas while showering
-	-  […]
 
--  Media
-	- I like to use photos
-	- The website is a great way to reach out
+> - Inspiration
+> 	-  I try to get new ideas by looking at google images
+> 	-   I get new ideas while showering
+> 	-  […]
+>
+> -  Media
+> 	- I like to use photos
+> 	- The website is a great way to reach out
+>
+> *These are mere titles, naming a commonality of the underlying
+> data but telling nothing useful for design (yet)*
 
-*These are mere titles, naming a commonality of the underlying
-data but telling nothing useful for design (yet)*
-
-</div>
 
 
 ### State insights  
@@ -2133,39 +1966,38 @@ will emerge to be bigger. If not, you can still revise the insight or
 just get rid of it and see where else the data might fit.
 
 
-<div class="example">
 
-My first found insights were these:
 
--   Review previous projects
--   Test designs in the media you deliver in
-
-\
-\
-
-The structure of my analysis looked like that (the main list points are titles of groups-of-groups,
+> My first found insights were these:
+>
+> -   Review previous projects
+> -   Test designs in the media you deliver in
+>
+>\
+>\
+>
+>The structure of my analysis looked like that (the main list points are titles of groups-of-groups,
 the indented sub-lists are group titles):
+>
+>-   Inspiration
+>	-   Review previous projects
+>	-   Other (Web, Bookstore)
+>
+>-   Media
+>	-   Do tests in the media you target
+>	-   Suitablility of media
+>	-   »being closer« : 2 page spreads instead of single pages etc.
+> -   Idea Attachment
+> -   Motivation at the beginning; then the problems start.
+> -   Finishing is good
+> -   (Page) Format is hard to change later
+> -   TrialAndError
+> -   Mutual dependencies of design elements like type area, content, font size etc. (?)
 
--   Inspiration
-	-   Review previous projects
-	-   Other (Web, Bookstore)
-
--   Media
-	-   Do tests in the media you target
-	-   Suitablility of media
-	-   »being closer« : 2 page spreads instead of single pages etc.
--   Idea Attachment
--   Motivation at the beginning; then the problems start.
--   Finishing is good
--   (Page) Format is hard to change later
--   TrialAndError
--   Mutual dependencies of design elements like type area, content, font size etc. (?)
-
-Note that some themes are actual, meaningful insights (»Finishing is
+>Note that some themes are actual, meaningful insights (»Finishing is
 good«, »(Page) Format is hard to change later«), while some are
 mere group titles based on commonalities of the  data they encompass (»Inspiration«, »Trial and Error«).
 
-</div>
 
 Now you will have some preliminary, data based themes, each created based on a few data points. 
 Now we will see if these themes are useful for organizing more than just a few data points. 
@@ -2200,56 +2032,52 @@ When filling the data in the structure, you may notice that you need to
 create additional themes. Some of the titles of the themes may need to be 
 renamed as well. Just go ahead and make these changes if you feel they are needed.
 
-<div class="example">
-
-
-- \[Title:\] Test in the media you target
-	-   I folded prototypes for paper sizes that seem to be suitable
-	-   This is close the print shops results without spending too much
-	-   Tedious: Not having an own printer
-	-   […]
-
-- \[Title\]»being closer«: Page Spreads instead of single pages
-	- Creates page spreads (In books you have always 2 opposite pages, thus single pages are not useful for design)
-
- \
-
- Actually the example above is not great in terms of analysis: 
+> - \[Title:\] Test in the media you target
+> 	-   I folded prototypes for paper sizes that seem to be suitable
+> 	-   This is close the print shops results without spending too much
+> 	-   Tedious: Not having an own printer
+> 	-   […]
+> 
+> - \[Title\]»being closer«: Page Spreads instead of single pages
+> 	- Creates page spreads (In books you have always 2 opposite pages, thus single pages are not useful for design)
+>
+> \
+>
+> Actually the example above is not great in terms of analysis: 
  The »Test in the Media you target«  data is almost all from one 
  person (P3) and the »being closer«-Group
  has only a single data point. In later iterations I'll change this
  group. But for now it suffices.
-
-\
-\
-
- While I was sorting the data I created a new group to accommodate data
+>
+>\
+>\
+>
+> While I was sorting the data I created a new group to accommodate data
  related to changes in designs:
-
--   \[Titel:\]Changing and determining
-	-   Determining: What do we have? What do we need? What do we want to avoid?
-	-   Sketching, e.g. for »How can I divide the page for 7 days of the week?«
-	-   »This is trial and error«
-
-\
-\
-
-Some data could not be accommodated yet. So I created a misc
+>
+>-   \[Titel:\]Changing and determining
+>	-   Determining: What do we have? What do we need? What do we want to avoid?
+>	-   Sketching, e.g. for »How can I divide the page for 7 days of the week?«
+>	-   »This is trial and error«
+>
+>\
+>\
+>
+>Some data could not be accommodated yet. So I created a misc
 group, where I could offload the data for now and try to find a better
 place later:
-
--   \[Titel:\]misc
-	-   God: Shortcuts
-	-   I need to ask the print shop what this design would cost
-	-   Bad: Doing the same steps over and over again.
-	-   \[…many other points…\]
-
-Inside the misc group some possibilities for future insights
+>
+>-   \[Titel:\]misc
+>	-   God: Shortcuts
+>	-   I need to ask the print shop what this design would cost
+>	-   Bad: Doing the same steps over and over again.
+>	-   \[…many other points…\]
+>
+>Inside the misc group some possibilities for future insights
 emerged – for example the first (god: Shortcuts) and the third
 point (»bad: doing the…« could be part of a newly formed
 insights named »I want to avoid repetitive tasks«
 
-</div>
 
 Now your groups will be informed by several data points each. 
 But there will be many themes which are created by the »same things mentioned«-Method; 
@@ -2291,47 +2119,37 @@ require moving some data between groups as well in order to
 accommodate the data to the improved 
 structure.
 
-<div class="example"> 
 
-For one group I used the title »Arranging«, since arranging and aligning
+
+> For one group I used the title »Arranging«, since arranging and aligning
  objects, lines and text to a predefined grid or to each other was a
  task that occured frequently. But the title  »Arranging« just names a
  commonality. To make clear that the group is
  about a user activity and to state the theme as an insight,  I
  renamed »Arranging« to »Arranging objects is an important activity«
 
-</div>
 
-
-<div class="example">
-
-I had a group titled »repetitive and manually«. This could be easily
+> I had a group titled »repetitive and manually«. This could be easily
  stated as an insight: »repetitive and ›do-it-manually‹
  tasks are tedious«. By just adding the users view (»are tedious«) the
  title became an insight which is a useful principle for design. 
 
-</div>
-
 \
 \
 
-<div class="example">
-
-I had the following structure:
-
--   Inspiration
-	-   Review previous projects
-	-   Others (Web, Bookshop)
-
- »Inspiration« is a title based on the »same-things-mentioned«-principle so I had a look at
+> I had the following structure:
+>
+> -   Inspiration
+>	 -   Review previous projects
+>	 -   Others (Web, Bookshop)
+>
+> »Inspiration« is a title based on the »same-things-mentioned«-principle so I had a look at
  the underlying data. They all were about inspiration – but they
  had another commonality: All inspiration techniques used
  other, existing designs, often ones that were created by the
  same person or even for the same project (It would have been
  possible that people take a walk or have frequent brainstormings or take drugs to get new
  ideas etc.). The insight I came up with was: »I use  existing designs for inspiration« 
-
-</div>
 
 
 ### (Re) Move data to other groups  
@@ -2355,45 +2173,41 @@ fit better to another group. If not, place it in a »not yet grouped« or
 see if you can use the data from that group to enhance other
 groups with that data.
 
-<div class="example">
 
-I reviewed the following group:
-
--   Feedback
-	-   Good: getting feedback
-	-   Bad: uncertainty before feedback from client
-
-\
-The title was not a meaningful insight and I felt that the
+> I reviewed the following group:
+>
+> -   Feedback
+>	-   Good: getting feedback
+>	-   Bad: uncertainty before feedback from client
+>
+> \
+> The title was not a meaningful insight and I felt that the
 analysis might benefit if I use the data in other themes. 
 I already had a cluster related to motivations
 and emotions– where I moved *»bad: uncertainty before feedback
 from client«*. The *»good: getting feedback«* was moved to a
 cluster named *»Exchange with others«*. 
 
-While I think I gained something out of it, these changes 
+> While I think I gained something out of it, these changes 
 did not result in a new much better structure but was 
 part of trials and errors in the process.
-</div>
 
+\
+\
 
-<div class="example">
-
-Going through the data of a group named »general requirements« I noted
+> Going through the data of a group named »general requirements« I noted
 that a big part of the data was concerned with balancing  
 *functional* or *practical* requirements (price, readability etc.) with
 requirements concerning *style* (using colors, being innovative)
 
-Thus, I renamed the group to »trying to combine aesthetics and
+> Thus, I renamed the group to »trying to combine aesthetics and
 functionality«. As the new title was more specific some data needed to
 be taken out, put into other groups or to the temporary »misc« group.
 
-</div>
+\
+\
 
-
-<div class="example">
-
-The previous examples were concerned with whole themes and thus focused on the macro level. 
+> The previous examples were concerned with whole themes and thus focused on the macro level. 
 Sometimes you just move data itself, without any trigger like renaming, just because
 you found a better fit. For example *»using the maximum possible height
 on a sheet of paper«* was grouped into »media«. Later, I moved it to *»budget«*
@@ -2404,7 +2218,6 @@ the participants work was finding out how they could make the most out
 of a small budget (*»using the maximum possible height on a sheet of
 paper«* is a practice that results from that concern.)
 
-</div>
 
 ### Create Subgroups  
 
@@ -2417,59 +2230,55 @@ similar data in proximity and try to create clear-cut insights if
 possible. In this process you might find a more suitable way to state
 the theme of the main group as well.
 
-<div class="example">
 
-I had a group with more than ten points regarding »Colleagues and
+> I had a group with more than ten points regarding »Colleagues and
 Friends«. This title was rather general and thus not very useful for
 design. I created two subgroups which were more meaningful.
+>
+> \
+> Before:
+>
+> - Colleagues, Friends etc.
+>	-   A friend told her that concrete is visualized dashed
+>	-   Puts sketches on the wall: Others will see it and talk with me.
+>	-   Which design do we take? Talks with fellow designer
+>	-   […]
+>
+> after splitting and rearrangement:
+>
+> -   Exchange Knowledge
+>	-   A friend told her that concrete is visualized dashed
+>	-   Puts sketches on the wall: Others will see it and talk with me.
+>	-   […]
+>-   making decisions with others
+>	-   Which design do we take? Talks with fellow designer
+>	-   feedback-rounds with other designers
+>
 
 \
-Before:
-
-- Colleagues, Friends etc.
-	-   A friend told her that concrete is visualized dashed
-	-   Puts sketches on the wall: Others will see it and talk with me.
-	-   Which design do we take? Talks with fellow designer
-	-   […]
-
-after splitting and rearrangement:
-
--   Exchange Knowledge
-	-   A friend told her that concrete is visualized dashed
-	-   Puts sketches on the wall: Others will see it and talk with me.
-	-   […]
--   making decisions with others
-	-   Which design do we take? Talks with fellow designer
-	-   feedback-rounds with other designers
-
-</div>
+\
 
 
-<div class="example">
-
-One main point in my first structure was »Highly motivated at the
+>One main point in my first structure was »Highly motivated at the
 beginning; then the problems start.«. After restructuring this became
 a sub point of motivation related groups.
-
-- \[group-of-groups\] Motivations
-	-   \[Subgroup\]: Highly motivated at the beginning; then the problems start.
-	-   \[Subgroup\]: Finishing is good
-	-   \[Subgroup\]: Waiting for feedback is bad
-	-   \[Subgroup\]: being afraid of clients rejection of the design
+>
+>- \[group-of-groups\] Motivations
+>	-   \[Subgroup\]: Highly motivated at the beginning; then the problems start.
+>	-   \[Subgroup\]: Finishing is good
+>	-   \[Subgroup\]: Waiting for feedback is bad
+>	-   \[Subgroup\]: being afraid of clients rejection of the design
  
-</div>
-
-<div class="example"> 
+\
 \
 
-sometimes you first sort the data under the overarching title or principle
+> >ometimes you first sort the data under the overarching title or principle
 and then move it to an already existing subgroup later:
 
-The utterance: »Its bad that you can do imprecise things here,
+> The utterance: »Its bad that you can do imprecise things here,
 compared to programming (talking about Illustrator)« was first sorted
 into »Media« and subsequently put into »using the right media«
 
-</div>
 
 ## Wrap it up  
 
@@ -2494,62 +2303,58 @@ data may still do minor improvements but there are no big changes
 anymore. Review the data a last time. The analysis is finished and it is
 time to communicate your results.
 
-<div class="example">
 
-**Final structure:**
-
--   Arranging Objects as important part of the work 
--   using existing work for inspiration 
-	-   review previous projects 
-	-   use other’s work  
-	-   use previous ideas from same project 
--   Media
-	-   Test design in the target media 
-	-   Find suitable media 
--   Being attached to ones own ideas         
--   Working visually 
--   Social 
-	-   Exchange Knowledge 
-	-   Collaborative decision making 
--   Motivation 
-	-   Highly motivated at the beginning; then the problems start 
-	-   Finishing is good
-	-   Waiting for feedback is bad 
-	-   being afraid of clients rejection of the design 
--   repetitive and manual work (negative)  
--   changes and requirements 
-	-   Some changes like page format are hard to change later 
-	-   combine function and aesthetics 
-	-   changes cause other changes 
-	-   considering the budget 
-	-   trial and error as method 
-	-   use the actual content for testing (not fake content) 
-	-   fixate things to have a starting point 
--   Misc 
-	-   designer vs. technology 
-	-   making calculations 
-	-   choosing fonts 
-
- 
-These are all the groups I created in my analysis. The results could be
+> **Final structure:**
+> 
+> -   Arranging Objects as important part of the work 
+> -   using existing work for inspiration 
+> 	-   review previous projects 
+> 	-   use other’s work  
+> 	-   use previous ideas from same project 
+> -   Media
+> 	-   Test design in the target media 
+> 	-   Find suitable media 
+> -   Being attached to ones own ideas         
+> -   Working visually 
+> -   Social 
+> 	-   Exchange Knowledge 
+> 	-   Collaborative decision making 
+> -   Motivation 
+> 	-   Highly motivated at the beginning; then the problems start 
+> 	-   Finishing is good
+> 	-   Waiting for feedback is bad 
+> 	-   being afraid of clients rejection of the design 
+> -   repetitive and manual work (negative)  
+> -   changes and requirements 
+> 	-   Some changes like page format are hard to change later 
+> 	-   combine function and aesthetics 
+> 	-   changes cause other changes 
+> 	-   considering the budget 
+> 	-   trial and error as method 
+> 	-   use the actual content for testing (not fake content) 
+> 	-   fixate things to have a starting point 
+> -   Misc 
+> 	-   designer vs. technology 
+> 	-   making calculations 
+> 	-   choosing fonts 
+>
+>These are all the groups I created in my analysis. The results could be
 more concise, having fewer groups concentrating on fewer themes. 
 However, this would probably lead to more abstract insights which would
 presumably harder to use in design.
-
-The groups of groups are partly not insights themselves. I tried to
+>
+>The groups of groups are partly not insights themselves. I tried to
 find some, but was not able in a part of the cases: »changes and
 requirements« is not an insight (but it’s subordinated
 groups are: »combining functions and aesthetics« etc.). In contrast,
 »using existing works for inspiration« is a group of groups which states
 a meaningful insight.
-
-You see that I could not use all data, so I made some less significant
+>
+>You see that I could not use all data, so I made some less significant
 groups in the »misc« section.
 
-</div>
 
 # Communicate Results 
-
 
 If you work with others, the results of your research need
 to be communicated.
@@ -2622,43 +2427,42 @@ includes:
 -   Data analyis 
 
 
-<div class="example">
 
-I recruited the participants by asking on mailing lists, bulletin boards
+> I recruited the participants by asking on mailing lists, bulletin boards
 and in Facebook groups. The request was like this:
-
-»We, a team of students of the Weimar University, want to improve the
+>
+> »We, a team of students of the Weimar University, want to improve the
 free layout program frame drawer and want the application to match your
 workflow and needs. Therefore we would like to gather some insights in
 the way you work.
-
-If you would like to support us, someone from our team would visit your
+>
+> If you would like to support us, someone from our team would visit your
 workplace and ask you some questions and look over your shoulder while
 you work. This would take approximately 1h.
-
-All participants get a \$10 voucher for the university's cafeteria. If
+>
+> All participants get a \$10 voucher for the university's cafeteria. If
 you would like to participate (or have further questions) please write a
 mail to jan.dittrich@example.com«
-
-(Data gathering)
-
-We gathered the data by asking open questions in a semi-structured
+>
+> *Data gathering*
+>
+> We gathered the data by asking open questions in a semi-structured
 interviews. In addition, we observed the research participants doing
 their work. The participants were invited to just continue to work on
 what they would have done when we would not have been there.
-
-The data gathering was done by single researchers, though one session
+>
+> The data gathering was done by single researchers, though one session
 was done by two team members together (one taking notes, the other
 asking the questions)
-
-We recorded the data by doing an audio recording of questions and
+>
+> We recorded the data by doing an audio recording of questions and
 answers in addition to handwritten notes. We photographed and sketched participants
 during key activities and made photos and sketches of tools important to
 their work.
-
-(Analysis)
-
-After the research sessions we gathered all notes and supplemented
+>
+> *Analysis*
+>
+> After the research sessions we gathered all notes and supplemented
 forgotten or unclear data by using the audio recordings and sketches. We
 annotated all data for possible meanings and interrelations to create a
 preliminary scheme for organizing the data into meaningful principles.
@@ -2667,7 +2471,6 @@ the data during several iterations. Thus, the process was similar to
 affinity diagramming (Beyer, Holtzblatt) or Thematic Analysis (Virginia,
 Clarke)
 
-</div>
 
 ### Describe site and sample 
 
@@ -2681,23 +2484,18 @@ In addition to the context, describe your research participants by
 giving a general user profile. Thus you don’t share any personal data of
 anyone but allow your audience to have some ideas of the participants.
 
-<div class="example">
 
-Participants were students (four of them) or recent graduates (one of
+> Participants were students (four of them) or recent graduates (one of
 them).  All had studied several terms already and had work experiences
 from at least one internship. Four were female, one were male.
-
-All participants were asked to meet with us at the place where they
+>
+> All participants were asked to meet with us at the place where they
 usually work. Partly this was in their flats; We met one participant in
 a shared working space and one remotely via telephone and screensharing.
-
-</div>
-
 
 ![observing the user](images/ObservationDesign1.jpg)
 
 ## Components of deliverables and reports
-
 
 Let me give a brief overview of typical building blocks for
 communicating your research. They are all useful on their own and you
@@ -2721,23 +2519,21 @@ easy-to-get text. The most efficient guide I know was given by George
 Orwells in »Politics and the English Language« – I quote:
 
 
-<blockquote>
 
-1. Never use a metaphor, simile or other figure of speech which you
+
+> 1. Never use a metaphor, simile or other figure of speech which you
  are used to seeing in print.
- 
-2. Never use a long word where a short one will do. 
-
-3. If it is possible to cut a word out, always cut it out.
-
-4. Never use the passive where you can use the active.  
-
-5. Never use a foreign phrase, a scientific word or a jargon word if
+> 
+> 2. Never use a long word where a short one will do. 
+>
+> 3. If it is possible to cut a word out, always cut it out.
+>
+> 4. Never use the passive where you can use the active.  
+>
+> 5. Never use a foreign phrase, a scientific word or a jargon word if
     you can think of an everyday English equivalent.  
-
-6. Break any of these rules sooner than say anything barbarous.
-
-</blockquote>
+>
+> 6. Break any of these rules sooner than say anything barbarous.
 ^[[Orwell’s Rules for writers](http://wikilivres.ca/wiki/Politics_and_the_English_Language)]
 
 In addition, read the text aloud – in particular, if you already noticed
@@ -2750,13 +2546,11 @@ them or to stress the right words, you should go for a rewrite.
 Quotes convey the participant’s motivations and feelings. This is
 important to help others to have empathy with the users.
 
-<div class="example">
 
-**Rather abstract:** Users like the alignment function
-
-**Combined with Quote**: Users like the alignment function. Sandy: »It is
+> **Rather abstract:** Users like the alignment function
+>
+> **Combined with Quote**: Users like the alignment function. Sandy: »It is
 like doing work by magic – click! And its there!«
-</div>
 
 Remember to protect the participant's identity if they did not give you
 the permission to share their quotes or names. If they did not give you
@@ -2785,17 +2579,15 @@ questions:
 
 Answer them in your scenario.
 
-<div class="example">
-
-Annika studies media culture and needs to finish here homework
+> Annika studies media culture and needs to finish here homework
 on »Cultural subconceptualist theory in the works of Koons« in order to
 hand the homework in on time. She goes to the library to see if the book
 on »Capitalism in the works of Rushdie« by Andreas Geoffrey contains
 arguments supporting her view on the structuralist paradigm.
-
-She enters the library and walks up to one of the computers standing in the corners of the library's halls.
-
-She wants to look up the name of the author, but she notes that she
+>
+> She enters the library and walks up to one of the computers standing in the corners of the library's halls.
+>
+> She wants to look up the name of the author, but she notes that she
 forgot the copy of the book that referenced the work. She still knows
 that »Rusdie« or »Rushdie« was in the title of the book she needs. After
 several trials she finds the right spelling of the name and, after
@@ -2803,7 +2595,6 @@ scanning through a list, she finds the book she wants to read. The
 detail page of the search application gives the address of the library
 building she is in already and a code: »X0-3R52«… \[scenario may continue\]
 
-</div>
 
 <div class="gallery two">
 
@@ -2836,13 +2627,11 @@ Which one is easier to understand and less ambiguous:
 
 This: 
 
-<div class="example">
 
-The participant’s desk is rather tidy. In front of the keyboard is
+> The participant’s desk is rather tidy. In front of the keyboard is
 a book and on the book a calculator. Left hand are additional utilities,
 like…
 
-</div>
 
 Or that:
 
