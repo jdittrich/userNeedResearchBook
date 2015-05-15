@@ -1810,8 +1810,8 @@ designs and customizations. The insight that sometimes DIY is just about fixing 
 lead to the provision of a wiki for collecting best practices for doing common repairs and
 maintenance. 
 
-If you have a new idea you can ask yourself »Does this idea follow what is stated in the group titles? 
-Does it violate it them?«. You may ask yourself »Which design could I  create based on this theme?«. 
+If you have a new idea you can ask: »Does this idea follow what is stated in the group titles? 
+Does it violate them?«. You may ask yourself »Which design could I  create based on this theme?«. 
 Since the themes are based on our data, they will express the actual needs of your users and not 
 some (potentially stereotypical) assumptions.
 
