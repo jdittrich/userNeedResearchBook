@@ -142,7 +142,15 @@
 </ul></li>
 </ul>
 </nav>
-<!-- compile with  "pandoc --toc -V lang:en -H templates/includeHeader.pandoc -B templates/includeBefore.pandoc -A templates/includeAfter.pandoc  -s -c styles/normalize.css -c styles/styles.css -c styles/print.css -c styles/autoToc.css text/allURBook.md -t html5 -o index.html" -->
+<!-- compile with  "pandoc --toc -V lang:en -H templates/includeHeader.pandoc -B templates/includeBefore.pandoc -A templates/includeAfter.pandoc  -s -c styles/normalize.css -c styles/styles.css -c styles/print.css -c styles/autoToc.css text/allURBook.md -t html5 -o index.html" 
+
+OR (pdf)
+pandoc --filter=pandoc-svg.py --latex-engine=xelatex  text/allURBook.md  -o urbook.pdf
+
+OR (ebook)
+pandoc -s --epub-stylesheet=styles/styles.css  text/allURBook.md -t epub -o urbook.epub
+
+-->
 <h1 id="license">License</h1>
 <p>Text and images are under the following License (if not stated otherwise)</p>
 <p><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">A Beginner’s Guide to Finding User Needs</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://jdittrich.github.io/userNeedResearchBook/" property="cc:attributionName" rel="cc:attributionURL">Jan Dittrich</a> licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</p>
@@ -736,23 +744,9 @@ conversation: You ask questions, the user answered them. -->
 <blockquote>
 <p><em>She saves old ideas [ADDITION]: For later inspiration in other projects</em></p>
 </blockquote>
-<div class="gallery four">
 <figure>
-<img src="images/usersketch1.png" />
+<img src="images/usersketches.png" alt="memory fades quickly" /><figcaption>memory fades quickly</figcaption>
 </figure>
-<figure>
-<img src="images/usersketch2.png" />
-</figure>
-<figure>
-<img src="images/usersketch3.png" />
-</figure>
-<figure>
-<img src="images/usersketch4.png" />
-</figure>
-<p class="caption">
-Memory fades quickly
-</p>
-</div>
 <p>When revising your sketches, redraw the lines if the sketch is ambiguous otherwise and add annotations if you think that they might ease interpreting the sketch later on.</p>
 <p>Think of your future self: Some notes may make perfect sense to you now but since memory fades, they will seem cryptic later. So supplement and clarify your sketches and notes so you can comprehend them after your memories of the experience have faded.</p>
 <blockquote>
@@ -1090,7 +1084,7 @@ Memory fades quickly
 <li>Review previous projects</li>
 <li>Test designs in the media you deliver in</li>
 </ul>
-<p><br /><br /> The structure of my analysis looked like that (the main list points are titles of groups-of-groups, the indented sub-lists are group titles):</p>
+<p><br /> The whole structure of my analysis later looked like that (the main list points are titles of groups-of-groups, the indented sub-lists are group titles):</p>
 <ul>
 <li>Inspiration</li>
 <li>Review previous projects</li>
@@ -1106,8 +1100,6 @@ Memory fades quickly
 <li>TrialAndError</li>
 <li><p>Mutual dependencies of design elements like type area, content, font size etc. (?)</p></li>
 </ul>
-</blockquote>
-<blockquote>
 <p>Note that some themes are actual, meaningful insights (»Finishing is good«, »(Page) Format is hard to change later«), while some are mere group titles based on commonalities of the data they encompass (»Inspiration«, »Trial and Error«).</p>
 </blockquote>
 <p>Now you will have some preliminary, data based themes, each created based on a few data points. Now we will see if these themes are useful for organizing more than just a few data points.</p>
@@ -1161,10 +1153,10 @@ Memory fades quickly
 <h3 id="find-better-names">Find better names</h3>
 <p>Groups based on commonalities or vague similarity will hopefully evolve into insights about the participants. To archive this, try to revise group titles: make them more concise, clear and meaningful. If a group of data is just named with a title based on mere commonalities of the data in that group, try to state an actual insight for a group . This will almost certainly require moving some data between groups as well in order to accommodate the data to the improved structure.</p>
 <blockquote>
-<p>For one group I used the title »Arranging«, since arranging and aligning objects, lines and text to a predefined grid or to each other was a task that occured frequently. But the title »Arranging« just names a commonality. To make clear that the group is about a user activity and to state the theme as an insight, I renamed »Arranging« to »Arranging objects is an important activity«</p>
+<p>For one group I used the title »Arranging«, since arranging and aligning objects, lines and text to a predefined grid or to each other was a task that occurred frequently. But the title »Arranging« just names a commonality. To make clear that the group is about a user activity and to state the theme as an insight, I renamed »Arranging« to »Arranging objects is an important activity«</p>
 </blockquote>
 <blockquote>
-<p>I had a group titled »repetitive and manually«. This could be easily stated as an insight: »repetitive and ›do-it-manually‹ tasks are tedious«. By just adding the users view (»are tedious«) the title became an insight which is a useful principle for design.</p>
+<p>One group was named »repetitive and manually«. This could be easily stated as an insight: »repetitive and ›do-it-manually‹ tasks are tedious«. By just adding the users view (»are tedious«) the title became an insight which is a useful principle for design.</p>
 </blockquote>
 <p><br /><br /> &gt; I had the following structure: &gt; &gt; - Inspiration &gt; - Review previous projects &gt; - Others (Web, Bookshop) &gt; &gt; »Inspiration« is a title based on the »same-things-mentioned«-principle so I had a look at the underlying data. They all were about inspiration – but they had another commonality: All inspiration techniques used other, existing designs, often ones that were created by the same person or even for the same project (It would have been possible that people take a walk or have frequent brainstormings or take drugs to get new ideas etc.). The insight I came up with was: »I use existing designs for inspiration«</p>
 <h3 id="re-move-data-to-other-groups">(Re) Move data to other groups</h3>
@@ -1223,10 +1215,7 @@ Memory fades quickly
 <li>[Subgroup]: being afraid of clients rejection of the design</li>
 </ul>
 </blockquote>
-<p><br /><br /> &gt; &gt;ometimes you first sort the data under the overarching title or principle and then move it to an already existing subgroup later:</p>
-<blockquote>
-<p>The utterance: »Its bad that you can do imprecise things here, compared to programming (talking about Illustrator)« was first sorted into »Media« and subsequently put into »using the right media«</p>
-</blockquote>
+<p><br /><br /> &gt; Sometimes you first sort the data under the overarching title or principle and then move it to an already existing subgroup later: &gt; &gt; The utterance: »Its bad that you can do imprecise things here, compared to programming (talking about Illustrator)« was first sorted into »Media« and subsequently put into »using the right media«</p>
 <h2 id="wrap-it-up-1">Wrap it up</h2>
 <figure>
 <img src="images/lego_houseFinished.jpg" alt="it’s done! (though you could still change some things or two…)" /><figcaption>it’s done! (though you could still change some things or two…)</figcaption>
@@ -1358,6 +1347,7 @@ Memory fades quickly
 <p>She enters the library and walks up to one of the computers standing in the corners of the library's halls.</p>
 <p>She wants to look up the name of the author, but she notes that she forgot the copy of the book that referenced the work. She still knows that »Rusdie« or »Rushdie« was in the title of the book she needs. After several trials she finds the right spelling of the name and, after scanning through a list, she finds the book she wants to read. The detail page of the search application gives the address of the library building she is in already and a code: »X0-3R52«… [scenario may continue]</p>
 </blockquote>
+<p>You could as well create a scenario as a series of sketches, like a comic strip:</p>
 <div class="gallery two">
 <figure>
 <img src="images/szenario2_1.png" alt="the search interface of the library&#39;s computer" /><figcaption>the search interface of the library's computer</figcaption>

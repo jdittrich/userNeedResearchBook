@@ -3,7 +3,15 @@
 % 2014, 2015
 
 
-<!-- compile with  "pandoc --toc -V lang:en -H templates/includeHeader.pandoc -B templates/includeBefore.pandoc -A templates/includeAfter.pandoc  -s -c styles/normalize.css -c styles/styles.css -c styles/print.css -c styles/autoToc.css text/allURBook.md -t html5 -o index.html" -->
+<!-- compile with  "pandoc --toc -V lang:en -H templates/includeHeader.pandoc -B templates/includeBefore.pandoc -A templates/includeAfter.pandoc  -s -c styles/normalize.css -c styles/styles.css -c styles/print.css -c styles/autoToc.css text/allURBook.md -t html5 -o index.html" 
+
+OR (pdf)
+pandoc --filter=pandoc-svg.py --latex-engine=xelatex  text/allURBook.md  -o urbook.pdf
+
+OR (ebook)
+pandoc -s --epub-stylesheet=styles/styles.css  text/allURBook.md -t epub -o urbook.epub
+
+-->
 
 # License
 
@@ -1357,19 +1365,9 @@ memory:
 projects*
  
 
-<div class="gallery four">
 
-![](images/usersketch1.png) 
+![memory fades quickly](images/usersketches.png) 
 
-![](images/usersketch2.png) 
-
-![](images/usersketch3.png) 
-
-![](images/usersketch4.png) 
-
-<p class="caption">Memory fades quickly</p>
-
-</div>
 
 
 When revising your sketches, redraw the lines if the sketch is ambiguous otherwise and add annotations if you 
@@ -1973,9 +1971,8 @@ just get rid of it and see where else the data might fit.
 > -   Test designs in the media you deliver in
 >
 >\
->\
 >
->The structure of my analysis looked like that (the main list points are titles of groups-of-groups,
+>The whole structure of my analysis later looked like that (the main list points are titles of groups-of-groups,
 the indented sub-lists are group titles):
 >
 >-   Inspiration
@@ -1992,8 +1989,8 @@ the indented sub-lists are group titles):
 > -   (Page) Format is hard to change later
 > -   TrialAndError
 > -   Mutual dependencies of design elements like type area, content, font size etc. (?)
-
->Note that some themes are actual, meaningful insights (»Finishing is
+>
+> Note that some themes are actual, meaningful insights (»Finishing is
 good«, »(Page) Format is hard to change later«), while some are
 mere group titles based on commonalities of the  data they encompass (»Inspiration«, »Trial and Error«).
 
@@ -2122,13 +2119,13 @@ structure.
 
 > For one group I used the title »Arranging«, since arranging and aligning
  objects, lines and text to a predefined grid or to each other was a
- task that occured frequently. But the title  »Arranging« just names a
+ task that occurred frequently. But the title  »Arranging« just names a
  commonality. To make clear that the group is
  about a user activity and to state the theme as an insight,  I
  renamed »Arranging« to »Arranging objects is an important activity«
 
 
-> I had a group titled »repetitive and manually«. This could be easily
+> One group was named »repetitive and manually«. This could be easily
  stated as an insight: »repetitive and ›do-it-manually‹
  tasks are tedious«. By just adding the users view (»are tedious«) the
  title became an insight which is a useful principle for design. 
@@ -2261,7 +2258,7 @@ design. I created two subgroups which were more meaningful.
 >One main point in my first structure was »Highly motivated at the
 beginning; then the problems start.«. After restructuring this became
 a sub point of motivation related groups.
->
+> 
 >- \[group-of-groups\] Motivations
 >	-   \[Subgroup\]: Highly motivated at the beginning; then the problems start.
 >	-   \[Subgroup\]: Finishing is good
@@ -2271,9 +2268,9 @@ a sub point of motivation related groups.
 \
 \
 
-> >ometimes you first sort the data under the overarching title or principle
+> Sometimes you first sort the data under the overarching title or principle
 and then move it to an already existing subgroup later:
-
+> 
 > The utterance: »Its bad that you can do imprecise things here,
 compared to programming (talking about Illustrator)« was first sorted
 into »Media« and subsequently put into »using the right media«
@@ -2341,14 +2338,14 @@ time to communicate your results.
 more concise, having fewer groups concentrating on fewer themes. 
 However, this would probably lead to more abstract insights which would
 presumably harder to use in design.
->
+> 
 >The groups of groups are partly not insights themselves. I tried to
 find some, but was not able in a part of the cases: »changes and
 requirements« is not an insight (but it’s subordinated
 groups are: »combining functions and aesthetics« etc.). In contrast,
 »using existing works for inspiration« is a group of groups which states
 a meaningful insight.
->
+> 
 >You see that I could not use all data, so I made some less significant
 groups in the »misc« section.
 
@@ -2594,6 +2591,7 @@ scanning through a list, she finds the book she wants to read. The
 detail page of the search application gives the address of the library
 building she is in already and a code: »X0-3R52«… \[scenario may continue\]
 
+You could as well create a scenario as a series of sketches, like a comic strip: 
 
 <div class="gallery two">
 
