@@ -4,7 +4,6 @@
   <meta charset="utf-8">
   <meta name="generator" content="pandoc">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
-  <meta name="author" content="Jan Dittrich">
   <title>A Beg­inner’s Guide to Finding User Needs</title>
   <style type="text/css">code{white-space: pre;}</style>
   <!--[if lt IE 9]>
@@ -20,15 +19,13 @@
 <div id="main">
 <header>
 <h1 class="title">A Beg­inner’s Guide to Finding User Needs</h1>
-<h2 class="author">Jan Dittrich</h2>
-<h3 class="date">2014, 2015</h3>
+<h2 class="author">true</h2>
 </header>
 <nav id="TOC">
 <ul>
 <li><a href="#license">License</a><ul>
 <li><a href="#contributers">Contributers</a></li>
 </ul></li>
-<li><a href="#about-this-text">About this text</a></li>
 <li><a href="#introduction">Introduction</a><ul>
 <li><a href="#why-should-i-use-the-methods-described-in-this-book">Why should I use the methods described in this book?</a></li>
 <li><a href="#example-for-user-need-research-e-learning">Example for User Need Research: e-Learning</a></li>
@@ -85,7 +82,7 @@
 <li><a href="#audio-1">Audio</a></li>
 </ul></li>
 </ul></li>
-<li><a href="#analysis">Analysis</a><ul>
+<li><a href="#Analysis">Analysis</a><ul>
 <li><a href="#why-analysis">Why Analysis?</a></li>
 <li><a href="#organization-of-data">Organization of data</a></li>
 <li><a href="#create-meaningful-groups">Create meaningful groups</a></li>
@@ -142,15 +139,6 @@
 </ul></li>
 </ul>
 </nav>
-<!-- compile with  "pandoc --toc -V lang:en -H templates/includeHeader.pandoc -B templates/includeBefore.pandoc -A templates/includeAfter.pandoc  -s -c styles/normalize.css -c styles/styles.css -c styles/print.css -c styles/autoToc.css text/allURBook.md -t html5 -o index.html" 
-
-OR (pdf)
-pandoc --filter=pandoc-svg.py --latex-engine=xelatex  text/allURBook.md  -o urbook.pdf
-
-OR (ebook)
-pandoc -s --epub-stylesheet=styles/styles.css  text/allURBook.md -t epub -o urbook.epub
-
--->
 <h1 id="license">License</h1>
 <p>Text and images are under the following License (if not stated otherwise)</p>
 <p><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">A Beginner’s Guide to Finding User Needs</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://jdittrich.github.io/userNeedResearchBook/" property="cc:attributionName" rel="cc:attributionURL">Jan Dittrich</a> licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</p>
@@ -159,18 +147,13 @@ pandoc -s --epub-stylesheet=styles/styles.css  text/allURBook.md -t epub -o urbo
 <ul>
 <li><a href="https://github.com/lisacharlotterost">lisacharlotterost</a></li>
 </ul>
-<h1 id="about-this-text">About this text</h1>
-<p>This book is written for all those who want to design products, applications or webservices according to the needs of people. You will learn how to find potential users and how to find out about their activities, motivations and problems. I demonstrate how to analyze the gathered data in a way that makes it usable and useful for your design process.</p>
-<p>To have knowledge about the »how« and »why« of the user’s work allows you to create innovative products that meet the users’ needs. As well, you can utilize this knowledge to improve existing products.</p>
-<p>The user needs research methods in this book are taught in a descriptive way and by using tools that are readily available to you. This allows quick application of the learned methods. I hope you can imagine yourself applying the described methods when reading.</p>
-<p>If you find spelling mistakes or have other suggestions for fixes you can submit a <a href="https://help.github.com/articles/using-pull-requests/">pull request</a> at the <a href="https://github.com/jdittrich/userNeedResearchBook">book’s github repository</a>.</p>
 <h1 id="introduction">Introduction</h1>
 <h2 id="why-should-i-use-the-methods-described-in-this-book">Why should I use the methods described in this book?</h2>
 <p>User Need Research helps us to find out how and why users do their work. This is different from usability testing. Testing is great for finding out about users’ problems, existing bugs and the possibilities to tweak an existing product. However, usability tests tell you little about the »why« and »how« of users’ work. In usability testing you may give the user a task to accomplish – but are these the tasks they are doing in their actual work? And if so – why is this task being done anyway?</p>
 <p>Because of this you need methods that inform you about things you don’t know about yet. These are methods which allow us to explore the actual actions and the reasons behind them – because even if you might be puzzled about some things you observe they usually make perfect sense for the users.</p>
 <p>Finding out about users’ needs is not done by just asking users what they want, because in this case you are usually told that people want a better version of what they already have. For design it is more useful to know the <em>needs</em> behind these wishes. Henry Ford allegedly said »If I had asked people what they wanted, they would have said faster horses«. Instead of faster horses, Ford sold a product that satisfied an underlying motivation – getting quickly from A to B – instead of the specific wish.</p>
 <h2 id="example-for-user-need-research-e-learning">Example for User Need Research: e-Learning</h2>
-<p>Some time ago I did research on the use of computers and web for learning purposes. A web based learning software (also called »LMS«, Learning management system)</p>
+<p>Some time ago I did research on the use of computers and web for learning purposes.</p>
 <p>At the institution, a web based learning software (an LMS, Learning management system) was already in place. We assumed that students would probably use it for collaboration, professors for preparing interactive quizzes for the students and for enabling them to review material. But we did not want to rely on our guesses, so we did research on how and why students and teaching staff used computers and the web for learning (note that we deliberately did research on the use web and computers for learning, instead of focusing just on the learning software itself).</p>
 <p>We recruited students and teaching staff from various courses and interviewed them. The gathered data was analyzed to find out how and why computers and the Internet were used for learning.</p>
 <p>We discovered that quizzes, workgroups and videos were not so important. We found out that the most important aspect of the system was exchanging files. The following uses of files were typical:</p>
@@ -811,7 +794,7 @@ conversation: You ask questions, the user answered them. -->
 </blockquote>
 <p>If you need to save time, go through your notes and see where they lack information. Then just jump to the parts of the audio that might complement these sections.</p>
 <p><br /><br /> As a result of supplementing our notes from memory and by using the audio, sketches and photos we now have a document which summarizes our research session. The data is mainly text-based, though if an information is better expressed via a sketch or an image paste it in the document or refer to it.</p>
-<h1 id="analysis">Analysis</h1>
+<h1 id="Analysis">Analysis</h1>
 <h2 id="why-analysis">Why Analysis?</h2>
 <p>In the analysis we will take a closer look at the data and organize it after meaningful pattern.</p>
 <p>After the interviews, the data is organized by participants or the research sessions: All notes from one research session or participant are grouped together. This is a format which is hard to use for designing.</p>
@@ -1234,7 +1217,7 @@ conversation: You ask questions, the user answered them. -->
 <li>Media</li>
 <li>Test design in the target media</li>
 <li>Find suitable media</li>
-<li>Being attached to ones own ideas<br /></li>
+<li>Being attached to ones own ideas</li>
 <li>Working visually</li>
 <li>Social</li>
 <li>Exchange Knowledge</li>
@@ -1438,12 +1421,9 @@ conversation: You ask questions, the user answered them. -->
 <p><br /> I understand and consent to the use and release of the recording by [Agency/Organization]. I understand that the information and recording is for research purposes only and that my name and image will not be used for any other purpose. I relinquish any rights to the recording and understand the recording may be copied and used by [Agency/Organization] without further permission.</p>
 <p><br /> I understand that participation in this study is voluntary and I agree to immediately raise any concerns or areas of discomfort during the session with the study administrator.</p>
 <p><br /> Please sign below to indicate that you have read and you understand the information on this form.</p>
-<p> </p>
-<p>Date: _________________</p>
-<p> </p>
-<p>Please print your name: ___________________________________</p>
-<p> </p>
-<p>Please sign your name: ___________________________________<br /><br /> Thank you!</p>
+<p><br /> Date: _________________</p>
+<p><br /> Please print your name: ___________________________________</p>
+<p><br /> Please sign your name: ___________________________________<br /><br /> Thank you!</p>
 <p><br /> We appreciate your participation.</p>
 <p><br /><br /><br /><br /><br /><br /></p>
 <section class="footnotes">
