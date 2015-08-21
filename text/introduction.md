@@ -1,5 +1,7 @@
 # Introduction
 
+<!-- what do you want to find our may be incorported somewhere here -->
+
 ## Why should I use the methods described in this book?
 
 User Need Research helps us to find out how and why users do their work.
@@ -11,15 +13,15 @@ about the »why« and »how« of users’ work. In  usability  testing you may g
 
 Because of this you need methods that inform you about things you don’t know about yet.
 These are methods which allow us to explore the actual actions and the reasons behind them –
- because even if you might be puzzled about some things you observe they usually make
- perfect sense for the users.
+because even if you might be puzzled about some things you observe they usually make
+perfect sense for the users.
 
- Finding out about users’ needs  is not done by just asking users what they want, because in
- this case you are usually told that people want a better version of what they already have.
- For design it is more useful to know the *needs* behind these wishes. Henry Ford allegedly
- said »If I had asked people what they wanted, they would have said faster horses«.  Instead of
- faster horses, Ford sold a product that satisfied an underlying motivation – getting quickly
- from A to B – instead of the  specific wish.
+Finding out about users’ needs  is not done by just asking users what they want, because in
+this case you are usually told that people want a better version of what they already have.
+For design it is more useful to know the *needs* behind these wishes. Henry Ford allegedly
+said »If I had asked people what they wanted, they would have said faster horses«.  Instead of
+faster horses, Ford sold a product that satisfied an underlying motivation – getting quickly
+from A to B – instead of the  specific wish.
 
 ## Example for User Need Research: e-Learning
 

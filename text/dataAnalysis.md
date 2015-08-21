@@ -27,15 +27,15 @@ Sometimes you will have several themes, which relate to a common theme themselve
 
 > Here is a part of an analysis.
 >
-> -   *Overarching theme*: using existing work for inspiration
->	-   *sub-theme*: review previous projects
->		- *Data:* » have a look at an old project to see how I solved this problem…«
->		- *Data:*  Participant searches for…
->		- …
->	-   *sub-theme*: use other’s work  for inspiration
->		- *Data:* »I look on google images how other calendars look like«
->		- *Data:* browses through the book to see…
->		- …
+> - *Overarching theme*: using existing work for inspiration
+>     - *sub-theme*: review previous projects
+>         - *Data:* » have a look at an old project to see how I solved this problem…«
+>         - *Data:*  Participant searches for…
+>         - …
+>     - *sub-theme*: use other’s work  for inspiration
+>         - *Data:* »I look on google images how other calendars look like«
+>         - *Data:* browses through the book to see…
+>         - …
 >
 
 
@@ -78,7 +78,7 @@ I already talked about grouping data by shared themes. The question is: What is 
 
 One method to group data and to derive a theme would be going through the data and see which utterances
 and observations mention the same thing or the same assessment. Thus, all notes mentioning »color« would
-belong to one theme and get the title »Color«; all notes mblockquote p+p entioning »good«  belong to one theme and get the title »good things«.
+belong to one theme and get the title »Color«; all notes mentioning »good«  belong to one theme and get the title »good things«.
 
 
 > Let’s say we gathered this data (among others) in research on Do-It-Yourself-Work (DIY)
@@ -90,12 +90,12 @@ belong to one theme and get the title »Color«; all notes mblockquote p+p entio
 >
 > If we put the pieces of data which mention the same things in the same group we get these two groups:
 >
-> - Theme: Bikes
-> 	- I look at the assembled bike and think: nobody else has the same
-> 	- When my bike is broken and I need to get to work I can fix my bike quickly
-> - Theme: Furniture
-> 	- The cabinet’s door was loose. It annoyed me, so I repaired it.
-> 	- The shelf looks not as clean as a bought one, but it is mine
+>**Theme: Bikes**
+> - I look at the assembled bike and think: nobody else has the same
+> - When my bike is broken and I need to get to work I can fix my bike quickly
+>**Theme: Furniture**
+> - The cabinet’s door was loose. It annoyed me, so I repaired it.
+> - The shelf looks not as clean as a bought one, but it is mine
 
 
 Organizing the data by this »same things mentioned«-method would help us  find data concerned
@@ -112,10 +112,10 @@ drew from the data in the group by focusing on the meaning of activities, proble
 If we take the data about DIY again this could look like this:
 
 
-> - Theme ((based on an insight about the participants): Participants need to »make things work«
+> **Theme (based on an insight about the participants): Participants need to »make things work«**
 > 	- The cabinet’s door was loose. It annoyed me, so I repaired it.
 > 	- When my bike is broken and I need to get to work with it the next day I can fix my bike quickly
-> - Theme (based on an insight about the participants): Good: DIY gives sense of individuality
+> **Theme (based on an insight about the participants): Good: DIY gives sense of individuality**
 > 	- The shelf looks not as clean as a bought one, but it is mine
 > 	- I look at the assembled bike and think: nobody else has the same
 
@@ -156,19 +156,25 @@ To ease the learning I provide another example:
 >
 > If we put the pieces of data which mention the same things in the same group we get these two groups:
 >
-> - Theme (based on same-things-being-mentioned):: Utterances with HTML
+> **Theme (based on same-things-being-mentioned):: Utterances with HTML**
+>
 > 	- To try out stuff in HTML is fun
 > 	- To know these 'attributes' of HTML-'tags' makes writing code easier.
-> - Theme (based on same-things-being-mentioned):: Utterances with JavaScript
+>
+> **Theme (based on same-things-being-mentioned):: Utterances with JavaScript**
+>
 > 	- I analyze JavaScript code to understand patterns
 > 	- It is great to quickly test something using a JavaScript framework
 >
 > Organizing the data by the insights we may draw from the data the structure look like this:
 >
-> - Theme (based on an insight about the participants): Trying out is good
+> **Theme (based on an insight about the participants): Trying out is good**
+>
 > 	- To try out stuff in HTML is fun
 > 	- It is great to quickly test something using a javascript framework
-> - Theme (based on an insight about the participants): Learning makes own coding better
+>
+> **Theme (based on an insight about the participants): Learning makes own coding better**
+>
 > 	- I analyze Javascript code to understand patterns
 > 	- To know these 'attributes' of HTML-'tags' makes writing code easier.
 
@@ -423,13 +429,13 @@ vague) category you may be able to formulate and insight you gain about the unde
 
 
 > - Inspiration
-> 	-  I try to get new ideas by looking at google images
-> 	-   I get new ideas while showering
-> 	-  […]
+>     - I try to get new ideas by looking at google images
+>     - I get new ideas while showering
+>     - […]
 >
 > -  Media
-> 	- I like to use photos
-> 	- The website is a great way to reach out
+>     - I like to use photos
+>     - The website is a great way to reach out
 >
 > *These are mere titles, naming a commonality of the underlying
 > data but telling nothing useful for design (yet)*
@@ -455,23 +461,23 @@ just get rid of it and see where else the data might fit.
 >
 >\
 >
->The whole structure of my analysis later looked like that (the main list points are titles of groups-of-groups,
+> The whole structure of my analysis later looked like that (the main list points are titles of groups-of-groups,
 the indented sub-lists are group titles):
 >
->-   Inspiration
->	-   Review previous projects
->	-   Other (Web, Bookstore)
+> - Inspiration
+>    - Review previous projects
+>    - Other (Web, Bookstore)
 >
->-   Media
->	-   Do tests in the media you target
->	-   Suitablility of media
->	-   »being closer« : 2 page spreads instead of single pages etc.
-> -   Idea Attachment
-> -   Motivation at the beginning; then the problems start.
-> -   Finishing is good
-> -   (Page) Format is hard to change later
-> -   TrialAndError
-> -   Mutual dependencies of design elements like type area, content, font size etc. (?)
+> - Media
+>     - Do tests in the media you target
+>     - Suitablility of media
+>     - »being closer« : 2 page spreads instead of single pages etc.
+> - Idea Attachment
+> - Motivation at the beginning; then the problems start.
+> - Finishing is good
+> - (Page) Format is hard to change later
+> - TrialAndError
+> - Mutual dependencies of design elements like type area, content, font size etc. (?)
 >
 > Note that some themes are actual, meaningful insights (»Finishing is
 good«, »(Page) Format is hard to change later«), while some are
@@ -512,13 +518,13 @@ create additional themes. Some of the titles of the themes may need to be
 renamed as well. Just go ahead and make these changes if you feel they are needed.
 
 > - \[Title:\] Test in the media you target
-> 	-   I folded prototypes for paper sizes that seem to be suitable
-> 	-   This is close the print shops results without spending too much
-> 	-   Tedious: Not having an own printer
-> 	-   […]
+>      - I folded prototypes for paper sizes that seem to be suitable
+>      -  This is close the print shops results without spending too much
+>      - Tedious: Not having an own printer
+>      - […]
 >
 > - \[Title\]»being closer«: Page Spreads instead of single pages
-> 	- Creates page spreads (In books you have always 2 opposite pages, thus single pages are not useful for design)
+>     - Creates page spreads (In books you have always 2 opposite pages, thus single pages are not useful for design)
 >
 > \
 >
@@ -534,10 +540,10 @@ renamed as well. Just go ahead and make these changes if you feel they are neede
 > While I was sorting the data I created a new group to accommodate data
  related to changes in designs:
 >
->-   \[Titel:\]Changing and determining
->	-   Determining: What do we have? What do we need? What do we want to avoid?
->	-   Sketching, e.g. for »How can I divide the page for 7 days of the week?«
->	-   »This is trial and error«
+> - \[Titel:\]Changing and determining
+>     -   Determining: What do we have? What do we need? What do we want to avoid?
+>     -   Sketching, e.g. for »How can I divide the page for 7 days of the week?«
+>    -   »This is trial and error«
 >
 >\
 >\
@@ -546,13 +552,13 @@ renamed as well. Just go ahead and make these changes if you feel they are neede
 group, where I could offload the data for now and try to find a better
 place later:
 >
->-   \[Titel:\]misc
->	-   God: Shortcuts
->	-   I need to ask the print shop what this design would cost
->	-   Bad: Doing the same steps over and over again.
->	-   \[…many other points…\]
+>- \[Titel:\]misc
+>     -   God: Shortcuts
+>     -   I need to ask the print shop what this design would cost
+>     -   Bad: Doing the same steps over and over again.
+>     -   \[…many other points…\]
 >
->Inside the misc group some possibilities for future insights
+> Inside the misc group some possibilities for future insights
 emerged – for example the first (god: Shortcuts) and the third
 point (»bad: doing the…« could be part of a newly formed
 insights named »I want to avoid repetitive tasks«
@@ -601,34 +607,32 @@ structure.
 
 
 > For one group I used the title »Arranging«, since arranging and aligning
- objects, lines and text to a predefined grid or to each other was a
- task that occurred frequently. But the title  »Arranging« just names a
- commonality. To make clear that the group is
- about a user activity and to state the theme as an insight,  I
- renamed »Arranging« to »Arranging objects is an important activity«
+> objects, lines and text to a predefined grid or to each other was a
+> task that occurred frequently. But the title  »Arranging« just names a
+> commonality. To make clear that the group is
+> about a user activity and to state the theme as an insight,  I
+> renamed »Arranging« to »Arranging objects is an important activity«
 
 
 > One group was named »repetitive and manually«. This could be easily
- stated as an insight: »repetitive and ›do-it-manually‹
- tasks are tedious«. By just adding the users view (»are tedious«) the
- title became an insight which is a useful principle for design.
+> stated as an insight: »repetitive and ›do-it-manually‹
+> tasks are tedious«. By just adding the users view (»are tedious«) the
+> title became an insight which is a useful principle for design.
 
-\
-\
 
 > I had the following structure:
->
+> 
 > -   Inspiration
->	 -   Review previous projects
->	 -   Others (Web, Bookshop)
->
+>     - Review previous projects
+>     - Others (Web, Bookshop)
+> 
 > »Inspiration« is a title based on the »same-things-mentioned«-principle so I had a look at
- the underlying data. They all were about inspiration – but they
- had another commonality: All inspiration techniques used
- other, existing designs, often ones that were created by the
- same person or even for the same project (It would have been
- possible that people take a walk or have frequent brainstormings or take drugs to get new
- ideas etc.). The insight I came up with was: »I use  existing designs for inspiration«
+> the underlying data. They all were about inspiration – but they
+> had another commonality: All inspiration techniques used
+> other, existing designs, often ones that were created by the
+> same person or even for the same project (It would have been
+> possible that people take a walk or have frequent brainstormings or take drugs to get new
+> ideas etc.). The insight I came up with was: »I use  existing designs for inspiration«
 
 
 ### (Re) Move data to other groups  
@@ -656,8 +660,8 @@ groups with that data.
 > I reviewed the following group:
 >
 > -   Feedback
->	-   Good: getting feedback
->	-   Bad: uncertainty before feedback from client
+>     -   Good: getting feedback
+>     -   Bad: uncertainty before feedback from client
 >
 > \
 > The title was not a meaningful insight and I felt that the
@@ -668,20 +672,20 @@ from client«*. The *»good: getting feedback«* was moved to a
 cluster named *»Exchange with others«*.
 
 > While I think I gained something out of it, these changes
-did not result in a new much better structure but was
-part of trials and errors in the process.
+> did not result in a new much better structure but was
+> part of trials and errors in the process.
 
 \
 \
 
 > Going through the data of a group named »general requirements« I noted
-that a big part of the data was concerned with balancing  
-*functional* or *practical* requirements (price, readability etc.) with
-requirements concerning *style* (using colors, being innovative)
-
+> that a big part of the data was concerned with balancing  
+> *functional* or *practical* requirements (price, readability etc.) with
+> requirements concerning *style* (using colors, being innovative)
+>
 > Thus, I renamed the group to »trying to combine aesthetics and
-functionality«. As the new title was more specific some data needed to
-be taken out, put into other groups or to the temporary »misc« group.
+> functionality«. As the new title was more specific some data needed to
+> be taken out, put into other groups or to the temporary »misc« group.
 
 \
 \
@@ -718,20 +722,20 @@ design. I created two subgroups which were more meaningful.
 > Before:
 >
 > - Colleagues, Friends etc.
->	-   A friend told her that concrete is visualized dashed
->	-   Puts sketches on the wall: Others will see it and talk with me.
->	-   Which design do we take? Talks with fellow designer
->	-   […]
+>     -   A friend told her that concrete is visualized dashed
+>     -   Puts sketches on the wall: Others will see it and talk with me.
+>     -   Which design do we take? Talks with fellow designer
+>     -   […]
 >
 > after splitting and rearrangement:
 >
 > -   Exchange Knowledge
->	-   A friend told her that concrete is visualized dashed
->	-   Puts sketches on the wall: Others will see it and talk with me.
->	-   […]
+>     -   A friend told her that concrete is visualized dashed
+>     -   Puts sketches on the wall: Others will see it and talk with me.
+>     -   […]
 >-   making decisions with others
->	-   Which design do we take? Talks with fellow designer
->	-   feedback-rounds with other designers
+>     -   Which design do we take? Talks with fellow designer
+>     -   feedback-rounds with other designers
 >
 
 \
@@ -743,10 +747,10 @@ beginning; then the problems start.«. After restructuring this became
 a sub point of motivation related groups.
 >
 >- \[group-of-groups\] Motivations
->	-   \[Subgroup\]: Highly motivated at the beginning; then the problems start.
->	-   \[Subgroup\]: Finishing is good
->	-   \[Subgroup\]: Waiting for feedback is bad
->	-   \[Subgroup\]: being afraid of clients rejection of the design
+>     -   \[Subgroup\]: Highly motivated at the beginning; then the problems start.
+>     -   \[Subgroup\]: Finishing is good
+>     -   \[Subgroup\]: Waiting for feedback is bad
+>     -   \[Subgroup\]: being afraid of clients rejection of the design
 
 \
 \
@@ -787,35 +791,35 @@ time to communicate your results.
 >
 > -   Arranging Objects as important part of the work
 > -   using existing work for inspiration
-> 	-   review previous projects
-> 	-   use other’s work  
-> 	-   use previous ideas from same project
+>      -   review previous projects
+>      -   use other’s work  
+>      -   use previous ideas from same project
 > -   Media
-> 	-   Test design in the target media
-> 	-   Find suitable media
+>      -   Test design in the target media
+>      -   Find suitable media
 > -   Being attached to ones own ideas
 > -   Working visually
 > -   Social
-> 	-   Exchange Knowledge
-> 	-   Collaborative decision making
+>      -   Exchange Knowledge
+>      -   Collaborative decision making
 > -   Motivation
-> 	-   Highly motivated at the beginning; then the problems start
-> 	-   Finishing is good
-> 	-   Waiting for feedback is bad
-> 	-   being afraid of clients rejection of the design
+>      -   Highly motivated at the beginning; then the problems start
+>      -   Finishing is good
+>      -   Waiting for feedback is bad
+>      -   being afraid of clients rejection of the design
 > -   repetitive and manual work (negative)  
 > -   changes and requirements
-> 	-   Some changes like page format are hard to change later
-> 	-   combine function and aesthetics
-> 	-   changes cause other changes
-> 	-   considering the budget
-> 	-   trial and error as method
-> 	-   use the actual content for testing (not fake content)
-> 	-   fixate things to have a starting point
+>      -   Some changes like page format are hard to change later
+>      -   combine function and aesthetics
+>      -   changes cause other changes
+>      -   considering the budget
+>      -   trial and error as method
+>      -   use the actual content for testing (not fake content)
+>      -   fixate things to have a starting point
 > -   Misc
-> 	-   designer vs. technology
-> 	-   making calculations
-> 	-   choosing fonts
+>      -   designer vs. technology
+>      -   making calculations
+>      -   choosing fonts
 >
 >These are all the groups I created in my analysis. The results could be
 more concise, having fewer groups concentrating on fewer themes.
