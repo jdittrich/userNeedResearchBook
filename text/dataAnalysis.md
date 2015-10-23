@@ -665,24 +665,23 @@ groups with that data.
 >
 > \
 > The title was not a meaningful insight and I felt that the
-analysis might benefit if I use the data in other themes.
-I already had a cluster related to motivations
-and emotions– where I moved *»bad: uncertainty before feedback
-from client«*. The *»good: getting feedback«* was moved to a
-cluster named *»Exchange with others«*.
+> analysis might benefit if I use the data in other themes.
+> I already had a cluster related to motivations
+> and emotions– where I moved *»bad: uncertainty before feedback
+> from client«*. The *»good: getting feedback«* was moved to a
+> cluster named *»Exchange with others«*.
 
 > While I think I gained something out of it, these changes
 > did not result in a new much better structure but was
 > part of trials and errors in the process.
 
-\
-\
+
 
 > Going through the data of a group named »general requirements« I noted
 > that a big part of the data was concerned with balancing  
 > *functional* or *practical* requirements (price, readability etc.) with
 > requirements concerning *style* (using colors, being innovative)
->
+
 > Thus, I renamed the group to »trying to combine aesthetics and
 > functionality«. As the new title was more specific some data needed to
 > be taken out, put into other groups or to the temporary »misc« group.
@@ -690,15 +689,17 @@ cluster named *»Exchange with others«*.
 \
 \
 
-> The previous examples were concerned with whole themes and thus focused on the macro level.
+The previous examples were concerned with whole themes and thus focused on the macro level.
 Sometimes you just move data itself, without any trigger like renaming, just because
-you found a better fit. For example *»using the maximum possible height
-on a sheet of paper«* was grouped into »media«. Later, I moved it to *»budget«*
-because budget is something the user is directly concerned with,
-whereas media is even more abstract. The group *»budget«* was then later
-renamed *»having little money and resources«*, expressing that a part of
-the participants work was finding out how they could make the most out
-of a small budget (*»using the maximum possible height on a sheet of
+you found a better fit. 
+
+> For example *»using the maximum possible height
+> on a sheet of paper«* was grouped into »media«. 
+> Later, I moved it to *»budget«*, because budget is something the user
+>  is directly concerned with, whereas media is even more abstract. 
+> The group *»budget«* was then later renamed *»having little money and resources«*, 
+> expressing that a part of the participants work was finding out how they 
+> could make the most out of a small budget (*»using the maximum possible height on a sheet of
 paper«* is a practice that results from that concern.)
 
 
@@ -743,8 +744,8 @@ design. I created two subgroups which were more meaningful.
 
 
 >One main point in my first structure was »Highly motivated at the
-beginning; then the problems start.«. After restructuring this became
-a sub point of motivation related groups.
+> beginning; then the problems start.«. After restructuring this became
+> a sub point of motivation related groups.
 >
 >- \[group-of-groups\] Motivations
 >     -   \[Subgroup\]: Highly motivated at the beginning; then the problems start.
@@ -752,15 +753,12 @@ a sub point of motivation related groups.
 >     -   \[Subgroup\]: Waiting for feedback is bad
 >     -   \[Subgroup\]: being afraid of clients rejection of the design
 
-\
-\
-
-> Sometimes you first sort the data under the overarching title or principle
-and then move it to an already existing subgroup later:
+> Sometimes you first sort the data under the overarching title or 
+> principle and then move it to an already existing subgroup later:
 >
 > The utterance: »Its bad that you can do imprecise things here,
-compared to programming (talking about Illustrator)« was first sorted
-into »Media« and subsequently put into »using the right media«
+> compared to programming (talking about Illustrator)« was first sorted
+> into »Media« and subsequently put into »using the right media«
 
 
 ## Wrap it up  
