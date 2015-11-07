@@ -88,7 +88,7 @@ you work. This would take approximately 1h.
 you would like to participate (or have further questions) please write a
 mail to jan.dittrich@example.com«
 >
-> *Data gathering*
+> **Data gathering**
 >
 > We gathered the data by asking open questions in a semi-structured
 interviews. In addition, we observed the research participants doing
@@ -104,7 +104,7 @@ answers in addition to handwritten notes. We photographed and sketched participa
 during key activities and made photos and sketches of tools important to
 their work.
 >
-> *Analysis*
+> **Analysis**
 >
 > After the research sessions we gathered all notes and supplemented
 forgotten or unclear data by using the audio recordings and sketches. We

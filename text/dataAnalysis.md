@@ -90,10 +90,13 @@ belong to one theme and get the title »Color«; all notes mentioning »good«  
 >
 > If we put the pieces of data which mention the same things in the same group we get these two groups:
 >
->**Theme: Bikes**
+> **Theme: Bikes**
+>
 > - I look at the assembled bike and think: nobody else has the same
 > - When my bike is broken and I need to get to work I can fix my bike quickly
->**Theme: Furniture**
+> 
+> **Theme: Furniture**
+>
 > - The cabinet’s door was loose. It annoyed me, so I repaired it.
 > - The shelf looks not as clean as a bought one, but it is mine
 
@@ -113,9 +116,12 @@ If we take the data about DIY again this could look like this:
 
 
 > **Theme (based on an insight about the participants): Participants need to »make things work«**
+> 
 > 	- The cabinet’s door was loose. It annoyed me, so I repaired it.
 > 	- When my bike is broken and I need to get to work with it the next day I can fix my bike quickly
+> 
 > **Theme (based on an insight about the participants): Good: DIY gives sense of individuality**
+> 
 > 	- The shelf looks not as clean as a bought one, but it is mine
 > 	- I look at the assembled bike and think: nobody else has the same
 
@@ -140,7 +146,6 @@ But it can be hard and may be not possible for all your data.
 Creating groups using the same-things-mentioned methods is still a useful method and these
 groups may still evolve. Usually I have  some »same-things-mentioned«-groups in the beginning
 and far fewer at the end – but  my analysis will be a mixture of both styles.
-
 
 
 
