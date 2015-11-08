@@ -17,7 +17,10 @@ To do this, we take the data – which is currently organized by participants �
 
 In the analysis we organize the data hierarchically.
 The basis for our analysis are the utterances or observations, usually represented by a line
-in your transcript, like »I find it boring to move around all the textboxes again!«.
+in your transcript, like:
+
+>»I find it boring to move around all the text boxes again!«.
+
 These pieces of data will be grouped if they may share a similar theme.
 These groups get a headline, stating the theme of by  the underlying pieces of data.  
 This is useful when designing, since you can refer to the title instead of considering all  the underlying data each time.
@@ -45,18 +48,17 @@ Such a hierarchical analysis could be done in two ways:
 2. **Bottom-Up**: You first group pieces of data which seem to share a similar theme and then give the group a comprehensive title which states the topic shared by the underlying pieces of data.
 
 We are going to use mainly the 2nd way, doing a so called »bottom-up« analysis. This does
-not mean that we never take a piece of data and sort it into an existing group. It just means
-that the group names are initially created are based on actual data.
+not mean that we never take a piece of data and sort it into an existing group. It just
+means that the group names are initially created are based on actual data. This also
+means that the groups depend on the data itself, but also on your interpretation of it.
 
-Thus, in the analysis we may start with grouping moving similar data
+In the analysis we may start with grouping similar data together – like these two lines:
 
 > - *Data:*  »I look on google images how other calendars look like«
 > - *Data:*  Browses through the book to see…
 
 
 Then we give that data a headline and name the topic:
-
-
 
 >- **Theme:** Use other’s work  for inspiration
 >	- *Data:* »I look on google images how other calendars look like«
@@ -71,10 +73,15 @@ When we come across a piece of data which shares the topic we can add it to the 
 >	- *Data:* »I look on google images how other calendars look like«
 >	- *Data:*  Browses through the book to see…
 
+This is a rather simplified overview of the process: In contrast to this example
+you will as well spend time searching through data, rewriting theme titles and
+may need as well to step back or  sleep over it to find a good new way
+to make sense of your data.
+
 
 ## Create meaningful groups
 
-I already talked about grouping data by shared themes. The question is: What is a meaningful theme?
+I already talked about grouping data by shared themes. The question is: What is a *meaningful* theme?
 
 One method to group data and to derive a theme would be going through the data and see which utterances
 and observations mention the same thing or the same assessment. Thus, all notes mentioning »color« would
@@ -94,7 +101,7 @@ belong to one theme and get the title »Color«; all notes mentioning »good«  
 >
 > - I look at the assembled bike and think: nobody else has the same
 > - When my bike is broken and I need to get to work I can fix my bike quickly
-> 
+>
 > **Theme: Furniture**
 >
 > - The cabinet’s door was loose. It annoyed me, so I repaired it.
@@ -109,19 +116,19 @@ However, organizing by the »same things mentioned«-method has its shortcomings
 to find out what people did with their furniture and what motivates them or which problems they face.
 The names of themes  created by organizing by the »same things mentioned«-method are just labels for the content and have no meaning on its own.
 
-Imagine we would not create the themes by looking for same things being mentioned but by the insights we
+Imagine, we would not create the themes by looking for same things being mentioned but by the insights we
 drew from the data in the group by focusing on the meaning of activities, problems and goals for the participants.
 
 If we take the data about DIY again this could look like this:
 
 
 > **Theme (based on an insight about the participants): Participants need to »make things work«**
-> 
+>
 > 	- The cabinet’s door was loose. It annoyed me, so I repaired it.
 > 	- When my bike is broken and I need to get to work with it the next day I can fix my bike quickly
-> 
+>
 > **Theme (based on an insight about the participants): Good: DIY gives sense of individuality**
-> 
+>
 > 	- The shelf looks not as clean as a bought one, but it is mine
 > 	- I look at the assembled bike and think: nobody else has the same
 
@@ -190,14 +197,15 @@ The data analysis is done by inferring themes from several  data points. Thus th
 empirical (as it is based on gathered data) but if the same
 data is used, analysis made by different people will differ. This is because the result of the
 analysis depends on the reasonable but still individual and debatable interpretation of the
-data. You could say that »looking at last years design to quickly reuse elements« belongs to a
-theme concerned with »I want to save time« or to one related to the topic of »reviewing
-designs for inspiration« (given that it could serve both from the user's perspective).
+data. You could say that *»looking at last years design to quickly reuse elements«* belongs to a
+theme concerned with *»I want to save time«* or to one related to the topic of *»reviewing
+designs for inspiration«* (given that it could serve both from the user's perspective).
 
 There is no »right« or »wrong« nor a clear cut criteria of being »close enough« to the data when
-you group your data in themes. Instead of having a clear, measurable rule like »you
-must have p&#060;0.05 significance« in statistics, most important is that your analysis is plausible
-(instead of »right« or »wrong«).
+you group your data in themes. Instead of having a clear, measurable rule like the »you
+must have p&#060;0.05 significance« ^[For those of you who love statistics (like me): Sorry for the example. I 
+know that this criterion is highly debated] in statistics , most important is that your
+analysis is plausible (instead of »right« or »wrong«).
 
 I compare the process of analysis to building a house from a pile of Lego® bricks. These
 bricks are like the not-yet-analyzed data you start with. When you build a house out of these
@@ -227,7 +235,7 @@ step come closer to a structure you are satisfied with.
 
 ## Prepare Data for Analysis
 
-Before we start with the analysis we should prepare our data.
+Before we start with the analysis, we should prepare our data.
 
 ### Add Participant Codes
 
@@ -271,8 +279,10 @@ utterances.
 This will help you to get familiar with the data and to derive meaningful themes and insights
 later.
 
-Annotations are possible interpretations and questions tied to a line in your transcript. It can
-be full sentences as well as short list of words.
+Annotations are your thoughts on the data. This can be  possible interpretations
+and questions.  Annotations  can be full sentences as well as short list of words.
+Usually they concern a line in the transcript but naturally you can
+comment on whole sections or just at words, too.
 
 > - It is hard to know what exactly the client wants, because I don’t talk directly to the client –  P2 **ANNOTATION: indirectness, division of tasks, friction, »I need to know the client«.**
 > - The document is divided in sections, separated by blank pages.  –  P2 **ANNOTATION: Keeping/imposing order**
@@ -284,11 +294,21 @@ I suggest annotating each line, but this is not a must.
 The annotations should be clearly distinguishable from data you got directly from observation
 or the participant’s answers – just like other things you did add yourself (e.g. design ideas).
 
-I would recommend using a word processor with a comment function. Open your transcript,
-mark the part you want to annotate with your interpretation, then click the »comment« button.
-If you don't use a word processor, but plaintext, use something like »COMMENT:« or »ANNOTATION:« to mark
-your comments; If you prefer to do your annotations with a pen and a highlighter, print your
-notes with double line-spacing to have enough room for writing.
+You can print out your transcript with a wide margin and write your comments
+in the margin. With pen and paper you can write down your thoughts quickly,
+encircle interesting parts and connect them with lines. It will possibly look messy.
+This is no problem, your annotations are primarily to get familiar with the
+data and not for creating publication ready thoughtful comments.  
+
+<!-- TODO: Example image would be nice here -->
+
+If you prefer working on a computer, you can annotate your data useing a
+word processor with a  comment function. Open your transcript, mark the
+part you want to annotate with your interpretation, then click the
+»comment« button. If you don't use the comment function, but plain text,
+use something like »COMMENT:« or »ANNOTATION:« to mark your comments;
+If you prefer to do your annotations with a pen and a highlighter,
+print your notes with double line-spacing to have enough room for writing.
 
 Annotating your data is a creative process. If in doubt whether an annotation is relevant or
 not: opt for writing it. Later on it might become useful. If you are unsure about something or
@@ -348,10 +368,12 @@ For analysis on your computer I suggest the following steps for preparing your a
 2. Paste your transcript into that document
 3. Add a page break before the transcript to separate not-yet-grouped data from your (upcoming) structure of lines grouped by themes.
 
-**Creating Groups:** Similar data is organized in lists. To rearrange data you can use copy paste, drag and drop and the tools the word processor provides (toolbar to move points in lists etc.)
+**Creating Groups:** Similar data is organized in lists. You can just use the word processors bullet point list feature.
+
+To rearrange data, you can use copy and paste, drag and drop and the tools the word processor provides (toolbar to move points in lists etc.)
 \
 
-**State themes in  titles of  groups**: Each group gets a headline. Create a hierarchy by using different paragraph styles – bigger headlines for overarching themes of themes, smaller headlines for themes that encompass the data directly. If you use paragraph styles to format your headlines, you can use the navigation tool of the wordprocessor to go through your structure
+**State themes in titles of groups**: Each group gets a headline. Create a hierarchy by using different paragraph styles – bigger headlines for overarching themes of themes, smaller headlines for themes that encompass the data directly. If you use paragraph styles to format your headlines, you can use the navigation tool of the wordprocessor to go through your structure. You can as well just use the list-hierarchy feature (pressing the Tabuator-key, creates a subordinate list point). I prefer headlines though.
 
 #### Analysis with pen and paper
 
@@ -362,10 +384,10 @@ For working analog I recommend the following steps to get analysis-ready:
 	2. In the table settings, choose a decent padding around each cell, like 0.5cm
 	3. Choose a font size of about 12pt, large enough to read it\
 	![](images/createAnalogNotes.png)
-2. copy/paste all your data (line by line) from the transcript into the cells
-3. print it
-4. cut out each table cell (=piece of data)
-5. cover the wall with the paper from paper rolls (thus you can remove the analysis, roll up the paper and archive it and you can remove it from the wall temporarily)
+2. Copy/paste all your data (line by line) from the transcript into the cells
+3. Print it
+4. Cut out each table cell (=piece of data)
+5. Optional: Cover the wall with the paper from paper rolls (thus you can remove the analysis, roll up the paper and archive it and you can remove it from the wall temporarily)
 
 **Creating groups**: during analysis you will stick your printed notes on the widths of paper
 using removable tape, crepe tape or spray glue – something sticky but non-permanent, so you can
@@ -379,14 +401,15 @@ pink ones for titles of a group of groups.
 
 ## Develop a first Structure  {#firstStructure}
 
-After you annotated your data you can start to structure the it.
-Structuring the data means suggesting themes behind the data, naming
-these themes  and decide which data falls under which theme.
+After you annotated your data, you can start to structure it.
+Structuring the data means grouping similar data together,
+suggesting themes behind the data, naming these themes
+and decide which data falls under which theme.
 
-You don't use all your data yet. Start with what you find useful when
-skimming through it or use just the data of two participants for now.
-The goal is to set up some preliminary structure, like a scaffold.
-
+You don't use all your data yet. Start with what you find
+useful when skimming through it or use just the data of
+two participants for now. The goal is to set up some
+preliminary structure, like a sketch of the analysis.
 
 ![setting up a basic structure](images/lego_housefirstStructure.jpg)
 
@@ -395,7 +418,7 @@ The goal is to set up some preliminary structure, like a scaffold.
 The easiest way to start a structure is moving similar data in
 approximation. If you do you analysis on paper,  cluster notes you
 assume to follow a common theme in one place and notes for other
-themes in other places. If you analyze using a wordprocessor, move similar
+themes in other places. If you analyze using a word processor, move similar
 notes in adjacent lines. Create different groups, each containing similar notes,
 by using several line breaks above and below such a group or by
 creating a list for each assumed theme.
@@ -626,11 +649,11 @@ structure.
 
 
 > I had the following structure:
-> 
+>
 > -   Inspiration
 >     - Review previous projects
 >     - Others (Web, Bookshop)
-> 
+>
 > »Inspiration« is a title based on the »same-things-mentioned«-principle so I had a look at
 > the underlying data. They all were about inspiration – but they
 > had another commonality: All inspiration techniques used
@@ -696,14 +719,14 @@ groups with that data.
 
 The previous examples were concerned with whole themes and thus focused on the macro level.
 Sometimes you just move data itself, without any trigger like renaming, just because
-you found a better fit. 
+you found a better fit.
 
 > For example *»using the maximum possible height
-> on a sheet of paper«* was grouped into »media«. 
+> on a sheet of paper«* was grouped into »media«.
 > Later, I moved it to *»budget«*, because budget is something the user
->  is directly concerned with, whereas media is even more abstract. 
-> The group *»budget«* was then later renamed *»having little money and resources«*, 
-> expressing that a part of the participants work was finding out how they 
+>  is directly concerned with, whereas media is even more abstract.
+> The group *»budget«* was then later renamed *»having little money and resources«*,
+> expressing that a part of the participants work was finding out how they
 > could make the most out of a small budget (*»using the maximum possible height on a sheet of
 paper«* is a practice that results from that concern.)
 
@@ -758,7 +781,7 @@ design. I created two subgroups which were more meaningful.
 >     -   \[Subgroup\]: Waiting for feedback is bad
 >     -   \[Subgroup\]: being afraid of clients rejection of the design
 
-> Sometimes you first sort the data under the overarching title or 
+> Sometimes you first sort the data under the overarching title or
 > principle and then move it to an already existing subgroup later:
 >
 > The utterance: »Its bad that you can do imprecise things here,

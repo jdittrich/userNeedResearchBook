@@ -96,20 +96,36 @@ enable you to preserve information in the most situations. However, for
 complicated descriptions of workflows or if you just loose track by
 accident, it might be useful to have a backup by using audio recording.
 
-## Transcribe Notes {#TranscribeNotes}
-When I added my supplements to the notes and sketches I usually type them in a
-wordprocessor document. In addition, I scan my notes, so I can easily cut and paste the
-sketches into the document.
+## Transcribe your Data {#TranscribeData}
+Even if I supplemented my notes from memory and rewrote the most undecipherable words,
+they are not easy to read. To bring them into a more accessible form.
 
-When transcribing the notes, take care that each line in the digital transcript has only one
-statement in it and not several, so that you don't tie two separate statements together.
-On the other hand, make sure that the data you write down is meaningful on its own and
-is not just a single word or a description which is free of any context and thus hard to
-set in relation to other data.
+In addition, I scan my notes, so I can easily cut and paste the sketches into
+the same document If you made an audio recording of your research session you
+could listen to it and add information which is not in there yet.
+The document which we create by doing do is our »Transcript« ^[»Transcript« often
+means to (verbatim) transcribe audio data. So it is possible, that what I call a
+»transcript« here (bringing any data into an accessible, but not-yet-analyzed form)
+may not be a ›proper‹ transcript for somebody else]
 
 
-**Not meaningful on its own (means mostly: too short):**
+### Transcribing notes
+On your (handwritten) notes, you may have sentences aside to each other that make (more)
+sense on their own – or single words or fragments which make only sense
+together. Sometimes these things are already sorted out when supplementing
+your notes. If not: now is the time to create some order:
+In your digital transcript, put one statement (or whatever you
+consider to make sense on its own) in each line. Avoid  tying together  two separate
+statements on one line and, on the other hand, make sure that the data you put into
+one line is meaningful on its own and is not just a single word or a description
+which is free of any context and thus hard to set in relation to other data.
+This is a simple way of ensuring that we break up our data into pieces that we
+can later analyze.
 
+To make this reasoning more clear, here are some examples:
+
+> **Not meaningful on its own (means mostly: too short):**
+>
 > -  I duplicate objects
 > -  making space
 
@@ -118,14 +134,14 @@ these notes should be supplemented with that context which hopefully helps us to
 know why are objects are duplicated and for which purpose is the space is made.
 
 
-**Too many statements in one line (means as well: too long):**
-
+> **Too many statements in one line (means as well: too long):**
+>
 > - Duplicating pages to save old ideas is common. Later she goes back to the duplicates and looks at them when she needs inspiration
 > - Tries to have enough space for the margins to write my comments in the margins; to do so she shrinks the main text area. I could as well try to make space down here, and use footnotes for the comments.
 
 
-**Reasonable (each line can stand on its own and does not to cover multiple issues at once)**
-
+> **Reasonable (each line can stand on its own and does not to cover multiple issues at once)**
+>
 > - Duplicating objects to save old ideas for later inspiration
 > - Make space for additional comments by shrinking main text area.
 > - Alternative places for additional comments: Either right margin or bottom.
@@ -164,7 +180,7 @@ These descriptions are easier to handle than the photo itself when doing the ana
 ### Audio
 
 Listen to the recording of your research session. Usually, I have the audio as a .mp3
-and the notes as a typed out plaintext or wordprocessor document (see: [Transcribe Notes](#TranscribeNotes)), so I can open audio and transcript in parallel on my computer.
+and the notes as a typed out plaintext or wordprocessor document (see: [Transcribe Notes](#TranscribeData)), so I can open audio and transcript in parallel on my computer.
 When the audio contains information which is not in the document or if it
 supplements information that is already there, I pause the playback and write the
 additional information in the document. So the process is very similar to supplementing
