@@ -84,18 +84,11 @@ It is likely that they know some other people who work in the same job or have s
 
 ## How many participants do I need?
 
-When estimating how many participants you need,  consider how many resources (time and/or money) you can spend on doing the research.
-Each additional participant gives you additional data and a broader view on your possible users.
-However, each research session needs time do and adds to the amount of data to be analyzed – so plan accordingly.
-
-You may think that more is better and that you just could shorten each session, ask fewer questions and skip observing the participants.
-But you need time if you want to find out about the »how« and »why« of the participants’ work . Several sessions in hurry will lead to less useful results than research with one participant done right.
-Nevertheless, only doing research on very few users will restrict the variance of data – like noticing that there may be several ways to do the same thing.
-As well you might not see which patterns are consistent among several people and which vary – which would certainly be impossible if you only had one participant.
-
 There are no clear cut rules of how many participants are enough.
 However, most of my projects have between 3 and 8 participants.
 If I really need to be sure that what I notice is consistent I'd do research with 10, but that is about the limit I can manage on my own.
+
+When estimating how many participants you need, consider how much resources (time and/or money) you can spend on doing the research. Each additional participant gives you additional data and a broader view on your possible users.However, each research session needs time do and adds to the amount of data to be analyzed – so plan accordingly.
 
 An efficient way of involving the »right« amount of participants is doing your research iteratively: start with three or four participants and analyse the data (how this is done is descibed in the section on [Analysing Data](#Analysis))
 
@@ -105,11 +98,15 @@ If preliminary findings are unclear or contradictory, you may need to involve mo
 
 Reasons for the such unsatisfactory results could be:
 
-* Your research encompasses different groups of people with different needs – For example the groups students and professors share some traits, but many characteristics will vary.
+* Your research encompasses different groups of people with different needs – For example the groups »students« and »professors« share some traits, but many characteristics will vary.
 * The topic of your research is too broad – for example, »How do people do design« is very broad, »How do interface designers involve specifications of user research and engineers in their designs« is more specific.
 * Even if your research is focused and there is only one group of people involved, the actual patterns just vary.
 
 In all these cases you can involve more participants – but before you do involve more participants try to check if you…
 
 * …need to clarify your research topic (to focus your efforts)
-* … need to specify the involved groups (to recruit the right participants)
+* …need to specify the involved groups (to recruit the right participants)
+
+You may think that conducting user research with more participants is generally better; you just could shorten each session, ask fewer questions and skip observing the participants. But you need time with each participant if you want to find out about the »how« and »why« of the participants’ work. Several sessions in hurry will lead to less useful results than research with one participant done right.
+
+Nevertheless, only doing research on very few users will restrict the variance of data – like noticing that there may be several ways to do the same thing. As well you might not see which patterns are consistent among several people and which vary – which would certainly be impossible if you only had one or two participants. However, despite the constraints of such small samples they can still lead the helpful insights. 
