@@ -66,16 +66,14 @@ Then we give that data a headline and name the topic:
 
 When we come across a piece of data which shares the topic we can add it to the group too:
 
-
-
 >- *Theme:* use other’s work  for inspiration
 >	- **Data:  Searches on amazon to see how covers of books about the same topic look like**
 >	- *Data:* »I look on google images how other calendars look like«
 >	- *Data:*  Browses through the book to see…
 
-This is a rather simplified overview of the process: In contrast to this example
+This is a rather simplified overview of the process: In contrast to this example, 
 you will as well spend time searching through data, rewriting theme titles and
-may need as well to step back or  sleep over it to find a good new way
+may need as well to step back or just sleep over it to find a good new way
 to make sense of your data.
 
 
@@ -108,7 +106,7 @@ belong to one theme and get the title »Color«; all notes mentioning »good«  
 > - The shelf looks not as clean as a bought one, but it is mine
 
 
-Organizing the data by this »same things mentioned«-method would help us  find data concerned
+Organizing the data by this »same things mentioned«-method would help us find data concerned
 with a specific thing or assessment: If we want see everything that concerned furniture we can go through
 the data in the »furniture« group; If we would like to know what people liked we could look it up in a group titled »good«.
 
@@ -153,8 +151,6 @@ But it can be hard and may be not possible for all your data.
 Creating groups using the same-things-mentioned methods is still a useful method and these
 groups may still evolve. Usually I have  some »same-things-mentioned«-groups in the beginning
 and far fewer at the end – but  my analysis will be a mixture of both styles.
-
-
 
 To understand how to organize data by themes based on insights can be hard to grasp for beginners.
 To ease the learning I provide another example:

@@ -18,7 +18,7 @@ We try to find out these reasons behind their activities.
 Getting to know the »how« and »why« of the users actions will allow us to evaluate our ideas (does it match their ideas of good work?) and
 to get inspiration for new ideas (how can we support this motivation?)
 
-## Inform and get Consent
+## Inform and ask for their Consent
 
 When you have found a participant, a place, a time and have your equipment ready
 we can start with the actual research session.
@@ -685,8 +685,8 @@ In this case, refer back to the information and ask for elaboration.
 Here are some examples:
 
 > That typography settings – you said they are far more precise than the
-ones in wordprocessors. Can you explain me how these differences help you to
-design compared to the ones in wordprocessors?
+ones in word processors. Can you explain me how these differences help you to
+design compared to the ones in word processors?
 
 or
 
@@ -704,18 +704,16 @@ intrusive:
 
 
 > »…so this was a design made by some artist. It was really wired, I shared the office with him for some time.
->
-> He always came with that dog of him which…« »Hmm…you previously talked about creating a cover for the book –
->
+> He always came with that dog of him which…« 
+> 
+> »Hmm…you previously talked about creating a cover for the book –
 > you said that you try several designs. Can you describe how you try them?«
 
 
 ### Referring back to check your understanding
 
 You can refer back to answers to check your grasp of what
-the participant talked about. In this case, even closed questions are ok.
-
-
+the participant talked about. In this case, even closed (yes/no) questions are ok.
 
 > »I saw you choose the color from that palette down there – is this the
 same palette you choose the background color from?« »No, it is not –
@@ -723,13 +721,10 @@ the palette I am using here is…«
 
 or
 
-
 > »So: If I want to print something first I need to ask for their color
 profile, when I have this, I load it in InDesign, choose the profile
 in the pdf dialog and then export it?« »Yes. I usually to a test
 afterwards by opening the pdf in addition«
-
-
 \
 \
 
