@@ -289,7 +289,6 @@ ceiling. During the interview, show reactions to what the participants says or d
 in the eyes (at least for members of western culture). When taking notes,
 maintaining eye contact is not possible all the time – but keep eye contact when you can.
 
-
 ![not-so-good posture](images/bodyPostureBad.jpg)
 
 ![much better posture](images/bodyPostureGood.jpg)
@@ -529,20 +528,19 @@ Remember that nobody does inefficient things by purpose. Assume that the
 user has a reason. Try to find out what this reason may be.
 
 
-
 > Again you could ask: »what's the reason for you doing it this way«
-– and remember to ask follow-up question to further explore
+– and remember to ask follow-up questions to further explore
 the issue.
 
 
 Your influencing feedback could be non-verbal as well. Like in everyday
-conversations you may shrug or frown if you disagree with an
+conversations, you may shrug or frown if you disagree with an
 utterance or an action. Even if you don’t say »this is wrong«, frowning
 or shaking your head may have the same results.
 
 So: don’t be afraid to react towards the participant – reacting towards the participant is
 essential in our research. But don’t suggest »good« or »bad« answers or
-»good« or »bad« ways of doing things by using words, gestures or facial expressions.  
+»good« or »bad« ways of doing things by using words, gestures or facial expressions.
 
 ### Silence feels strange but is o.k.  
 
