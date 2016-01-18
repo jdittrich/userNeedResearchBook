@@ -4,24 +4,45 @@
 
 ## Why should I use the methods described in this book?
 
-User Need Research helps us to find out how and why users do their work.
-This is different from usability testing. Testing is great for finding out about users’ problems, existing
-bugs and the possibilities to tweak an existing product. However, usability tests tell you little
-about the »why« and »how« of users’ work. In  usability  testing you may give the user a task to accomplish
- – but are these the tasks they are doing in their actual work? And if so – why is this
- task being done anyway?
+User Need Research helps us to find out how and why users do what they do. Why is this important? Using this knowledge we can create products or services that matter for the users and match their needs in daily life.  Even if your idea and the final outcome is actually awesome, it still needs to find its place in the user's life. It can be helpful to consider existing motivations, activities and problems the users have and to know the context the interaction happens in. Will they be motivated or tired? What other products do they use in the situations in which your idea may matter? How may other people influence the interaction? 
 
-Because of this you need methods that inform you about things you don’t know about yet.
-These are methods which allow us to explore the actual actions and the reasons behind them –
-because even if you might be puzzled about some things you observe they usually make
-perfect sense for the users.
+It can naturally happen that you find out that your assumptions about the users are not totally right. This may feel bad at first. But even if the user's actions don't make sense to you immediately , they do make sense for the users. If you find out, you can adjust your assumptions and build upon your newly gained knowledge. You may also get new ideas by researching your users needs: An unexpected concept a user holds, a clever hack they used to solve a problem may spark new ideas – Ideas which will be based on user needs. 
 
-Finding out about users’ needs  is not done by just asking users what they want, because in
-this case you are usually told that people want a better version of what they already have.
-For design it is more useful to know the *needs* behind these wishes. Henry Ford allegedly
-said »If I had asked people what they wanted, they would have said faster horses«.  Instead of
-faster horses, Ford sold a product that satisfied an underlying motivation – getting quickly
-from A to B – instead of the  specific wish.
+### How is this different from testing?
+
+The methods described in this book are different from common usability testing. Testing is great for finding out about users’ problems, existing bugs and the possibilities to tweak an existing product. However, usability tests tell you little about the »why« and »how« of users’ work.
+
+Often, usability testing is done with a nearly finished product, at a location users come to (like a testing lab) and with set tasks for them to do. The methods I will demonstrate here can be applied if you have a product but also if you only have rough ideas about an area you are interested in designing for. Also, we will strive for getting the information in the context where the interaction usually happens (not in a lab) and observe tasks that the user would just do in contrast to set ones. This allows us to explore the actual actions and the reasons behind them –  because even if you might be puzzled about some things you observe they usually make perfect sense for the users.
+
+### Couldn't I just as what they want?
+
+Since we talk about finding user needs, an obvious question is if we could not just ask them what they want and just build it. But this may not be a good idea. 
+
+Usually, people want a better version of what they already have.  Henry Ford allegedly said »If I had asked people what they wanted, they would have said faster horses«. Instead of faster horses, Ford sold a product that satisfied an underlying motivation – getting quickly from A to B – instead of the specific wish. This underlying motivation (why do they want to get from A to B?), the activities (How do they currently get from A to B) and their problems (What is currently painful, boring or otherwise non-pleasant about getting from A to B) is what helps us to understand users better. 
+
+This does not mean that what people wish can or should be ignored or that some ingenious designer is needed to show them their true needs. I just want to say that asking for needs directly and than just building it is not as simple and helpful as it seems intuitively.
+
+### In which situations/project state can I use these methods?
+
+Methods for finding user needs are usually applied in early project stages. The focus is not on evaluating what has been build so much, but more on how to improve future designs. So the research takes place before you decide which features go in the product and how they exactly work. Here are some scenarios in which finding out about the how and why about the user's work makes sense:
+
+1. There is a broad topic given which you want to explore further.
+
+> This might be »using libraries« or even »Finding and working with information in media«.
+
+2. You have an idea for a product or a service and you want to find out, what user motivations, activities and problems are important to consider when building this product or service.
+
+> The library wants to create an app for creating bibliographies, and 
+> they want to find out what they need to consider when doing this
+
+3. An existent product is to be improved or changed.
+
+> The library has an app for creating bibliographies since several years. 
+> However, there are complaints about it being useless and hard to use; 
+> Now they want to find out how version 2.0 should be different
+
+Starting with a broad topic, not focused on a solution, may be the ideal (since you can solely focus on the user needs), but it is far more common that a product idea already exists. In the case an *existing* product should be improved, it is common to use usability tests, but it makes sense to combine them with user need research – what about finding out about the usability problems of the current system by observing their everyday tasks?
+
 
 ## Example for User Need Research: e-Learning
 
