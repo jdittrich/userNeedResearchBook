@@ -1,4 +1,4 @@
-# License
+# License{-}
 
 Text and images are under the following License (if not stated otherwise)
 
@@ -6,11 +6,11 @@ Text and images are under the following License (if not stated otherwise)
 
 Libraries used for this webpage have their own licenses and are *not* covered by the Creative Commons license above.
 
-##Contributers
+##Contributers{-}
 
 * [lisacharlotterost](https://github.com/lisacharlotterost)
 
-## Suggestions and Feedback
+## Suggestions and Feedback{-}
 
 If you are  on github: [file an issue](https://github.com/jdittrich/userNeedResearchBook/issues)
 

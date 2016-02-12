@@ -1,4 +1,4 @@
-# Data Gathering  
+﻿# Data Gathering  
 
 In this chapter we will learn how to gather data to get to know about the activities, motivations and problems of our research participants.
 We will gather informations by listening to descriptions and explanations of our participants and by observing them working.
@@ -40,9 +40,7 @@ Participants should at least roughly know what the research is
 about. You don't need to reveal all your questions and topics
  but the general topic should be described
 
-
 >This research helps us to improve the workflow in the design process to design solutions for people who do graphic design.
-
 
 Make clear that you are here to learn – and not an evaluator of the
 quality of the participant’s work.
@@ -50,7 +48,6 @@ quality of the participant’s work.
 >…Therefore we'd like to get to know how you work. You are an expert in
  that field and we'd like to learn from you. This is not some kind of
  test – when I ask questions there are no wrong answers
-
 
 Although you may have described the timeframe and the method already
 when recruiting, tell the participant what you are going to do
@@ -75,8 +72,6 @@ it with the product design team.
 the recording.
 >
 > You can cancel the interview at any time if you feel it is needed.
-
-
 
 I had rarely someone who did not agree to being recorded. If that
 happens you can ask if they have any specific worries – possibly you can
@@ -116,13 +111,12 @@ session.
 conversation: You ask questions, the user answered them. -->
 
 
-
 We gather data by asking questions and listening to the participant’s answers.
 However, the use of questions and answers in user needfinding is unlike the
 questions and answers in questionnaires. In questionnaires it is often aimed for short, definitive
 answers out of a determined set of possibilities (»on a 4 point scale: how much do you
 agree with…«). Instead of this, we aim for longer answers that are not
-from a determined set of possible asnwers. Thus we are more likely to get rich descriptions,
+from a determined set of possible answers. Thus we are more likely to get rich descriptions,
 much like veritable stories which retell the participant’s experiences. In addition, these
  stories  tell us about the context of the user’s activities and the user’s motivations.
  To encourage giving such story like answers,  we will often ask for *descriptions*
@@ -167,8 +161,6 @@ suitable crop for that flyer«
 >
 > Researcher: »Can you show me how you do it?«
 
-
-
 Think of yourself as an apprentice of the participant. The participant
 is the master or expert who can teach you some of his/her skills.
 This means that understanding the user by observing is not a passive process.
@@ -203,7 +195,6 @@ Avoid positioning yourself as the expert in the participant’s domain by sugges
  procedures and by telling the participant  how and why something should be done.
 If the participant would just look up to you and your concept of how work should be
  done we would not get to know anything.
-
 
 ![observing the user’s work](images/ObservationDesign1.jpg)
 
@@ -258,28 +249,27 @@ information you get.
 Same goes for longer intersections at the end of an
 answer. Intuitively you may say:
 
-
 > »It was great to hear that you exchange files by mail!« (Since you may
 have already thought of a feature that might be helpful in that case)
-
 
 But the participant will try to be a nice person him/herself and
 probably try to make you happy by going on about the problems with files
 in mails even though sending files per mail is possibly not that bad in the participant’s view.
-Instead of  reassuring the participant using  judgments and emotions, focus on the
+Instead of  reassuring the participant using  judgements and emotions, focus on the
 fact that you got information you that helps you:
 
-
-
 > »That was interesting to hear –«
-
 
 Possibly you could even wrap the information up »So you…« and/or refer
 to an area you like further information about. So it will be clear
 that you care for the information and listened well – without casting
-some judgment on what was told to you.
+some judgement on what was told to you.
 
 ### Body Language  
+
+![not-so-good posture](images/bodyPostureBad.jpg){.portrait}
+
+![much better posture](images/bodyPostureGood.jpg){.portrait}
 
 Make a friendly impression by using body language. Probably you would not
 make a bad impression anyway, but let’s go through it nevertheless:
@@ -290,9 +280,7 @@ in the eyes (at least for members of western culture). When taking notes,
 maintaining eye contact is not possible all the time – but keep eye contact when you can.
 
 
-![not-so-good posture](images/bodyPostureBad.jpg)
 
-![much better posture](images/bodyPostureGood.jpg)
 
 ### Just ask  
 
@@ -300,11 +288,10 @@ Even if you got the consent to audio record and make photos or
 video ask, before you start the recording.
 
 
-> »I'd start the recording, if thats o.k.« (go ahead if there are no
+> »I'd start the recording, if that’s o.k.« (go ahead if there are no
  objections)
 >
 > »May I take a picture?«
-
 
 Usually I fade out the length of  these questions once the participant agreed,
 so the next time I'm photographing and I see no obvious obstacles (an
@@ -315,8 +302,6 @@ each time. Ask not only for recording activities – it goes for all other
 activities of yours you feel unsure about: just ask. By that, you show
 respect and care for the participant and you avoid awkward
 situations.
-
-
 
 ## Asking open questions  
 
@@ -376,20 +361,18 @@ to get.
 
 
 > A participant is describing me the printing process: *»…then I look up
- which color specification the printery needs…«*
+ which color specification the print shop needs…«*
 >
 >That is a new step in the workflow I did not expect (Naively, I thought that you just send
-the document to the printery like you would when you print it on your desktop printer –
+the document to the print shop like you would when you print it on your desktop printer –
 have a file, print it).
 >
 > Thus, I discovered a step in the workflow and a potential field of work (taking care of color spaces and profiles) of which I did not know that it even exists!
-
 
 The information you get will not be abstract as in answers like »good«
 or »I dislike it« but tied to a situation. This is preferable, because a
 future product will be used in real situations and not in an abstract
 space of thought.
-
 
 > »I like it when the feedback [to the design] comes quickly. No annoying
 waiting… it always makes me nervous. Do they [the client] like it or
@@ -398,11 +381,8 @@ do I need to throw out work?«
 > – this tells us more about the situation
 than a client’s feedback being just described as »good«.
 
-
 If you look back to the questions already mentioned, they will share some
 characteristics.
-
-
 
 > Here are some possible questions
 >
@@ -419,17 +399,15 @@ question words, again, suggest an elaborate answer, not just one
 or two words.
 
 Thus, a template for such questions would look like *»Please tell me [how/why/what] +
-[your interest]*
+[your interest]«*
 
 Contrast this with questions like
-
 
 > You: »Is this a good design?«
 >
 > Participant: »yes!«
 
-
-»Is…« -questions will be answered with »yes« or »no« – but we don't get to know why the participant to approoves or disapproves. In addition, »Is…«-Questions are a subtle form or influence ^[Also called a »leading question«] : In case of doubt it is  likely that are participant just agrees to the suggestion you give by asking »Is…«
+»Is…« -questions will be answered with »yes« or »no« – but we don't get to know why the participant to approves or disapproves. In addition, »Is…«-Questions are a subtle form or influence ^[Also called a »leading question«] : In case of doubt it is  likely that are participant just agrees to the suggestion you give by asking »Is…«
 
 Sometimes,  »Is«-Questions will  come in a disguised
 form – as an addition which is made to an open question:
@@ -508,11 +486,8 @@ clearly benefit from knowing some technical detail, just give the crucial inform
 if talking about the function itself is really  important to you, you can
 ask »How did you expect to do the color change if there would be such a function?«
 
-
 Similarly, you could be surprised or even annoyed by steps or actions
 in a workflow of the user which seem outright superfluous.
-
-
 
 > »When I write a text I write a draft and then send it to my colleague
 via mail as an attached .doc file. My colleague comments on it and
@@ -523,17 +498,12 @@ You may be tempted to say »Why don't you paste the text in the mail
 and comment directly? Or write it live on Etherpad? This would be far
 quicker!«
 
-
-
 Remember that nobody does inefficient things by purpose. Assume that the
 user has a reason. Try to find out what this reason may be.
-
-
 
 > Again you could ask: »what's the reason for you doing it this way«
 – and remember to ask follow-up question to further explore
 the issue.
-
 
 Your influencing feedback could be non-verbal as well. Like in everyday
 conversations you may shrug or frown if you disagree with an
@@ -704,8 +674,8 @@ intrusive:
 
 
 > »…so this was a design made by some artist. It was really wired, I shared the office with him for some time.
-> He always came with that dog of him which…« 
-> 
+> He always came with that dog of him which…«
+>
 > »Hmm…you previously talked about creating a cover for the book –
 > you said that you try several designs. Can you describe how you try them?«
 
@@ -850,7 +820,7 @@ workflow.
 ### Notes
 
 
-![making notes on a clipboard](images/notizenKlemmbrett.jpg)
+![making notes on a clipboard](images/notizenKlemmbrett.jpg){.portrait}
 
 
 During the interview you will take brief notes. This is rather similar like taking notes in school

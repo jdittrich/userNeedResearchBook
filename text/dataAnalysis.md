@@ -1,4 +1,4 @@
-# Analysis {#Analysis}
+﻿# Analysis {#Analysis}
 
 ## Why Analysis?
 
@@ -71,7 +71,7 @@ When we come across a piece of data which shares the topic we can add it to the 
 >	- *Data:* »I look on google images how other calendars look like«
 >	- *Data:*  Browses through the book to see…
 
-This is a rather simplified overview of the process: In contrast to this example, 
+This is a rather simplified overview of the process: In contrast to this example,
 you will as well spend time searching through data, rewriting theme titles and
 may need as well to step back or just sleep over it to find a good new way
 to make sense of your data.
@@ -199,26 +199,26 @@ designs for inspiration«* (given that it could serve both from the user's persp
 
 There is no »right« or »wrong« nor a clear cut criteria of being »close enough« to the data when
 you group your data in themes. Instead of having a clear, measurable rule like the »you
-must have p&#060;0.05 significance« ^[For those of you who love statistics (like me): Sorry for the example. I 
+must have p&#060;0.05 significance« ^[For those of you who love statistics (like me): Sorry for the example. I
 know that this criterion is highly debated] in statistics , most important is that your
 analysis is plausible (instead of »right« or »wrong«).
 
-I compare the process of analysis to building a house from a pile of Lego® bricks. These
+I compare the process of analysis to building a house from a pile of Lego^®^ bricks. These
 bricks are like the not-yet-analyzed data you start with. When you build a house out of these
 bricks, there is no »right« building. But neither is it a process which is arbitrary.
+
+<div class="gallery two">
+
+![possible arrangement of bricks – but not a house](images/lego_bricksToStartWith.jpg){.portrait}
+
+![one way to build a house](images/lego_houseFinished.jpg){.portrait}
+
+</div>
 
 There are many, many ways to stack up the bricks – but only a very few of these generally
 possible ways will result in something that can be plausibly called a house.
 
-<div class="gallery two">
-
-![possible arrangement of bricks – but not a house](images/lego_bricksToStartWith.jpg)
-
-![one way to build a house](images/lego_houseFinished.jpg)
-
-</div>
-
-How your final Lego® house will look
+How your final Lego^®^ house will look
 like is not determined from the beginning, rather you will change
 designs, move walls and sometimes try to use the same piece in different
 parts of the building to try out and improve. The same things will
@@ -226,7 +226,7 @@ happen when you analyze data: There are many very many possible ways to
 just arrange the data, but only some of them will create something that
 is meaningful to you and others. This creation of a meaningful structure
 is not determined at the beginning, but a process, just like building
-your Lego® house, in which you trial, fail, find improvements and step by
+your Lego^®^ house, in which you trial, fail, find improvements and step by
 step come closer to a structure you are satisfied with.
 
 ## Prepare Data for Analysis
@@ -364,9 +364,8 @@ For analysis on your computer I suggest the following steps for preparing your a
 2. Paste your transcript into that document
 3. Add a page break before the transcript to separate not-yet-grouped data from your (upcoming) structure of lines grouped by themes.
 
-**Creating Groups:** Similar data is organized in lists. You can just use the word processors bullet point list feature.
+**Creating Groups:** Similar data is organized in lists. You can just use the word processors bullet point list feature. To rearrange data, you can use copy and paste, drag and drop and the tools the word processor provides (toolbar to move points in lists etc.)
 
-To rearrange data, you can use copy and paste, drag and drop and the tools the word processor provides (toolbar to move points in lists etc.)
 \
 
 **State themes in titles of groups**: Each group gets a headline. Create a hierarchy by using different paragraph styles – bigger headlines for overarching themes of themes, smaller headlines for themes that encompass the data directly. If you use paragraph styles to format your headlines, you can use the navigation tool of the wordprocessor to go through your structure. You can as well just use the list-hierarchy feature (pressing the Tabuator-key, creates a subordinate list point). I prefer headlines though.
@@ -388,6 +387,7 @@ For working analog I recommend the following steps to get analysis-ready:
 **Creating groups**: during analysis you will stick your printed notes on the widths of paper
 using removable tape, crepe tape or spray glue – something sticky but non-permanent, so you can
 move the notes around in order to gradually improve the structure.
+
 \
 
 **State themes in  titles of  groups**: Write your group titles on notes of determined colors,
@@ -411,6 +411,7 @@ preliminary structure, like a sketch of the analysis.
 
 ### Move in Approximation
 
+
 The easiest way to start a structure is moving similar data in
 approximation. If you do you analysis on paper,  cluster notes you
 assume to follow a common theme in one place and notes for other
@@ -418,6 +419,14 @@ themes in other places. If you analyze using a word processor, move similar
 notes in adjacent lines. Create different groups, each containing similar notes,
 by using several line breaks above and below such a group or by
 creating a list for each assumed theme.
+
+<div class="gallery two">
+
+![two (preliminary) groups as lines (the digital way)](images/abstractGroupLines.svg){.portrait}
+
+![two (preliminary) groups as sticky notes (the analog way)](images/abstractGroupPapers.svg){.portrait}
+
+</div>
 
 
 > - Asking herself: what would impress the person (a safety advisor)
@@ -431,13 +440,7 @@ approximation.*
 
 
 
-<div class="gallery two">
 
-![two (preliminary) groups as lines (the digital way)](images/abstractGroupLines.svg)
-
-![two (preliminary) groups as sticky notes (the analog way)](images/abstractGroupPapers.svg)
-
-</div>
 
 
 ### Name Commonalities  

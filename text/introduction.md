@@ -80,7 +80,7 @@ Creating files and exchanging them and writing messages. So a major need was
 to get material to students and receive material from them with the least effort
 and the least demand for learning new skills. It was the same for the students: They needed
 to do their projects and homework as efficiently as possible and they relied
-on mail and services like Dropbox® to do project work together or to share old exam
+on mail and services like Dropbox^®^ to do project work together or to share old exam
 questions for practicing.
 
 This led us to several ideas which guided the project in the following phases:

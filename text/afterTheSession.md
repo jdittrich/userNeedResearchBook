@@ -1,4 +1,4 @@
-# After the Session
+﻿# After the Session
 After our research session we have our notes, sketches and possibly audio and photos.
 Using these recordings as well as our memory we create a coherent document for
 each participant which captures the research session and the recorded utterances and
