@@ -8,14 +8,6 @@ These users are our (research) participants.
 (Your participants may be called your »sample«, in contrast to all those who could be possibly be participants, the »population«.
  So a sample – some users – is a part of the population – all possible users)
 
-## Who are possible participants?
-
-If you design an app for people to create bibliographies and you can only get some bachelor and masters students, but no professors, your results will still reveal a lot about the processes of creating bibliographies. The student’s motivation is probably writing final term papers and the professors would like to write journal papers. This is a possible difference. But as long as you aware of it, you are probably fine. But if you want to design a skateboard and the only participants you can get are all elderly people who enjoy hiking, you are in trouble (if you find elderly people who enjoy skating, go for it).
-
-## Make compromises, if needed
-
-Especially if you are on your own, you may need to compromise and do research with participants that don't match your intended users exactly. When doing this, keep in mind to check for similarity of tasks, problems and motivations. These checks don't ensure that the participants are exactly the ones who may use your final product. But you can be rather sure that they can tell you something that is of interest for you.
-If you design an app for people to create bibliographies and you can only get some bachelor and masters students, but no professors, your results will still reveal a lot about the processes of creating bibliographies. The student’s motivation is probably writing final term papers and the professors would like to write journal papers. This is a possible difference. But as long as you aware of it, you can still get a lot of value of the research. 
 
 ## How can I find participants?
 
@@ -63,6 +55,12 @@ If you are unsure, just ask.
 These people you ask, lets say a clergyman or a meetup organizer may even be able to set you up with people who can help you.
 Once you started your research  you can ask  participants if they know other people who match your ideas of possible participants.
 It is likely that they know some other people who work in the same job or have similar hobbies. (In the literature this is also called »Snowball sampling«)
+
+## Make compromises, if needed
+
+Especially if you are on your own, you may need to compromise and do research with participants that don't match your intended users exactly. When doing this, keep in mind to check for similarity of tasks, problems and motivations. These checks don't ensure that the participants are exactly the ones who may use your final product. But you can be rather sure that they can tell you something that is of interest for you.
+
+If you design an app for people to create bibliographies and you can only get some bachelor and masters students, but no professors, your results will still reveal a lot about the processes of creating bibliographies. The student’s motivation is probably writing final term papers and the professors would like to write journal papers. This is a possible difference. But as long as you aware of it, you are probably fine. But if you want to design a skateboard and the only participants you can get are all elderly people who enjoy hiking, you are in trouble (if you find elderly people who enjoy skating, go for it).
 
 
 ## How many participants do I need?

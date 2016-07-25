@@ -778,7 +778,7 @@ design. I created two subgroups which were more meaningful.
 >     -   \[Subgroup\]: Highly motivated at the beginning; then the problems start.
 >     -   \[Subgroup\]: Finishing is good
 >     -   \[Subgroup\]: Waiting for feedback is bad
->     -   \[Subgroup\]: being afraid of clients rejection of the design
+>     -   \[Subgroup\]: being afraid of the client’s rejection of the design
 
 > Sometimes you first sort the data under the overarching title or
 > principle and then move it to an already existing subgroup later:
@@ -831,7 +831,7 @@ time to communicate your results.
 >      -   Highly motivated at the beginning; then the problems start
 >      -   Finishing is good
 >      -   Waiting for feedback is bad
->      -   being afraid of clients rejection of the design
+>      -   being afraid of the client’s rejection of the design
 > -   repetitive and manual work (negative)  
 > -   changes and requirements
 >      -   Some changes like page format are hard to change later
