@@ -1,4 +1,5 @@
-﻿# After the Session
+﻿# Review your data
+
 After our research session we have our notes, sketches and possibly audio and photos.
 Using these recordings as well as our memory we create a coherent document for
 each participant which captures the research session and the recorded utterances and
@@ -6,8 +7,8 @@ observations.
 
 ## Supplement from memory
 
-It is essential to take time after the research session to supplement your
-notes with information from your memory. While collecting
+It is essential to take time as soon as possible after the research session 
+to supplement your notes with information from your memory. While collecting
 the data with the participant you will be very busy listening and
 thinking of following questions. So you may not be able to keep up with
 writing notes and drawing sketches. There is no need to worry since
@@ -45,8 +46,7 @@ projects*
 
 
 
-When revising your sketches, redraw the lines if the sketch is ambiguous otherwise and add annotations if you
-think that they might ease interpreting the sketch later on.
+When revising your sketches, redraw the lines if the sketch is ambiguous otherwise and add annotations if you think that they might ease interpreting the sketch later on.
 
 Think of your future self: Some notes may make perfect sense to you now
 but since memory fades, they will seem cryptic later. So supplement and
@@ -97,36 +97,32 @@ complicated descriptions of workflows or if you just loose track by
 accident, it might be useful to have a backup by using audio recording.
 
 ## Transcribe your Data {#TranscribeData}
-Even if I supplemented my notes from memory and rewrote the most undecipherable words,
-they are not easy to read. To bring them into a more accessible form.
 
-In addition, I scan my notes, so I can easily cut and paste the sketches into
-the same document If you made an audio recording of your research session you
-could listen to it and add information which is not in there yet.
+Before yor analyze your data, you should transcribe it properly, so it can be easily formatted, copied and accessed.
+
+Sketches and Photos need to be ordered and can be connected to the written notes. If you did an audio recording you can listen to it and correct, supplement and extend your notes.
+
 The document which we create by doing do is our »Transcript« ^[»Transcript« often
 means to (verbatim) transcribe audio data. So it is possible, that what I call a
 »transcript« here (bringing any data into an accessible, but not-yet-analyzed form)
 may not be a ›proper‹ transcript for somebody else]
 
 
-### Transcribing notes
-On your (handwritten) notes, you may have sentences aside to each other that make (more)
-sense on their own – or single words or fragments which make only sense
-together. Sometimes these things are already sorted out when supplementing
-your notes. If not: now is the time to create some order:
-In your digital transcript, put one statement (or whatever you
-consider to make sense on its own) in each line. Avoid  tying together  two separate
-statements on one line and, on the other hand, make sure that the data you put into
-one line is meaningful on its own and is not just a single word or a description
-which is free of any context and thus hard to set in relation to other data.
-This is a simple way of ensuring that we break up our data into pieces that we
-can later analyze.
+### Transcribe your notes
+
+Since they are often written quickly, your notes will usually be rather incoherent: Single words, small sketches, and longer sentences will all be scattered on the paper. Tidy your data and transcribe the notes in a digital document.
+
+![before transcription](images/exampleNotesBeforeTranscript.png)
+
+![after transcription](images/exampleNotesTranscript.png)
+
+In your digital transcript, put one statement (or whatever you consider to make sense on its own) in each line. Avoid tying together two separate statements on one line and, on the other hand, make sure that the data you put into one line is meaningful on its own and is not just a single word or a description which is free of any context and thus hard to set in relation to other data. This is a simple way of ensuring that we chunk our data in a way we can later use for the analysis.
 
 To make this reasoning more clear, here are some examples:
 
 > **Not meaningful on its own (means mostly: too short):**
 >
-> -  I duplicate objects
+> -  duplicate objects
 > -  making space
 
 If there is any way to add the actual context (out of the memory or using other notes)
@@ -137,7 +133,7 @@ know why are objects are duplicated and for which purpose is the space is made.
 > **Too many statements in one line (means as well: too long):**
 >
 > - Duplicating pages to save old ideas is common. Later she goes back to the duplicates and looks at them when she needs inspiration
-> - Tries to have enough space for the margins to write my comments in the margins; to do so she shrinks the main text area. I could as well try to make space down here, and use footnotes for the comments.
+> - She tries to have enough space for the margins to write comments in; to do so, she shrinks the main text area. She says, she could as well try to make space at the bottom of the page, and use footnotes for the comments.
 
 
 > **Reasonable (each line can stand on its own and does not to cover multiple issues at once)**
@@ -152,9 +148,7 @@ in my documents since they are all data I gathered by listening or observing
 the participant. But I take care that later added design ideas and research questions
 are still easily distinguishable from the actual data that I gathered in the research session.
 
-## Review Sketches, Photos and Audio
-
-### Sketches
+### Sketches and Photos
 
 Since my sketches are usually on the same sheet of paper as my notes, I review my sketches
 when I am transcribing the notes.
@@ -164,10 +158,8 @@ Otherwise, I paste the sketch from a scan into the document with the transcript.
 
 ### Photos
 
-Go through your photos just like you went through your notes.
-If it makes sense, you can use the information from the photos to supplement your notes.
-It might as well useful to describe the photo.
-These descriptions are easier to handle than the photo itself when doing the analysis.
+Review your sketches and photos ideally together with your written notes.
+Describe photos and sketches in one or two lines. In particular, supplement them with some context: Why did you make the photo, what is particularly interesting? What does the sketch or diagram show? This makes sense to understand and remember what is depicted. Also, it can sometimes be easier to work with texts than with images. 
 
 
 > ![photographing a screen instead of using screenshots](images/ObservationDesignU4ScreenFontMix.jpg)
@@ -176,16 +168,23 @@ These descriptions are easier to handle than the photo itself when doing the ana
 > displays different font combinations in the layout application to see if
 > the fonts go well together (see *U2-14-9-14_1.jpg* )«
 
+In my written notes, I »link« to  photos or sketches by mentioning their filename like 
+
+> See [U6_DesktopSetup.jpg]
+
+Or I paste the images directly into the document.
 
 ### Audio
 
-Listen to the recording of your research session. Usually, I have the audio as a .mp3
+If you made a recording of your research session, use it to supplement and check your notes. 
+
+Usually, I have the audio as a .mp3
 and the notes as a typed out plaintext or wordprocessor document (see: [Transcribe Notes](#TranscribeData)), so I can open audio and transcript in parallel on my computer.
+
 When the audio contains information which is not in the document or if it
 supplements information that is already there, I pause the playback and write the
 additional information in the document. So the process is very similar to supplementing
 your notes from memory.
-
 
 > Audio recording: »…hmm I send it to my boss. She will check it. Now I go to that
 other document, and see…«
@@ -203,5 +202,4 @@ to the parts of the audio that might complement these sections.
 
 As a result of supplementing our notes from memory and by using the audio, sketches and
 photos we now have a document which summarizes our research session. The data  is
-mainly text-based, though if an information is better expressed via a sketch or an image
-paste it in the document or refer to it.
+mainly text-based though additional information is conveyed in sketches or photos.
