@@ -156,6 +156,8 @@ blockquote small, .example small {
 .figure>img, figure>img {
   width: 100%;
   display: block;
+  border-bottom: 1px solid rgb(222, 222, 222);
+
 }
 
 .figure>.caption, figure>figcaption, .gallery>.caption {

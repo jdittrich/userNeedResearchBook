@@ -8,35 +8,10 @@ These users are our (research) participants.
 (Your participants may be called your »sample«, in contrast to all those who could be possibly be participants, the »population«.
  So a sample – some users – is a part of the population – all possible users)
 
-## Who are possible participants?
-
-The participants in your research need to be similar to the future users of your final product.
-If you plan to create an app for people to create bibliographies it makes sense that the participants are students or researchers.
-If you plan to design a skateboard try to find people who skate.
-The point is: you need to make up your mind who might give you the information about the how and why of the activities you want to support with your product.
-
-When selecting possible participants, I recommend doing a check based on (assumed) user behavior.
-Ask yourself: Are the people that may participate in your research likely to…
-
-- …do the tasks the people do who should use your final product?
-- …have similar problems?
-- …have similar motivations?
-
-I assume that you don't have the money to employ a recruiting agency to get your participants.
-Thus, you will need to find and ask them yourself.
-Especially if you are on your own you may need to compromise and do research with participants
-that don't match your intended users exactly.
-When doing this, keep in mind to  check for similarity of tasks, problems and motivations.
-These checks don't ensure that the participants are exactly the ones who may use your final product.
-But you can be rather sure that they can tell you something that is of interest for you.
-
-If you design an app for people to create bibliographies and you can only get some bachelor and masters students, but no professors, your results will still reveal a lot about the processes of creating bibliographies.
-The student’s motivation is probably writing final term papers and the professors would like to  write journal papers. This  is a possible difference. But as long as you aware of it, you are probably fine. But if you want to design a skateboard and the only participants you can get are all elderly people who enjoy hiking, you are in trouble  (if you find elderly people who enjoy skating, go for it).
 
 ## How can I find participants?
 
-Think of methods to make possible participants aware of your research and the possibility to participate.
-For example, participants could be found among
+I assume that you don't have the money to employ a recruiting agency to get your participants. Thus, you will need to find and ask them yourself. Think of methods to make possible participants aware of your research and the possibility to participate. For example, participants could be found among
 
 - Employees of other departments
 - Friends and family
@@ -80,6 +55,12 @@ If you are unsure, just ask.
 These people you ask, lets say a clergyman or a meetup organizer may even be able to set you up with people who can help you.
 Once you started your research  you can ask  participants if they know other people who match your ideas of possible participants.
 It is likely that they know some other people who work in the same job or have similar hobbies. (In the literature this is also called »Snowball sampling«)
+
+## Make compromises, if needed
+
+Especially if you are on your own, you may need to compromise and do research with participants that don't match your intended users exactly. When doing this, keep in mind to check for similarity of tasks, problems and motivations. These checks don't ensure that the participants are exactly the ones who may use your final product. But you can be rather sure that they can tell you something that is of interest for you.
+
+If you design an app for people to create bibliographies and you can only get some bachelor and masters students, but no professors, your results will still reveal a lot about the processes of creating bibliographies. The student’s motivation is probably writing final term papers and the professors would like to write journal papers. This is a possible difference. But as long as you aware of it, you are probably fine. But if you want to design a skateboard and the only participants you can get are all elderly people who enjoy hiking, you are in trouble (if you find elderly people who enjoy skating, go for it).
 
 
 ## How many participants do I need?

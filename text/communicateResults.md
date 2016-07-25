@@ -129,6 +129,7 @@ giving a general user profile. Thus you don’t share any personal data of
 anyone but allow your audience to have some ideas of the participants.
 
 
+
 > Participants were students (four of them) or recent graduates (one of
 them).  All had studied several terms already and had work experiences
 from at least one internship. Four were female, one were male.
@@ -241,15 +242,15 @@ building she is in already and a code: »X0-3R52«… \[scenario may continue\]
 
 You could as well create a scenario as a series of sketches, like a comic strip:
 
-<div class="gallery two">
+<div class="gallery four">
 
-![the search interface of the library's  computer](images/szenario2_1.png)
+![the search interface of the library's  computer](images/szenario2_1.png){.portrait}
 
-![remembering the code. Is it a zero or the letter ›O‹?](images/szenario2_2.png)
+![remembering the code. Is it a zero or the letter ›O‹?](images/szenario2_2.png){.portrait}
 
-![I can’t find the right shelf!](images/szenario2_3.png)
+![I can’t find the right shelf!](images/szenario2_3.png){.portrait}
 
-![I'd better ask somebody… now I know where I need to go! ](images/szenario2_4.png)
+![I'd better ask somebody… now I know where I need to go! ](images/szenario2_4.png){.portrait}
 
 </div>
 
@@ -257,14 +258,16 @@ You could as well create a scenario as a series of sketches, like a comic strip:
 
 ### Diagrams
 
+![A diagram showing the sources and flow of files used by university students](images/exampleDiagram_fileFlow.png)
+
+![A diagram showing the workflow in creating a software](images/flowDiagram.svg)
+
+
 Diagrams are useful to show high-level concepts, relations and
 dependencies – for example showing which activities need to be done to
 create a page of a magazine or the ways a group of students share files
 when working together on a joint project.
 
-![A diagram showing the sources and flow of files used by university students](images/exampleDiagram_fileFlow.png)
-
-![A diagram showing the workflow in creating a software](images/flowDiagram.svg)
 
 ### Photos and Illustrations
 
