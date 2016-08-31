@@ -197,7 +197,7 @@ data. You could say that *»looking at last years design to quickly reuse elemen
 theme concerned with *»I want to save time«* or to one related to the topic of *»reviewing
 designs for inspiration«* (given that it could serve both from the user's perspective).
 
-There is no »right« or »wrong« nor a clear cut criteria of being »close enough« to the data when
+There is no »right« or »wrong« nor a clear cut criterion of being »close enough« to the data when
 you group your data in themes. Instead of having a clear, measurable rule like the »you
 must have p&#060;0.05 significance« ^[For those of you who love statistics (like me): Sorry for the example. I
 know that this criterion is highly debated] in statistics , most important is that your
