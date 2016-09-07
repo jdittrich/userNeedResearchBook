@@ -589,7 +589,7 @@ how the final product should be like.
 
 > Which function do you need for aligning objects?
 
-This is basically asking the user for the design of the software.
+This is basically asking the user for the design of the software. You will get an answer like: 
 
 > Yes, there should be a button for, like equal distributions… here.
 It should be easy, so it should have a button with a ›distr‹ on it in
@@ -601,8 +601,8 @@ designs would be directly based on the suggestions of the participant.
 But it usually leads to disastrous results. Even for experienced
 designers it may be hard to come up with a good interface which is easy
 to learn and efficient to use. And even experienced designers take time, often creating
-multiple versions which are then tested. How should somebody inexperienced in that task
-come up with a great interface spontaneously?
+multiple versions which are then tested. How should somebody inexperienced in designing
+products come up with a great interface spontaneously?
 
 Another (highly tempting) way of »making the participant the designer«
 is to ask for the usefulness of hypothetical functions that you fancy yourself:
