@@ -581,60 +581,40 @@ should be asked first, then the second:
 > »What is good about the resulting design? « [Answer]
 
 
-## Don't make the user the designer
+### Don’t make the user the designer
 
 It is tempting to skip investigating the »how« and »why« of the
-participant’s work and to ask the participant instead directly  
+participant’s work and to ask the participant directly  
 how the final product should be like.
 
-> Which function do you need for aligning objects?
-
-This is basically asking the user for the design of the software.
-
-> Yes, there should be a button for, like equal distributions… here.
+> Question: Which function do you need for aligning objects?
+> Answer: Yes, there should be a button for, like equal distributions… here.
 It should be easy, so it should have a button with a ›distr‹ on it in
 red, so I don’t oversee it…
+
+A variation of it is asking if a design you suggest should be used:
+
+> Would a function for choosing a color scheme help you?
 
 Asking the user for a design sounds like a reasonable thing to do – the resulting
 designs would be directly based on the suggestions of the participant.
 
-But it usually leads to disastrous results. Even for experienced
-designers it may be hard to come up with a good interface which is easy
-to learn and efficient to use. And even experienced designers take time, often creating
-multiple versions which are then tested. How should somebody inexperienced in that task
-come up with a great interface spontaneously?
+But it usually leads to bad design results: Even for experienced designers it may be hard to come up with a good interface which is easy to learn and efficient to use. And even experienced designers take time, often creating multiple versions which are then tested. How should somebody inexperienced in that task come up with a great interface spontaneously?
 
-Another (highly tempting) way of »making the participant the designer«
-is to ask for the usefulness of hypothetical functions that you fancy yourself:
+<!-- could be more crisp and slightly more extensive: --> 
+Asking the user for a design also makes your research less useful. You will get to know that a participant thinks a particular design would be useful. But you don't get to know about the »how« and »why« of the user’s work. 
 
-> Would a function for choosing a color scheme help you?
+If you *really* want to discuss a design suggestion, use it to find out more about the »how« and »why« of the user’s work and tie it to a specific situation. 
 
-This is like asking »Do you want an additional tool which might be
-useful at some point and get it for free?«. If the participant can think
-of a few occasions in which such a tool  *might*  be useful, the answer
-will be »yes«. In addition, nothing can be found out about the »how« and »why« of the
-participant's work – just like with other questions that ask for »yes«
-or »no« outcomes.
+> *[Design Suggestion:]* We think of a system in which colors can be changed like you just
+changed the paragraph-styles. *[Encouraging to tell more about the activity:]* How would such a feature be relevant or not *[Specific situation:]* in the task you just described?
 
-If you *really* want to discuss a function instead of focusing on what the
-participant does and why this is done, give some context to the question and tie it to a
-specific situation.
+Thus, you can get more information on the *tasks* for which the feature could be
+useful. The question is not concerning a vague, general future use but to a specific  one.
 
+\
 
-> We think of a system in which colors can be changed like you just
-changed the paragraph-styles. How would such a feature be relevant or
-not in the task you just described?
-
-
-Thus, you can get more information on the tasks for which the feature could be
-useful. The question is not tied to all possible
-situations but to a specific  one.
-
-Asking the user for design ideas and functions is tempting but rarely
-useful. If possible, avoid it and concentrate on the finding about how and why they
-work the way they do. If you really need to ask for designs or function ideas, tie
-them to a specific context and ask for descriptive answers instead of
-asking if something in general might be good or not.
+Asking the user for design ideas is tempting but rarely useful. If possible, avoid it and concentrate on the finding about how and why they work the way they do. 
 
 ## Referring back  
 
@@ -695,13 +675,8 @@ afterwards by opening the pdf in addition«
 \
 \
 
-Jumping back to some previously
-mentioned topic may seem difficult, since you need to remember some
-particular information (to refer to it later) while carrying on with the research.
-However, it is not that hard – just give it a try. As well, keep in mind that you can
-make brief notes reminding you of things that are of interest. With a look on your
-note sheet they will return to your memory in case you
-forgot about them.
+Jumping back to some previously mentioned topic may seem difficult, since you need to remember some particular information (to refer to it later) while carrying on with the research. However, it is not that hard – just give it a try. As well, keep in mind that you can make brief notes reminding you of things that are of interest. With a look on your
+note sheet they will return to your memory in case you forgot about them.
 
 
 ## How exactly would you do it?  
@@ -819,32 +794,40 @@ workflow.
 
 ![making notes on a clipboard](images/notizenKlemmbrett.jpg){.portrait}
 
+<!-- SECTION: INTRO -->
 
-During the interview you will take brief notes. This is rather similar like taking notes in school
-or university: You go for the gist of what was said but you don't write down the exact words
-(Except in the case you find a particular expression itself important). One utterance or
-observation concerning one topic goes in one line.
+During the interview you will take brief notes. This is rather similar like taking notes in school or university: You go for the gist of what was said but you don't write down the exact words (Except in the case you find a particular expression itself important). One utterance or observation concerning one topic goes in one line, bullet-point style.
 
-You can’t just look at your note sheet and write down what the participants says without ever
-looking at him/her. So you need to do the notetaking in addition to observing, listening and
-asking.
+\ 
+<!-- SECTION: TECHNIQUE -->
 
-If you don’t care too much about your handwriting you can write notes without much looking
-at the paper except for some occasional glances. In case you find something very important
-and fear forgetting it, you can ask the participant to repeat the utterance – but keep this to
-a minimum.
+Your main taks in the interview is to listen and to observe. When you look at your notesheet and think about what the write down, listening and observing don't work well. Try too keep it as unobstrusive as possible. 
 
-If you can, try to provide some context in your notes. If a note has some own context information attached to it,
-it can be understood on its own, too.
+* If you don’t care too much about your handwriting you can write notes without much looking at the paper except for some occasional glances (the method has its limits, though)
+* Because of the difficulties of balancing observing, listening and notetaking, there are obvious benefits of a partner who does the research with you. One person can ask questions and guide through the research, the other person takes notes. Both observe and listen.
+* <!-- audio: you can afford to skip writing down verbatim comments of the person; -->
+If you record audio in paralell you can be more relaxed when writing what was *said*. However, you still need to take notes to keep what you observed. This can also be very useful when you listen to the audio later and wonder what was referred to when the participant refers to things as »it« and »that« – without notes it can be hard to reconstruct what the participant was talking about. 
 
+\ 
 
-> * Rather than writing *»she clicks«* (what? Why?) you could write *»Clicks save button, has finished balancing the elements«* or the like.
->
-> * Rather than »creates empty page« write
+<!-- expect to write lots of notes. Depending on person. For 30 min 2 DINA4-->
+When I take notes in research I write often about 1 A4 page each 15min., sometimes more, sometimes less. So it does not make sense to try to write everything on one sheet or even in some space left on the cheat-sheet with your questions on it. 
+
+![Example for a sheet with research notes, written ca. over 20min](images/notesheet.png)
+
+\ 
+<!-- SECTION: CONTENT --> 
+You will supplement, transcribe and analyse your notes after the data gathering. Thus you need to be able to make sense of them later. Between collecting the data and reviewing your notes, the *context* is easily forgotten: If you just write «empty page« it may make totally sense at the moment you write that, seeing what is happening and  knowing what happend before and after. But without that implicit knowledge »empty page« does not make much sense. 
+
+> Rather than »creates empty page« write
 > »creates empty pages to organize drafts«
+> 
+> Instead of »changes objects« write
+> »Changes object size to match grid«
 
-
-If your notes have a meaning on their own it will be far easier to analyze them later.
+\ 
+<!--reflect.--> 
+When you use your notes in subsequent steps you will read lines that don't make sense to you anymore or you feel the need for particular information. Note what was missing from the notes; maybe attach a brief comment on a sticky note to them. This is useful to learn how to take better notes. 
 
 ### Audio
 
