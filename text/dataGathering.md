@@ -587,10 +587,11 @@ It is tempting to skip investigating the »how« and »why« of the
 participant’s work and to ask the participant directly  
 how the final product should be like.
 
-> Question: Which function do you need for aligning objects?
-> Answer: Yes, there should be a button for, like equal distributions… here.
+>  Which function do you need for aligning objects?
+>
+> Yes, there should be a button for, like equal distributions… here.
 It should be easy, so it should have a button with a ›distr‹ on it in
-red, so I don’t oversee it…
+red, so I don’t overlook it…
 
 A variation of it is asking if a design you suggest should be used:
 
