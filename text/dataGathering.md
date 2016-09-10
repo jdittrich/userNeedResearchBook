@@ -822,32 +822,39 @@ workflow.
 
 ![making notes on a clipboard](images/notizenKlemmbrett.jpg){.portrait}
 
+<!-- SECTION: INTRO -->
 
-During the interview you will take brief notes. This is rather similar like taking notes in school
-or university: You go for the gist of what was said but you don't write down the exact words
-(Except in the case you find a particular expression itself important). One utterance or
-observation concerning one topic goes in one line.
+During the interview you will take brief notes. This is rather similar like taking notes in school or university: You go for the gist of what was said but you don't write down the exact words (Except in the case you find a particular expression itself important). One utterance or
+observation concerning one topic goes in one line, bullet-point style.
 
+<!-- SECTION: TECHNIQUE -->
 You can’t just look at your note sheet and write down what the participants says without ever
-looking at him/her. So you need to do the notetaking in addition to observing, listening and
+looking at him/her.  So you need to do the notetaking in addition to observing, listening and
 asking.
 
-If you don’t care too much about your handwriting you can write notes without much looking
-at the paper except for some occasional glances. In case you find something very important
-and fear forgetting it, you can ask the participant to repeat the utterance – but keep this to
-a minimum.
+Your main taks in the interview is to listen and to observe. When you look at your notesheet and think about what the write down, listening and observing don't work well. Try too keep it as unobstrusive as possible. If you don’t care too much about your handwriting you can write notes without much looking at the paper except for some occasional glances (the method has its limits, though)
 
-If you can, try to provide some context in your notes. If a note has some own context information attached to it,
-it can be understood on its own, too.
+Because of the difficulties of balancing observing, listening and notetaking, there are obvious benefits of a partner who does the research with you. One person can ask questions and guide through the research, the other person takes notes. Both observe and listen.
 
+<!-- audio: you can afford to skip writing down verbatim comments of the person; -->
+If you record audio in paralell you can be more relaxed when writing what was *said*. However, you still need to take notes to keep what you observed. This can also be very useful when you listen to the audio later and wonder what was referred to when the participant refers to things as »it« and »that« – without notes it can be hard to reconstruct what the participant was talking about. 
 
-> * Rather than writing *»she clicks«* (what? Why?) you could write *»Clicks save button, has finished balancing the elements«* or the like.
->
-> * Rather than »creates empty page« write
+<!-- expect to write lots of notes. Depending on person. For 30 min 2 DINA4-->
+When I take notes in research I write often about 1 A4 page each 15min., sometimes more, sometimes less. So it does not make sense to try to write everything on one sheet or even in some space left on the cheat-sheet with your questions on it. 
+
+<!-- SECTION: CONTENT --> 
+You will supplement, transcribe and analyse your notes after the data gathering. Thus you need to be able to make sense of them later. 
+
+What is most easily lost is context: if you just write «empty page« it may make totally sense at the moment you write that, seeing what is happening and  knowing what happend before and after. But without that implicit knowledge »empty page« does not make much sense. 
+
+> Rather than »creates empty page« write
 > »creates empty pages to organize drafts«
+> 
+> Instead of »changes objects« write
+> »Changes object size to match grid«
 
-
-If your notes have a meaning on their own it will be far easier to analyze them later.
+<!--reflect.--> 
+When you use your notes in subsequent steps you will read lines that don't make sense to you anymore or you feel the need for particular information. Note what was missing from the notes; maybe attach a brief comment on a sticky note to them. This is useful to learn how to take better notes. 
 
 ### Audio
 
