@@ -202,4 +202,4 @@ to the parts of the audio that might complement these sections.
 
 As a result of supplementing our notes from memory and by using the audio, sketches and
 photos we now have a document which summarizes our research session. The data  is
-mainly text-based though additional information is conveyed in sketches or photos.
+mainly text-based, but additional information is conveyed in sketches or photos.
