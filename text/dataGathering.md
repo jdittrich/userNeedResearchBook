@@ -690,14 +690,11 @@ After you ask a question,  participants will sometimes answer *»in general«*
 Creation, Evaluation. So in research I…«
 
 
-It may seem great – after all, a general process which you can apply to
-just about anything is a finding we seem want! But actually these *»in
-general«* descriptions pose some problems: Since they are general and thus abstract
-they lack a rich context and stand rather disconnected to other
-activities or motivations. A general principle is independent of
-such »minor« day to day things. But these seemingly trivial informations about the
-context of activities  give us the insights we need to find out why and how the participant is
-doing something in the real, particular situation. Such »general« procedures may as well
+It may seem great – after all, a general process is a finding we seem want! But actually these *»in general«* descriptions pose a problem: Since they are general, they lack rich context and stand rather disconnected to other activities or motivations. 
+
+But these seemingly trivial informations about the context of activities  give us the insights we need to find out why and how the participant is doing something in the real, particular situation. 
+
+Such »general« procedures may as well
 be heavily idealized and rarely applied in the way they are described.
 
 A way to get  real-world, rich data is to ask for an example. Thus, you

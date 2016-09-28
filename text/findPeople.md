@@ -54,7 +54,7 @@ It does not help your research if the community you target gets upset with you f
 If you are unsure, just ask.
 These people you ask, lets say a clergyman or a meetup organizer may even be able to set you up with people who can help you.
 Once you started your research  you can ask  participants if they know other people who match your ideas of possible participants.
-It is likely that they know some other people who work in the same job or have similar hobbies. (In the literature this is also called »Snowball sampling«)
+It is likely that they know some other people who work in the same job or have similar hobbies. (In the literature, this is also called *»Snowball sampling«*)
 
 ## Make compromises, if needed
 
