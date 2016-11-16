@@ -18,6 +18,374 @@ We try to find out these reasons behind their activities.
 Getting to know the »how« and »why« of the users actions will allow us to evaluate our ideas (does it match their ideas of good work?) and
 to get inspiration for new ideas (how can we support this motivation?)
 
+## Start the research session
+
+### Explain the research
+
+### Start simple
+
+## Research methods
+
+
+## ??? 
+
+### ask open questions
+
+You may have noticed that the suggested questions from the previous
+section are not aiming for specific, short answers.
+In situations different from user need research  you often  want answers to be
+short and precise:  »Are you a graphic designer?« »I am a Graphic Designer!« /
+»How much do you like your Job? Give a mark« »B!« / »Please name your Tools!«
+»InDesign, Photoshop«.
+
+If you would diagram who speaks for how long when we ask for specific
+information with a »closed« range of possibilities, it would
+look like this:
+
+![short closed questions](images/talkDiagram_closed.svg)
+
+These questions demand very specific answers from a determined
+set: Yes or no, marks from A-F, a list of nouns. They would be useful if
+you would want to do statistics, for analysis that allows us to give results
+like »56.3% agreed strongly on Question X«. However, we want to find out
+about the *why* and *how* of the participant’s work here ^[Research  concerned
+with finding out about »how« and »why« using methods like interviews and
+observations is also called »qualitative« research. In contrast, »quantitative research«
+usually tests hypothesis (like »an orange ›buy‹ button generates more
+sales that a blue one «) and employs controlled experiments and statistics. In this book
+we learn about qualitative methods].
+
+Imagine, in contrast to the research session outlined above (short
+answers, short questions) a day-to-day situation, in which you get to
+know about somebody else’s experiences: A conversation with a friend. In
+such an exchange you will tell each other about your experiences, what you
+felt, why you did this and that etc. In a diagram it would look like
+this:
+
+![giving longer answers, equal share](images/talkDiagram_friend.svg)
+
+In contrast to a conversation, our main goal is to collect data; we
+don’t want to tell about our Job as a user researcher, but
+mostly hear answers from the participant. Thus asking questions and
+getting answers in a user needs research session look like this:
+
+![participant gives long answers, researcher asks short, open questions](images/talkDiagram_open.svg)
+
+
+The questions we want to ask should encourage answers which describe
+experiences and give some insight into the »why« and »how« of the users
+activities and motivations. This type of question is called »open
+question« since these questions don’t have a determined (»closed«) set of answers.
+
+
+> Open questions would be: *»Describe how you started your work today«*
+or *»Why did you copy that page?«*
+
+Using such open questions encourage telling longer, story-like
+answers. These answers will even contain information you did not expect
+to get.
+
+
+> A participant is describing me the printing process: *»…then I look up
+ which color specification the print shop needs…«*
+>
+>That is a new step in the workflow I did not expect (Naively, I thought that you just send
+the document to the print shop like you would when you print it on your desktop printer –
+have a file, print it).
+>
+> Thus, I discovered a step in the workflow and a potential field of work (taking care of color spaces and profiles) of which I did not know that it even exists!
+
+The information you get will not be abstract as in answers like »good«
+or »I dislike it« but tied to a situation. This is preferable, because a
+future product will be used in real situations and not in an abstract
+space of thought.
+
+> »I like it when the feedback [to the design] comes quickly. No annoying
+waiting… it always makes me nervous. Do they [the client] like it or
+do I need to throw out work?«
+>
+> – this tells us more about the situation
+than a client’s feedback being just described as »good«.
+
+If you look back to the questions already mentioned, they will share some
+characteristics.
+
+> Here are some possible questions
+>
+> -   Can you describe the worst experience in your day so far?
+> -   Can you tell me how you create a layout?
+> -   Can you tell me what makes a client »difficult«
+> -   Can you describe how do you get new ideas?
+
+
+All these questions start with »…can you describe« or »…can you tell me«, which
+encourages a longer answer (since »describing« or »telling« demands more than one word).
+In addition, all sentences contain a *Why-*, *What-* or *How-*. These
+question words, again, suggest an elaborate answer, not just one
+or two words.
+
+Thus, a template for such questions would look like *»Please tell me [how/why/what] +
+[your interest]«*
+
+Contrast this with questions like
+
+> You: »Is this a good design?«
+>
+> Participant: »yes!«
+
+»Is…« -questions will be answered with »yes« or »no« – but we don't get to know why the participant to approves or disapproves. In addition, »Is…«-Questions are a subtle form or influence ^[Also called a »leading question«] : In case of doubt it is  likely that are participant just agrees to the suggestion you give by asking »Is…«
+
+Sometimes,  »Is«-Questions will  come in a disguised
+form – as an addition which is made to an open question:
+
+> You: »Can you tell me how you solve this problem? *…Do you do it by just
+ calling the client and resolving the issue?*«
+>
+> Participant: »Yes, I do«
+>
+> Please note that the question did not contain the word »is«, but follows the same pattern of
+ asking for a binary »yes« or »no« response.
+
+Avoiding closed questions is actually harder than one thinks. We intuitively try
+to make answering easier with such additions like »Do you […]«.
+
+When you create your questions check if they demand some predetermined
+outcomes – if they do, they are closed questions. In this case reformulate the questions in a way
+that allows non-restricted, story-like answers.
+
+### Be aware of your influence
+
+A very obvious problem is influencing the participant. One way to minimize this would be
+making all research sessions alike – just like you would do when using a
+standardized questionnaire. But doing this you would loose the very strengths of the methods
+described here: Being able to find out about new and unexpected things and reacting to them
+and gaining some understanding of the »how« and »why« by asking questions and looking
+for cues depending on the situation.
+
+Each participant and his/her context is different and you can accommodate this by
+adjusting the research session to the context and the activities of the user.
+This would not be possible when asking the same questions each time.
+
+So you neither can’t nor should take yourself out of the research session – you will always have some sort of effect on the participant when you do the research.
+
+What you should avoid though is influencing the participant by
+»suggesting« favorable answers or actions. Some sorts of this type of  influence are obvious,
+others are not.
+
+> »This is good, isn’t it?!«
+
+Is a very obvious influence, since it blatantly states what you
+think the answer should be: A »yes«.
+
+There are less obvious influences as well:
+
+> »Would you like a better version of this with a big button here?«
+
+In this example, a positive word (»better«) and a suggestion go together. Who would
+not like an improvement?! A »yes« is guaranteed – as well as a meaningless
+finding which would be »people want improvements«.
+
+Aside from your questions you could influence the user with your
+feedback since it might suggest that there are »good« and »bad« answers.
+For example, it may be tempting to correct users and show the »right
+way« of doing something:
+
+
+> If you know that there is a »change color« function in the application
+and the user says: »Well; I am annoyed by that application – I'd like
+to change the colors but they are fixed!« It may be tempting to
+say: »No, you can change it!«
+
+
+Remember that you want to find out what your participant does and why. To
+correct the participant is not very useful.  Use the possibility to further explore the topic
+without correcting the user ^[If, however, the participant would
+clearly benefit from knowing some technical detail, just give the crucial information after the session] .
+
+
+> You can just ask »what's the reason for you doing it this way«, or,
+if talking about the function itself is really  important to you, you can
+ask »How did you expect to do the color change if there would be such a function?«
+
+Similarly, you could be surprised or even annoyed by steps or actions
+in a workflow of the user which seem outright superfluous.
+
+> »When I write a text I write a draft and then send it to my colleague
+via mail as an attached .doc file. My colleague comments on it and
+returns the mail to me«
+>
+>You may think that this is rather inefficient.
+You may be tempted to say »Why don't you paste the text in the mail
+and comment directly? Or write it live on Etherpad? This would be far
+quicker!«
+
+Remember that nobody does inefficient things by purpose. Assume that the
+user has a reason. Try to find out what this reason may be.
+
+> Again you could ask: »what's the reason for you doing it this way«
+– and remember to ask follow-up questions to further explore
+the issue.
+
+Your influencing feedback could be non-verbal as well. Like in everyday
+conversations, you may shrug or frown if you disagree with an
+utterance or an action. Even if you don’t say »this is wrong«, frowning
+or shaking your head may have the same results.
+
+So: don’t be afraid to react towards the participant – reacting towards the participant is
+essential in our research. But don’t suggest »good« or »bad« answers or
+»good« or »bad« ways of doing things by using words, gestures or facial expressions.
+
+### Silence feels strange but is o.k.  
+
+Sometimes, the participant will take time to think before answering.
+Intuitively, you may want to fill the silence to help the participant
+along.
+
+> »Can you describe me what happened after you were finished with
+creating the print-ready-file? [1 sec] Was it all well?« »yeah, sort
+of well I think«
+
+
+It is tempting to fill the silence with suggestions for the answer. But
+it can skew the answers and can turn a open question (»can you
+describe…?«) into a closed question (»can you describe… was it…?«
+/»yes«).
+
+Try to tolerate the silence. Usually, the participant will
+answer within a few seconds. If you notice silence which you want to fill, count
+to 3 or 5 before probing further. When the set time is up, you can ask
+about the question rather than giving suggestions, like
+
+
+> What makes the question hard to answer?
+
+Or
+
+> Can you tell me what you are thinking about?
+
+
+If the participant has started to give an answer already but stops talking and makes a longer pause and you still like to know more, you could »echo« the most recent statement or words the participant has said.
+
+
+
+> Participant: »So I had it finished and send it away to the client and then almost nothing… [Pause]«
+>
+> Researcher: »almost nothing?«
+
+
+This is a technique to make people carry on without skewing their
+answer.
+
+
+> Researcher:»almost nothing?«
+>
+> Participant: »Yes, there was a brief mail that they got the
+ design but I was unsure if that person actually gave it to
+ the people who can decide something. That waiting just sucks.«
+
+
+
+### Affirm that you listen
+
+### Check what you learned
+
+
+
+### Probe 
+
+Encouraging the participant to go on with the conversation is called »probing«. You can use several methods.
+
+The most unintrusive though hardest is the silent probe. It consists of doing nothing. It works because people are used to fill gaps by continuing.
+
+
+<!-- Example -->
+
+Similar, though with a bit more action is the echoing probe: It consists of repeating what the paticipant said or did:
+
+<!-- Example --> 
+
+You don't add anything here, but by repeating you show your interest. 
+
+You can also probe directly and ask for information:
+
+<!-- can you tell me more -->
+
+This can be particulary useful if the participant gives a vague answer:
+<!-- can you show me… -->
+
+
+### Switch topics
+
+Over the course of yer research you will cover different topics. Some may be set beforehand because you think they ought to be covered; other, new topics will reveal itself during the session itself.
+
+There are several reasons to actively switch topics:
+
+* There is (seemingly) nothing more to be found out.
+* You covered enough and need to switch to another topic before time runs out (In this case, plan in more time in the future)
+* The participant is focussing on a topic that is not in the focus of your research.
+
+To switch topics, you can voice your interest in the next topic:
+
+> Could you tell me more about agreeing on a payment with the client?
+
+If possible, you can end the block by rephrasing what you learned before moving to the next topic. 
+
+> Let me briefly summarize: …
+> Next, could you tell me more about agreeing on a payment with the client?
+
+Referring to the previous topic can also help to give a sense of closure for the preovious topic. 
+
+> Thanks for telling me about specifying the task together with the client. What is also of interest for me: How do you agreen on payment for your design work?
+
+This can be particulary useful if a particpant is carried away by a topic that is not in the focus for you. 
+
+> So, lead typesetting is important for design work. There is another topic that might seem very different, but it is important to me: Could you tell me more about agreeing on a payment with the client?
+
+To make the topic changes be less abrupt, and to show that you listened carefully, you can refer to a topic that was mentioned but not explored:
+
+> In the diagram, you drew a blob for »printery« – can you tell be a bit more about how do you get the design printed?
+
+or:
+
+> You mentioned that the application needs to have the correct file format when you collaborate with someone. Could you tell me a bit more about your collaboration process?
+
+### Switch methods
+
+Every method has it’s strength and weaknesses. So it makes sense to transition between methods in your research
+
+By using different methods on the same topic, you can gain new perspectives on it. 
+
+> You told me your general process of setting up a document for your designs. Could you show me how you do this for your current project?
+
+In this case you already have a description of the activity. By observing the process you can gain a less general, more specific and contextual view on it. 
+
+The methods you use on the same topic can be intertwined: During the demonstration of the activity, the participant may add to their description. 
+
+> So, I write a brief sticky note with what I think is important. I actually do this fairly often. I think I did not mention it before!
+
+Often, methods are switched together with the topic. You may have heared about motivations of the participant and now would like to explore an activity:
+
+> You said that collecting inspiration on the web is fun for you. Could you show me how you do that? Just do what you would do if I would not be here and if possible, tell me what you are thinking while doing it. 
+
+Or you might want to talk in depth about the project structure that a participant just sketched. 
+
+> In this diagram you wrote that you have some conflicts with the client. Could you tell me a bit more about this?
+
+Again, the methods can be intertwined:
+
+> You said that the client is often unclear in what he wants and says things like »it should pop more«. I would write that here in the diagram, so I can remember it. 
+
+<!-- outro needed --> 
+
+
+
+
+
+------------------------------------------------
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+------------------------------------------------
+
+
 ## Inform and ask for their Consent
 
 When you have found a participant, a place, a time and have your equipment ready
@@ -107,8 +475,8 @@ session.
 
 ### Getting answers  
 
-<!-- Gathering information by listening to the participant’s answers is similar to  a
-conversation: You ask questions, the user answered them. -->
+<!-- TODO: "softer intro" Gathering information by listening to the participant’s answers is similar to  a
+conversation: You ask questions, the user answered them. Also: Could be more terse -->
 
 
 We gather data by asking questions and listening to the participant’s answers.
@@ -136,6 +504,9 @@ observations are naturally concerned with actual actions you can see happening a
 
 ### Observation  
 
+<!-- TODO: two intro paragraphs could be more terse. Also the methods should complement each other – can I show this? -->
+<!-- TODO: if the participant thinks aloud: good --> 
+ 
 What Participants describe is not always the ideal way to convey the
 information. Just like a picture can be worth a thousand words, it makes
 often sense to just ask participants to show what they mean and to demonstrate
