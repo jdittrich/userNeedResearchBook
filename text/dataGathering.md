@@ -80,7 +80,7 @@ have  additional information.
 
 
 > [Example from an in-house research project] »Audio recording… I’m not sure about this…«
-»Thats fine with me. Though, may I ask what worries are?« »Hmm…yeah, I don't like, you know, human
+»Thats fine with me. Though, may I ask what worries are?« »Hmm… yeah, I don't like, you know, human
  resources to get that data«
 >
 >  »I understand your concern. It is fine if you don't agree but I can
@@ -255,7 +255,7 @@ have already thought of a feature that might be helpful in that case)
 But the participant will try to be a nice person him/herself and
 probably try to make you happy by going on about the problems with files
 in mails even though sending files per mail is possibly not that bad in the participant’s view.
-Instead of  reassuring the participant using  judgements and emotions, focus on the
+Instead of  reassuring the participant using  judgments and emotions, focus on the
 fact that you got information you that helps you:
 
 > »That was interesting to hear –«
@@ -263,7 +263,7 @@ fact that you got information you that helps you:
 Possibly you could even wrap the information up »So you…« and/or refer
 to an area you like further information about. So it will be clear
 that you care for the information and listened well – without casting
-some judgement on what was told to you.
+some judgment on what was told to you.
 
 ### Body Language  
 
@@ -804,12 +804,12 @@ During the interview you will take brief notes. This is rather similar like taki
 \ 
 <!-- SECTION: TECHNIQUE -->
 
-Your main taks in the interview is to listen and to observe. When you look at your notesheet and think about what the write down, listening and observing don't work well. Try too keep it as unobstrusive as possible. 
+Your main tasks in the interview are to listen and to observe. When you look at your notesheet and think about what to write down, listening and observing don't work well. Try too keep it as unobtrusive as possible. 
 
 * If you don’t care too much about your handwriting you can write notes without much looking at the paper except for some occasional glances (the method has its limits, though)
 * Because of the difficulties of balancing observing, listening and notetaking, there are obvious benefits of a partner who does the research with you. One person can ask questions and guide through the research, the other person takes notes. Both observe and listen.
 * <!-- audio: you can afford to skip writing down verbatim comments of the person; -->
-If you record audio in paralell you can be more relaxed when writing what was *said*. However, you still need to take notes to keep what you observed. This can also be very useful when you listen to the audio later and wonder what was referred to when the participant refers to things as »it« and »that« – without notes it can be hard to reconstruct what the participant was talking about. 
+If you record audio in parallel you can be more relaxed when writing what was *said*. However, you still need to take notes to keep what you observed. This can also be very useful when you listen to the audio later and wonder what was referred to when the participant refers to things as »it« and »that« – without notes it can be hard to reconstruct what the participant was talking about. 
 
 \ 
 
@@ -820,7 +820,7 @@ When I take notes in research I write often about 1 A4 page each 15min., sometim
 
 \ 
 <!-- SECTION: CONTENT --> 
-You will supplement, transcribe and analyse your notes after the data gathering. Thus you need to be able to make sense of them later. Between collecting the data and reviewing your notes, the *context* is easily forgotten: If you just write «empty page« it may make totally sense at the moment you write that, seeing what is happening and  knowing what happend before and after. But without that implicit knowledge »empty page« does not make much sense. 
+You will supplement, transcribe and analyze your notes after the data gathering. Thus you need to be able to make sense of them later. Between collecting the data and reviewing your notes, the *context* is easily forgotten: If you just write «empty page« it may make totally sense at the moment you write that, seeing what is happening and  knowing what happened before and after. But without that implicit knowledge »empty page« does not make much sense. 
 
 > Rather than »creates empty page« write
 > »creates empty pages to organize drafts«
