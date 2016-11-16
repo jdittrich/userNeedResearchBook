@@ -80,7 +80,7 @@ have  additional information.
 
 
 > [Example from an in-house research project] »Audio recording… I’m not sure about this…«
-»Thats fine with me. Though, may I ask what worries are?« »Hmm…yeah, I don't like, you know, human
+»Thats fine with me. Though, may I ask what worries are?« »Hmm… yeah, I don't like, you know, human
  resources to get that data«
 >
 >  »I understand your concern. It is fine if you don't agree but I can
@@ -255,7 +255,7 @@ have already thought of a feature that might be helpful in that case)
 But the participant will try to be a nice person him/herself and
 probably try to make you happy by going on about the problems with files
 in mails even though sending files per mail is possibly not that bad in the participant’s view.
-Instead of  reassuring the participant using  judgements and emotions, focus on the
+Instead of  reassuring the participant using  judgments and emotions, focus on the
 fact that you got information you that helps you:
 
 > »That was interesting to hear –«
@@ -263,7 +263,7 @@ fact that you got information you that helps you:
 Possibly you could even wrap the information up »So you…« and/or refer
 to an area you like further information about. So it will be clear
 that you care for the information and listened well – without casting
-some judgement on what was told to you.
+some judgment on what was told to you.
 
 ### Body Language  
 
@@ -799,7 +799,8 @@ During the interview you will take brief notes. This is rather similar like taki
 \ 
 <!-- SECTION: TECHNIQUE -->
 
-Your main tasks in the interview is to listen and to observe. When you look at your notesheet and think about what the write down, listening and observing don't work well. Try too keep it as unobtrusive as possible. 
+Your main tasks in the interview are to listen and to observe. When you look at your notesheet and think about what to write down, listening and observing don't work well. Try too keep it as unobtrusive as possible. 
+
 
 * If you don’t care too much about your handwriting you can write notes without much looking at the paper except for some occasional glances (the method has its limits, though)
 * Because of the difficulties of balancing observing, listening and notetaking, there are obvious benefits of a partner who does the research with you. One person can ask questions and guide through the research, the other person takes notes. Both observe and listen.
