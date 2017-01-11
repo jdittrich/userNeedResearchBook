@@ -38,8 +38,7 @@ bricks, there is no »right« building. But neither is it a process which is arb
 
 </div>
 
-There are many, many ways to stack up the bricks – but only a very few of these generally
-possible ways will result in something that can be plausibly called a house.
+There are many, many ways to stack up the bricks – but only a very few of these  possible ways will result in something that can be plausibly called a house.
 
 How your final Lego^®^ house will look
 like is not determined from the beginning, rather you will change
@@ -54,13 +53,14 @@ step come closer to a structure you are satisfied with.
 
 ## How to make sense of diagrams
 
-Diagrams can be, for example
+Diagrams can be
+
 * charts, e.g. how the mood changes over the day,
 * maps of places, e.g. where is what located in your office,
 * maps of relations, e.g. on what and with whom are your working
 * flows, e.g. the steps needed to print a document.
 
-In our analysis, we will compare and summarize the collected data and bring it into an easy to grasp form. This is relatively easy and descriptively.
+In our analysis, we will compare and summarize the collected data and bring it into an easy to grasp form.
 
 ### Prepare the diagrams for analysis
 In the analysis you will write annotations on the diagrams. For this, you can photocopy the diagrams and write on the copies. If you like to keep it digital, you can use any application which can add text over images (e.g. the free inkscape).
@@ -68,27 +68,89 @@ Note possible meanings to elaborate and check later, like:
 
 <!-- TODO image -->
 
+> ![Annotated Diagram](images/U1_GoodBadTime_Diagramm.svg)
+>
+> In this diagram I noted some ideas for an interpretation:
+>
+> * I remembered, that most participants seemed to be quite happy at the beginning of their projects. This participant seemed to have a tough start. I assumed organization and waiting was not a positive experience, so I highlighted it
+> * Starting with the designing itself was a positive experience.
+> * After the start the curve declines a bit. Maybe this is because populating the design with texts and images may be a bit boring.
+> * Praise seemed to raise the mood.
+> * …in paralell the participant did linebreaks and letterspacing, I assume these are finishing touches and itself maybe a bit boring.
+> * Sending the finished design to the client seemed to be a positive thing. Maybe this is a kind of closure point – »I finished the design!«
+> * …however, waiting for the final acceptance is again negative, though usualy only in the beginning (the participant projected this – the dotted line is assumed, since at the point of the research session, the design was just send a day ago or so.)
+>
+> I did such annotations for all the diagrams, to keep it brief, I don't include all of them here.
+>
+
 ### Commonalities and contrasts
 
 Once you thought of some possible meanings, you can check them. For this, you compare data from different users. Do they show the same pattern or do they differ? If yes, do you have a guess, why?
 Note common patterns as well as interesting findings, e.g. if most diagrams support a pattern, but one does.
 
-<!-- TODO image -->
+> I compared the diagram above with this diagram:
+>
+> ![Annotated Diagram, P2](images/U2_GoodBadTime_Diagramm.svg)
+>
+>
+> * It looks much different from the first diagram above – there are far more ups and downs
+> * However, we have also a positive start of the design process
+> * New is, that the hard to solve problem cause bad mood, and that solving them makes the participant happy.
+> * The client also praises (which lifts the mood)
+> * The clients wished cause problems and thus a worse mood, in the diagram above it was mainly that the client caused »waiting«
+> * Distressful phase at the end
+> * Like in the diagram above, there is a  positive »it is done« phase
+>
+> My third participant’s diagram was this:
+>
+> ![Annotated diagram, P3](images/U3_GoodBadTime_Diagramm.svg)
+>
+> * Here, also, a positive start of the process (though the action is not designing, but forming a team)
+> * Waiting/idle time is associated with a declining mood, like with Participant 1
+> * There was a phase of rapid restructungings, positive new starts and declines of mood when the process did not work
+> * A (more dedicated?) new team formed. They had time to make it to the planning meetings. This experience was positive
+>
+> ![Annotated diagram, P4](images/U4_GoodBadTime_Diagramm.svg)
+>
+> The forth participant’s diagram:
+>
+> * Start is good again (This seems to be a pattern), it can be due to anticipation (P3,P2) and because of actually starting (P1, P4, also P3)
+> * There are less great review/replanning phases, which are also in U2 and U4;
+> * Finishing is good, which is also a pattern in P1,P2,P3
+> * What is new, is that the mood fell because a design seemed boring, the bad phases were usually framed as something from the outside (tough client wishes as in P2 or waiting: P1, P3) or as having a hard problem (P2).
+>
+> Last but not least: the 5th participant
+>
+> ![Annotated diagram, P5](images/U5_GoodBadTime_Diagramm.svg)
+>
+> * Again, like in the diagram before, starting is good. I would hypothize that the anticipation feels great and that the actual start even lifts the mood a bit on top (?)
+* Like in P2, client wishes/negative feedback drag the mood down. Here we have negative feedback.
+* Maybe starting/trying a new approach is a bit like the positive feeling at the projects start (also P4 shows a similar pattern, P2 framed it more as solving problems. I don't know if that is the same)
+* The pattern of »new approach good/client feedback bad« repeats (at time of the research, the project was still ongoing, so there can't be a "end is postive" pattern here.)
+
 
 ### Crosscheck
 
 It can be interesting and useful to not only compare the diagrams on the same topic, but also relate data across diagrams and also involve your written notes. This also works vice versa – when you analyze your notes, you can check your diagrams for supplemental of contrasting data.
 
-<!-- TODO image -->
 
 ### Summarize
 You can summarize the findings in a diagram similar to the ones the participants drew. In this diagram. In these diagrams you include findings you could corrobate since they showed in several diagrams. I sometimes also include data which I could not necessarily corroborate but find interesting.
 
-<!-- TODO image -->
+
+> Analyzing the diagrams I got these conclusions:
+>
+> * In all but one (P1) diagram the onset of a project seems to be a good experience
+> * In three (P2, P4, P5) of the five diagrams there is a significant decline after the projects first, motivated phase. The reasons are: Seemingly unsolvable problems, project not going according to the plan and unhappy clients. A commonality is that the named reasons for the bad mood are seemingly out of the control of the participants (Except for P4, where the reason was seen in the »boring« design)
+> * for all participants the project ends good (exclusing P5, where the project has not ended yet). Three (P2,P3,P4) seem to be very happy at the end: Finishing seems to be a good experience.
+>
+> This can also be shown in a summarizing diagram which I drew:
+>
+> ![summary of the analysis in diagram form](images/SummaryAnalysis_GoodBadTime_Diagramm.svg)
 
 ## Making sense of notes
 
-Your notes are data in written form, maybe with some occasional sketches if a visualization was easier than a written description. I will demonstrate a method to analyze your notes in depth. In contrast to the methods for analyzing diagrams, this is more complex. However, it is a very powerful method which allows to go beyond the pure data and extract overarching themes and interrelations from it. It is a variation of typical *qualitative data analysis* methods like *thematic analysis*, *grounded theory* or the like.
+Your notes are data in written form, maybe with some occasional sketches. I will demonstrate a method to analyze your notes in depth. In contrast to the methods for analyzing diagrams, this is more complex. However, it is a very powerful method which allows to go beyond the pure data and extract overarching themes and interrelations from it. It is a variation of typical *qualitative data analysis* methods like *thematic analysis*, *grounded theory* or the like.
 
 
 ### Organize notes hierarchically
@@ -99,7 +161,7 @@ The basis for our analysis are the utterances or observations, usually represent
 >»I find it boring to move around all the text boxes again!«.
 
 These notes will be grouped if they may share a similar theme.
-These groups get a headline, stating the theme of by  the underlying pieces of data.  
+These groups get a headline, stating the theme of by  the underlying pieces of data.
 This is useful when designing, since you can refer to the title instead of considering all  the underlying data each time.
 
 Sometimes you will have several themes, which relate to a common theme themselves. In this case, it makes sense to make a group of groups with a title which states the overarching theme of this group of groups.
@@ -296,7 +358,7 @@ The annotations should be clearly distinguishable from data you got directly fro
 
 You can print out your transcript with a wide margin and write your comments
 in the margin. With pen and paper you can write down your thoughts quickly,
-encircle interesting parts and connect them with lines. It will possibly look messy. This is no problem, your annotations are primarily to get familiar with the data and not for creating publication ready thoughtful comments.  
+encircle interesting parts and connect them with lines. It will possibly look messy. This is no problem, your annotations are primarily to get familiar with the data and not for creating publication ready thoughtful comments.
 
 <!-- TODO: Example image would be nice here -->
 
@@ -444,7 +506,7 @@ As you gather other data that falls under that (yet vague) category you may be a
 
 
 
-#### State insights  
+#### State insights
 
 You may have read through your annotations and have noticed something
 that may make a good insight right away. Great. Just write it down and
@@ -489,10 +551,10 @@ mere group titles based on commonalities of the  data they encompass (»Inspirat
 Now you will have some preliminary, data based themes, each created based on a few data points.
 Now we will see if these themes are useful for organizing more than just a few data points.
 
-### Fill the Structure  
+### Fill the Structure
 When you came up with some themes to structure your data
 you need to see if the structure is feasible. Go through your data and
-sort it into the themes – be it actual insights or just stated commonalities –  
+sort it into the themes – be it actual insights or just stated commonalities –
 you came up with, or just move the data into proximity to similar data.
 
 The difference to the previous step is that we now focus on involving
@@ -572,7 +634,7 @@ they don’t state insights. In addition, there might be overlapping themes and 
 many data points  while other groups may be only informed by few data points
 from just one participant. It is time to revise the structure.
 
-### Revise the Structure  
+### Revise the Structure
 
 After you went through your data and sorted it into themes ,
 review your work. You now may have a clearer view of what
@@ -595,7 +657,7 @@ the stated theme and the data. In this case, revise your structure.
 ![Some parts need to be revised and newly created](images/lego_houseRevise.jpg)
 
 
-#### Find better names  
+#### Find better names
 
 Groups based on commonalities or vague similarity will hopefully evolve
 into insights about the participants. To archive this, try to revise group titles:
@@ -637,7 +699,7 @@ structure.
 > ideas etc.). The insight I came up with was: »I use  existing designs for inspiration«
 
 
-#### (Re) Move data to other groups  
+#### (Re) Move data to other groups
 
 When improving your structure it might be necessary to remove pieces of data from
 groups, either moving the data to a temporary »misc« group or to another, more suitable
@@ -680,7 +742,7 @@ groups with that data.
 
 
 > Going through the data of a group named »general requirements« I noted
-> that a big part of the data was concerned with balancing  
+> that a big part of the data was concerned with balancing
 > *functional* or *practical* requirements (price, readability etc.) with
 > requirements concerning *style* (using colors, being innovative)
 
@@ -705,7 +767,7 @@ you found a better fit.
 paper«* is a practice that results from that concern.)
 
 
-#### Create Subgroups  
+#### Create Subgroups
 
 Some groups may grow rather big, especially if their themes  are not insights
 but are based on mere commonalities of underlying data (like
@@ -763,7 +825,7 @@ design. I created two subgroups which were more meaningful.
 > into »Media« and subsequently put into »using the right media«
 
 
-### Wrap it up  
+### Wrap it up
 
 
 ![it’s done! (though you could still change some things or two…)](images/lego_houseFinished.jpg)
@@ -792,7 +854,7 @@ time to communicate your results.
 > -   Arranging Objects as important part of the work
 > -   using existing work for inspiration
 >      -   review previous projects
->      -   use other’s work  
+>      -   use other’s work
 >      -   use previous ideas from same project
 > -   Media
 >      -   Test design in the target media
@@ -807,7 +869,7 @@ time to communicate your results.
 >      -   Finishing is good
 >      -   Waiting for feedback is bad
 >      -   being afraid of the client’s rejection of the design
-> -   repetitive and manual work (negative)  
+> -   repetitive and manual work (negative)
 > -   changes and requirements
 >      -   Some changes like page format are hard to change later
 >      -   combine function and aesthetics
