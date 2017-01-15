@@ -156,6 +156,8 @@ blockquote small, .example small {
 .figure>img, figure>img {
   width: 100%;
   display: block;
+  border-bottom: 1px solid rgb(222, 222, 222);
+
 }
 
 .figure>.caption, figure>figcaption, .gallery>.caption {
@@ -203,9 +205,12 @@ ul li{
   list-style-type: square;
 }
 
+dt{
+  font-style: italic;
+}
 
-dt {
-  font-weight:bold;
+dd>p{
+  margin-top:0;
 }
 
 code {

@@ -9,8 +9,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="546.59113"
-   height="54.270275"
+   width="559.68976"
+   height="58.249767"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -40,7 +40,7 @@
        style="overflow:visible">
       <path
          id="path3806"
-         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
          style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
          transform="matrix(-0.8,0,0,-0.8,-10,0)"
          inkscape:connector-curvature="0" />
@@ -54,7 +54,7 @@
        style="overflow:visible">
       <path
          id="path3803"
-         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
          style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
          transform="matrix(0.8,0,0,0.8,10,0)"
          inkscape:connector-curvature="0" />
@@ -68,24 +68,24 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8"
-     inkscape:cx="192.77055"
-     inkscape:cy="41.852586"
+     inkscape:cx="466.86691"
+     inkscape:cy="15.154255"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
+     fit-margin-top="2"
+     fit-margin-left="2"
+     fit-margin-right="2"
+     fit-margin-bottom="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1056"
+     inkscape:window-height="1053"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true">
     <sodipodi:guide
-       position="202.67857,26.339286"
+       position="204.67857,28.33929"
        orientation="0,1"
        id="guide4184" />
   </sodipodi:namedview>
@@ -97,7 +97,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -105,10 +105,10 @@
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-7.8571429,-39.347557)">
+     transform="translate(-5.8571429,-37.368065)">
     <text
        xml:space="preserve"
-       style="font-size:15.58292198px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-style:normal;font-weight:normal;font-size:15.58292198px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none"
        x="21.776758"
        y="68.430725"
        id="text2989"
@@ -119,7 +119,7 @@
          y="68.430725" /></text>
     <text
        xml:space="preserve"
-       style="font-size:15.58292198px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-style:normal;font-weight:normal;font-size:15.58292198px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="457.71451"
        y="48.645363"
        id="text2997"
@@ -128,7 +128,7 @@
          x="457.71451"
          y="48.645363"
          id="tspan3019"
-         style="font-size:14px;font-weight:normal;-inkscape-font-specification:Sans" /></text>
+         style="font-weight:normal;font-size:14px;-inkscape-font-specification:Sans" /></text>
     <rect
        style="fill:#3465a4;fill-opacity:1;stroke:none"
        id="rect3023"
@@ -145,14 +145,14 @@
        style="fill:#88552c;fill-opacity:1;stroke:none"
        transform="scale(-1,1)" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.9647904;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-end:url(#Arrow2Lend)"
+       style="fill:none;stroke:#000000;stroke-width:0.9647904;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:none;marker-end:url(#Arrow2Lend)"
        d="m 474.12895,86.673776 0,6.461662 -38.58603,0 0,-15.993413"
        id="path3797"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
     <text
        xml:space="preserve"
-       style="font-size:10.1758213px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;"
+       style="font-style:normal;font-weight:normal;font-size:10.1758213px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
        x="9.13659"
        y="82.159416"
        id="text4985"
@@ -161,18 +161,18 @@
          id="tspan4987"
          x="9.13659"
          y="82.159416"
-         style="font-weight:normal;-inkscape-font-specification:'Droid Sans';font-family:'Droid Sans';font-style:normal;font-stretch:normal;font-variant:normal;fill:#ffffff;">Participant</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#ffffff">Participant</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text3009"
        y="67.216789"
-       x="46.785934"
+       x="26.785934"
        style="font-style:normal;font-weight:normal;font-size:15.58292198px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#204a87;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#204a87"
          id="tspan3013"
          y="67.216789"
-         x="46.785934"
+         x="26.785934"
          sodipodi:role="line"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#204a87"
            id="tspan3018">positions...</tspan><tspan
@@ -184,7 +184,7 @@
            id="tspan3040">choosing fonts...</tspan></tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#88552c;fill-opacity:1;stroke:none;font-family:Droid Serif;-inkscape-font-specification:Droid Serif"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif';letter-spacing:0px;word-spacing:0px;fill:#88552c;fill-opacity:1;stroke:none"
        x="460.22168"
        y="50.004784"
        id="text3834"
@@ -193,39 +193,51 @@
          id="tspan3836"
          x="460.22168"
          y="50.004784"
-         style="font-size:14px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#88552c;font-family:Droid Serif;-inkscape-font-specification:Droid Serif Italic">You said, it is </tspan><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif Italic';fill:#88552c">You said, it is </tspan><tspan
          sodipodi:role="line"
          x="460.22168"
          y="67.504784"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#88552c;font-family:Droid Serif;-inkscape-font-specification:Droid Serif"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif';fill:#88552c"
          id="tspan3838"><tspan
-   style="font-style:italic;fill:#88552c;-inkscape-font-specification:Droid Serif Italic"
-   id="tspan3840">more precise...……</tspan>…</tspan></text>
+           style="font-style:italic;-inkscape-font-specification:'Droid Serif Italic';fill:#88552c"
+           id="tspan3840">more precise...</tspan></tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text3010"
        y="82.159416"
        x="457.1366"
-       style="font-size:10.1758213px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;"
+       style="font-style:normal;font-weight:normal;font-size:10.1758213px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         style="font-weight:normal;fill:#ffffff;-inkscape-font-specification:'Droid Serif';font-family:'Droid Serif';font-style:normal;font-stretch:normal;font-variant:normal;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif';fill:#ffffff"
          y="82.159416"
          x="457.1366"
          id="tspan3012"
          sodipodi:role="line">Researcher</tspan></text>
     <text
        xml:space="preserve"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#204a87;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;enable-background:accumulate;"
-       x="212.22182"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#204a87;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;enable-background:accumulate"
+       x="198.22182"
        y="67.370453"
        id="text4178"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4180"
-         x="212.22182"
+         x="198.22182"
          y="67.370453"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#204a87;fill-opacity:1;"><tspan
-   style="font-size:12.5px;fill:#204a87;fill-opacity:1;"
-   id="tspan4182">and it is far more</tspan> precise than Word</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#204a87;fill-opacity:1"><tspan
+   style="font-size:12.5px;fill:#204a87;fill-opacity:1"
+   id="tspan4182">and it is far more</tspan> </tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text8118"
+       y="65.941879"
+       x="302.9361"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#204a87;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;enable-background:accumulate"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#204a87;fill-opacity:1"
+         y="65.941879"
+         x="302.9361"
+         id="tspan8120"
+         sodipodi:role="line">precise than Word</tspan></text>
   </g>
 </svg>

@@ -126,5 +126,8 @@ will need some equipment for doing that:
 	- audio recorder or smartphone
 -  Photos and video (recommended)
 	- a digital camera or smartphone
+- for drawing diagram with the participant
+	-   templates
+	-   pencils and/or pens in different colors
 	
 You should get to know your equipment before you start the actual data collection. So be sure to know the essential operations to actually make a photo and start and stop the recording. Check the audio quality by putting the phone/recorder roughly a meter away from you and saying some sentences in normal loudness. Listen to the recording to test if you can (easily) understand what you said.
