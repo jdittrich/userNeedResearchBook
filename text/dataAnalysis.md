@@ -2,54 +2,52 @@
 
 ## Making sense of data
 
-The form in which you collected the data is not great for using it in design: It consists  of many unstructured small pieces. Using all this pieces would be overwhelming because of their amount.
+Your data can't be used for supporting design decisions: It consists of many unstructured small pieces. You can't make sense of such a mess.
 
-We need to find a way to order the data in a way which provides us with the sense behind the data instead of consuming all of it – ideally in a way that allows us to zoom in on the details, just like a short summary and interpretation of a long and complex book.
+We need to find a way to order the data in a way which provides us with the sense behind the data, just like a summary and interpretation of a long and complex book.
 
-This is not a passive process: Making sense of data in this way requires taking different perspectives and trying them out to see how the data can be interpreted in different ways to fining interpretations that are helpful for designing and explain the user behavior well.
+This is not a passive process: Making sense of data requires taking different perspectives and trying them out to see how the data can be interpreted in different ways to fining interpretations that are helpful for designing and explain the user behavior.
 
 Analyzing the data also helps to communicate your findings. You will be able to summarize it in a way that enables your colleagues or teammates to work with your findings without having taken part in all steps of the process.
 
 ## Doing the »right« Analysis
 
-The data analysis is done by inferring themes from data points. Thus the process is
-empirical (as it is based on gathered data) but if the same data is used, analysis made by different people will differ. This is because the result of the
-analysis depends on the reasonable but still individual and debatable interpretation of the
+The data analysis is done by inferring themes from data points. Thus, the process is
+empirical (as it is based on gathered data). But even if the same data is used, different people will create different analysis. This is because the result of the
+analysis depends on the reasonable, but still individual and debatable, interpretation of the
 data. You could say that *»looking at last years design to quickly reuse elements«* belongs to a
-theme concerned with *»I want to save time«* or to one related to the topic of *»reviewing
+theme concerned with *»I want to save time«* or to a theme related to the topic of *»reviewing
 designs for inspiration«* (given that it could serve both from the user's perspective).
 
-There is no »right« or »wrong« nor a clear cut criterion of being »close enough« to the data when
-you group your data in themes. Instead of having a clear, measurable rule like the »you
+There is no »right« or »wrong«, nor a clear cut criterion of being »close enough« to the data when
+you  interpret your data. Instead of having a clear, measurable rule like the »you
 must have p&#060;0.05 significance« ^[For those of you who love statistics (like me): Sorry for the example. I
-know that this criterion is highly debated] in statistics , most important is that your
+know that this criterion is highly debated] in statistics, most important is that your
 analysis is plausible (instead of »right« or »wrong«).
 
 I compare the process of analysis to building a house from a pile of Lego^®^ bricks. These
 bricks are like the not-yet-analyzed data you start with. When you build a house out of these
-bricks, there is no »right« building. But neither is it a process which is arbitrary.
+bricks, there is no single »right« building. But neither is it a process which is arbitrary.
 
-<div class="gallery two">
-<!-- TODO MINOR: get rid of gallery? -->
 
 ![possible arrangement of bricks – but not a house](images/lego_bricksToStartWith.jpg){.portrait}
 
 ![one way to build a house](images/lego_houseFinished.jpg){.portrait}
 
-</div>
 
-There are many, many ways to stack up the bricks – but only a very few of these  possible ways will result in something that can be plausibly called a house.
 
-How your final Lego^®^ house will look
-like is not determined from the beginning, rather you will change
+There are many, many ways to stack up the bricks – but only a very few of these possible ways will result in something that can be plausibly called a house.
+
+How your final Lego^®^ house will look is not determined from the beginning.
+You will change
 designs, move walls and sometimes try to use the same piece in different
 parts of the building to try out and improve. The same things will
 happen when you analyze data: There are many  possible ways to
- arrange the data somehow, but only some of them will create something that
+ arrange the data, but only some of them will create something that
 is meaningful to you and others. This creation of a meaningful structure
 is not determined at the beginning, but a process, just like building
-your Lego^®^ house, in which you trial, fail, find improvements and step by
-step come closer to a structure you are satisfied with.
+your Lego^®^ house, in which you try, fail, find improvements and – step by
+step – come closer to a structure you are satisfied with.
 
 ## How to make sense of diagrams
 
@@ -63,10 +61,10 @@ Diagrams can be
 In our analysis, we will compare and summarize the collected data and bring it into an easy to grasp form.
 
 ### Prepare the diagrams for analysis
-In the analysis you will write annotations on the diagrams. For this, you can photocopy the diagrams and write on the copies. If you like to keep it digital, you can use any application which can add text over images (e.g. the free inkscape).
-Note possible meanings to elaborate and check later, like:
 
-<!-- TODO image -->
+To prepare the analysis, you write annotations on the diagrams. For this, you can photocopy the diagrams and write on the copies. If you like to keep it digital, you can use any application which can add text over images (e.g. the free [*Inkscape*](https://inkscape.org/en/)).
+
+Note possible meanings, like:
 
 > ![Annotated Diagram](images/U1_GoodBadTime_Diagramm.svg)
 >
@@ -76,7 +74,7 @@ Note possible meanings to elaborate and check later, like:
 > * Starting with the designing itself was a positive experience.
 > * After the start the curve declines a bit. Maybe this is because populating the design with texts and images may be a bit boring.
 > * Praise seemed to raise the mood.
-> * …in paralell the participant did linebreaks and letterspacing, I assume these are finishing touches and itself maybe a bit boring.
+> * …in parallel the participant did linebreaks and letterspacing, I assume these are finishing touches and itself maybe a bit boring.
 > * Sending the finished design to the client seemed to be a positive thing. Maybe this is a kind of closure point – »I finished the design!«
 > * …however, waiting for the final acceptance is again negative, though usualy only in the beginning (the participant projected this – the dotted line is assumed, since at the point of the research session, the design was just send a day ago or so.)
 >
@@ -85,8 +83,8 @@ Note possible meanings to elaborate and check later, like:
 
 ### Commonalities and contrasts
 
-Once you thought of some possible meanings, you can check them. For this, you compare data from different users. Do they show the same pattern or do they differ? If yes, do you have a guess, why?
-Note common patterns as well as interesting findings, e.g. if most diagrams support a pattern, but one does.
+Once you thought of possible meanings, you can check them. For this, you compare data from different users. Do they show the same pattern or do they differ? If yes, do you have a guess, why?
+Note common patterns as well as interesting findings, e.g. if most diagrams share a common pattern, but one does not.
 
 > I compared the diagram above with this diagram:
 >
@@ -107,7 +105,7 @@ Note common patterns as well as interesting findings, e.g. if most diagrams supp
 >
 > * Here, also, a positive start of the process (though the action is not designing, but forming a team)
 > * Waiting/idle time is associated with a declining mood, like with Participant 1
-> * There was a phase of rapid restructungings, positive new starts and declines of mood when the process did not work
+> * There was a phase of rapid restructuring, positive new starts and declines of mood when the process did not work
 > * A (more dedicated?) new team formed. They had time to make it to the planning meetings. This experience was positive
 >
 > ![Annotated diagram, P4](images/U4_GoodBadTime_Diagramm.svg)
@@ -123,26 +121,26 @@ Note common patterns as well as interesting findings, e.g. if most diagrams supp
 >
 > ![Annotated diagram, P5](images/U5_GoodBadTime_Diagramm.svg)
 >
-> * Again, like in the diagram before, starting is good. I would hypothize that the anticipation feels great and that the actual start even lifts the mood a bit on top (?)
+> * Again, like in the diagram before, starting is good. I would hypothesize that the anticipation feels great and that the actual start even lifts the mood a bit on top (?)
 * Like in P2, client wishes/negative feedback drag the mood down. Here we have negative feedback.
 * Maybe starting/trying a new approach is a bit like the positive feeling at the projects start (also P4 shows a similar pattern, P2 framed it more as solving problems. I don't know if that is the same)
-* The pattern of »new approach good/client feedback bad« repeats (at time of the research, the project was still ongoing, so there can't be a "end is postive" pattern here.)
+* The pattern of »new approach good/client feedback bad« repeats (at time of the research, the project was still ongoing, so there can't be a "end is positive" pattern here.)
 
 
 ### Crosscheck
 
-It can be interesting and useful to not only compare the diagrams on the same topic, but also relate data across diagrams and also involve your written notes. This also works vice versa – when you analyze your notes, you can check your diagrams for supplemental of contrasting data.
+It can be interesting and useful to not only compare the diagrams on the same topic, but also relate data across diagrams and also involve your written notes. This also works vice versa – when you analyze your notes, you can check your diagrams for supplemental information and add it to your notes.
 
 
 ### Summarize
-You can summarize the findings in a diagram similar to the ones the participants drew. In this diagram. In these diagrams you include findings you could corrobate since they showed in several diagrams. I sometimes also include data which I could not necessarily corroborate but find interesting.
+You can summarize the findings in a diagram itself. It will look similar to the ones the participants drew.  In this diagram, you include findings you could support since they showed in several diagrams. I sometimes also include data which I could not necessarily corroborate, but find interesting.
 
 
 > Analyzing the diagrams I got these conclusions:
 >
 > * In all but one (P1) diagram the onset of a project seems to be a good experience
 > * In three (P2, P4, P5) of the five diagrams there is a significant decline after the projects first, motivated phase. The reasons are: Seemingly unsolvable problems, project not going according to the plan and unhappy clients. A commonality is that the named reasons for the bad mood are seemingly out of the control of the participants (Except for P4, where the reason was seen in the »boring« design)
-> * for all participants the project ends good (exclusing P5, where the project has not ended yet). Three (P2,P3,P4) seem to be very happy at the end: Finishing seems to be a good experience.
+> * for all participants the project ends good (excluding P5, where the project has not ended yet). Three (P2,P3,P4) seem to be very happy at the end: Finishing seems to be a good experience.
 >
 > This can also be shown in a summarizing diagram which I drew:
 >
@@ -150,21 +148,21 @@ You can summarize the findings in a diagram similar to the ones the participants
 
 ## Making sense of notes
 
-Your notes are data in written form, maybe with some occasional sketches. I will demonstrate a method to analyze your notes in depth. In contrast to the methods for analyzing diagrams, this is more complex. However, it is a very powerful method which allows to go beyond the pure data and extract overarching themes and interrelations from it. It is a variation of typical *qualitative data analysis* methods like *thematic analysis*, *grounded theory* or the like.
+Your notes are data in written form, maybe with some occasional sketches. I will demonstrate a method to analyze your notes in depth. In contrast to the methods for analyzing diagrams, this is more complex. However, it is a very powerful method, which allows to go beyond the pure data and extract overarching themes and interrelations from it. It is a variation of typical *qualitative data analysis* methods like *thematic analysis*, *grounded theory* or the like.
 
 
 ### Organize notes hierarchically
 
-To analyze our notes, we organize them hierarchically.
+
 The basis for our analysis are the utterances or observations, usually represented by a line in your transcript, like:
 
 >»I find it boring to move around all the text boxes again!«.
 
-These notes will be grouped if they may share a similar theme.
-These groups get a headline, stating the theme of by  the underlying pieces of data.
-This is useful when designing, since you can refer to the title instead of considering all  the underlying data each time.
+You will organize these hierarchically and group them, if they may share a similar theme.
+These groups get a headline, stating the theme of the underlying pieces of data.
+This is useful when designing, since you can refer to the title instead of reading through all  the underlying data each time.
 
-Sometimes you will have several themes, which relate to a common theme themselves. In this case, it makes sense to make a group of groups with a title which states the overarching theme of this group of groups.
+Sometimes, you will have several themes, which relate to a common theme themselves. In this case, it makes sense to make a group of groups with a title stating the overarching theme of this group of groups.
 
 
 > Here is a part of an analysis.
@@ -186,7 +184,7 @@ Such a hierarchical analysis could be done in two ways:
 1. **Top-Down**: You first name the groups and write the titles and then sort pieces of data into the groups hereafter
 2. **Bottom-Up**: You first group pieces of data which seem to share a similar theme and then give the group a comprehensive title which states the topic shared by the underlying pieces of data.
 
-We are going to use mainly the 2nd way, doing a so called »bottom-up« analysis. This does not mean that we never take a piece of data and sort it into an existing group. It just means that the group names are initially created are based on actual data. This also means that the groups depend on the data itself, but also on your interpretation of it.
+We are going to use mainly the 2nd way, doing a so called »bottom-up« analysis. In a bottom-up analysis, the themes depend on the data, but also on your interpretation of the data.
 
 In the analysis we may start with grouping similar data together – like these two lines:
 
@@ -200,7 +198,7 @@ Then we give that data a headline and name the topic:
 >	- *Data:* »I look on google images how other calendars look like«
 >	- *Data:*  Browses through the book to see…
 
-When we come across a piece of data which shares the topic we can add it to the group too:
+When we come across a piece of data which shares the topic, we can add it to the group, too:
 
 >- *Theme:* use other’s work  for inspiration
 >	- **Data:  Searches on amazon to see how covers of books about the same topic look like**
@@ -209,24 +207,24 @@ When we come across a piece of data which shares the topic we can add it to the 
 
 This is a rather simplified overview of the process: In contrast to this example,
 you will as well spend time searching through data, rewriting theme titles and
-may need as well to step back or just sleep over it to find a good new way
+may need to step back or just sleep over it to find a good new way
 to make sense of your data.
 
 
 ### Create meaningful groups
 
-I already talked about grouping notes by shared themes. The question is: What is a *meaningful* theme?
+I already talked about grouping notes by shared themes. But what is a *meaningful* theme?
 
-One method to group notes and to derive a theme would be going through the notes and see which utterances and observations mention the same thing or the same assessment. Thus, all notes mentioning »color« would belong to one theme and get the title »Color«; all notes mentioning »good«  belong to one theme and get the title »good things«.
+One method to group notes and to derive a theme would be going through the notes and see which utterances and observations mention the *same thing* or make the *same assessment*. Thus, all notes mentioning »color« would belong to one theme and get the title »Color«; all notes mentioning »good«  belong to one theme and get the title »good things«.
 
-> Let’s say we gathered this data (among others) in research on Do-It-Yourself-Work (DIY)
+> Let’s say, we gathered this data (among others) in research on Do-It-Yourself-Work (DIY)
 >
 > - The shelf looks not as neat as a bought one, but it is mine
 > - When it is broken and I need to get to work I can fix my bike quickly
 > - The cabinet’s door was loose. It annoyed me, so I repaired it.
 > - I look at the assembled bike and think: nobody else has the same
 >
-> If we put the notes which mention the same things in the same group we get these two groups:
+> If we put the notes which mention the same things in the same group, we get these two groups:
 >
 > **Theme: Bikes**
 >
@@ -239,14 +237,13 @@ One method to group notes and to derive a theme would be going through the notes
 > - The shelf looks not as clean as a bought one, but it is mine
 
 
-Organizing the notes by this »same things mentioned«-method would help us find notes concerned with a specific thing or assessment: If we want see everything that concerned furniture we can go through the notes in the »furniture« group; If we would like to know what people liked we could look it up in a group titled »good«.
+Organizing the notes by this »same things mentioned«-method would help us find notes concerned with a specific thing or assessment: If we want see everything that concerned furniture, we can go through the notes in the »furniture« group; If we would like to know what people liked, we could look it up in a group titled »good«.
 
-However, organizing by the »same things mentioned«-method has its shortcomings: A theme named »furniture« communicates only that the underlying notes have *something* to do with furniture. You still need to go through the underlying notes
-to find out what people did with their furniture and what motivates them or which problems they face.
+However, organizing by the »same things mentioned«-method has its shortcomings: A theme named »furniture« communicates only that the underlying notes have *something* to do with furniture. You still need to go through the underlying notes to find out what people *did* with their furniture and what *motivates* them or which *problems* they face.
 
-The names of themes  created by organizing by the »same things mentioned«-method are just labels for the content and have no meaning on its own.
+The names of themes  created by organizing by the »same things mentioned«-method are just *labels* for the content and have *no meaning* on its own.
 
-Imagine, we would not create the themes by looking for same things being mentioned but by the insights we drew from the notes in the group by focusing on the meaning of activities, problems and goals for the participants.
+Imagine, we would not create the themes by looking for same things being mentioned, but by the insights we drew from the notes in the group by focusing on the *meaning* of activities, problems and goals for the participants.
 
 If we take the notes about DIY again this could look like this:
 
@@ -262,21 +259,19 @@ If we take the notes about DIY again this could look like this:
 > 	- I look at the assembled bike and think: nobody else has the same
 
 
-If we organize notes by themes based on the insights about the participants and summarize that insight in the group’s title, the theme’s title is  a useful piece of information on its own: It is not just for accessing the notes, it is an empirically based principle we can follow when we design.
+If we organize notes by themes based on the *insights* about the participants and summarize that insight in the group’s title, the theme’s title is a useful piece of information on its own: It is not just for accessing the notes, it is an empirically based principle we can follow, when we design.
 
-If you design, let’s say, for a DIY-Online community, a theme based on an insight, like »DIY gives as sense of ownership«  may inspire the implementation of a function which allows people to share their designs and customizations. The insight that sometimes DIY is just about fixing things may
+If you design, let’s say, for a DIY-Online community, a theme based on an insight, like »DIY gives as sense of ownership«  may inspire the implementation of a function, which allows people to share their designs and customizations. The insight that sometimes DIY is just about fixing things may
 lead to the provision of a wiki for collecting best practices for doing common repairs and
 maintenance.
 
-If you have a new idea you can ask: »Does this idea follow what is stated in the group titles?  Does it violate them?«. You may ask yourself »Which design could I  create based on this theme?«.
+If you have a new idea you can ask: »Does this idea follow what is stated in the group titles?  Does it violate them?«. You may ask yourself »Which design could I create based on this theme?«.
 
 Since the themes are based on our data, they will express the actual needs of your users and not some (potentially stereotypical) assumptions.
 
-Grouping your notes based on insights about your participants provides great benefits. But it can be hard and may be not possible for all your data.
+Grouping your notes based on insights about your participants provides great benefits. But it can be hard and may be not possible for all your data. Thus, creating groups using the same-things-mentioned methods is still a useful method and these groups may still evolve. Usually, I have some »same-things-mentioned«-groups in the beginning and far fewer at the end – but my analysis will be a mixture of both styles.
 
-Creating groups using the same-things-mentioned methods is still a useful method and these groups may still evolve. Usually I have  some »same-things-mentioned«-groups in the beginning and far fewer at the end – but  my analysis will be a mixture of both styles.
-
-To understand how to organize notes by themes based on insights can be hard to grasp for beginners. To ease the learning I provide another example:
+To understand how to organize notes by themes based on insights, can be hard to grasp for beginners. To ease the learning, I provide another example:
 
 > Let’s say we gathered this data (amongst others) when researching beginners in web programming:
 >
@@ -314,9 +309,7 @@ To understand how to organize notes by themes based on insights can be hard to g
 
 ### Prepare your notes for Analysis
 
-When you create groups of data it is good to know if the theme of the group is relevant across several participants or only concerns one participant.
-
-Thus, you should supply your each note (=line in the transcript) with a participant code. A participant code works like a pseudonym: The user is not identifiable by his/her real name, but by a stand-in for the name. I use neutral number codes: The first person I did a research session with is P1, the second is P2 etc.
+When you create groups of data, it is good to know if the theme of the group is relevant across several participants or only concerns one participant. To check for this, you should supply each note (=line in the transcript) with a participant code. A participant code works like a pseudonym: The user is not identifiable by his/her real name, but by a stand-in for the name. I use neutral number codes: The first person I did a research session with is P1, the second is P2 etc.
 
 > If you have this on your transcript:
 >
@@ -334,17 +327,18 @@ Thus, you should supply your each note (=line in the transcript) with a particip
 > […]
 
 
-You just add the participant code at the end or beginning of each line. It is not the most exiting work but it can be done quickly – Copy the current coder in the computer's clipboard (STRG+C), place the cursor with the [arrow keys](http://en.wikipedia.org/wiki/Arrow_keys) and the [end](http://en.wikipedia.org/wiki/End_key)/ [home](http://en.wikipedia.org/wiki/Home_key) keys and paste the code (STRG+V).
+You just add the participant code at the end or beginning of each line. It is not the most exiting work, but it can be done quickly – Copy the current code (like »P1«) in the computer's clipboard (STRG+C), place the cursor with the [arrow keys](http://en.wikipedia.org/wiki/Arrow_keys) and the [end](http://en.wikipedia.org/wiki/End_key)/ [home](http://en.wikipedia.org/wiki/Home_key) keys and paste the code (STRG+V).
 
 ![Annotating data in a wordprocessor](images/commentsAnalysis.png)
 
 ### Annotate your notes
-After you added your participant codes you can start to review and to annotate your notes in order to find possible interpretations, themes and meaning behind the observations and utterances.
+
+After you added your participant codes, you can start to review and to annotate your notes in order to find possible interpretations, themes and meaning behind the observations and utterances.
 
 This will help you to get familiar with the data and to derive meaningful themes and insights later.
 
-Annotations  can be full sentences as well as short list of words.
-Usually they concern a line in the transcript but naturally you can
+Annotations  can be full sentences, as well as short list of words.
+Usually, they concern a line in the transcript but naturally you can
 comment on whole sections or just at words, too.
 
 > - It is hard to know what exactly the client wants, because I don’t talk directly to the client –  P2 **ANNOTATION: indirectness, division of tasks, friction, »I need to know the client«.**
@@ -357,21 +351,20 @@ I suggest annotating each line, but this is not a must.
 The annotations should be clearly distinguishable from data you got directly from observation or the participant’s answers – just like other things you did add yourself (e.g. design ideas).
 
 You can print out your transcript with a wide margin and write your comments
-in the margin. With pen and paper you can write down your thoughts quickly,
-encircle interesting parts and connect them with lines. It will possibly look messy. This is no problem, your annotations are primarily to get familiar with the data and not for creating publication ready thoughtful comments.
+in the margin. With pen and paper, you can write down your thoughts quickly,
+encircle interesting parts and connect them with lines. It will look messy, which is no problem, since your annotations are primarily to get familiar with the data and not for creating publication-ready thoughtful comments.
 
 <!-- TODO: Example image would be nice here -->
 
-If you prefer working on a computer, you can annotate your data useing a
+If you prefer working on a computer, you can annotate your data using a
 word processor with a  comment function. Open your transcript, mark the
 part you want to annotate with your interpretation, then click the
 »comment« button. If you don't use the comment function, but plain text,
 use something like »COMMENT:« or »ANNOTATION:« to mark your comments;
-If you prefer to do your annotations with a pen and a highlighter,
-print your notes with double line-spacing to have enough room for writing.
 
-Annotating your data is a creative process. If in doubt, whether an annotation is relevant or not: opt for writing it. Later on it might become useful. If you are unsure about something or an idea seems to be far fetched, just go for it. Since you keep data and comments distinguishable from each other you can always throw stuff out again. The goal is not to come
-up with great annotations but to wrap your head around the data and to find possible ways to interpreting it.
+
+Annotating your data is a creative process. If in doubt, whether an annotation is relevant or not: opt for writing it. Later on, it might become useful. If you are unsure about something or an idea seems to be far fetched, just go for it. Since you keep data and comments distinguishable from each other, you can always throw stuff out again. The goal is not to come
+up with great annotations, but to wrap your head around the data and to find possible ways to interpreting it.
 
 ### Decide, whether you want to do a digital or analog analysis
 
@@ -396,14 +389,13 @@ The resources you need for with pen and paper are:
 - a big wall (2m*3m minimum – which is why the wall is usually the showstopper ).
 
 
-But why should you want to use an analog analysis if it needs all these resources? Partly, the decision can be based on preferences: Some people like that they can move around the notes by hand and can get an overview of their data by just stepping back and glancing over it.
+But why should you want to use an analog analysis, if it needs all these resources? Partly, the decision can be based on preferences: Some people like that they can move around the notes by hand and can get an overview of their data by just stepping back and glancing over it.
 
-If you work with peers on your analysis you have some advantages when using the analogue pen and paper approach: you can easily discuss your ideas with other and will get new ideas how to structure the data. You can as well invite your boss to take a look and be part of the team, at least for some time. This type of on-site, collaborative, analysis is best done analog.
-It is easy to move notes around, and you can refer by pointing to data or just carry it over to someone and ask for an interpretation. Using digital tools it is not that easy and direct – despite of all the great digital innovations we have nowadays.
+If you work with peers on your analysis, you have some advantages when using the analogue pen and paper approach: you can easily discuss your ideas with others and will get new ideas how to structure the data. You can as well invite your boss to take a look and be part of the team, at least for some time. This type of on-site, collaborative, analysis is best done analog. Using digital tools it is not that easy and direct – despite of all the great digital innovations we have nowadays.
 
 #### How to: Analysis on the computer
 
-For analysis on your computer I suggest the following steps for preparing your analysis:
+For analysis on your computer, I suggest the following steps for preparing your analysis:
 
 1. Create a new document
 2. Paste your transcript into that document
@@ -413,7 +405,7 @@ For analysis on your computer I suggest the following steps for preparing your a
 
 \
 
-**State themes in titles of groups**: Each group gets a headline. Create a hierarchy by using different paragraph styles – bigger headlines for overarching themes of themes, smaller headlines for themes that encompass the data directly. If you use paragraph styles to format your headlines, you can use the navigation tool of the wordprocessor to go through your structure. You can as well just use the list-hierarchy feature (pressing the Tabuator-key, creates a subordinate list point). I prefer headlines though.
+**State themes in titles of groups**: Each group gets a headline. Create a hierarchy by using different paragraph styles – bigger headlines for overarching themes-of-themes, smaller headlines for themes, that encompass the data directly. If you use paragraph styles to format your headlines, you can use the navigation tool of the wordprocessor to go through your structure. You can as well just use the list-hierarchy feature (pressing the Tabuator-key creates a subordinate list point). I prefer headlines, though.
 
 #### How to: Analysis with pen and paper
 
@@ -440,15 +432,16 @@ which are different from the color of the actual data points. If you print your 
 white paper you can use yellow sticky notes for group titles and
 pink ones for titles of a group of groups.
 
+
 ### Develop a first Structure  {#firstStructure}
 
-After you annotated your notes, you can start to structure it.
+After you annotated your notes, you can start to structure them.
 Structuring the notes means grouping similar data together,
 suggesting themes behind the data, naming these themes
-and decide which data falls under which theme.
+and deciding, which data falls under which theme.
 
-You don't use all your data yet. You can also start with what you find
-useful when skimming through it or you can use the data of
+You don't use all your data yet. You can start with what you find
+useful, when skimming through or you can use the data of
 two participants for now. The goal is to set up some
 preliminary structure, like a sketch of the analysis.
 
@@ -456,21 +449,19 @@ preliminary structure, like a sketch of the analysis.
 
 #### Move in Approximation
 
-The easiest way to start a structure is moving similar data in
-approximation. If you do you analysis on paper,  cluster notes you
-assume to follow a common theme in one place and notes for other
+The easiest way to start a structure, is moving similar data in
+approximation. If you do you analysis on paper, cluster the notes you
+assume to follow a common theme in one place, and notes for other
 themes in other places. If you analyze using a word processor, move similar
 notes in adjacent lines. Create different groups, each containing similar notes,
 by using several line breaks above and below such a group or by
 creating a list for each assumed theme.
 
-<div class="gallery two">
 
 ![two (preliminary) groups as lines (the digital way)](images/abstractGroupLines.svg){.portrait}
 
 ![two (preliminary) groups as sticky notes (the analog way)](images/abstractGroupPapers.svg){.portrait}
 
-</div>
 
 
 > - Asking herself: what would impress the person (a safety advisor)
@@ -485,12 +476,12 @@ approximation.*
 
 #### Name Commonalities
 
-You may have some data you assume to encompass a common theme but you
-are unsure about . In this case just give that group of data a
-preliminary title. A group name, even if it is not an insight, will
-make dealing with the data easier since it gives your data some structure.
+You may have some data you assume to encompass a common theme, but you
+are unsure about the nature of the theme. In this case, just give that group of data a
+preliminary title. A group name, even if it does not state an insight, will
+make dealing with the data easier, since it gives your data some structure.
 
-As you gather other data that falls under that (yet vague) category you may be able to formulate and insight you gain about the underlying data.
+As you gather other data that falls under that (yet vague) category, you may be able to improve the theme and its title.
 
 > - Inspiration
 >     - I try to get new ideas by looking at google images
@@ -512,8 +503,8 @@ You may have read through your annotations and have noticed something
 that may make a good insight right away. Great. Just write it down and
 assign the data to it. Even if you have only one or two pieces
 of data that fit the insight, don't worry, just see if the insight
-will emerge to be bigger. If not, you can still revise the insight or
-just get rid of it and see where else the data might fit.
+will emerge to be bigger. If not, you can still revise the title or
+just get rid of the group and see where else the data might fit.
 
 
 
@@ -548,38 +539,37 @@ good«, »(Page) Format is hard to change later«), while some are
 mere group titles based on commonalities of the  data they encompass (»Inspiration«, »Trial and Error«).
 
 
-Now you will have some preliminary, data based themes, each created based on a few data points.
-Now we will see if these themes are useful for organizing more than just a few data points.
+Now, you will have some preliminary, data based themes, each created based on a few data points.
+Next, try if these themes are useful for organizing more than just a few data points.
 
 ### Fill the Structure
-When you came up with some themes to structure your data
-you need to see if the structure is feasible. Go through your data and
+Now need to try if the structure you created is feasible. Go through your data and
 sort it into the themes – be it actual insights or just stated commonalities –
 you came up with, or just move the data into proximity to similar data.
 
 The difference to the previous step is that we now focus on involving
 all the data into the process of generating themes. In contrast,
-in the previous steps we focused more on generating a structure.
+in the previous steps we focused more on generating an initial structure.
 
 If the previous step was building a (data-based) scaffold, now we try to build the actual walls.
 
 ![Build upon your preliminary structure to see if the idea actually works](images/lego_houseWalls.jpg)
 
 Aim for 3 to 10 pieces of data per theme. While
-it is temporarily ok to have very small groups, at the end each
+it is temporarily OK to have very small groups, at the end each
 theme should be derived from several data points and not on a single
-utterance. On the other hand if a theme encompasses more than 10
-utterances or observations, think if creating two aspects or
-»subthemes« would make sense.
+utterance. On the other hand, if a theme encompasses more than 10
+utterances or observations, consider if it makes sense to split the group in
+»subthemes«..
 
-Usually I would go chronologically through all my notes starting with
+Usually, I would go chronologically through all my notes starting with
 the first participant and ending with the most recent one – though any
-other scheme will suffice as well. Just be sure that you know with which data you
+other scheme will suffice as well. Just be sure, that you know with which data you
 dealt with already and with which you did not.
 
-When filling the data in the structure, you may notice that you need to
+When filling the data in the structure, you may notice, that you need to
 create additional themes. Some of the titles of the themes may need to be
-renamed as well. Just go ahead and make these changes if you feel they are needed.
+renamed as well. Just go ahead and make these changes, if you feel they are needed.
 
 > - \[Title:\] Test in the media you target
 >      - I folded prototypes for paper sizes that seem to be suitable
@@ -592,7 +582,7 @@ renamed as well. Just go ahead and make these changes if you feel they are neede
 >
 > \
 >
-> Actually the example above is not great in terms of analysis:
+> Actually, the example above is not great in terms of analysis:
  The »Test in the Media you target«  data is almost all from one
  person (P3) and the »being closer«-Group
  has only a single data point. In later iterations I'll change this
@@ -601,7 +591,7 @@ renamed as well. Just go ahead and make these changes if you feel they are neede
 >\
 >\
 >
-> While I was sorting the data I created a new group to accommodate data
+> While I was sorting the data, I created a new group to accommodate data
  related to changes in designs:
 >
 > - \[Titel:\]Changing and determining
@@ -628,29 +618,29 @@ point (»bad: doing the…« could be part of a newly formed
 insights named »I want to avoid repetitive tasks«
 
 
-Now your groups will be informed by several data points each.
-But there will be many themes which are created by the »same things mentioned«-Method;
+Now, your groups will be informed by several data points each.
+But there will be many themes, which are created by the »same things mentioned«-Method;
 they don’t state insights. In addition, there might be overlapping themes and groups encompassing
-many data points  while other groups may be only informed by few data points
+many data points, while other groups may be only informed by few data points
 from just one participant. It is time to revise the structure.
 
 ### Revise the Structure
 
-After you went through your data and sorted it into themes ,
+After you went through your data and sorted it into themes,
 review your work. You now may have a clearer view of what
-constitutes the themes after you sorted the data in these themes.
+constitutes the themes after you sorted the data.
 
 If you recently dealt with just a particular part of the analysis (like dealing
 with two particular groups), your view might be too narrow: Glance over the
-whole range of clustered data,  and rediscover themes which might be a better
+whole range of clustered data,  and rediscover themes, which might be a better
 fit for some data.
 
 Have a look at structures that need improvement: Groups, which  have a title which
-does not express an actual insight yet and data, for which you did not find a good place.
-This data might be helpful to get insights and create new themes .
+does not express an actual insight yet, and data, for which you did not find a good place.
+This data might now be helpful to create new themes or can add to some of the themes.
 
 Take a critical look at the themes in relation to the data they encompass: Is there a fit or
-did you fall prey to wishful thinking? Possibly there is actually only a weak match between
+did you fall prey to wishful thinking? Possibly, there is actually only a weak match between
 the stated theme and the data. In this case, revise your structure.
 
 
@@ -663,12 +653,10 @@ Groups based on commonalities or vague similarity will hopefully evolve
 into insights about the participants. To archive this, try to revise group titles:
  make them more concise, clear and meaningful. If  a group of data is just named
 with a title based on mere commonalities of the data in that group,
-try to state an actual insight for a group . This will almost certainly
-require moving some data between groups as well in order to
+try to state an actual insight for that group. This will almost certainly
+require moving some data between groups in order to
 accommodate the data to the improved
 structure.
-
-
 
 > For one group I used the title »Arranging«, since arranging and aligning
 > objects, lines and text to a predefined grid or to each other was a
@@ -690,7 +678,7 @@ structure.
 >     - Review previous projects
 >     - Others (Web, Bookshop)
 >
-> »Inspiration« is a title based on the »same-things-mentioned«-principle so I had a look at
+> »Inspiration« is a title based on the »same-things-mentioned«-principle, so I had a look at
 > the underlying data. They all were about inspiration – but they
 > had another commonality: All inspiration techniques used
 > other, existing designs, often ones that were created by the
@@ -701,24 +689,24 @@ structure.
 
 #### (Re) Move data to other groups
 
-When improving your structure it might be necessary to remove pieces of data from
+When improving your structure, it might be necessary to remove pieces of data from
 groups, either moving the data to a temporary »misc« group or to another, more suitable
 group.
 
 While we want to make use of the data we have, it is most
-important to create sound and helpful principles based on the data –
+important to create sound and helpful themes based on the data –
 instead of just  putting everything under a label.
 
-It is possible that you can state an insight more clearly  insight more clearly by rewriting
+It is possible, that you can state an insight more clearly  by rewriting
 the group’s title, but as a result, the clearer title
 may no longer encompass all data in the group. In this case, go for clarity of the groups title,
-even if it means that the theme does not encompass all the data currently subsumed in the group.
+even if it means, that the theme does not encompass all the data currently subsumed in the group.
 
-Take out the data that does not fit the improved title and see if it might
+Take out the data which does not fit the improved title and see if it might
 fit better to another group. If not, place it in a »not yet grouped« or
-»misc«-Group. Revise that »misc« group when you made changes to your system and
-see if you can use the data from that group to enhance other
-groups with that data.
+»misc«-Group. Revise that »misc« group, when you made changes to your structure and
+see, if you can use the data from that group to enhance other
+groups.
 
 
 > I reviewed the following group:
@@ -730,18 +718,19 @@ groups with that data.
 > \
 > The title was not a meaningful insight and I felt that the
 > analysis might benefit if I use the data in other themes.
+>
 > I already had a cluster related to motivations
 > and emotions– where I moved *»bad: uncertainty before feedback
 > from client«*. The *»good: getting feedback«* was moved to a
 > cluster named *»Exchange with others«*.
 
 > While I think I gained something out of it, these changes
-> did not result in a new much better structure but was
+> did not result in a new much better structure. It was
 > part of trials and errors in the process.
 
 
 
-> Going through the data of a group named »general requirements« I noted
+> Going through the data of a group named »general requirements«. I noted,
 > that a big part of the data was concerned with balancing
 > *functional* or *practical* requirements (price, readability etc.) with
 > requirements concerning *style* (using colors, being innovative)
@@ -769,14 +758,14 @@ paper«* is a practice that results from that concern.)
 
 #### Create Subgroups
 
-Some groups may grow rather big, especially if their themes  are not insights
+Some groups may grow rather big, especially if their themes  are not insights,
 but are based on mere commonalities of underlying data (like
 »dealing with color«). This is an excellent opportunity to develop themes
 by creating subgroups. The process of developing subgroups
 is like in  [»Develop a first structure«](#firstStructure) (just inside the group): Move
 similar data in proximity and try to create clear-cut insights if
-possible. In this process you might find a more suitable way to state
-the theme of the main group as well.
+possible. In this process, you might find a more suitable way to state
+the theme of the main group, too.
 
 
 > I had a group with more than ten points regarding »Colleagues and
@@ -830,24 +819,23 @@ design. I created two subgroups which were more meaningful.
 
 ![it’s done! (though you could still change some things or two…)](images/lego_houseFinished.jpg)
 
-The steps above do build on each other. But like in other creative
-tasks there will be a lot of going back and forth between steps of
+The steps described above build on each other. But like in other creative
+tasks, there will be a lot of going back and forth between steps of
 creating groups, assigning data to them and revising these groups.
 
-These iterations may also happen in parts of the structure you create.
- For example, after you revised your overall structure, you find that a grouping
-should undergo a major change and you put all its data out. Then you are
-back to developing a structure for a part of your analysis. Or you
-notice that some notes that you moved in proximity can be summarized by
+These iterations may also happen just in parts of the structure you create.
+ or example, after you revised your overall structure, you find, that a grouping
+should undergo a major change and you put all its data out. Then, you are
+back to developing a structure for a part of your analysis. Or, you
+notice, that some notes which you moved in proximity, can be summarized by
 a clear principle, and you jump straight to the revision of that part of
 the analysis, leaving the »fill in the data« step out.
 
 This process can take up some time. The analysis may never come to an
 actual halt, but it will slow down at some point. Continuing to move
-data may still do minor improvements but there are no big changes
+data may still do minor improvements, but there are no big changes
 anymore. Review the data a last time. The analysis is finished and it is
 time to communicate your results.
-
 
 > **Final structure:**
 >
@@ -895,5 +883,5 @@ groups are: »combining functions and aesthetics« etc.). In contrast,
 »using existing works for inspiration« is a group of groups which states
 a meaningful insight.
 >
->You see that I could not use all data, so I made some less significant
+>You see, that I could not use all data, so I made some less significant
 groups in the »misc« section.

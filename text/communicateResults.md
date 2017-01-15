@@ -46,30 +46,43 @@ overlook an explaination while a person who lacks knowledge is lost without it.
 
 There are some typical sections of a research documentation:
 
-Executive Summary ~ Summarize the research and its results in a few paragraphs.
+Executive Summary
+: Summarize the research and its results in a few paragraphs.
 
-Aim ~ Summarize the research question you aim to answer with your research
+Aim
 
-Research Methods ~ Describe how you gathered and analyzed the data. The research
+: Summarize the research question you aim to answer with your research
+
+Research Methods
+
+: Describe how you gathered and analyzed the data. The research
 in this guide uses  »interviewing and obeservation« for gathering the data and
 »thematic analysis« or »qualitative clustering« as analysis methods (The terms
 for the analysis are not 100% scientifically correct though since analysis
 followed no »official« method)
 
-Participants or sample ~ Describe how you got your participants and why you did
+Participants/Sample
+
+: Describe how you got your participants and why you did
 so. Show that you did not just got somebody, but people who were relevant to the
 research needs.
 
-Results ~ The themes and consolidated diagrams belong here. They are the core of
+Results
+
+: The themes and consolidated diagrams belong here. They are the core of
 your documentation. While most other content follows a pattern, the results will
 be different each time. So be extra careful that the results can be understood
 by the audience and use illustrations, photos and quotes to get your message
 across.
 
-Recommendations ~ Sometimes you may give some advice for possible further
+Recommendations
+
+: Sometimes you may give some advice for possible further
 research or or designs.
 
-Appendix ~ If your audience is interested in digging deep your documentation you
+Appendix
+
+: If your audience is interested in digging deep your documentation you
 can provide additional information here, e.g. an in-depth breakdown of your
 themes or additional photos and sketches. If you provide material that is less
 abstract, take extra care to check if the privacy of the participants is
