@@ -14,7 +14,7 @@ The methods described in this book are different from common usability testing. 
 
 Often, usability testing is done with a nearly finished product, at a location users come to (like a testing lab) and with set tasks for them to do. The methods I will demonstrate here can be applied if you have a product but also if you only have rough ideas about an area you are interested in designing for. Also, we will strive for getting the information in the context where the interaction usually happens (not in a lab) and observe tasks that the user would just do in contrast to set ones. This allows us to explore the actual actions and the reasons behind them –  because even if you might be puzzled about some things you observe they usually make perfect sense for the users.
 
-### Couldn't I just as what they want?
+## Couldn't I just ask what they want?
 
 Since we talk about finding user needs, an obvious question is if we could not just ask them what they want and just build it. But this may not be a good idea.
 
