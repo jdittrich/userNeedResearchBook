@@ -1,26 +1,16 @@
 ﻿# Review your data
 
-After our research session we have our notes, sketches and possibly audio and photos.
-Using these recordings as well as our memory we create a coherent document for
-each participant which captures the research session and the recorded utterances and
-observations.
+After our research session we need to take care that we can use much rich data in our later analysis.
 
-## Supplement from memory
+When collecting the data with the participant you will be very busy listening and thinking of following questions. So you may not be able to keep up with writing notes and drawing sketches. To make the most of our data, we supplement our notes, sketches and diagrams and add some information about the context of the data gathering to close gaps and to help us to keep all the data ordered.
 
-It is essential to take time as soon as possible after the research session 
-to supplement your notes with information from your memory. While collecting
-the data with the participant you will be very busy listening and
-thinking of following questions. So you may not be able to keep up with
-writing notes and drawing sketches. There is no need to worry since
-usually you'll remember how to fill these gaps from your memory. But you
-need to do it quickly. If you don’t do it right after the interview,
-your memory fades and the chance to supplement the information is gone.
+There are two ways to supplement your data: From memory and from additional recordings, like an audio recording.
 
-To supplement your notes of the research session just go through them
-chronologically and add annotations.
+Supplementing your data should be done as soon as possible after the research session. I recommend to schedule the data gathering in a way that you have some time directly after the session to supplement and order your data.
 
-A part of these additions are things that are not in the
-notes yet but still in my memory. In this case I *add* them, like
+## Supplement data my data from memory
+
+I add data that I did not write down yet. In this case I *add* them, like
 
 
 > \[ADDITION\]:
@@ -87,28 +77,9 @@ step of the process.
 Using different colors is useful for another type of supplement:
 Ideas or remarks in connection to your notes. When I go
 through the notes I often have some ideas for a design or a question
-which I would like to further explore in a future interview.  I write them down in a third color or
-I prefix the note with *»IDEA:«* or *»QUESTION«* in order to prevent myself of mixing ideas
-with empirical data.
+which I would like to further explore in a future interview.  I write them down in a third color or I prefix the note with *»IDEA:«* or *»QUESTION«* in order to prevent myself of mixing ideas with empirical data.
 
-Writing notes, drawing sketches and supplementing them hereafter will
-enable you to preserve information in the most situations. However, for
-complicated descriptions of workflows or if you just loose track by
-accident, it might be useful to have a backup by using audio recording.
-
-## Transcribe your Data {#TranscribeData}
-
-Before yor analyze your data, you should transcribe it properly, so it can be easily formatted, copied and accessed.
-
-Sketches and Photos need to be ordered and can be connected to the written notes. If you did an audio recording you can listen to it and correct, supplement and extend your notes.
-
-The document which we create by doing do is our »Transcript« ^[»Transcript« often
-means to (verbatim) transcribe audio data. So it is possible, that what I call a
-»transcript« here (bringing any data into an accessible, but not-yet-analyzed form)
-may not be a ›proper‹ transcript for somebody else]
-
-
-### Transcribe your notes
+## Transcribe your notes
 
 Since they are often written quickly, your notes will usually be rather incoherent: Single words, small sketches, and longer sentences will all be scattered on the paper. Tidy your data and transcribe the notes in a digital document.
 
@@ -143,48 +114,16 @@ know why are objects are duplicated and for which purpose is the space is made.
 > - Alternative places for additional comments: Either right margin or bottom.
 
 
-The notes from the research session and later added supplements from my memory are treated alike
-in my documents since they are all data I gathered by listening or observing
-the participant. But I take care that later added design ideas and research questions
+The notes from the research session and later added supplements from my memory get the same formatting in my documents since they are all data I gathered by listening or observing the participant. But I take care that later added design ideas and research questions
 are still easily distinguishable from the actual data that I gathered in the research session.
 
-### Sketches and Photos
+## Possibly supplement from audio recordings
 
-Since my sketches are usually on the same sheet of paper as my notes, I review my sketches
-when I am transcribing the notes.
-
-If it makes sense, I summarize the information of the sketch in a line or two (since it is easier to work with text than with images).
-Otherwise, I paste the sketch from a scan into the document with the transcript.
-
-### Photos
-
-Review your sketches and photos ideally together with your written notes.
-Describe photos and sketches in one or two lines. In particular, supplement them with some context: Why did you make the photo, what is particularly interesting? What does the sketch or diagram show? This makes sense to understand and remember what is depicted. Also, it can sometimes be easier to work with texts than with images. 
-
-
-> ![photographing a screen instead of using screenshots](images/ObservationDesignU4ScreenFontMix.jpg)
->
-> For the photo above you might add the following line to your notes: »participant
-> displays different font combinations in the layout application to see if
-> the fonts go well together (see *U2-14-9-14_1.jpg* )«
-
-In my written notes, I »link« to  photos or sketches by mentioning their filename like 
-
-> See [U6_DesktopSetup.jpg]
-
-Or I paste the images directly into the document.
-
-### Audio
-
-If you made a recording of your research session, use it to supplement and check your notes. 
-
-Usually, I have the audio as a .mp3
-and the notes as a typed out plaintext or wordprocessor document (see: [Transcribe Notes](#TranscribeData)), so I can open audio and transcript in parallel on my computer.
+If you made a recording of your research session, use it to supplement and check data.
 
 When the audio contains information which is not in the document or if it
 supplements information that is already there, I pause the playback and write the
-additional information in the document. So the process is very similar to supplementing
-your notes from memory.
+additional information in the document. So the process is very similar to supplementing your notes from memory.
 
 > Audio recording: »…hmm I send it to my boss. She will check it. Now I go to that
 other document, and see…«
@@ -197,9 +136,17 @@ other document, and see…«
 If you need to save time, go through your notes and see where they lack information. Then just jump
 to the parts of the audio that might complement these sections.
 
-\
-\
+## Order and archive your data
 
-As a result of supplementing our notes from memory and by using the audio, sketches and
-photos we now have a document which summarizes our research session. The data  is
-mainly text-based, but additional information is conveyed in sketches or photos.
+It should be easy to find out later which data was from which participant and how notes, sketches, diagrams and possible audio recordings fit together.
+
+Take care that all sheets of paper and files have…:
+
+* a participant code like P1 for the first, P2 for the second participant etc. This way you can later trace back which data belongs together
+* The name of the project and the date. In your next or even a parallel project, you may have another “first” participant, and you don’t want to mix them up
+* The filenames (or the names of the folders they are in) should carry the participant code, project name and possibly the method too, which may lead to lenghty filenames like: LMS_P1_diagram-sharingprocess.png (“LMS” being “Learning Management Systems”, the project name, “P1” is the participant code, “diagram” is the method and “sharingprocess” is the topic)
+* You should look for possible interconnections between different kinds of data. Maybe the participant mentioned his messy desk and you have a photo of it? Add a line in your transcript, referring to the photo. Or the participant talks about the problems of sending data to the print shop and the printing process was part of a workflow diagram you both created? Write a brief line in your notes and the diagram to connect both.
+
+If you take these steps you can still match project and participants later so you don't loose time or data because of mixups.
+
+As a result of these steps you your now have a transcript of your notes, diagrams, sketches and photos with possible cross referencing annotations, participant codes, and descriptive filenames.

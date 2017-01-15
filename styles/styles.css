@@ -205,9 +205,12 @@ ul li{
   list-style-type: square;
 }
 
+dt{
+  font-style: italic;
+}
 
-dt {
-  font-weight:bold;
+dd>p{
+  margin-top:0;
 }
 
 code {
