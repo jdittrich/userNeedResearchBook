@@ -1,0 +1,47 @@
+
+<script src="libs/jquery.js"></script>
+<script src="libs/toc_jquery.js"></script>
+<script>
+$(function(){
+	var layoutWrapperSelector = "#layoutWrapper";
+	var textWrapperSelector ="#main";
+
+
+	$('<div id="autoToc"></div>').appendTo('#layoutWrapper');
+	$('#TOC').addClass("hidden");
+	$('#autoToc').toc({
+			 'container': textWrapperSelector,
+			 'highlightOffset': 10,
+			 'anchorName': function(i, heading, prefix) { //custom function for anchor name
+	return prefix+i;},
+	});
+		
+	$('<a class="toggle">hide TOC</a>').prependTo("#autoToc").click(function(){
+		$("#layoutWrapper").toggleClass("menuactive");
+		if($("#layoutWrapper").hasClass("menuactive")){
+				$("#autoToc .toggle").text("hide TOC");
+		}else{
+				$("#autoToc .toggle").text("show TOC");
+		}
+	});
+	
+	//media query: hide TOC if window is small, show if it is wide
+	var widthChange = function(mediaQuery){
+		if (mediaQuery.matches) {
+			$("#layoutWrapper").addClass("menuactive")
+			$("#autoToc .toggle").text("hide TOC");
+		}
+		else {
+			$("#layoutWrapper").removeClass("menuactive")
+			$("#autoToc .toggle").text("show TOC");
+		}	
+	}
+
+	if(window.matchMedia){
+		var mediaQuery = window.matchMedia("(min-width:60rem)");
+		mediaQuery.addListener(widthChange);
+		widthChange(mediaQuery);
+	}
+	//END: media query code
+})
+</script>

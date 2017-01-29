@@ -1,6 +1,6 @@
 ﻿# Review your data
 
-After our research session we need to take care that we can use much rich data in our later analysis.
+After our research session we need to take care that we can use the rich data in our later analysis.
 
 When collecting the data with the participant you will be very busy listening and thinking of following questions. So you may not be able to keep up with writing notes and drawing sketches. To make the most of our data, we supplement our notes, sketches and diagrams and add some information about the context of the data gathering to close gaps and to help us to keep all the data ordered.
 
