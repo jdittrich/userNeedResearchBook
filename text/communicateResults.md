@@ -13,7 +13,10 @@ may be even able to improve your analysis further.
 Who will recieve the research results and what interests do they have? There may
 be different stakeholders with different needs, e.g.
 
-* Management Programmers Designers …
+* Management 
+* Programmers 
+* Designers 
+* …
 
 Some of their needs align, some may differ. So before you start you should ask
 who will recieve the results and what specific interests they have. Also inquire
