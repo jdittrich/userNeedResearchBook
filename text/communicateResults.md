@@ -117,11 +117,12 @@ The most efficient guide I know was given by George Orwells in »Politics and th
 English Language« – I quote:
 
 > 1. Never use a metaphor, simile or other figure of speech which you are used
-to seeing in print. > > 2. Never use a long word where a short one will do. > >
-3. If it is possible to cut a word out, always cut it out. > > 4. Never use the
-passive where you can use the active. > > 5. Never use a foreign phrase, a
-scientific word or a jargon word if you can think of an everyday English
-equivalent. > > 6. Break any of these rules sooner than say anything barbarous.
+to seeing in print. 
+> 2. Never use a long word where a short one will do. 
+> 3. If it is possible to cut a word out, always cut it out.
+> 4. Never use the passive where you can use the active. 
+> 5. Never use a foreign phrase, a scientific word or a jargon word if you can think of an everyday English equivalent. > > 6. Break any of these rules sooner than say anything barbarous.
+
 ^[[Orwell’s Rules for
 writers](http://wikilivres.ca/wiki/Politics_and_the_English_Language)]
 
@@ -135,9 +136,9 @@ right words, you should go for a rewrite.
 Quotes convey the participant’s motivations and feelings. This is important to
 help others to have empathy with the users.
 
-> **Rather abstract:** Users like the alignment function > > **Combined with
-Quote**: Users like the alignment function. Sandy: »It is like doing work by
-magic – click! And its there!«
+> **Rather abstract:** Users like the alignment function 
+> 
+> **Combined with Quote**: Users like the alignment function. Sandy: »It is like doing work by magic – click! And its there!«
 
 Remember to protect the participant's identity if they did not give you the
 permission to share their quotes or names. If they did not give you the
@@ -155,19 +156,22 @@ short story written as text or given as a sequence of images (like a comic)
 
 A good framework for writing scenarios is asking yourself these questions:
 
--   **Person**: Who is the main person in the scenario? **Motivations**: Why
--   does this person what he/she does? What is the motivation? **Activities**:
--   What are the actions of the person and how are they done? **Context**: Where
--   and When does the scenario take place?
+- **Person**: Who is the main person in the scenario? 
+- **Motivations**: Why does this person what he/she does? What is the motivation? 
+- **Activities**: What are the actions of the person and how are they done? 
+- **Context**: Where and When does the scenario take place?
 
-Answer them in your scenario.
+Answer them in your scenario:
 
 > Annika studies media culture and needs to finish here homework on »Cultural
 subconceptualist theory in the works of Koons« in order to hand the homework in
 on time. She goes to the library to see if the book on »Capitalism in the works
 of Rushdie« by Andreas Geoffrey contains arguments supporting her view on the
-structuralist paradigm. > > She enters the library and walks up to one of the
-computers standing in the corners of the library's halls. > > She wants to look
+structuralist paradigm. 
+>
+> She enters the library and walks up to one of the
+computers standing in the corners of the library's halls. 
+> She wants to look
 up the name of the author, but she notes that she forgot the copy of the book
 that referenced the work. She still knows that »Rusdie« or »Rushdie« was in the
 title of the book she needs. After several trials she finds the right spelling
@@ -177,20 +181,11 @@ building she is in already and a code: »X0-3R52«… \[scenario may continue\]
 
 You could as well create a scenario as a series of sketches, like a comic strip:
 
-<div class="gallery four">
 
-![the search interface of the library's
-computer](images/szenario2_1.png){.portrait}
+![ **1** the search interface of the library's
+computer **2** remembering the code. Is this character a zero or the letter
+›O‹? **3** I can’t find the right shelf! **4** I'd better ask somebody… …now I know where I need to go!](images/Scenario-Bibliothek-all.svg)
 
-![remembering the code. Is it a zero or the letter
-›O‹?](images/szenario2_2.png){.portrait}
-
-![I can’t find the right shelf!](images/szenario2_3.png){.portrait}
-
-![I'd better ask somebody… now I know where I need to go!
-](images/szenario2_4.png){.portrait}
-
-</div>
 
 ### Diagrams
 
