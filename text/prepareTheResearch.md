@@ -8,14 +8,14 @@ Let’s look at some topics that might be of interest exploring:
 I usually have three aspects I think of when I prepare my questions:
 
 1.  Motivations, what the user wants to archive, what is important for him/her?
-2.  Activities, what does the user? 
+2.  Activities, what does the user do? 
 3.  Problems: what interferes with the users activities and motivations?
 
 There could be many other aspects, but I find these three good because
 
-* They  cover a wide range of possible topics questions
+* They cover a wide range of possible topics questions
 * They cover design relevant topics
-* They can be easily remembered even in the midst of research: Three points are few and in addition you can use the mnemonic M-A-P: **M**otivations,**A**ctivities, **P**roblems.
+* They can be easily remembered even in the midst of research: Three points are few and in addition you can use the mnemonic M-A-P: **M**otivations, **A**ctivities, **P**roblems.
 
 Let me show you the questions I came up with for finding out about the needs of designers who create layouts.
 

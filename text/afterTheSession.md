@@ -8,7 +8,7 @@ There are two ways to supplement your data: From memory and from additional reco
 
 Supplementing your data should be done as soon as possible after the research session. I recommend to schedule the data gathering in a way that you have some time directly after the session to supplement and order your data.
 
-## Supplement data my data from memory
+## Supplement data from memory
 
 I add data that I did not write down yet. In this case I *add* them, like
 
