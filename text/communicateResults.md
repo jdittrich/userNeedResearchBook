@@ -10,38 +10,40 @@ may be even able to improve your analysis further.
 
 ## Consider the audiences needs
 
-Who will recieve the research results and what interests do they have? There may
+Who will receive the research results and what interests do they have? There may
 be different stakeholders with different needs, e.g.
 
-* Management 
-* Programmers 
-* Designers 
+* Management
+* Programmers
+* Designers
 * …
 
-Some of their needs align, some may differ. So before you start you should ask
-who will recieve the results and what specific interests they have. Also inquire
-if there is any preferred format. Some may only take written reports, others may
+Some of their needs align, some may differ. Before you start, you should ask yourself
+who will receive the results and what specific interests they have. Also inquire
+if there is any preferred format. Some may prefer text-based reports, others may
 be used to slidedecks.
 
 ## First things first
 
 I try to structure my documentation in a way that puts the essential information
 first (Also called »Inverted pyramid style«). A simple rule of thumb is, that if
-a reader stops early at some point, they already know the most crucial
-information. If the documentation is structured in a different way it can happen
+a reader stops early at some point, they should already know the most crucial
+information. If the documentation is structured in a different way, it can happen
 that after reading half of it, the most crucial information has not delivered.
-Also it is motivating to deal with documents that put important matters first.
+Also, it is motivating to deal with documents that put important matters first.
 One can read e.g. the summary in the beginning and then decide that this is the
-needed information and continue – or discard the document and don't wast time.
+needed information and continue – or discard the document and don't waste time.
 
-## Don't make it hard to get
+## Don't make it hard to understand
 
 You create the documentation for people who are not user researchers and who
 often have not taken part in the research. They won't understand any jargon of
 your profession and maybe also not the vocabulary the users use. Thus, avoid
 language that is hard to grasp or uses words unknown to your readers. Instead,
 »translate« for them: Describe the research in terms they know and help them to
-make sense of the participants’ language. As a rule of thumb, rather assume too
+make sense of the participants’ language and actions.
+
+As a rule of thumb, rather assume too
 few knowledge than too much. A person knowing something will just overhear or
 overlook an explaination while a person who lacks knowledge is lost without it.
 
