@@ -35,7 +35,7 @@ One can read e.g. the summary in the beginning and then decide that this is the
 needed information and continue – or discard the document and don't waste time.
 
 ## Don't make it hard to understand
-
+<!-- TODO: Translator-Metaphor: User to audience? --> 
 You create the documentation for people who are not user researchers and who
 often have not taken part in the research. They won't understand any jargon of
 your profession and maybe also not the vocabulary the users use. Thus, avoid
@@ -269,6 +269,8 @@ diagrams too when they make sense.
 university](images/exampleWrittenReport2.png)
 
 ### Slides
+
+<!-- TODO: slides with you talking or as a container for information without you being ther ein person? -->  
 
 Slides can deliver the same content as written reports or quick findings. They
 convey the information in a more visual way – so they have fewer text and more
