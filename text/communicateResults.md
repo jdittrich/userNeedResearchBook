@@ -35,7 +35,7 @@ One can read e.g. the summary in the beginning and then decide that this is the
 needed information and continue – or discard the document and don't waste time.
 
 ## Don't make it hard to understand
-<!-- TODO: Translator-Metaphor: User to audience? --> 
+<!-- TODO: Translator-Metaphor: User to audience? -->
 You create the documentation for people who are not user researchers and who
 often have not taken part in the research. They won't understand any jargon of
 your profession and maybe also not the vocabulary the users use. Thus, avoid
@@ -119,11 +119,11 @@ The most efficient guide I know was given by George Orwells in »Politics and th
 English Language« – I quote:
 
 > 1. Never use a metaphor, simile or other figure of speech which you are used
-to seeing in print. 
-> 2. Never use a long word where a short one will do. 
+to seeing in print.
+> 2. Never use a long word where a short one will do.
 > 3. If it is possible to cut a word out, always cut it out.
-> 4. Never use the passive where you can use the active. 
-> 5. Never use a foreign phrase, a scientific word or a jargon word if you can think of an everyday English equivalent. 
+> 4. Never use the passive where you can use the active.
+> 5. Never use a foreign phrase, a scientific word or a jargon word if you can think of an everyday English equivalent.
 > 6. Break any of these rules sooner than say anything barbarous.
 
 ^[[Orwell’s Rules for
@@ -139,8 +139,8 @@ right words, you should go for a rewrite.
 Quotes convey the participant’s motivations and feelings. This is important to
 help others to have empathy with the users.
 
-> **Rather abstract:** Users like the alignment function 
-> 
+> **Rather abstract:** Users like the alignment function
+>
 > **Combined with Quote**: Users like the alignment function. Sandy: »It is like doing work by magic – click! And its there!«
 
 Remember to protect the participant's identity if they did not give you the
@@ -159,9 +159,9 @@ short story written as text or given as a sequence of images (like a comic)
 
 A good framework for writing scenarios is asking yourself these questions:
 
-- **Person**: Who is the main person in the scenario? 
-- **Motivations**: Why does this person what he/she does? What is the motivation? 
-- **Activities**: What are the actions of the person and how are they done? 
+- **Person**: Who is the main person in the scenario?
+- **Motivations**: Why does this person what he/she does? What is the motivation?
+- **Activities**: What are the actions of the person and how are they done?
 - **Context**: Where and When does the scenario take place?
 
 Answer them in your scenario:
@@ -170,10 +170,10 @@ Answer them in your scenario:
 subconceptualist theory in the works of Koons« in order to hand the homework in
 on time. She goes to the library to see if the book on »Capitalism in the works
 of Rushdie« by Andreas Geoffrey contains arguments supporting her view on the
-structuralist paradigm. 
+structuralist paradigm.
 >
 > She enters the library and walks up to one of the
-computers standing in the corners of the library's halls. 
+computers standing in the corners of the library's halls.
 > She wants to look
 up the name of the author, but she notes that she forgot the copy of the book
 that referenced the work. She still knows that »Rusdie« or »Rushdie« was in the
@@ -270,7 +270,7 @@ university](images/exampleWrittenReport2.png)
 
 ### Slides
 
-<!-- TODO: slides with you talking or as a container for information without you being ther ein person? -->  
+<!-- TODO: slides with you talking or as a container for information without you being there ein person? -->
 
 Slides can deliver the same content as written reports or quick findings. They
 convey the information in a more visual way – so they have fewer text and more
@@ -291,5 +291,7 @@ A poster is a great way to show the results in a way that is easy to grasp and
 will be consumed too by people who do not take specific interest in user
 research. They can be put up in a hallway for everyone who walks by.
 
-Focus on a few important findings and show them using mainly graphical elements.
-You also can create a big version of key diagrams you creaed or summarized.
+Focus on a few important findings and show them using  graphical elements and text.
+You also can create a big version of diagrams you created or summarized.
+
+![A poster showing three core findings from research with editors of the free online dictionary Wiktionary (By Wikimedia Deutschland, Licensed under CC-BY-SA 4.0, [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/))](images/Poster_WiktionaryUsers_WMDE.png)

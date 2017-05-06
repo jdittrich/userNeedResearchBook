@@ -332,7 +332,7 @@ You just add the participant code at the end or beginning of each line. It is no
 ![Annotating data in a wordprocessor](images/commentsAnalysis.png)
 
 ### Annotate your notes
-
+<!-- I am unsure if that makes sense for beginners or not -->
 After you added your participant codes, you can start to review and to annotate your notes in order to find possible interpretations, themes and meaning behind the observations and utterances.
 
 This will help you to get familiar with the data and to derive meaningful themes and insights later.
@@ -392,6 +392,8 @@ The resources you need for with pen and paper are:
 But why should you want to use an analog analysis, if it needs all these resources? Partly, the decision can be based on preferences: Some people like that they can move around the notes by hand and can get an overview of their data by just stepping back and glancing over it.
 
 If you work with peers on your analysis, you have some advantages when using the analogue pen and paper approach: you can easily discuss your ideas with others and will get new ideas how to structure the data. You can as well invite your boss to take a look and be part of the team, at least for some time. This type of on-site, collaborative, analysis is best done analog. Using digital tools it is not that easy and direct – despite of all the great digital innovations we have nowadays.
+
+![Making sense of data together, using lots of sticky notes. (Image by [flickr user Kalsau](https://www.flickr.com/photos/kalsau/), licensed under CC-BY 2.0, [https://creativecommons.org/licenses/by/2.0/](https://creativecommons.org/licenses/by/2.0/); Changes: Image was cropped) ](images/DesignEthnographyStudioLifeAnalysis4_crop.jpg)
 
 #### How to: Analysis on the computer
 
@@ -456,13 +458,6 @@ themes in other places. If you analyze using a word processor, move similar
 notes in adjacent lines. Create different groups, each containing similar notes,
 by using several line breaks above and below such a group or by
 creating a list for each assumed theme.
-
-
-![two (preliminary) groups as lines (the digital way)](images/abstractGroupLines.svg){.portrait}
-
-![two (preliminary) groups as sticky notes (the analog way)](images/abstractGroupPapers.svg){.portrait}
-
-
 
 > - Asking herself: what would impress the person (a safety advisor)
  »probably not that the blueprint is beautiful«
