@@ -25,8 +25,8 @@ be used to slidedecks.
 
 ## First things first
 
-I try to structure my documentation in a way that puts the essential information
-first (Also called »Inverted pyramid style«). A simple rule of thumb is, that if
+Structure documentation in a way that puts the essential information
+first. A simple rule of thumb is this: If 
 a reader stops early at some point, they should already know the most crucial
 information. If the documentation is structured in a different way, it can happen
 that after reading half of it, the most crucial information has not delivered.
@@ -151,6 +151,8 @@ names and quotes are not real but are only corresponding to their actual
 counterparts.
 
 ### Scenarios
+<!-- TODO: Explain why scenarios are great: 1) Communication 2) Current use 3) Future use 4) Allowing What if and it-is in one format. Also: Usability tests -->
+
 
 Activities don’t happen in isolation from each other: They depend on previous
 activities and (possible changing) motivations. One way to communicate a
