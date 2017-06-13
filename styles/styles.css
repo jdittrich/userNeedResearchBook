@@ -110,6 +110,25 @@ h6 {
   margin:1.5em 0 0.4em;
 }
 
+a.link-to-self{
+  font-size: 0.8em;
+  margin-left: 1em;
+  color: rgb(57, 107, 165);
+  opacity:0.1;
+}
+
+*:hover>a.link-to-self{
+  opacity:0.5;
+}
+
+a.link-to-self:hover{
+  opacity:0.7;
+  text-decoration:none;
+}
+
+
+
+
 p {
   text-align:left;
   font-size:100%;
