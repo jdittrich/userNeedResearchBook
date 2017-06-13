@@ -1,0 +1,1 @@
+/home/jan/pythonModule/pandoc-svg.py
