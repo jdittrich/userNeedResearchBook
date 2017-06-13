@@ -1736,16 +1736,19 @@ $(function(){
 	var layoutWrapperSelector = "#layoutWrapper";
 	var textWrapperSelector ="#main";
 
-
+	//create TOC
 	$('<div id="autoToc"></div>').appendTo('#layoutWrapper');
 	$('#TOC').addClass("hidden");
 	$('#autoToc').toc({
 			 'container': textWrapperSelector,
 			 'highlightOffset': 10,
 			 'anchorName': function(i, heading, prefix) { //custom function for anchor name
-	return prefix+i;},
+				 return prefix+i;
+			 },
 	});
-		
+	//end create TOC
+
+	//Toggle TOC visibility
 	$('<a class="toggle">hide TOC</a>').prependTo("#autoToc").click(function(){
 		$("#layoutWrapper").toggleClass("menuactive");
 		if($("#layoutWrapper").hasClass("menuactive")){
@@ -1754,7 +1757,8 @@ $(function(){
 				$("#autoToc .toggle").text("show TOC");
 		}
 	});
-	
+	//end Toggle TOC visibility
+
 	//media query: hide TOC if window is small, show if it is wide
 	var widthChange = function(mediaQuery){
 		if (mediaQuery.matches) {
@@ -1764,7 +1768,7 @@ $(function(){
 		else {
 			$("#layoutWrapper").removeClass("menuactive")
 			$("#autoToc .toggle").text("show TOC");
-		}	
+		}
 	}
 
 	if(window.matchMedia){
@@ -1772,7 +1776,27 @@ $(function(){
 		mediaQuery.addListener(widthChange);
 		widthChange(mediaQuery);
 	}
-	//END: media query code
+	//end media query code
+
+	//add a span to each headline, linking to the headline itself, so that we can easily get a link to it
+	$("h1,h2,h3,h4").each(function(i,el){
+		var $el = $(el);
+		var id = $el.attr("id");
+		
+		if(id){
+			$el.append(
+				$("<a>",{
+					"title":"blas",
+					"href":"#"+$el.attr("id"),
+					"text":"☚",
+					"class":"link-to-self",
+					"title":"copies link to this headline to the adressbar of your browser"
+					}
+				)
+			)
+		}
+	})
+
 })
 </script>
 </body>
