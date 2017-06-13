@@ -52,7 +52,7 @@ $(function(){
 	$("h1,h2,h3,h4").each(function(i,el){
 		var $el = $(el);
 		var id = $el.attr("id");
-		console.log("el:",$el, "id:",id)
+		
 		if(id){
 			$el.append(
 				$("<a>",{
