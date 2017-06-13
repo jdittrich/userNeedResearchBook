@@ -10,6 +10,7 @@ body{
   margin:0;
   padding:0;
 }
+
 #layoutWrapper{
   padding:0;
   margin:0;
@@ -45,11 +46,12 @@ a:visited {color:#606;}
 a:hover {color:#606;}
 a:active {color:#900; outline:none;}
 
-h1 a:link,h2 a:link,h3 a:link,h4 a:link,h5 a:link, h1 a:visited,h2 a:visited,h3 a:visited,h4 a:visited,h5 a:visited{
-  font-weight:inherit;
-  color: inherit;
-  text-decoration:inherit;
-}
+//following was commented out because it made the copy-link-to-this-headline always black (instead blue)
+// h1 a:link,h2 a:link,h3 a:link,h4 a:link,h5 a:link, h1 a:visited,h2 a:visited,h3 a:visited,h4 a:visited,h5 a:visited{
+//  font-weight:inherit;
+//  color: inherit;
+//  text-decoration:inherit;
+// }
 
 h1 a:hover,h2 a:hover,h3 a:hover,h4 a:hover,h5 a:hover{
   text-decoration:underline;
@@ -114,10 +116,11 @@ a.link-to-self{
   font-size: 0.8em;
   margin-left: 1em;
   color: rgb(57, 107, 165);
-  opacity:0.1;
+  opacity:0.0;
+  text-decoration:none;
 }
 
-*:hover>a.link-to-self{
+*:hover > a.link-to-self{
   opacity:0.5;
 }
 
