@@ -13,3 +13,5 @@ motivations and problems and how to analyze the gathered data in a way that make
 To have knowledge about the how and why of the users work allows you to create innovative product that meets 
 the needs you found out about. As well you can use this knowledge to improve existing products and 
 adapt them using your insights.
+
+<a href="http://jdittrich.github.io/userNeedResearchBook/"><img src="https://jdittrich.github.io/userNeedResearchBook/images/urBookCover.svg"></a>
