@@ -19,14 +19,22 @@ OLD:
  * Equipment
 
 NEW
-
+* Prepare your research
+ * What do you want to find out
+ * Finding participants
+ * …
 ## Skewing answers
 * The framing of "skewing" assumes that there is one true answer
+
+## BUG:
+"Silence feels strange but is okay" and "Probing" have the same content, very close to each other.
+
+Solution: Take the "silence" part over to probing; Instead give "silence…" a proper ending
 
 ## Ensure and encourage could get a "expose you non-knowledge" or so
 
 ## Should there be topics?
-Like
+Position: between don't skew and closer look?
 
 * Finding out about Motivations
  * What is good about?

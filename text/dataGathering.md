@@ -459,7 +459,7 @@ So: don’t be afraid to react towards the participant – reacting towards the 
 essential in our research. But don’t suggest »good« or »bad« answers or
 »good« or »bad« ways of doing things by using words, gestures or facial expressions.
 
-### Silence feels strange but is o.k.
+### Silence feels strange but is okay
 
 <!-- TODO check if it should be merged with probing -->
 
