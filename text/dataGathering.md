@@ -471,11 +471,10 @@ along.
 creating the print-ready-file? [1 sec] Was it all well?« »yeah, sort
 of well I think«
 
-
 It is tempting to fill the silence with suggestions for the answer. But
-it can skew the answers and can turn a open question (»can you
-describe…?«) into a closed question (»can you describe… was it…?«
-/»yes«).
+it can turn a open question (»can you describe…?«) into a closed question
+(»can you describe… was it…?«/»yes«) or prevent the participant coming up with
+their answer on their own.
 
 Try to tolerate the silence. Usually, the participant will
 answer within a few seconds. If you notice silence which you want to fill, count
@@ -489,32 +488,18 @@ Or
 
 > Can you tell me what you are thinking about?
 
+By asking these questions, you can help the participant to continue with
+elaborating on the question you asked, even if they need some thinking to
+answer it. <!-- CHECK: new section-->
 
-If the participant has started to give an answer already but stops talking and makes a longer pause and you still like to know more, you could »echo« the most recent statement or words the participant has said.
-
-
-
-> Participant: »So I had it finished and send it away to the client and then almost nothing… [Pause]«
->
-> Researcher: »almost nothing?«
-
-
-This is a technique to make people carry on without skewing their
-answer.
-
-
-> Researcher:»almost nothing?«
->
-> Participant: »Yes, there was a brief mail that they got the
- design but I was unsure if that person actually gave it to
- the people who can decide something. That waiting just sucks.«
 
 ## Take a closer look
 
 ### Probing
 
 You got some valuable information, but there seems to be even more interesting things you may get to know about that topic. In this case you can »probe« for further information.
-We already know one way to do this: Silence. The participant may just jump in and fill the silence with further information.
+
+ We already know one way to do this: Silence. The participant may just jump in and fill the silence with further information.
 
 > Participant: »So I had it finished and send it away to the client and then almost nothing… «
 > [Pause, Researcher nods]
