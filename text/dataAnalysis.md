@@ -49,6 +49,8 @@ is not determined at the beginning, but a process, just like building
 your Lego^®^ house, in which you try, fail, find improvements and – step by
 step – come closer to a structure you are satisfied with.
 
+<!-- TODO: Combine diagrams, notes, tables etc. with each other – whatever makes sense to you -->
+
 ## How to make sense of diagrams
 
 Diagrams can be
@@ -880,3 +882,5 @@ a meaningful insight.
 >
 >You see, that I could not use all data, so I made some less significant
 groups in the »misc« section.
+
+<!-- TODO: Combine diagrams, notes, tables etc. with each other – whatever makes sense to you -->

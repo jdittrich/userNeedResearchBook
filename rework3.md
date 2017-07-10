@@ -1,45 +1,8 @@
-## Intro
-**Problem:**
-Find people and Prepare are maybe in the wrong order. Should we not prepare and then find people? On the other hand, prepare is very much split in itself, too: It has:
-* prep for the whole research, but also
-* prep for the single session
-
-**Possible solutions**:
-* Split into: Research question and session questions?
-* Merge?
-
-OLD:
-*Find People
- * How can I find participants?
- * Make compromises, if needed
- * How many participants do I need?
-* Prepare the research session
- * What do you want to find out?
- * Write a cheat sheet
- * Equipment
-
-NEW
-* Prepare your research
- * What do you want to find out
-* Finding participants
- * How can I find participants?
- * Make compromises, if needed
- * How many participants do I need?
-* Prepare your research session
- *
 
 ## Is this a linear process?
 
 * It is partly linear (data collection needs to, at least partly, precedes analysis)
 * Partly is it iterative (some interviews in the beginning, then some analysis etc.)
-
-## Skewing answers
-* The framing of "skewing" assumes that there is one true answer
-
-## Bug: Duplicated Content
-"Silence feels strange but is okay" and "Probing" have the same content, very close to each other.
-
-Solution: Take the "silence" part over to probing; Instead give "silence…" a proper ending
 
 ## Ensure and encourage could get a "expose you non-knowledge" or so
 
@@ -61,11 +24,61 @@ Position: between don't skew and closer look?
  * Are there things that could be better at…
  * What do you do to work around…
 
+
+
  ## Ask for demonstration
-…add to "take a closer look"
+…add to "take a closer look" DOING
 
-## Extend: Check your understanding
+## Provide wrap up of analysis chapter,
+mentioning using different method in concert and making ones own methods
 
-## "Make sense of your notes"
+## Clean up "review data" to other sections
+* Gather data: Supplement data from memory
+* Others: Analyse data
 
-could be extended to maybe also include diagrams?
+What do to with *order and archive your data* ? Appendix?
+
+
+----------------------------------------------------------------------------
+
+#Solved
+
+## Skewing answers
+* The framing of "skewing" assumes that there is one true answer
+* → I assume it is fine
+
+## Intro
+**Problem:**
+Find people and Prepare are maybe in the wrong order. Should we not prepare and then find people? On the other hand, prepare is very much split in itself, too: It has:
+* prep for the whole research, but also
+* prep for the single session
+
+**Possible solutions**:
+* Split into: Research question and session questions?
+* Merge?
+
+
+OLD:
+*Find People
+ * How can I find participants?
+ * Make compromises, if needed
+ * How many participants do I need?
+* Prepare the research session
+ * What do you want to find out?
+ * Write a cheat sheet
+ * Equipment
+
+NEW
+* Prepare your research
+ * What do you want to find out
+* Finding participants
+ * How can I find participants?
+ * Make compromises, if needed
+ * How many participants do I need?
+* Prepare your research session
+ *
+
+## SOLVED: Bug: Duplicated Content
+
+"Silence feels strange but is okay" and "Probing" have the same content, very close to each other.
+Solution: Take the "silence" part over to probing; Instead give "silence…" a proper ending

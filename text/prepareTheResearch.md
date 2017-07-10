@@ -46,7 +46,6 @@ You can explore these relations further in follow-up questions – »You said yo
 
 ####  Problems
 
-
 > -  When do you feel hindered or slowed down?
 > -  Can you show me how you circumvent this from happening?
 > -  What will happen if you can’t solve this problem?
@@ -60,11 +59,14 @@ Problems are easily communicated and the need for a solution is often very clear
 
 However, only dealing with problems would lead to patching existing solutions. If you want to create new ways of approaching things, you need to connect problems to the underlying motivations by asking for the difficulties a problem causes.
 
+
+
 Naturally, the three general aspects of activities, motivations and problems are just giving you a starting point for developing your questions.
 Use them to create questions suitable for your own research.
 
 When you have started with gathering data you can further refine your questions.
-You will get new ideas or you may want to refine the aims of your reserach since may haved noticed shortcomings or opportunities.
+You will get new ideas or you may want to refine the aims of your research because you
+ noticed shortcomings or opportunities.
 
 For example, in the research on graphic design I noticed that idea generation during work was important for the participants and an interesting topic to research.
 Thus, I added questions like »How do you generate new ideas?« or »How do you know if an idea you have works?«.
@@ -164,9 +166,9 @@ It is likely that they know some other people who work in the same job or have s
 
 ### Make compromises, if needed
 
-Especially if you are on your own, you may need to compromise and do research with participants that don't match your intended users exactly. When doing this, keep in mind to check for similarity of tasks, problems and motivations. These checks don't ensure that the participants are exactly the ones who may use your final product. But you can be rather sure that they can tell you something that is of interest for you.
+Especially if you are on your own, you may need to compromise and do research with participants that don't match your intended users exactly. When doing this, keep in mind to check for similarity of tasks, problems and motivations. These checks don't ensure that the participants are exactly the ones who may use your final product. But you can help to be rather sure that they can tell you something that is of interest for you.
 
-If you design an app for people to create bibliographies and you can only get some bachelor and masters students, but no professors, your results will still reveal a lot about the processes of creating bibliographies. The student’s motivation is probably writing final term papers and the professors would like to write journal papers. This is a possible difference. But as long as you aware of it, you are probably fine. But if you want to design a skateboard and the only participants you can get are all elderly people who enjoy hiking, you are in trouble (if you find elderly people who enjoy skating, go for it).
+If you design an app for people to create bibliographies and you can only get some bachelors and masters students, but no professors, your results will still reveal a lot about the processes of creating bibliographies. The student’s motivation is probably writing final term papers and the professors would like to write journal papers. This is a possible difference. But as long as you aware of it, you are probably fine. But if you want to design a skateboard and the only participants you can get are elderly people who enjoy hiking, you are in trouble (if you find elderly people who enjoy skating, go for it).
 
 
 ### How many participants do I need?

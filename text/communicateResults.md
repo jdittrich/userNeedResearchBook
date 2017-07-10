@@ -26,7 +26,7 @@ be used to slidedecks.
 ## First things first
 
 Structure documentation in a way that puts the essential information
-first. A simple rule of thumb is this: If 
+first. A simple rule of thumb is this: If
 a reader stops early at some point, they should already know the most crucial
 information. If the documentation is structured in a different way, it can happen
 that after reading half of it, the most crucial information has not delivered.
@@ -45,7 +45,7 @@ make sense of the participants’ language and actions.
 
 As a rule of thumb, rather assume too
 few knowledge than too much. A person knowing something will just overhear or
-overlook an explaination while a person who lacks knowledge is lost without it.
+overlook an explanation while a person who lacks knowledge is lost without it.
 
 ## Sections of a research documentation
 

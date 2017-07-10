@@ -1,7 +1,5 @@
 # Introduction
 
-<!-- what do you want to find our may be incorported somewhere here -->
-
 ## Why should I use the methods described in this book?
 
 User Need Research helps us to find out how and why users do what they do. Why is this important? Using this knowledge we can create products or services that matter for the users and match their needs in daily life.  Even if your idea and the final outcome is actually awesome, it still needs to find its place in the user's life. It can be helpful to consider existing motivations, activities and problems the users have and to know the context the interaction happens in. Will they be motivated or tired? What other products do they use in the situations in which your idea may matter? How may other people influence the interaction?
@@ -26,25 +24,38 @@ This does not mean that what people wish can or should be ignored or that some i
 
 
 ## In which situations/project state can I use these methods?
+<!-- TODO: rework:
+1. Usually before/in problem definition+
+2. It might make sense to see it as first stepm, but…
 
-Methods for finding user needs are usually applied in early project stages. The focus is not on evaluating what has been build so much, but more on how to improve future designs. So the research takes place before you decide which features go in the product and how they exactly work. Here are some scenarios in which finding out about the how and why about the user's work makes sense:
+* There are sub problems building on existing ones
+* There is quite some back and forth in design work
 
-1. There is a broad topic given which you want to explore further.
+-->
+
+Methods for finding user needs are usually applied in early project stages. The focus is not on evaluating what has been build, but more on how to improve future designs.
+
+ Here are some scenarios in which finding out about the how and why about the user's work makes sense:
+
+**1. There is a broad topic given which you want to explore further.**
 
 > This might be »using libraries« or even »Finding and working with information in media«.
 
-2. You have an idea for a product or a service and you want to find out, what user motivations, activities and problems are important to consider when building this product or service.
+Starting with a broad topic, not focused on a solution, may be the ideal (since you can solely focus on the user needs), but it is far more common that a product idea already exists.
+
+**2. You have an idea for a product or a service and you want to find out, what user** motivations, activities and problems are important to consider when building this product or service.
 
 > The library wants to create an app for creating bibliographies, and
 > they want to find out what they need to consider when doing this
 
-3. An existent product is to be improved or changed.
+**3. An existent product is to be improved or changed.**
 
 > The library has an app for creating bibliographies since several years.
 > However, there are complaints about it being useless and hard to use;
 > Now they want to find out how version 2.0 should be different
 
-Starting with a broad topic, not focused on a solution, may be the ideal (since you can solely focus on the user needs), but it is far more common that a product idea already exists. In the case an *existing* product should be improved, it is common to use usability tests, but it makes sense to combine them with user need research – what about finding out about the usability problems of the current system by observing their everyday tasks?
+In the case an *existing* product should be improved, it is common to use usability tests, but it makes sense to combine them with user need research – what about finding out about the usability problems of the current system by observing their everyday tasks?
+
 
 
 ## Example for User Need Research: e-Learning
@@ -99,6 +110,7 @@ We did not need to put lots of money into solving problems that did not even
 exist or  remove functions that were critical for our users.
 
 ## This text’s structure
+
 I will show you the process of researching the user’s needs in the following chapters of this book. The book is organized in the following sections:
 
 1. Finding Participants for your studies

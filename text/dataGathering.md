@@ -15,6 +15,8 @@ To make this work, see your participants as competent in what they do: they are 
 This is contrary to the idea of designers and programmers as people who improve the lives of those
 who »don’t get it«. Instead of this, assume that the participants have a reason of doing their work the way they do it.
 
+<-- TODO: Show intertwinement with analysis and sensemaking -->
+
 ## Modes of data gathering
 
 ### Listening and asking questions
@@ -31,22 +33,7 @@ Asking questions and getting answers form a participant is a very versatile tool
 
 But because of this it can happen that you hardly focus on actual  experiences and instead talk about abstract events. Observations are thus a good supplement to asking questions and listening, since observations are naturally concerned with actual actions you can see happening at the very moment.
 
-<!-- TODO usage hints
-
-Assessment
-Positive:
-Very versatile
-Probably the most applied, best documented data gathering method
-It is similar to a conversation
-Con:
-It is similar to a conversation and we easily fall in patterns of our normal conversations: Cutting the participant off, suggesting the answer in our questions and restricting the possible answers to yes or no.
-Good for: Good for almost anything. Particularly helpful to explore anything not concrete like motivations and feelings..
-
--->
-
 ### Observe
-
-<!-- TODO: how is this reflected in data recording? Observations can be noted, sketched and photographed -->
 
 What Participants describe is not always the ideal way to convey the information. Just like a picture can be worth a thousand words, it makes often sense to ask participants to show what they mean and to demonstrate how they work. It can also be easier compared to describing to.
 
@@ -76,7 +63,7 @@ Avoid positioning yourself as the expert in the participant’s domain by sugges
 
 ![observing the user’s work](images/ObservationDesign1.jpg)
 
-<!-- TODO usage hints
+<!-- TODO provide summary of "Observe"
 
 Positive:
 Very rich, detailed data
@@ -104,7 +91,6 @@ The diagrams you will deal with in research give graphical overviews of topics s
 
 You can spontaneously use drawings, but it often makes sense to prepare templates. For the timeline diagram of moods above, my template looked like this:
 
-<!-- TODO Example template -->
 ![example template](images/GoodBadTime_Diagramm.svg)
 
 These templates give some scaffold which makes creating the diagrams easier. Some people still hesitate to create diagrams, since they think they are expected to produce artworks or accurate sketches. In this case, tell them:
@@ -124,20 +110,70 @@ To make them comprehensible, diagrams will have comments to explain what is draw
 > You: »Can you write this in the diagram, so I can understand it later?«
 > Participant: [Writes as comment in the diagram] Looking forward, Many Ideas: Good
 
+<!-- TODO: Pointability particularly useful since it eases memory load and is less awkward (?) -->
+
 The diagrams can often be understood easily after the research. Often, they just need some additional comments added to make sense for you or others. For interviewing and observation this is often not the case: You need to spend much time transcribing and ordering the results.
 
+## TODO: Topics: Asking for motivations, activities and problems
 
-<!-- TODO: usage hints -->
-<!--
-Positive:
-Templates and creating the diagrams together can be a great help for beginners
-Easy to document with just some additional notes
-Diagrams can aid conversation about what is shown in the diagram
-Negative:
-You need to bring some materials and create the templates
-Use it when:
-* If you roughly know what interests you and you need to gain an overview of it: “How do you repair a computer?”, “What do places in your neighborhood mean for you” etc.
--->
+ * General topics
+  * Participant oriented, very few
+  * There are others like I "Activities, Environments, Interactions, Objects, and Users" (AEIOU) (https://www.epicpeople.org/building-a-useful-research-tool/)
+ * examples of how you can research them; demonstrate interplay of different recording methods and of the topics itself
+ * Go from abstract to very concret.
+
+### Motivations
+
+
+
+WHAT:
+WHY:
+HOW:
+
+What makes your participants happy? What do they tell about ther goals? What do they work towards?
+These are questions you try to answer when you research motivations.
+
+* Motivations are fairly abstract, they are not directly bound to specific situations.
+* Thus they are very useful to know if you attempt to introduce changes, e.g. to workflows.
+* The same motivation can be [TODO WORD]  in multiple ways:
+ * [TODO Examples]
+* Intertwined with activities
+* … or problems
+*
+* Finding out about Motivations
+ * What is good about?
+ * Can you describe a situation which made you feel good?
+ * Why would you do _____?
+ * Templates good/bad
+
+### Activities
+
+WHAT:
+WHY:
+HOW:
+
+* What do people do? How?
+* Deviations
+ * usually with good reasons
+* Intertwined:
+ * Motivations and Problems
+ * …also: Social, Technological
+
+* Finding out about Activities
+ * How do you…? Transition from mentioning it to detailed discussions and/or observations
+  * Pointability
+  * Why would you do _____?
+  * Templates like flowchart, social map
+
+### Problems
+Problems are local, solving them relieves the pain
+Not only technical, can be also social, activity based
+Can be "hidden": People assume it is normal to do "X"
+
+* Finding out about Problems
+ * Are there things that annoy you about…
+ * Are there things that could be better at…
+ * What do you do to work around…
 
 ## Start the research session
 
@@ -226,11 +262,12 @@ session.
 
 ### Start simple
 
-Start with some easy-to-answer questions – like: »Lets start with some simple questions about your job«. You can ask »What is your job title« and maybe follow »How do you name your Job when friends ask you what you do?«. As well, it might be interesting how experienced the person is: »How long have you been working in your current occupation?« These examples are tied to work related studies – for doing research with university studentsm I tie the questions to their particular context and ask, for example, how long they have been studying so far.
+Start with some easy-to-answer questions – like: »Lets start with some simple questions about your job«. You can ask »What is your job title« and maybe follow »How do you name your Job when friends ask you what you do?«. As well, it might be interesting how experienced the person is: »How long have you been working in your current occupation?« These examples are tied to work related studies – for doing research with university students I tie the questions to their particular context and ask, for example, how long they have been studying so far.
 
 These questions will help you to get to know some context of the participant’s work. But there is another advantage: Such questions are easy to answer. This gets the participants used to answering questions and opening up towards you. After a brief section with these easy-to-answer questions, you can transition to questions that demand more elaborate answers.
 
 ## Assure and encourage
+<!--  could get a "expose you non-knowledge" or so (Like in spreadley)-->
 
 ### Affirm that you listen
 
@@ -241,7 +278,7 @@ However, when giving this kind of feedback you should be careful. You could easi
 > A negative example of feedback would be:
 > »It was great to hear that you say you have some trouble exchanging files by mail!« (Since you may have already thought of a feature that might be helpful in that case)
 
-The participant will try to be a nice person try to make you happy by going on about the problems with files in mails even if sending files per mail is possibly not that bad in the participant’s view. Instead of reassuring the participant using judgements and emotions, focus on the fact that you got information you that helps you:
+The participant will try to be a nice person try to make you happy by going on about the problems with files in mails even if sending files per mail is possibly not that bad in the participant’s view. Instead of reassuring the participant using judgments and emotions, focus on the fact that you got information you that helps you:
 
 > »That was interesting to hear –«
 
@@ -256,6 +293,8 @@ Probably, you would not make a bad impression anyway, but let’s go through it 
 ![much better posture](images/bodyPostureGood.jpg){.portrait}
 
 ## Don’t skew the results
+
+<!-- TODO: The framing of "skewing" assumes that there is one true answer -->
 
 ### Ask open questions
 
@@ -492,6 +531,16 @@ By asking these questions, you can help the participant to continue with
 elaborating on the question you asked, even if they need some thinking to
 answer it. <!-- CHECK: new section-->
 
+<!-- TODO: new section here:
+
+
+
+
+TODO: possibly move switch topics here?
+-->
+
+
+
 
 ## Take a closer look
 
@@ -510,7 +559,7 @@ If leaving a pause does not make sense, you can achieve a similar outcome by rep
 > Participant: »So I had it finished and send it away to the client and then almost nothing… «
 > Researcher: »almost nothing?«
 
-This is a technique to make people carry on without actually adding any information.
+This this way, you can help participants to carry on without actually adding any information yourself.
 
 > Researcher: »almost nothing?«
 > Participant: »Yes, there was a brief mail that they got the design but I was unsure if that person actually gave it to the people who can decide something. That waiting just sucks.«
@@ -565,7 +614,14 @@ OR
 
 By checking your interpretations of the participants descriptions and activities, you can avoid misunderstandings and gain additional insights.
 
+<!-- TODO: Ask for a demonstration and examples -->
+
+### TODO: Ask for examples
+
+
 ## Steer the course of research
+
+<!-- TODO: Integrate into modes of data gathering and kinds of questions? -->
 
 ### Switch topics
 
@@ -683,6 +739,7 @@ Note that it is not a perfect capture of all that happened: It records only soun
 participant points to the screen and refers to »this«, the recording is not much of help.
 
 ### Photos
+
 Making photos is rather easy and can capture lots of information. For example, you can
 photograph the participant's desk to aid your memory. Later, you can go back and see
 what was on it: Paper, pens, computer; were there tidy looking stacks and containers
