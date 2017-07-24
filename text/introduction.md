@@ -14,6 +14,11 @@ Often, usability testing is done with a nearly finished product, at a location u
 
 ## Couldn't I just ask what they want?
 
+<!-- TODO: Maybe this should be extended to show why understanding and statements are different
+
+ -->
+
+
 Since we talk about finding user needs, an obvious question is if we could not just ask them what they want and just build it. But this may not be a good idea.
 
 Usually, people want a better version of what they already have.  Henry Ford allegedly said »If I had asked people what they wanted, they would have said faster horses«. Instead of faster horses, Ford sold a product that satisfied an underlying motivation – getting quickly from A to B – instead of the specific wish.
@@ -136,5 +141,7 @@ In each chapter I will give several examples. The examples have their own format
 
 
 Partly, the examples will draw from a little study about graphic designer’s use of their tools.
+
+<!-- TODO: How to read this book: Read through once, then re-read as it makes sense in your project.
 
 Thats about what you should know about the book.

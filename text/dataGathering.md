@@ -120,7 +120,46 @@ The diagrams can often be understood easily after the research. Often, they just
   * Participant oriented, very few
   * There are others like I "Activities, Environments, Interactions, Objects, and Users" (AEIOU) (https://www.epicpeople.org/building-a-useful-research-tool/)
  * examples of how you can research them; demonstrate interplay of different recording methods and of the topics itself
- * Go from abstract to very concret.
+ * Go from abstract to very concrete.
+ <!-- ####  Activities
+
+ > -   Can you describe the task you are currently working on?
+ > -   Can you show me how you create a graphic/layout?
+ > -   Can you show me how you use the application?
+
+
+ Talking about activities or observing them is a very rich source of
+ information.
+ When asking about activities you can often use  follow up questions
+ to find out why and how users do what they do: *»You said, you apply paragraph styles. What do they do?«*
+ or *»You just used that ›align‹ function – before, you placed objects manually. What is the difference between those activities?.«*
+
+ ####  Motivations
+
+ > -   Can you describe the worst experience in your day so far?
+ > -   Can you describe the best experience in your day so far?
+ > -   Which tasks in your job do you like the least?
+ > -   Which tasks in your job do you like the most?
+ > -   Can you show me a piece of work you are proud of?
+
+
+ Questions about Motivations are usually about emotions and often their relation to activities as well.
+ You can explore these relations further in follow-up questions – »You said you hate talking with this client. What in particular makes it a bad experience for you?«.
+
+ ####  Problems
+
+ > -  When do you feel hindered or slowed down?
+ > -  Can you show me how you circumvent this from happening?
+ > -  What will happen if you can’t solve this problem?
+
+ Asking for problems provides some good starting points for designing since you can try to avoid the problems with a better solution.
+
+ Problems are easily communicated and the need for a solution is often very clear. Thus they provide a good starting point when convincing others …
+
+ * …that changes to a product/concept need to be made
+ * …that your research makes sense and helps to avoid such problems.
+
+ However, only dealing with problems would lead to patching existing solutions. If you want to create new ways of approaching things, you need to connect problems to the underlying motivations by asking for the difficulties a problem causes. -->
 
 ### Motivations
 
@@ -130,7 +169,10 @@ WHAT:
 WHY:
 HOW:
 
-What makes your participants happy? What do they tell about ther goals? What do they work towards?
+Motivations are what people strive for
+
+----
+What makes your participants happy? What do they tell about their goals? What do they work towards?
 These are questions you try to answer when you research motivations.
 
 * Motivations are fairly abstract, they are not directly bound to specific situations.
@@ -139,7 +181,10 @@ These are questions you try to answer when you research motivations.
  * [TODO Examples]
 * Intertwined with activities
 * … or problems
-*
+
+* Maslov?
+* Know about X, Create Y, be seens as…, feel …
+
 * Finding out about Motivations
  * What is good about?
  * Can you describe a situation which made you feel good?
@@ -148,6 +193,7 @@ These are questions you try to answer when you research motivations.
 
 ### Activities
 
+Activities are what people do:
 WHAT:
 WHY:
 HOW:
@@ -158,6 +204,7 @@ HOW:
 * Intertwined:
  * Motivations and Problems
  * …also: Social, Technological
+ * End state
 
 * Finding out about Activities
  * How do you…? Transition from mentioning it to detailed discussions and/or observations
@@ -166,14 +213,24 @@ HOW:
   * Templates like flowchart, social map
 
 ### Problems
-Problems are local, solving them relieves the pain
-Not only technical, can be also social, activity based
-Can be "hidden": People assume it is normal to do "X"
+
+Problems can be a malfunctioning button, an collegue with whom  it is hard to communicate or a team culture that feels intransparent.
+
+Often problems can be pointed out by participants,
+they often already have some solution in mind. But problems
+ can also be hidden: Maybe people have a process to circumvent broken technology, avoid difficult people or have arranged themselves with the culture.
+
+* Problems are in the way of motivations, they make activities less pleasant
+
+* Tame, clearly defined
+* Wicked, undefined, entangled, messy
 
 * Finding out about Problems
  * Are there things that annoy you about…
  * Are there things that could be better at…
  * What do you do to work around…
+
+Problematizing problems: problem -> solutions not always possible
 
 ## Start the research session
 
