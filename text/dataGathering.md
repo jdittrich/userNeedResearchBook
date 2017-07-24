@@ -120,8 +120,8 @@ The diagrams can often be understood easily after the research. Often, they just
   * Participant oriented, very few
   * There are others like I "Activities, Environments, Interactions, Objects, and Users" (AEIOU) (https://www.epicpeople.org/building-a-useful-research-tool/)
  * examples of how you can research them; demonstrate interplay of different recording methods and of the topics itself
- * Go from abstract to very concrete.
- <!-- ####  Activities
+ * Go from abstract to very concret.
+ * They are just a possobiel devision, there are others and also the boundaries are more mnemonic than clear. 
 
  > -   Can you describe the task you are currently working on?
  > -   Can you show me how you create a graphic/layout?
@@ -163,8 +163,6 @@ The diagrams can often be understood easily after the research. Often, they just
 
 ### Motivations
 
-
-
 WHAT:
 WHY:
 HOW:
@@ -176,15 +174,7 @@ What makes your participants happy? What do they tell about their goals? What do
 These are questions you try to answer when you research motivations.
 
 * Motivations are fairly abstract, they are not directly bound to specific situations.
-* Thus they are very useful to know if you attempt to introduce changes, e.g. to workflows.
-* The same motivation can be [TODO WORD]  in multiple ways:
- * [TODO Examples]
-* Intertwined with activities
-* … or problems
-
-* Maslov?
-* Know about X, Create Y, be seens as…, feel …
-
+EXAMPLES for motivations:
 * Finding out about Motivations
  * What is good about?
  * Can you describe a situation which made you feel good?
