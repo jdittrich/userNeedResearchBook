@@ -2,7 +2,7 @@
 
 ## What do you want to find out?  {#questiontopics}
 
-Before you collect the data, you should specify what you want to find out. Why? If you have thought about your research questions *before* the interview, it will be much easier to consider these questions *while* conducting the research.
+Before you collect the data, you should specify what you want to find out. Why? If you have thought about your research questions *before* doing the research, it will be much easier to consider these questions *while* conducting the research.
 
 It also helps to plan your research according to your needs, e.g. when you search participants and when you choose methods.
 
@@ -24,20 +24,9 @@ There could be many other aspects, but I find these three good because
 
 Use this framework (or any other guidance) to expand your research question and write down your existing assumptions and open questions. A mindmap can be a useful tool, here.
 
-<!-- TODO example -->
+<!-- TODO example of research guide -->
 
 Your collected questions and assumptions can then guide you to find the right participants for your research and to write a cheat sheet with questions and other instructions that are helpful in the research sessions.
-
-
-<!--
-* How do…
-* Can
-* I have the impression, that…
-* Questions you want to ask…
-* can later be used in the cheatsheet [LINK] but careful, they can't answer your research questions
--->
-
-
 
 
 ## Write a cheat sheet
@@ -45,11 +34,11 @@ Your collected questions and assumptions can then guide you to find the right pa
 
 A cheat sheet is a little memory aid that you can take with you when you collect data.
 
+What goes into such a sheet? The biggest part will be **questions** that you might want to ask. Read the chapter on data gathering
 
-What goes into such a sheet? The biggest part will be **questions** which you
-created beforehand.
+<!-- FIXME: LINK to chapter-->
 
-<!-- TODO complain about the nonlinearity of the real world and refer to the how-to-ask MAP questions part in the collecting data part of the book -->
+<!-- TODO: Example for a research guide  -->
 
 When you write the questions on the cheat sheet,
 start with the general topics and progress towards more specific ones.
@@ -61,13 +50,13 @@ Often I include some kind of **checklist** on the top, especially if
 there are legal matters involved, such as signing a consent form. Thus I
 can tick off what we already dealt with and immediately see if I forgot something.
 
-As a beginner you may have some difficulties with formulating your
+<!-- As a beginner you may have some difficulties with formulating your
 questions without preparations when spontaneously entering on a new subject that
 happens to emerge in the research session.
 
 In this case you can help yourself along with some reminders on the sheet, like
 »Activities/Motivations/Problems«, »How and Why«, or, for the graphics design topic:
-»creativity/variations/creative rules/technology« or the like.
+»creativity/variations/creative rules/technology« or the like. -->
 
 The cheat sheet is a tool to support you during the interview and help you along when your
 mind goes blank for a moment. It is not for ensuring that you ask all questions in the same
@@ -140,13 +129,12 @@ If you design an app for people to create bibliographies and you can only get so
 
 ### How many participants do I need?
 
-There are no clear cut rules of how many participants are enough.
-However, most of my projects have between 3 and 8 participants.
+There are no clear cut rules of how many participants are enough. However, most of my projects have between 3 and 8 participants.
 If I really need to be sure that what I notice is consistent I'd do research with 10, but that is about the limit I can manage on my own.
 
-When estimating how many participants you need, consider how much resources (time and/or money) you can spend on doing the research. Each additional participant gives you additional data and a broader view on your possible users.However, each research session needs time do and adds to the amount of data to be analyzed – so plan accordingly.
+When estimating how many participants you need, consider how much resources (time and/or money) you can spend on doing the research. Each additional participant gives you additional data and a broader view on your possible users. However, each research session needs time do and adds to the amount of data to be analyzed – so plan accordingly.
 
-An efficient way of involving the »right« amount of participants is doing your research iteratively: start with three or four participants and analyze the data (how this is done is described in the section on [Analysing Data](#Analysis))
+An efficient way of involving the »right« amount of participants is doing your research iteratively: start with two or three participants and analyze the data (how this is done is described in the section on [Analysing Data](#Analysis))
 
 Take a look at the (preliminary) findings: If the results seem clear and consistent, you may do research with few additional participants to refine and check and to explore details – or, if time is up, leave it the way it is.
 
@@ -162,6 +150,8 @@ In all these cases you can involve more participants – but before you do invol
 
 * …need to clarify your research topic (to focus your efforts)
 * …need to specify the involved groups (to recruit the right participants)
+
+<!-- NOTE: Less back and forth in the following paragraphs would  be good. -->
 
 You may think that conducting user research with more participants is generally better; you just could shorten each session, ask fewer questions and skip observing the participants. But you need time with each participant if you want to find out about the »how« and »why« of the participants’ work. Several sessions in hurry will lead to less useful results than research with one participant done right.
 
@@ -181,11 +171,11 @@ will need some equipment for doing that:
 	-   Pencil or Pen (Don't forget to bring backups!)
 	-   Something to write on. A clipboard is great.
 -  Audio Recording (recommended)
-	- audio recorder or smartphone
+	- audio recorder or smartphone <!-- TODO link to record audio --> 
 -  Photos and video (recommended)
-	- a digital camera or smartphone
-- for drawing diagram with the participant
-	-   templates
+	- a digital camera or smartphone <!-- link to record photos -->
+- for drawing diagrams with the participant
+	-   templates <!-- : link to diagrams -->
 	-   pencils and/or pens in different colors
 
 You should get to know your equipment before you start the actual data collection. So be sure to know the essential operations to actually make a photo and start and stop the recording. Check the audio quality by putting the phone/recorder roughly a meter away from you and saying some sentences in normal loudness. Listen to the recording to test if you can (easily) understand what you said.

@@ -2,17 +2,39 @@
 
 ## Why should I use the methods described in this book?
 
-User Need Research helps us to find out how and why users do what they do. Why is this important? Using this knowledge we can create products or services that matter for the users and match their needs in daily life.  Even if your idea and the final outcome is actually awesome, it still needs to find its place in the user's life. It can be helpful to consider existing motivations, activities and problems the users have and to know the context the interaction happens in. Will they be motivated or tired? What other products do they use in the situations in which your idea may matter? How may other people influence the interaction?
+User Need Research helps us to find out how and why users do what they do. Using this knowledge we can create products or services that matter for the users and match their needs in daily life.
+
+<!--
+Understanding.
+ Knowing their motivations, activities, problems
+ explanation for what they do and feel.
+
+ Do that by…
+ Not usability testing
+ Not asking what they want
+
+ New ideas.
+--->
+
+Even if your idea and the final outcome is actually awesome, it still needs to find its place in the user's life. It can be helpful to consider existing motivations, activities and problems the users have and to know the context the interaction happens in. Will they be motivated or tired? What other products do they use in the situations in which your idea may matter? How may other people influence the interaction?
 
 It can naturally happen that you find out that your assumptions about the users are not totally right. This may feel bad at first. But even if the user's actions don't make sense to you immediately , they do make sense for the users. If you find out, you can adjust your assumptions and build upon your newly gained knowledge. You may also get new ideas by researching your users needs: An unexpected concept a user holds, a clever hack they used to solve a problem may spark new ideas – Ideas which will be based on user needs.
 
-## Is this like usability testing?
+<!-- not usability -->
+
+<!-- not asking what they want -->
+
+
+
+
+
+<!-- ### Is this like usability testing?
 
 The methods described in this book are different from common usability testing. Testing is great for finding out about users’ problems, existing bugs and the possibilities to tweak an existing product. However, usability tests tell you little about the »why« and »how« of users’ work.
 
-Often, usability testing is done with a nearly finished product, at a location users come to (like a testing lab) and with set tasks for them to do. The methods I will demonstrate here can be applied if you have a product but also if you only have rough ideas about an area you are interested in designing for. Also, we will strive for getting the information in the context where the interaction usually happens (not in a lab) and observe tasks that the user would just do in contrast to set ones. This allows us to explore the actual actions and the reasons behind them –  because even if you might be puzzled about some things you observe they usually make perfect sense for the users.
+Often, usability testing is done with a nearly finished product, at a location users come to (like a testing lab) and with set tasks for them to do. The methods I will demonstrate here can be applied if you have a product but also if you only have rough ideas about an area you are interested in designing for. Also, we will strive for getting the information in the context where the interaction usually happens (not in a lab) and observe tasks that the user would just do in contrast to set ones. This allows us to explore the actual actions and the reasons behind them –  because even if you might be puzzled about some things you observe they usually make perfect sense for the users. -->
 
-## Couldn't I just ask what they want?
+### Couldn't I just ask what they want?
 
 <!-- TODO: Maybe this should be extended to show why understanding and statements are different
 
@@ -62,7 +84,7 @@ Starting with a broad topic, not focused on a solution, may be the ideal (since 
 In the case an *existing* product should be improved, it is common to use usability tests, but it makes sense to combine them with user need research – what about finding out about the usability problems of the current system by observing their everyday tasks?
 
 
-
+<!--
 ## Example for User Need Research: e-Learning
 
 Some time ago I did research on the use of computers and web for learning purposes.
@@ -145,3 +167,5 @@ Partly, the examples will draw from a little study about graphic designer’s us
 <!-- TODO: How to read this book: Read through once, then re-read as it makes sense in your project.
 
 Thats about what you should know about the book.
+
+-->
