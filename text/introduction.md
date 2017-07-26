@@ -9,11 +9,13 @@ Understanding.
  Knowing their motivations, activities, problems
  explanation for what they do and feel.
 
- Do that by…
+ Do that by [Example]
  Not usability testing
  Not asking what they want
 
- New ideas.
+ New ideas, discard assumptions, get new onew
+
+ ## Place in the process
 --->
 
 Even if your idea and the final outcome is actually awesome, it still needs to find its place in the user's life. It can be helpful to consider existing motivations, activities and problems the users have and to know the context the interaction happens in. Will they be motivated or tired? What other products do they use in the situations in which your idea may matter? How may other people influence the interaction?
@@ -53,7 +55,7 @@ This does not mean that what people wish can or should be ignored or that some i
 ## In which situations/project state can I use these methods?
 <!-- TODO: rework:
 1. Usually before/in problem definition+
-2. It might make sense to see it as first stepm, but…
+2. It might make sense to see it as first step, but…
 
 * There are sub problems building on existing ones
 * There is quite some back and forth in design work
