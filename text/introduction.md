@@ -1,17 +1,49 @@
 # Introduction
 
-## Why should I use the methods described in this book?
+User Need Research helps you to find out _how_ and _why_ users do what they do. Using this knowledge you can create products or services that matter for the users and match their needs in daily life.
 
-User Need Research helps us to find out how and why users do what they do. Using this knowledge we can create products or services that matter for the users and match their needs in daily life.
+<!-- Why I wrote the book -->
+<!-- How to write a good intro anyway? -->
+
+<!-- curiosity reflexivity acceptance -->
+
+
+## Our inquiry concerns the user, not our (future) product
+
+In user need research will focus on the *how* and *why* of the users work and not on the future product or its possible features.
+
+You may be very motivated to get to design an actual product and you may have some ideas already, but if you focus on the product now, your findings will be tied to a product idea. If we focus on the user instead, our findings will be independent of a particular idea.
+
+<!-- TODO: user/participant wording -->
+
+That is why user need research is different from usability testing, where you test a working product to tweak it. It also explains why we don't ask our research participants how we should build a future product. This would not tell us much about the *how* and *why* of their actions – only that they want something.
+
+## User need research is an iterative process, not a linear one
+The process described in this book is this:
+
+1. asf
+2. asf#
+
+However, 
+
+## Concerns us as well as the user
+<!-- curiosity reflexivity acceptance -->
+
+
 
 <!--
 Understanding.
  Knowing their motivations, activities, problems
  explanation for what they do and feel.
 
- Do that by [Example]
+Rich, in depth data <- too abstract
+
+ Do that by [Example Gathering][Example analysis]
+
  Not usability testing
+  Since it aims to understand
  Not asking what they want
+
 
  New ideas, discard assumptions, get new onew
 
