@@ -19,12 +19,24 @@ You may be very motivated to get to design an actual product and you may have so
 That is why user need research is different from usability testing, where you test a working product to tweak it. It also explains why we don't ask our research participants how we should build a future product. This would not tell us much about the *how* and *why* of their actions – only that they want something.
 
 ## User need research is an iterative process, not a linear one
-The process described in this book is this:
 
-1. asf
-2. asf#
+The process that is described in this book may seem to be divided into clear steps that follow each other – after all, if you look at the main chapters they are:
 
-However, 
+However, this is a useful simplification. Actually, you process might look more like:
+
+Instead of following the steps in their order once, it makes a lot of sense to iterate parts of the process.
+
+It is very useful to intertwine the steps instead of doing them one after the other:
+
+* If I talk to three students about eLearning, and two of them mention they use Facebook groups for exchanging on learning tasks with peers, I could specifically recruit people who would walk me through a few of such groups.
+* If I notice in data analysis, that there might be a connection between two concepts, maybe a conflict between ›Trying many ideas freely‹ and ›Client feedback constrains me‹, I could try to focus in a few coming research sessions on the topics of motivation, freedom and client feedback.
+
+Aside of these specific ideas, it also helps you learning: You can see how your actions affect later steps and vary your approaches. It can be very useful to reflect on these learnings e.g. by writing notes to yourself.
+
+<!-- TODO: Example of memo -->
+
+Doing work iteratively can also help to keep the work in manageable chunks: If you analyze data from very many participants in one go, it can be overwhelming, but if you do it distributed on different rounds it is easier to handle.
+
 
 ## Concerns us as well as the user
 <!-- curiosity reflexivity acceptance -->
@@ -131,7 +143,8 @@ and why students and teaching staff used computers and the web for learning (not
 deliberately did research on the use web and computers for learning, instead of focusing
 just on the learning software itself).
 
-We recruited students and teaching staff from various courses and interviewed them. The gathered data
+We recruited students and teaching staff from various courses and listened to what they told us about their
+work and particularly how they used web and computers for it. The gathered data
 was analyzed to find out how and why computers and the Internet were used for learning.
 
 We discovered that  quizzes, workgroups and videos were not so important. We found out that the most important aspect of the system was exchanging files. The following uses of files were typical:
