@@ -1,6 +1,24 @@
 # Introduction
 
+
+<!--
+
+
+ -->
+
 User Need Research helps you to find out _how_ and _why_ users do what they do. Using this knowledge you can create products or services that matter for the users and match their needs in daily life.
+
+<!-- Idea is: Using UNeedResearch you…
+
+1) can understand your users better
+OR
+2)find out how and why users do what they do.
+
+and thus build better products and services.
+
+Motivations, Activities and Problems.
+-->
+
 
 <!-- Why I wrote the book -->
 <!-- How to write a good intro anyway? -->
@@ -12,19 +30,22 @@ User Need Research helps you to find out _how_ and _why_ users do what they do. 
 
 In user need research will focus on the *how* and *why* of the users work and not on the future product or its possible features.
 
-You may be very motivated to get to design an actual product and you may have some ideas already, but if you focus on the product now, your findings will be tied to a product idea. If we focus on the user instead, our findings will be independent of a particular idea.
+You may be very motivated to get to design an actual product and you may have some ideas already, but if you focus on the product now, your findings will be tied that specific idea. And an idea can easily turn out as not feasible. If we focus on the user instead, our findings will be independent of a particular idea.
 
 <!-- TODO: user/participant wording -->
 
-That is why user need research is different from usability testing, where you test a working product to tweak it. It also explains why we don't ask our research participants how we should build a future product. This would not tell us much about the *how* and *why* of their actions – only that they want something.
+That is why user need research is different from usability testing, where you test a product to tweak it. Usability testing does help to improve an existing product but can not help much to find out if your product helps the user.
+
+Our focus on understanding the how and why of our participants’ work also explains why we don't ask how we should build a future product. This would not tell us much about the *how* and *why* of their actions – only that they want something.
+
+Paradoxically, we need to *let go* of our focus on *products* to be able to understand the users and by that  develop products that users need.
 
 ## User need research is an iterative process, not a linear one
 
-The process that is described in this book may seem to be divided into clear steps that follow each other – after all, if you look at the main chapters they are:
+The process that is described in this book may seem to be divided into clear steps. If you look at the main chapters they are:
 
-However, this is a useful simplification. Actually, you process might look more like:
+However, this is a simplification that enabled me to describe these methods in a linear and organized text. Actually, you process might look more like:
 
-Instead of following the steps in their order once, it makes a lot of sense to iterate parts of the process.
 
 It is very useful to intertwine the steps instead of doing them one after the other:
 
