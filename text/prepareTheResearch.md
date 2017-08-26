@@ -2,9 +2,24 @@
 
 ## What do you want to find out?  {#questiontopics}
 
-Before you collect the data, you should specify what you want to find out. Why? If you have thought about your research questions *before* doing the research, it will be much easier to consider these questions *while* conducting the research.
+In ______ <!-- todo Reference --> I described, that our research will start from an (rough) idea for a future market, product or feature. To get to know our users we must transform these ideas for an outcome into questions for our research that concern people, not product.
 
-It also helps to plan your research according to your needs, e.g. when you search participants and when you choose methods.
+First I ask myself why the product idea would be good for something people do. Then I ask how and why they do this. The outcome can be used as research question.
+
+Here are some examples:
+
+* The initial idea is »build a learning platform for university students«
+* The meaningful activity connected to it can be »using digital media to learn better for university«
+* Asking *how* and *why* I come to »How and why do students use computers to learn better for university?«
+* I then refined the question a bit, since *learning better* is often understood as remembering facts or passing exams. Also, the »computer« was sounding like if I am not interested e.g. in smartphones or use of social networks. I went with »How and why do students use digital media related to their studies«.
+
+Or look at this one
+
+* … <!-- TODO -->
+
+The research question is a help for you to form more detailed questions and to communicate your aims. It does not need to be the *one true question*. Thus, it can also be refined later, maybe because of research results and a better understanding of what matters.
+
+-----------------------
 
 My standard template is: *How and why do [People] [Activity]*, e.g. *»How and why do editors write on wikipedia?«* or *»How and why do master students organize their sources when writing term papers?«*
 
@@ -29,42 +44,6 @@ Use this framework (or any other guidance) to expand your research question and 
 Your collected questions and assumptions can then guide you to find the right participants for your research and to write a cheat sheet with questions and other instructions that are helpful in the research sessions.
 
 
-## Write a cheat sheet
-<!--What is an interview guide for? Prepare the questions etc. Prepare youself… -->
-
-A cheat sheet is a little memory aid that you can take with you when you collect data.
-
-What goes into such a sheet? The biggest part will be **questions** that you might want to ask. Read the chapter on data gathering
-
-<!-- FIXME: LINK to chapter-->
-
-<!-- TODO: Example for a research guide  -->
-
-When you write the questions on the cheat sheet,
-start with the general topics and progress towards more specific ones.
-This is the order that makes sense in the course of a research session.
-Nevertheless, that order is only a helpful guess. You will usually deviate a bit (or a lot) from your cheat
-sheet.
-
-Often I include some kind of **checklist** on the top, especially if
-there are legal matters involved, such as signing a consent form. Thus I
-can tick off what we already dealt with and immediately see if I forgot something.
-
-<!-- As a beginner you may have some difficulties with formulating your
-questions without preparations when spontaneously entering on a new subject that
-happens to emerge in the research session.
-
-In this case you can help yourself along with some reminders on the sheet, like
-»Activities/Motivations/Problems«, »How and Why«, or, for the graphics design topic:
-»creativity/variations/creative rules/technology« or the like. -->
-
-The cheat sheet is a tool to support you during the interview and help you along when your
-mind goes blank for a moment. It is not for ensuring that you ask all questions in the same
-way and in the same order.  Instead of controlling the situation user need research emphasizes
-the importance of exploring a given situation and it’s peculiarities. It is totally OK and even
-beneficial to come up with new questions which are not on the cheat sheet, or to react towards
-a new topic the participant brings up if you have the impression that this will give you new
-and interesting insights.
 
 ## Find participants
 
@@ -157,6 +136,44 @@ You may think that conducting user research with more participants is generally 
 
 Nevertheless, only doing research on very few users will restrict the variance of data – like noticing that there may be several ways to do the same thing. As well you might not see which patterns are consistent among several people and which vary – which would certainly be impossible if you only had one or two participants. However, despite the constraints of such small samples they can still lead the helpful insights.
 
+## Write a cheat sheet
+<!--What is an interview guide for? Prepare the questions etc. Prepare youself… -->
+
+A cheat sheet is a little memory aid that you can take with you when you collect data.
+
+What goes into such a sheet? The biggest part will be **questions** that you might want to ask. Read the chapter on data gathering
+
+<!-- FIXME: LINK to chapter-->
+
+<!-- TODO: Example for a research guide  -->
+
+When you write the questions on the cheat sheet,
+start with the general topics and progress towards more specific ones.
+This is the order that makes sense in the course of a research session.
+Nevertheless, that order is only a helpful guess. You will usually deviate a bit (or a lot) from your cheat
+sheet.
+
+Often I include some kind of **checklist** on the top, especially if
+there are legal matters involved, such as signing a consent form. Thus I
+can tick off what we already dealt with and immediately see if I forgot something.
+
+<!-- As a beginner you may have some difficulties with formulating your
+questions without preparations when spontaneously entering on a new subject that
+happens to emerge in the research session.
+
+In this case you can help yourself along with some reminders on the sheet, like
+»Activities/Motivations/Problems«, »How and Why«, or, for the graphics design topic:
+»creativity/variations/creative rules/technology« or the like. -->
+
+The cheat sheet is a tool to support you during the interview and help you along when your
+mind goes blank for a moment. It is not for ensuring that you ask all questions in the same
+way and in the same order.  Instead of controlling the situation user need research emphasizes
+the importance of exploring a given situation and it’s peculiarities. It is totally OK and even
+beneficial to come up with new questions which are not on the cheat sheet, or to react towards
+a new topic the participant brings up if you have the impression that this will give you new
+and interesting insights.
+
+
 ## Equipment
 
 With a participant talks about new and interesting things you want to
@@ -171,7 +188,7 @@ will need some equipment for doing that:
 	-   Pencil or Pen (Don't forget to bring backups!)
 	-   Something to write on. A clipboard is great.
 -  Audio Recording (recommended)
-	- audio recorder or smartphone <!-- TODO link to record audio --> 
+	- audio recorder or smartphone <!-- TODO link to record audio -->
 -  Photos and video (recommended)
 	- a digital camera or smartphone <!-- link to record photos -->
 - for drawing diagrams with the participant
