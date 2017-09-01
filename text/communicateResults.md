@@ -1,4 +1,14 @@
-# Communicate Results
+# Communicate and Document Results
+
+<!--
+ communication is not the end
+
+ make sense similar to analysis
+
+ use in design
+ use for decision making
+
+-->
 
 If you work with others, the results of your research need to be communicated so
 they can act upon your research results.
@@ -151,7 +161,20 @@ names and quotes are not real but are only corresponding to their actual
 counterparts.
 
 ### Scenarios
-<!-- TODO: Explain why scenarios are great: 1) Communication 2) Current use 3) Future use 4) Allowing What if and it-is in one format. Also: Usability tests -->
+<!-- TODO: Explain why scenarios are great:
+1) Communication
+2) Current use
+3) Future use
+4) Allowing What if and it-is in one format.
+
+Also: Usability tests
+
+Examples: see
+
+* https://www.mediawiki.org/wiki/Universal_Language_Selector/Interaction_Design_Framework#User_Profiles_and_scenarios
+* https://www.wikidata.org/wiki/Wikidata:List_generation_input
+
+-->
 
 
 Activities don’t happen in isolation from each other: They depend on previous

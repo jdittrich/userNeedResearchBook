@@ -114,14 +114,56 @@ To make them comprehensible, diagrams will have comments to explain what is draw
 
 The diagrams can often be understood easily after the research. Often, they just need some additional comments added to make sense for you or others. For interviewing and observation this is often not the case: You need to spend much time transcribing and ordering the results.
 
-## TODO: Topics: Asking for motivations, activities and problems
+## Topics: Research motivations, activities and problems (and other things)
+
+Let’s look at some topics that might be of interest exploring. I usually have three aspects I think of when I prepare my questions: Motivations, Activities and Problems.
+
+* They cover design relevant topics
+* They can be easily remembered even in the midst of research: Three points are few and you can use the mnemonic M-A-P: Motivations, Activities, Problems.
+
+**Motivations** – what the participant want to archive, what is important for them?
+
+* *»Can you describe the worst experience in your day so far?«*
+* *»Which tasks in your job do you like the most?«*
+* *»Can you show me a piece of work you are proud of?«*
+
+Questions about Motivations are usually about emotions and goals. Since people act in ways to archive their motivations, they often their relation to activities as well. You can explore these relations further in follow-up questions – *»You said you hate talking with this client. What in particular makes it a bad experience for you?«*.
+
+**Activities** – what does the participant do?
+
+* *»Can you describe the task you are currently working on?«*
+* *»Can you show me how you use the application?«*
+
+When asking about activities you can often use follow up questions to find out why and how users do what they do: *»You said, you apply paragraph styles. What do they do?«* or *»You just used that ›align‹ function – before, you placed objects manually. What is the difference between those activities?.«*
+
+**Problems** – what is in the way of the participant getting to their goals?
+
+* *»When do you feel hindered or slowed down?«*
+* *»Can you show me how you circumvent this from happening?«*
+* *»What will happen if you can’t solve this problem?«*
+
+
+
+
+
+There are also other frameworks, like *AEIOU*. If you don't like MAP, it can be a good alternative:
+
+* ***A**ctivities* – what people to to achieve something
+* ***E**nvironments* where do the activities happen?
+* ***I**nteractions* between people and people and people and objects
+* ***O**bjects* are things in the environment. Some might be used in activities.
+* ***U**sers* do activities involving other users and objects
+
+You could also create your own framework over time to suit your needs when doing research.
+
+--------------------------------
 
  * General topics
   * Participant oriented, very few
   * There are others like I "Activities, Environments, Interactions, Objects, and Users" (AEIOU) (https://www.epicpeople.org/building-a-useful-research-tool/)
  * examples of how you can research them; demonstrate interplay of different recording methods and of the topics itself
  * Go from abstract to very concret.
- * They are just a possobiel devision, there are others and also the boundaries are more mnemonic than clear. 
+ * They are just a possible devision, there are others and also the boundaries are more mnemonic than clear.
 
  > -   Can you describe the task you are currently working on?
  > -   Can you show me how you create a graphic/layout?
@@ -221,6 +263,20 @@ they often already have some solution in mind. But problems
  * What do you do to work around…
 
 Problematizing problems: problem -> solutions not always possible
+
+### More frameworks: AIEOU or even your own?
+
+* MAP does not suit you are not the only frameworks
+* try AIEOU
+    * Activities what people to to achieve something
+    * Environments where do the activities happen?
+    * Interactions between people and people and people and objects
+    * Objects are things in the environment. Some might be used in activities.
+    * Users do activities involving other users and objects
+* https://www.epicpeople.org/building-a-useful-research-tool/
+
+You can also create your own framework.
+
 
 ## Start the research session
 

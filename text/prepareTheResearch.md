@@ -1,6 +1,6 @@
-# Prepare your research project
+# Prepare your research
 
-## What do you want to find out?  {#questiontopics}
+## Create a user focused how-and-why question based on the initial idea for the project  {#questiontopics}
 
 In ______ <!-- todo Reference --> I described, that our research will start from an (rough) idea for a future market, product or feature. To get to know our users we must transform these ideas for an outcome into questions for our research that concern people, not product.
 
@@ -8,9 +8,9 @@ First I ask myself why the product idea would be good for something people do. T
 
 Here are some examples:
 
-* The initial idea is »build a learning platform for university students«
-* The meaningful activity connected to it can be »using digital media to learn better for university«
-* Asking *how* and *why* I come to »How and why do students use computers to learn better for university?«
+* The initial idea is *»build a learning platform for university students«*
+* The meaningful activity connected to it can be *»using digital media to learn better for university«*
+* Asking *how* and *why* I come to *»How and why do students use computers to learn better for university?«*
 * I then refined the question a bit, since *learning better* is often understood as remembering facts or passing exams. Also, the »computer« was sounding like if I am not interested e.g. in smartphones or use of social networks. I went with »How and why do students use digital media related to their studies«.
 
 Or look at this one
@@ -19,40 +19,26 @@ Or look at this one
 
 The research question is a help for you to form more detailed questions and to communicate your aims. It does not need to be the *one true question*. Thus, it can also be refined later, maybe because of research results and a better understanding of what matters.
 
------------------------
-
-My standard template is: *How and why do [People] [Activity]*, e.g. *»How and why do editors write on wikipedia?«* or *»How and why do master students organize their sources when writing term papers?«*
-
-After I choose such a general question I think of some some topics that might be of interest exploring:
-
-I usually have three aspects I think of when I prepare my research:
-
-1.  Motivations, what the user wants to archive, what is important for him/her?
-2.  Activities, what does the user do?
-3.  Problems: what interferes with the users activities and motivations?
-
-There could be many other aspects, but I find these three good because
-
-* They cover a wide range of possible topics questions
-* They cover design relevant topics
-* They can be easily remembered even in the midst of research: Three points are few and in addition you can use the mnemonic M-A-P: **M**otivations, **A**ctivities, **P**roblems.
-
-Use this framework (or any other guidance) to expand your research question and write down your existing assumptions and open questions. A mindmap can be a useful tool, here.
-
-<!-- TODO example of research guide -->
-
-Your collected questions and assumptions can then guide you to find the right participants for your research and to write a cheat sheet with questions and other instructions that are helpful in the research sessions.
-
-
-
 ## Find participants
 
-In user research you want to find out what our users do and how and why they do it.
-If we know this, we can design our products accordingly.
+In user research you want to find out what our users do and how and why they do it. If we know this, we can design our products accordingly.
 
-To be able to do research on the »how« and »why« of user’s work, you need to find some users who would like to answer your questions and would show you what they do. These users are our (research) participants.
+To be able to do research on the »how« and »why« of user’s work, you need to find people who would like to answer your questions and would show you what they do. These people are our (research) participants.
 
-### How can I find participants?
+### Potential participants do the activity that is in your research question
+
+Research participants should be able to talk about and demonstrate what they do. Because of this, it makes sense to focus on activities when you recruit.
+
+For other methods, the criteria are more demographic like »30year old male, making $50k/year and being interested in technology«. But this is not very helpful when we want to learn about motivations, activities and problems of people.
+
+If, for example you have the research question
+*»How and why do students use computers to learn better for university?«* the activity is »learning for university«. This is what you should focus on: Find people who learn for university. There is also the role »student«, which for this purposes does not add much.
+
+If your question is »How and why do Wikipedia editors switch language versions«, the activity is »switching language versions«, additionally constraint by the role: »Wikipedia editors«. So your would try to find people who edit Wikipedia and switch language versions. If that is too focused on the switching process, you could try to find editors who edit in several language versions (assuming they would switch languages, too).
+
+I don't exclude the roles, but usually I focus on the activities first. In a question »How and why do programmers organize their code«, the essential part is organizing the code. Yes, it is a pretty good guess that programmers do that activity. But if you got designers, artists or data analysts who code, you can learn a lot from these people as well.
+
+### Collect participants where they are
 
 I assume that you don't have the money to employ a recruiting agency to get your participants. Thus, you will need to find and ask them yourself. Think of methods to make possible participants aware of your research and the possibility to participate. For example, participants could be found among
 
@@ -106,7 +92,7 @@ Especially if you are on your own, you may need to compromise and do research wi
 If you design an app for people to create bibliographies and you can only get some bachelors and masters students, but no professors, your results will still reveal a lot about the processes of creating bibliographies. The student’s motivation is probably writing final term papers and the professors would like to write journal papers. This is a possible difference. But as long as you aware of it, you are probably fine. But if you want to design a skateboard and the only participants you can get are elderly people who enjoy hiking, you are in trouble (if you find elderly people who enjoy skating, go for it).
 
 
-### How many participants do I need?
+### A small number of participants is fine
 
 There are no clear cut rules of how many participants are enough. However, most of my projects have between 3 and 8 participants.
 If I really need to be sure that what I notice is consistent I'd do research with 10, but that is about the limit I can manage on my own.
@@ -136,7 +122,11 @@ You may think that conducting user research with more participants is generally 
 
 Nevertheless, only doing research on very few users will restrict the variance of data – like noticing that there may be several ways to do the same thing. As well you might not see which patterns are consistent among several people and which vary – which would certainly be impossible if you only had one or two participants. However, despite the constraints of such small samples they can still lead the helpful insights.
 
-## Write a cheat sheet
+## Prepare the research session
+
+The »Research session« is your time with the participant in which you listen to them and observe. If you are prepared, it helps you to focus on the tasks at hand.
+
+### Write a cheat sheet
 <!--What is an interview guide for? Prepare the questions etc. Prepare youself… -->
 
 A cheat sheet is a little memory aid that you can take with you when you collect data.
@@ -174,7 +164,7 @@ a new topic the participant brings up if you have the impression that this will 
 and interesting insights.
 
 
-## Equipment
+### Take along tools that help you to record data easily 
 
 With a participant talks about new and interesting things you want to
 be able to remember what was said. Thus we record the interview – and we
@@ -260,3 +250,26 @@ Such short answers do not yield the context we need, the reasons for actions and
 In later sections we will have a further look at the do's and dont’s of questions.
 
 -->
+
+<!-- -----------------------
+
+My standard template is: *How and why do [People] [Activity]*, e.g. *»How and why do editors write on wikipedia?«* or *»How and why do master students organize their sources when writing term papers?«*
+
+After I choose such a general question I think of some some topics that might be of interest exploring:
+
+I usually have three aspects I think of when I prepare my research:
+
+1.  Motivations, what the user wants to archive, what is important for him/her?
+2.  Activities, what does the user do?
+3.  Problems: what interferes with the users activities and motivations?
+
+There could be many other aspects, but I find these three good because
+
+* They cover a wide range of possible topics questions
+* They cover design relevant topics
+* They can be easily remembered even in the midst of research: Three points are few and in addition you can use the mnemonic M-A-P: **M**otivations, **A**ctivities, **P**roblems.
+
+Use this framework (or any other guidance) to expand your research question and write down your existing assumptions and open questions. A mindmap can be a useful tool, here.
+
+
+Your collected questions and assumptions can then guide you to find the right participants for your research and to write a cheat sheet with questions and other instructions that are helpful in the research sessions. -->
