@@ -12,10 +12,9 @@ of the participant. Instead of dealing with ideas directly, you will  find out a
 This will allow to evaluate your ideas (»do my ideas  match what they consider essential?«) and to get inspiration for new ideas (»how can I support this motivation?«)
 
 To make this work, see your participants as competent in what they do: they are experts in their fields and in their daily work.
-This is contrary to the idea of designers and programmers as people who improve the lives of those
-who »don’t get it«. Instead of this, assume that the participants have a reason of doing their work the way they do it.
+This is contrary to the idea that people »don’t get it« and need to be helped by   designers and programmers. Instead of this, assume that the participants have a reason of doing their work the way they do it.
 
-<-- TODO: Show intertwinement with analysis and sensemaking -->
+<!-- TODO: Show intertwinement with analysis and sensemaking -->
 
 ## Modes of data gathering
 
@@ -44,7 +43,7 @@ It is not needed to have observation as a separate step in the research process.
 > Participant: »So I got this image and now I would try to get a suitable crop for that flyer«
 > Researcher: »Can you show me how you do it?«
 
-Think of yourself as an apprentice of the participant. The participant is the master or expert who can teach you some of his/her skills. This means that understanding the user by observing is not a passive process. Like an apprentice, you can and should ask questions.
+Think of yourself as an apprentice of the participant. The participant is the expert who can teach you some of their skills. This means that understanding the user by observing is not a passive process. Like an apprentice, you can and should ask questions.
 
 > Ask about reasons: »You drew that object and changed it size, then you deleted it again… what was the reason behind this?
 > Ask about things you notice in the environment: »Can you tell me what these markings are for?«
@@ -101,7 +100,7 @@ Show an example from an unrelated area of research so they can see what you are 
 
 You and the participant create the diagram together. No single person »owns« the paper. The degree of collaboration can vary, though: It may be the case that the participant looks over your shoulder and comments verbally, while you draw; I can be the case that the participant creates the diagram without much intervention from your side and you just ask some questions.
 
-![researcher pointing and asking: »*What dows this comment mean?*«](images/diagram_researcherPoints.jpg)
+![researcher pointing and asking: »*What does this comment mean?*«](images/diagram_researcherPoints.jpg)
 
 To make them comprehensible, diagrams will have comments to explain what is drawn. If you don’t understand something, point to it and ask the participant. Both, you or the participant, can then write the information in the diagram.
 
@@ -142,11 +141,9 @@ When asking about activities you can often use follow up questions to find out w
 * *»Can you show me how you circumvent this from happening?«*
 * *»What will happen if you can’t solve this problem?«*
 
+-------------
 
-
-
-
-There are also other frameworks, like *AEIOU*. If you don't like MAP, it can be a good alternative:
+There are also other frameworks, like *AEIOU* [^if you want to know about its origins, read [Building a Useful Research Tool: An Origin Story of AEIOU ](https://www.epicpeople.org/building-a-useful-research-tool/)]. If you don't like MAP, it can be a good alternative. It is a mnemonic for the following aspects:
 
 * ***A**ctivities* – what people to to achieve something
 * ***E**nvironments* where do the activities happen?
@@ -154,128 +151,9 @@ There are also other frameworks, like *AEIOU*. If you don't like MAP, it can be 
 * ***O**bjects* are things in the environment. Some might be used in activities.
 * ***U**sers* do activities involving other users and objects
 
-You could also create your own framework over time to suit your needs when doing research.
+-------------------
 
---------------------------------
-
- * General topics
-  * Participant oriented, very few
-  * There are others like I "Activities, Environments, Interactions, Objects, and Users" (AEIOU) (https://www.epicpeople.org/building-a-useful-research-tool/)
- * examples of how you can research them; demonstrate interplay of different recording methods and of the topics itself
- * Go from abstract to very concret.
- * They are just a possible devision, there are others and also the boundaries are more mnemonic than clear.
-
- > -   Can you describe the task you are currently working on?
- > -   Can you show me how you create a graphic/layout?
- > -   Can you show me how you use the application?
-
-
- Talking about activities or observing them is a very rich source of
- information.
- When asking about activities you can often use  follow up questions
- to find out why and how users do what they do: *»You said, you apply paragraph styles. What do they do?«*
- or *»You just used that ›align‹ function – before, you placed objects manually. What is the difference between those activities?.«*
-
- ####  Motivations
-
- > -   Can you describe the worst experience in your day so far?
- > -   Can you describe the best experience in your day so far?
- > -   Which tasks in your job do you like the least?
- > -   Which tasks in your job do you like the most?
- > -   Can you show me a piece of work you are proud of?
-
-
- Questions about Motivations are usually about emotions and often their relation to activities as well.
- You can explore these relations further in follow-up questions – »You said you hate talking with this client. What in particular makes it a bad experience for you?«.
-
- ####  Problems
-
- > -  When do you feel hindered or slowed down?
- > -  Can you show me how you circumvent this from happening?
- > -  What will happen if you can’t solve this problem?
-
- Asking for problems provides some good starting points for designing since you can try to avoid the problems with a better solution.
-
- Problems are easily communicated and the need for a solution is often very clear. Thus they provide a good starting point when convincing others …
-
- * …that changes to a product/concept need to be made
- * …that your research makes sense and helps to avoid such problems.
-
- However, only dealing with problems would lead to patching existing solutions. If you want to create new ways of approaching things, you need to connect problems to the underlying motivations by asking for the difficulties a problem causes. -->
-
-### Motivations
-
-WHAT:
-WHY:
-HOW:
-
-Motivations are what people strive for
-
-----
-What makes your participants happy? What do they tell about their goals? What do they work towards?
-These are questions you try to answer when you research motivations.
-
-* Motivations are fairly abstract, they are not directly bound to specific situations.
-EXAMPLES for motivations:
-* Finding out about Motivations
- * What is good about?
- * Can you describe a situation which made you feel good?
- * Why would you do _____?
- * Templates good/bad
-
-### Activities
-
-Activities are what people do:
-WHAT:
-WHY:
-HOW:
-
-* What do people do? How?
-* Deviations
- * usually with good reasons
-* Intertwined:
- * Motivations and Problems
- * …also: Social, Technological
- * End state
-
-* Finding out about Activities
- * How do you…? Transition from mentioning it to detailed discussions and/or observations
-  * Pointability
-  * Why would you do _____?
-  * Templates like flowchart, social map
-
-### Problems
-
-Problems can be a malfunctioning button, an collegue with whom  it is hard to communicate or a team culture that feels intransparent.
-
-Often problems can be pointed out by participants,
-they often already have some solution in mind. But problems
- can also be hidden: Maybe people have a process to circumvent broken technology, avoid difficult people or have arranged themselves with the culture.
-
-* Problems are in the way of motivations, they make activities less pleasant
-
-* Tame, clearly defined
-* Wicked, undefined, entangled, messy
-
-* Finding out about Problems
- * Are there things that annoy you about…
- * Are there things that could be better at…
- * What do you do to work around…
-
-Problematizing problems: problem -> solutions not always possible
-
-### More frameworks: AIEOU or even your own?
-
-* MAP does not suit you are not the only frameworks
-* try AIEOU
-    * Activities what people to to achieve something
-    * Environments where do the activities happen?
-    * Interactions between people and people and people and objects
-    * Objects are things in the environment. Some might be used in activities.
-    * Users do activities involving other users and objects
-* https://www.epicpeople.org/building-a-useful-research-tool/
-
-You can also create your own framework.
+Use a framework like MAP or AEIOU to remind you of the different aspects you can research. This is particularly useful for collecting first experiences but can also help seasoned researchers.
 
 
 ## Start the research session
@@ -286,8 +164,7 @@ When you have found a participant, a place, a time and have your equipment ready
 
 My  advice is  simple: Be friendly. If you come to
 their place (which is preferable, since you can observe the actual
-context) be a nice guest; if they come to your place or you meet in some
-»neutral space«, be a nice host.
+context) be a nice guest; if they come to your place or you meet in some »neutral space« (which includes online conversations), be a nice host.
 
 Greet the participant and thank for their time:
 
@@ -307,15 +184,13 @@ Make clear that you are here to learn – and not an evaluator of the
 quality of the participant’s work.
 
 >…Therefore we'd like to get to know how you work. You are an expert in
- that field and we'd like to learn from you. This is not some kind of
- test – when I ask questions, there are no wrong answers.
+> that field and we'd like to learn from you. This is not some kind of
+> test – when I ask questions, there are no wrong answers.
 
 Although you may have described the timeframe and the method already
 when recruiting the participant, tell again what you are going to do:
 
-> We will have a conversation about your work and I'll be asking some
-questions. In addition, I’m interested in watching you when you do your work.
-The whole process will take about an hour.
+> We will have a conversation about your work and I'll be asking some questions. In addition, I’m interested in watching you when you do your work. The whole process will take about an hour.
 
 
 The participant must know how you record data and who will see it. So
@@ -323,14 +198,14 @@ tell the Participant:
 
 
 > I'd like to take notes, and, in addition, record audio – if that is
-OK with you. The audio recording helps me to focus on your work as I
-don’t need to concentrate as much on writing notes, if I have the
-recording as backup. Me and a colleague will listen to the audio;
-we will anonymize and transcribe the data before we share
-it with the product design team.
+> OK with you. The audio recording helps me to focus on your work as I
+> don’t need to concentrate as much on writing notes, if I have the
+> recording as backup. Me and a colleague will listen to the audio;
+> we will anonymize and transcribe the data before we share
+> it with the product design team.
 >
 > If you feel uncomfortable with being recorded at any time we can pause
-the recording.
+> the recording.
 >
 > You can cancel the interview at any time if you feel it is needed.
 
@@ -341,15 +216,15 @@ have  additional information.
 
 
 > [Example from an in-house research project] »Audio recording… I’m not sure about this…«
-»Thats fine with me. Though, may I ask what worries are?« »Hmm…yeah, I don't like, you know, human
- resources to get that data«
+> »Thats fine with me. Though, may I ask what worries are?« »Hmm…yeah, I don't like, you know, human
+>  resources to get that data«
 >
 >  »I understand your concern. It is fine if you don't agree but I can
- assure you that Human Resources is a separate section. We don't share
- personal data and what we record today is not accessible to them. Also, all data
- that leaves my computer or the one of my colleague is being anonymized
- and we remove all data that points to you as person, including names,
- workplace and so on.
+>  assure you that Human Resources is a separate section. We don't share
+>  personal data and what we record today is not accessible to them. Also, all data
+>  that leaves my computer or the one of my colleague is being anonymized
+>  and we remove all data that points to you as person, including names,
+>  workplace and so on.
 
 
 If they don’t agree, just stick with writing notes.
@@ -370,7 +245,6 @@ Start with some easy-to-answer questions – like: »Lets start with some simple
 These questions will help you to get to know some context of the participant’s work. But there is another advantage: Such questions are easy to answer. This gets the participants used to answering questions and opening up towards you. After a brief section with these easy-to-answer questions, you can transition to questions that demand more elaborate answers.
 
 ## Assure and encourage
-<!--  could get a "expose you non-knowledge" or so (Like in spreadley)-->
 
 ### Affirm that you listen
 
@@ -395,9 +269,17 @@ Probably, you would not make a bad impression anyway, but let’s go through it 
 
 ![much better posture](images/bodyPostureGood.jpg){.portrait}
 
+<!--  TODO: could get a "expose you non-knowledge" or so (Like in spreadley)
+
+* Show your non-knowledge
+* Show that you want to know more
+
+-->
+
+
 ## Don’t skew the results
 
-<!-- TODO: The framing of "skewing" assumes that there is one true answer -->
+<!-- TODO possibly: The framing of "skewing" assumes that there is one true answer -->
 
 ### Ask open questions
 
@@ -643,8 +525,6 @@ TODO: possibly move switch topics here?
 -->
 
 
-
-
 ## Take a closer look
 
 ### Probing
@@ -719,8 +599,16 @@ By checking your interpretations of the participants descriptions and activities
 
 <!-- TODO: Ask for a demonstration and examples -->
 
-### TODO: Ask for examples
+### Ask for examples
 
+Seeing an actual example avoids misunderstandings and gives rich opportunities for further insights: If possible, ask for an example, when participants mention activities or tools they use.
+
+> Participant: …so I would use the thing here.
+> Researcher: The thing?
+> Participant: Yes, it is a little icon on my desktop that does help me, when things go wrong!
+> Researcher: Can you show me how you use it?
+
+This avoids misunderstandings. The »thing« could be a script that fixes a setting. Os something else. We don't know, and it is easier for researcher and participant to look at it together.
 
 ## Steer the course of research
 
@@ -791,7 +679,7 @@ Again, the methods can be intertwined:
 
 > You said that the client is often unclear in what he wants and says things like »it should pop more«. I write that here in the diagram, so I can remember it.
 
-Using different methods and switching between them may seem like additional work. However, it can ease your work and, at the same time, increase its outcomes – just like choosing the right tools in manual crafts.
+Using different methods and switching between them may seem like additional work. However, it can ease your work and, at the same time, improve its outcomes – just like choosing the right tools in manual crafts.
 
 ## Recording data
 
