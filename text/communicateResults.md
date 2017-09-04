@@ -1,12 +1,44 @@
-# Communicate and Document Results
+# Summarize your insights
 
 <!--
- communication is not the end
+SOME NOTES: 
+Posture: There are many books on how to communicate your findings to convince stakeholders. This section has a simpler aim:
+Summarize your findings so you can easily remember, communicate and use them.
+
+Why summarizing:
+* Continuation of analysis. Analysis is getting to the insights,
+* Summaries make them useful for you and others.
+
+General Principles
+* Audience
+* Clarity
+
+Designerly Ways:
+* Szenarios
+*
 
  make sense similar to analysis
 
+ But more summarized
+ Analysis: Structure data to insights, principles. Focus: Work on getting there. All is there but not very usable for design.
+
+
+ Communication: Insights. Focus: Communicate, Archive, use in design.
+
  use in design
  use for decision making
+
+ What do others need?
+
+ Cut the fluff.
+
+ Media
+
+Scenarios.
+
+Set the frame
+"Next steps" or "we will use this"
+
 
 -->
 
@@ -28,10 +60,7 @@ be different stakeholders with different needs, e.g.
 * Designers
 * …
 
-Some of their needs align, some may differ. Before you start, you should ask yourself
-who will receive the results and what specific interests they have. Also inquire
-if there is any preferred format. Some may prefer text-based reports, others may
-be used to slidedecks.
+Some of their needs align, some may differ. Before you start, you should ask yourself who will receive the results and what specific interests they have. Also inquire if there is any preferred format. Some may prefer text-based reports, others may be used to slidedecks.
 
 ## First things first
 
