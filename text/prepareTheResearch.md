@@ -2,7 +2,7 @@
 
 ## Create a user focused how-and-why question based on the initial idea for the project  {#questiontopics}
 
-In ______ <!-- todo Reference --> I described, that our research will start from an (rough) idea for a future market, product or feature. To get to know our users we must transform these ideas for an outcome into questions for our research that concern people, not product.
+Our  research will often start from an (rough) idea for a future market, product or feature. To get to know our users we must transform these ideas for an outcome into questions for our research that concern people, not product.
 
 First I ask myself why the product idea would be good for something people do. Then I ask how and why they do this. The outcome can be used as research question.
 
@@ -13,9 +13,7 @@ Here are some examples:
 * Asking *how* and *why* I come to *»How and why do students use computers to learn better for university?«*
 * I then refined the question a bit, since *learning better* is often understood as remembering facts or passing exams. Also, the »computer« was sounding like if I am not interested e.g. in smartphones or use of social networks. I went with »How and why do students use digital media related to their studies«.
 
-Or look at this one
-
-* … <!-- TODO -->
+<!-- TODO other example-->
 
 The research question is a help for you to form more detailed questions and to communicate your aims. It does not need to be the *one true question*. Thus, it can also be refined later, maybe because of research results and a better understanding of what matters.
 
@@ -48,7 +46,7 @@ I assume that you don't have the money to employ a recruiting agency to get your
 - The people who visit your or your companies homepage
 - Participants of meetings/gatherings.
 
-To find the right participants for your research, try to find out where those people are: users of a
+To find the right participants for your research, try to find out where these people are: users of a
 particular software can be found on mailing lists, forums and user meetings or events.
 Young adults could be found via bulletin boards on on university or college campus.
 Retired people may be found in church congregation and retirement homes.
@@ -99,7 +97,7 @@ If I really need to be sure that what I notice is consistent I'd do research wit
 
 When estimating how many participants you need, consider how much resources (time and/or money) you can spend on doing the research. Each additional participant gives you additional data and a broader view on your possible users. However, each research session needs time do and adds to the amount of data to be analyzed – so plan accordingly.
 
-An efficient way of involving the »right« amount of participants is doing your research iteratively: start with two or three participants and analyze the data (how this is done is described in the section on [Analysing Data](#Analysis))
+An efficient way of involving the »right« amount of participants is doing your research iteratively: start with two or three participants and analyze the data (how this is done is described in the section on [Analyzing Data](#Analysis))
 
 Take a look at the (preliminary) findings: If the results seem clear and consistent, you may do research with few additional participants to refine and check and to explore details – or, if time is up, leave it the way it is.
 
@@ -126,7 +124,7 @@ Nevertheless, only doing research on very few users will restrict the variance o
 
 The »Research session« is your time with the participant in which you listen to them and observe. If you are prepared, it helps you to focus on the tasks at hand.
 
-### Write a cheat sheet
+### Write a cheat sheet to use in the research session
 <!--What is an interview guide for? Prepare the questions etc. Prepare youself… -->
 
 A cheat sheet is a little memory aid that you can take with you when you collect data.
@@ -164,7 +162,7 @@ a new topic the participant brings up if you have the impression that this will 
 and interesting insights.
 
 
-### Take along tools that help you to record data easily 
+### Take along tools that help you to record data easily
 
 With a participant talks about new and interesting things you want to
 be able to remember what was said. Thus we record the interview – and we
@@ -186,90 +184,3 @@ will need some equipment for doing that:
 	-   pencils and/or pens in different colors
 
 You should get to know your equipment before you start the actual data collection. So be sure to know the essential operations to actually make a photo and start and stop the recording. Check the audio quality by putting the phone/recorder roughly a meter away from you and saying some sentences in normal loudness. Listen to the recording to test if you can (easily) understand what you said.
-
-
-<!--
-Let me show you the questions I came up with for finding out about the needs of designers who create layouts.
-
-####  Activities
-
-> -   Can you describe the task you are currently working on?
-> -   Can you show me how you create a graphic/layout?
-> -   Can you show me how you use the application?
-
-
-Talking about activities or observing them is a very rich source of
-information.
-When asking about activities you can often use  follow up questions
-to find out why and how users do what they do: *»You said, you apply paragraph styles. What do they do?«*
-or *»You just used that ›align‹ function – before, you placed objects manually. What is the difference between those activities?.«*
-
-####  Motivations
-
-> -   Can you describe the worst experience in your day so far?
-> -   Can you describe the best experience in your day so far?
-> -   Which tasks in your job do you like the least?
-> -   Which tasks in your job do you like the most?
-> -   Can you show me a piece of work you are proud of?
-
-
-Questions about Motivations are usually about emotions and often their relation to activities as well.
-You can explore these relations further in follow-up questions – »You said you hate talking with this client. What in particular makes it a bad experience for you?«.
-
-####  Problems
-
-> -  When do you feel hindered or slowed down?
-> -  Can you show me how you circumvent this from happening?
-> -  What will happen if you can’t solve this problem?
-
-Asking for problems provides some good starting points for designing since you can try to avoid the problems with a better solution.
-
-Problems are easily communicated and the need for a solution is often very clear. Thus they provide a good starting point when convincing others …
-
-* …that changes to a product/concept need to be made
-* …that your research makes sense and helps to avoid such problems.
-
-However, only dealing with problems would lead to patching existing solutions. If you want to create new ways of approaching things, you need to connect problems to the underlying motivations by asking for the difficulties a problem causes.
-
-
-
-Naturally, the three general aspects of activities, motivations and problems are just giving you a starting point for developing your questions.
-Use them to create questions suitable for your own research.
-
-When you have started with gathering data you can further refine your questions.
-You will get new ideas or you may want to refine the aims of your research because you
- noticed shortcomings or opportunities.
-
-For example, in the research on graphic design I noticed that idea generation during work was important for the participants and an interesting topic to research.
-Thus, I added questions like »How do you generate new ideas?« or »How do you know if an idea you have works?«.
-
-Note that I did not ask directly »Do you generate ideas while implementing designs?«.
-This would be a question that  urges to be answered with »yes« or »no«.
-Such short answers do not yield the context we need, the reasons for actions and the course of events to know not only how work is done but why it is done.
-
-In later sections we will have a further look at the do's and dont’s of questions.
-
--->
-
-<!-- -----------------------
-
-My standard template is: *How and why do [People] [Activity]*, e.g. *»How and why do editors write on wikipedia?«* or *»How and why do master students organize their sources when writing term papers?«*
-
-After I choose such a general question I think of some some topics that might be of interest exploring:
-
-I usually have three aspects I think of when I prepare my research:
-
-1.  Motivations, what the user wants to archive, what is important for him/her?
-2.  Activities, what does the user do?
-3.  Problems: what interferes with the users activities and motivations?
-
-There could be many other aspects, but I find these three good because
-
-* They cover a wide range of possible topics questions
-* They cover design relevant topics
-* They can be easily remembered even in the midst of research: Three points are few and in addition you can use the mnemonic M-A-P: **M**otivations, **A**ctivities, **P**roblems.
-
-Use this framework (or any other guidance) to expand your research question and write down your existing assumptions and open questions. A mindmap can be a useful tool, here.
-
-
-Your collected questions and assumptions can then guide you to find the right participants for your research and to write a cheat sheet with questions and other instructions that are helpful in the research sessions. -->
