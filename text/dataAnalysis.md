@@ -5,9 +5,16 @@
 <!-- general TODO s
 * Check for use of "we". Prefer I, if that is not good, use "you"
 * Introduce one way of formatting the examples. Titles always normal, always with "title:" before?, primary data always italic, primary data never left out (?)
-* Excessive use of commas. Get rid of them! 
+* Excessive use of commas. Get rid of them!
 
 -->
+
+When you start with the analysis you have done some research sessions. Our goal is to structure the data from your research in a meaningful way.
+
+<!-- todo: secondary reason: inform data collection. primary reason: design --> 
+
+* While analyzing your data you will see where you need to adjust research questions or fill gaps in your data. This is why it makes sense to do data gathering and data analysis in parallel.  <!-- TODO where does this iterative structure fit?-->
+
 
 Your data can't be used for supporting design decisions: It consists of many unstructured small pieces. You can't make sense of such a mess.
 

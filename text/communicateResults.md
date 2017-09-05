@@ -1,13 +1,16 @@
 # Summarize your insights
 
 <!--
-SOME NOTES: 
+SOME NOTES:
 Posture: There are many books on how to communicate your findings to convince stakeholders. This section has a simpler aim:
 Summarize your findings so you can easily remember, communicate and use them.
 
 Why summarizing:
 * Continuation of analysis. Analysis is getting to the insights,
 * Summaries make them useful for you and others.
+
+1) Presentations
+2) Szenarios
 
 General Principles
 * Audience
@@ -39,6 +42,16 @@ Scenarios.
 Set the frame
 "Next steps" or "we will use this"
 
+
+Possible structure
+
+* Communicate
+ * Inverted pyramid
+ * audience needs
+ * Easy style,
+* Remember yourself
+* Towards design
+ * Szenarios  
 
 -->
 

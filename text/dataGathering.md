@@ -3,7 +3,6 @@
 In this chapter, I will show how to gather data to get to know about the activities, motivations and problems of our research participants.
 You will gather informations by listening to descriptions and explanations of our participants and by observing them working.
 The resulting data will be text, photos and diagrams.
-<!-- TODO: check if transcription of photos is part of analysis -->
 
 Contrary to a common misconception of user need research, your inquiry will not be (directly) about future ideas and design –
 you are not going to ask »do you think that a \[gadget\] would help you?«. It is hard to reliably guess if something would be a
@@ -12,15 +11,19 @@ of the participant. Instead of dealing with ideas directly, you will  find out a
 This will allow to evaluate your ideas (»do my ideas  match what they consider essential?«) and to get inspiration for new ideas (»how can I support this motivation?«)
 
 To make this work, see your participants as competent in what they do: they are experts in their fields and in their daily work.
-This is contrary to the idea that people »don’t get it« and need to be helped by   designers and programmers. Instead of this, assume that the participants have a reason of doing their work the way they do it.
+This is contrary to the idea that people »don’t get it« and need to be helped by designers and programmers. Instead of this, assume that the participants have a reason of doing their work the way they do it.
 
-<!-- TODO: Show intertwinement with analysis and sensemaking -->
+<!-- TODO: Show intertwinement with analysis and sensemaking
+
+e.g. The gathering the data will be followed by analyzing it. However, it makes sense to intertwine the data gathering and data analysis: … TODO
+
+-->
 
 ## Modes of data gathering
-
+<!-- switch topics integrated here? -->
 ### Listening and asking questions
 
-A common way to gather data is asking questions and listening to the participant’s answers. However, the use of questions and answers in user needfinding is unlike the questions and answers in questionnaires. In questionnaires, it is often aimed for short, definitive answers out of a determined set of possibilities (»on a 4 point scale: how much do you agree with…«). Instead of this, you aim for longer answers that are not from a determined set of possible answers. Thus, you are more likely to get rich descriptions, much like veritable stories which retell the participant’s experiences. In addition, these stories tell you about the context of the user’s activities and the user’s motivations. To encourage giving such story like answers, you  often need to ask for descriptions of activities and the reasons for doing them.
+A common way to gather data is asking questions and listening to the participant’s answers. However, the use of questions and answers in user needfinding is unlike the questions and answers in questionnaires. Questionnaires often aimed for short, definitive answers which need to be selected from of a set of possibilities (»on a 4 point scale: how much do you agree with…«). In user needfinding instead, you aim for longer answers that are not from a determined set of possible answers. Thus, you are more likely to get rich descriptions, much like stories which retell the participant’s experiences. These stories tell you about the context of the user’s activities and the user’s motivations. To encourage giving such story like answers, you  often need to ask for descriptions of activities and the reasons for doing them.
 
 > »Can you describe me how you decided to use this layout?«
 >
@@ -36,7 +39,9 @@ But because of this it can happen that you hardly focus on actual  experiences a
 
 What Participants describe is not always the ideal way to convey the information. Just like a picture can be worth a thousand words, it makes often sense to ask participants to show what they mean and to demonstrate how they work. It can also be easier compared to describing to.
 
-When you observe, you will even notice things your participants would never consider mentioning: It may have become second nature for them which tools they use, how they apply these tools to their work and which problems they meet. As well, you may gain information about the context, like means of communicating with co-workers or cues in the environment that point out problems – for example quick fixes on devices using tape and cardboard, or added instructions on devices and machines.
+When you observe, you will even notice things your participants would never consider mentioning: It may have become second nature for them which tools they use, how they apply these tools to their work and which problems they meet, so they won't mention it. But you can observe it. You can also gain information about the context, like means of communicating with co-workers or cues in the environment that point out problems – for example quick fixes on devices using tape and cardboard, or added instructions on devices and machines.
+
+<!-- possibly show photo of quickfix here like the taped credit card machine: https://www.flickr.com/photos/31068346@N05/35836744434/in/dateposted-public/ -->
 
 It is not needed to have observation as a separate step in the research process. It makes great sense to interweave it with asking questions and listening. Just ask for a demonstration instead of a description.
 
@@ -62,19 +67,6 @@ Avoid positioning yourself as the expert in the participant’s domain by sugges
 
 ![observing the user’s work](images/ObservationDesign1.jpg)
 
-<!-- TODO provide summary of "Observe"
-
-Positive:
-Very rich, detailed data
-Negative:
-It is not always possible to show something spontaneously: It may depend on other factors, like time, a colleague handing in something etc.
-Use it for…:
-Understanding a work activity in detail
-If something is “hard to explain” for a participant, it may be easy to show, instead.
-Get the problems, glitches and shortcuts of actual work as opposed to “the way it should be”
-
--->
-
 ### Diagrams
 
 You probably have used diagrams to show something: A flowchart, a map, an illustration of a device etc. Instead of only using diagrams to *show* what you know, you can also create them together with a participant to *collect data*.
@@ -92,7 +84,7 @@ You can spontaneously use drawings, but it often makes sense to prepare template
 
 ![example template](images/GoodBadTime_Diagramm.svg)
 
-These templates give some scaffold which makes creating the diagrams easier. Some people still hesitate to create diagrams, since they think they are expected to produce artworks or accurate sketches. In this case, tell them:
+These templates give some scaffold which it easier for the participants to create the diagrams. Some people still hesitate to create diagrams, since they think they are expected to produce artworks or accurate sketches. In this case, tell them:
 
 > »When I say documenting by drawing and writing, it does not mean that we are going to produce an artwork here. This is what the end result may look like«
 
@@ -109,11 +101,11 @@ To make them comprehensible, diagrams will have comments to explain what is draw
 > You: »Can you write this in the diagram, so I can understand it later?«
 > Participant: [Writes as comment in the diagram] Looking forward, Many Ideas: Good
 
-<!-- TODO: Pointability particularly useful since it eases memory load and is less awkward (?) -->
+<!-- TODO: Pointability particularly useful since it eases memory load and is less awkward (?). On the other hand: meta -->
 
 The diagrams can often be understood easily after the research. Often, they just need some additional comments added to make sense for you or others. For interviewing and observation this is often not the case: You need to spend much time transcribing and ordering the results.
 
-## Topics: Research motivations, activities and problems (and other things)
+## Topics: Research motivations, activities and problems (and other things) <!-- possibly move to prepare the research session --> 
 
 Let’s look at some topics that might be of interest exploring. I usually have three aspects I think of when I prepare my questions: Motivations, Activities and Problems.
 
@@ -155,6 +147,8 @@ There are also other frameworks, like *AEIOU* [^if you want to know about its or
 
 Use a framework like MAP or AEIOU to remind you of the different aspects you can research. This is particularly useful for collecting first experiences but can also help seasoned researchers.
 
+<!-- TODO integrate switch topics here? -->
+<!-- TODO mention that topics is really like the common use of the word, no need to stick to MAP or AEIOU -->
 
 ## Start the research session
 
