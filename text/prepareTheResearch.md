@@ -124,13 +124,11 @@ Nevertheless, only doing research on very few users will restrict the variance o
 
 The »Research session« is your time with the participant in which you listen to them and observe. If you are prepared, it helps you to focus on the tasks at hand.
 
+### Think of possible topics and questions for your research
 
-### Topics: Research motivations, activities and problems (and other things)
+Before the research session, I try to get an overview of what I want to explore. I usually structure this along three topics: The **Motivations**, **Activities** and **Problems** of the participants.
 
-Let’s look at some topics that might be of interest exploring. I usually have three aspects I think of when I prepare my questions: Motivations, Activities and Problems.
-
-* They cover design relevant topics
-* They can be easily remembered even in the midst of research: Three points are few and you can use the mnemonic M-A-P: Motivations, Activities, Problems.
+These topics are  relevant for design and  they can be easily remembered even in the midst of research: Three points are few and you can use the mnemonic M-A-P: Motivations, Activities, Problems.
 
 **Motivations** – what the participant want to archive, what is important for them?
 
@@ -138,14 +136,14 @@ Let’s look at some topics that might be of interest exploring. I usually have 
 * *»Which tasks in your job do you like the most?«*
 * *»Can you show me a piece of work you are proud of?«*
 
-Questions about Motivations are usually about emotions and goals. Since people act in ways to archive their motivations, they often their relation to activities as well. You can explore these relations further in follow-up questions – *»You said you hate talking with this client. What in particular makes it a bad experience for you?«*.
+<!-- *Questions about Motivations are usually about emotions and goals. Since people act in ways to archive their motivations, they often their relation to activities as well. You can explore these relations further in follow-up questions – *»You said you hate talking with this client. What in particular makes it a bad experience for you?«*.-->
 
 **Activities** – what does the participant do?
 
 * *»Can you describe the task you are currently working on?«*
 * *»Can you show me how you use the application?«*
 
-When asking about activities you can often use follow up questions to find out why and how users do what they do: *»You said, you apply paragraph styles. What do they do?«* or *»You just used that ›align‹ function – before, you placed objects manually. What is the difference between those activities?.«*
+<!-- When asking about activities you can often use follow up questions to find out why and how users do what they do: *»You said, you apply paragraph styles. What do they do?«* or *»You just used that ›align‹ function – before, you placed objects manually. What is the difference between those activities?.«* -->
 
 **Problems** – what is in the way of the participant getting to their goals?
 
@@ -167,17 +165,15 @@ There are also other frameworks, like *AEIOU* [^if you want to know about its or
 
 Use a framework like MAP or AEIOU to remind you of the different aspects you can research. This is particularly useful for collecting first experiences but can also help seasoned researchers.
 
-<!-- TODO integrate switch topics here? -->
-<!-- TODO mention that topics is really like the common use of the word, no need to stick to MAP or AEIOU -->
+List the topics you want to explore and structure them in a way that is meaningful to you. This list of topics can then be used to create a cheat sheet for the research session.
+
 
 ### Write a cheat sheet to use in the research session
 <!--What is an interview guide for? Prepare the questions etc. Prepare youself… -->
 
 A cheat sheet is a little memory aid that you can take with you when you collect data.
 
-What goes into such a sheet? The biggest part will be **questions** that you might want to ask. Read the chapter on data gathering
-
-<!-- FIXME: LINK to chapter-->
+What goes into such a sheet? The biggest part will be topics you want to explore and the **questions** that you want to ask for this.
 
 <!-- TODO: Example for a research guide  -->
 
@@ -207,7 +203,6 @@ beneficial to come up with new questions which are not on the cheat sheet, or to
 a new topic the participant brings up if you have the impression that this will give you new
 and interesting insights.
 
-
 ### Take along tools that help you to record data easily
 
 With a participant talks about new and interesting things you want to
@@ -215,7 +210,6 @@ be able to remember what was said. Thus we record the interview – and we
 will need some equipment for doing that:
 
 ![Equipment for user research: paper, pen, audio recorder](images/interviewEquipment.svg)
-
 
 - for note taking and sketching
 	-   Paper, lined or blank (15 or more sheets, just to be on the save side)

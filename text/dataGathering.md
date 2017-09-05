@@ -20,7 +20,7 @@ e.g. The gathering the data will be followed by analyzing it. However, it makes 
 -->
 
 ## Modes of data gathering
-<!-- switch topics integrated here? -->
+
 ### Listening and asking questions
 
 A common way to gather data is asking questions and listening to the participant’s answers. However, the use of questions and answers in user needfinding is unlike the questions and answers in questionnaires. Questionnaires often aimed for short, definitive answers which need to be selected from of a set of possibilities (»on a 4 point scale: how much do you agree with…«). In user needfinding instead, you aim for longer answers that are not from a determined set of possible answers. Thus, you are more likely to get rich descriptions, much like stories which retell the participant’s experiences. These stories tell you about the context of the user’s activities and the user’s motivations. To encourage giving such story like answers, you  often need to ask for descriptions of activities and the reasons for doing them.
@@ -136,7 +136,7 @@ quality of the participant’s work.
 > that field and we'd like to learn from you. This is not some kind of
 > test – when I ask questions, there are no wrong answers.
 
-Although you may have described the timeframe and the method already
+Although you may have described the time frame and the method already
 when recruiting the participant, tell again what you are going to do:
 
 > We will have a conversation about your work and I'll be asking some questions. In addition, I’m interested in watching you when you do your work. The whole process will take about an hour.
