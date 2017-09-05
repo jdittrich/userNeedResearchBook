@@ -105,51 +105,6 @@ To make them comprehensible, diagrams will have comments to explain what is draw
 
 The diagrams can often be understood easily after the research. Often, they just need some additional comments added to make sense for you or others. For interviewing and observation this is often not the case: You need to spend much time transcribing and ordering the results.
 
-## Topics: Research motivations, activities and problems (and other things) <!-- possibly move to prepare the research session --> 
-
-Let’s look at some topics that might be of interest exploring. I usually have three aspects I think of when I prepare my questions: Motivations, Activities and Problems.
-
-* They cover design relevant topics
-* They can be easily remembered even in the midst of research: Three points are few and you can use the mnemonic M-A-P: Motivations, Activities, Problems.
-
-**Motivations** – what the participant want to archive, what is important for them?
-
-* *»Can you describe the worst experience in your day so far?«*
-* *»Which tasks in your job do you like the most?«*
-* *»Can you show me a piece of work you are proud of?«*
-
-Questions about Motivations are usually about emotions and goals. Since people act in ways to archive their motivations, they often their relation to activities as well. You can explore these relations further in follow-up questions – *»You said you hate talking with this client. What in particular makes it a bad experience for you?«*.
-
-**Activities** – what does the participant do?
-
-* *»Can you describe the task you are currently working on?«*
-* *»Can you show me how you use the application?«*
-
-When asking about activities you can often use follow up questions to find out why and how users do what they do: *»You said, you apply paragraph styles. What do they do?«* or *»You just used that ›align‹ function – before, you placed objects manually. What is the difference between those activities?.«*
-
-**Problems** – what is in the way of the participant getting to their goals?
-
-* *»When do you feel hindered or slowed down?«*
-* *»Can you show me how you circumvent this from happening?«*
-* *»What will happen if you can’t solve this problem?«*
-
--------------
-
-There are also other frameworks, like *AEIOU* [^if you want to know about its origins, read [Building a Useful Research Tool: An Origin Story of AEIOU ](https://www.epicpeople.org/building-a-useful-research-tool/)]. If you don't like MAP, it can be a good alternative. It is a mnemonic for the following aspects:
-
-* ***A**ctivities* – what people to to achieve something
-* ***E**nvironments* where do the activities happen?
-* ***I**nteractions* between people and people and people and objects
-* ***O**bjects* are things in the environment. Some might be used in activities.
-* ***U**sers* do activities involving other users and objects
-
--------------------
-
-Use a framework like MAP or AEIOU to remind you of the different aspects you can research. This is particularly useful for collecting first experiences but can also help seasoned researchers.
-
-<!-- TODO integrate switch topics here? -->
-<!-- TODO mention that topics is really like the common use of the word, no need to stick to MAP or AEIOU -->
-
 ## Start the research session
 
 ### Explain the research project and methods
@@ -687,7 +642,7 @@ While you observe or listen to the participant you will take brief notes. This i
 \
 <!-- SECTION: TECHNIQUE -->
 
-When you look at your notesheet and think about what to write down, listening and observing don't work well. Try too keep it as unobtrusive as possible.
+When you look down at your notes and think about what to write, listening and observing don't work well. Try too keep it as unobtrusive as possible.
 
 
 * If you don’t care too much about your handwriting you can write notes without much looking at the paper except for some occasional glances (the method has its limits, though)
