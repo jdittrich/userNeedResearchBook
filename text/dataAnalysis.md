@@ -11,7 +11,7 @@
 
 When you start with the analysis you have done some research sessions. Our goal is to structure the data from your research in a meaningful way.
 
-<!-- todo: secondary reason: inform data collection. primary reason: design --> 
+<!-- todo: secondary reason: inform data collection. primary reason: design -->
 
 * While analyzing your data you will see where you need to adjust research questions or fill gaps in your data. This is why it makes sense to do data gathering and data analysis in parallel.  <!-- TODO where does this iterative structure fit?-->
 
@@ -47,8 +47,6 @@ bricks, there is no single »right« building. But neither is it a process which
 
 ![one way to build a house](images/lego_houseFinished.jpg){.portrait}
 
-
-
 There are many, many ways to stack up the bricks – but only a very few of these possible ways will result in something that can be plausibly called a house.
 
 How your final Lego^®^ house will look is not determined from the beginning.
@@ -62,14 +60,15 @@ is not determined at the beginning, but a process, just like building
 your Lego^®^ house, in which you try, fail, find improvements and – step by
 step – come closer to a structure you are satisfied with.
 
-## How to make sense of diagrams
+## How to make sense of diagrams and lists
+<!-- TODO examples of a process for adiagrams scenario based on a step wise list-->
 
-Diagrams can be
+I will explain how to analyze diagrams and lists, this is:
 
+* lists and flowcharts, e.g. the steps needed to print a document.
 * charts, e.g. how the mood changes over the day,
 * maps of places, e.g. where is what located in your office,
 * maps of relations, e.g. on what and with whom are your working
-* flows, e.g. the steps needed to print a document.
 
 In our analysis, we will compare and summarize the collected data and bring it into an easy to grasp form.
 
@@ -79,6 +78,16 @@ To prepare the analysis, you write annotations on the diagrams. For this, you ca
 
 Note possible meanings, like:
 
+<!-- Lists -->
+>
+> Here a part of the process of a user to add entries to a free database. Here, they add entries for people working in academia:
+>
+> 1. Look up Professor at uni page
+> 2. …seems to be notable (well published)  **NOTE: ensure the source data is suitable**
+> 3. Search → create new wikidata item **NOTE: by using and the button that appears if nothing is foundthe creation of duplicate items is avoided**
+> …
+
+<!-- Good/Bad time -->
 > ![Annotated Diagram](images/U1_GoodBadTime_Diagramm.svg)
 >
 > In this diagram I noted some ideas for an interpretation:
@@ -87,12 +96,15 @@ Note possible meanings, like:
 > * Starting with the designing itself was a positive experience.
 > * After the start the curve declines a bit. Maybe this is because populating the design with texts and images may be a bit boring.
 > * Praise seemed to raise the mood.
-> * …in parallel the participant did linebreaks and letterspacing, I assume these are finishing touches and itself maybe a bit boring.
+> * …in parallel the participant did line breaks and letter spacing, I assume these are finishing touches and itself maybe a bit boring.
 > * Sending the finished design to the client seemed to be a positive thing. Maybe this is a kind of closure point – »I finished the design!«
-> * …however, waiting for the final acceptance is again negative, though usualy only in the beginning (the participant projected this – the dotted line is assumed, since at the point of the research session, the design was just send a day ago or so.)
+> * …however, waiting for the final acceptance is again negative, though usually only in the beginning (the participant projected this – the dotted line is assumed, since at the point of the research session, the design was just send a day ago or so.)
 >
 > I did such annotations for all the diagrams, to keep it brief, I don't include all of them here.
 >
+
+
+
 
 ### Commonalities and contrasts
 
@@ -126,7 +138,7 @@ Note common patterns as well as interesting findings, e.g. if most diagrams shar
 > The forth participant’s diagram:
 >
 > * Start is good again (This seems to be a pattern), it can be due to anticipation (P3,P2) and because of actually starting (P1, P4, also P3)
-> * There are less great review/replanning phases, which are also in U2 and U4;
+> * There are less great review/re-planning phases, which are also in U2 and U4;
 > * Finishing is good, which is also a pattern in P1,P2,P3
 > * What is new, is that the mood fell because a design seemed boring, the bad phases were usually framed as something from the outside (tough client wishes as in P2 or waiting: P1, P3) or as having a hard problem (P2).
 >
@@ -139,7 +151,11 @@ Note common patterns as well as interesting findings, e.g. if most diagrams shar
 > * Maybe starting/trying a new approach is a bit like the positive feeling at the projects start (also P4 shows a similar pattern, P2 framed it more as solving problems. I don't know if that is the same)
 > * The pattern of »new approach good/client feedback bad« repeats (at time of the research, the project was still ongoing, so there can't be a "end is positive" pattern here.)
 
+<!--
 
+
+
+-->
 ### Crosscheck
 
 It can be interesting and useful to not only compare the diagrams on the same topic, but also relate data across diagrams and also involve your written notes. This also works vice versa – when you analyze your notes, you can check your diagrams for supplemental information and add it to your notes.

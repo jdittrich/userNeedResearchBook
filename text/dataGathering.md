@@ -67,12 +67,27 @@ Avoid positioning yourself as the expert in the participant’s domain by sugges
 
 ![observing the user’s work](images/ObservationDesign1.jpg)
 
-### Diagrams
+### Co-Document in diagrams and lists
 
-You probably have used diagrams to show something: A flowchart, a map, an illustration of a device etc. Instead of only using diagrams to *show* what you know, you can also create them together with a participant to *collect data*.
+The simplest form of this data gathering method is listing steps to do a task together with the participant:
 
-The diagrams you will deal with in research give graphical overviews of topics such as: Moods, Spacial configuration, social connections, instructions of use for software or devices, workflows etc.
+   > I wonder how you edit data on wikidata – what are your steps?
 
+Sharing the list allows the researcher to ask questions:
+
+    > You said you do
+
+and the participant can make corrections
+
+    >
+
+The writing can be done by the researcher, participant or both. No single person »owns« the paper.
+
+The list is a relatively simple form: Steps in linear order. But add an arrow and you get loops and conditions.
+
+>
+
+With that you are on the level of simple diagramming. Other formats for co-documentation can be very free in form, like an annotated sketch, they could look similar to typical statistical charts or focus on connections like in a mind map.
 
 ![timeline diagram. If the graph goes up, the mood gets better, if it goes down, the participant feels bad, borded or annoyed](images/U1_GoodBadTime_Diagramm.svg)
 
@@ -80,7 +95,7 @@ The diagrams you will deal with in research give graphical overviews of topics s
 
 ![List with workflow steps](images/List_Task.png)
 
-You can spontaneously use drawings, but it often makes sense to prepare templates. For the timeline diagram of moods above, my template looked like this:
+It often makes sense to prepare templates. For the timeline diagram of moods above, my template looked like this:
 
 ![example template](images/GoodBadTime_Diagramm.svg)
 
@@ -90,11 +105,7 @@ These templates give some scaffold which it easier for the participants to creat
 
 Show an example from an unrelated area of research so they can see what you are going for (In a corner of my templates I often have a little example inserted).
 
-You and the participant create the diagram together. No single person »owns« the paper. The degree of collaboration can vary, though: It may be the case that the participant looks over your shoulder and comments verbally, while you draw; I can be the case that the participant creates the diagram without much intervention from your side and you just ask some questions.
-
-![researcher pointing and asking: »*What does this comment mean?*«](images/diagram_researcherPoints.jpg)
-
-To make them comprehensible, diagrams will have comments to explain what is drawn. If you don’t understand something, point to it and ask the participant. Both, you or the participant, can then write the information in the diagram.
+To make them comprehensible, diagrams will have comments to explain what is drawn. If you don’t understand something, point to it and ask the participant. Both, you or the participant, can then write the additional information in the diagram.
 
 > »The line here seems to indicate that you were very happy at the beginning of the project…«
 > Participant: »Yes, I’m looking forward to doing it and there are so many ideas«
@@ -104,6 +115,7 @@ To make them comprehensible, diagrams will have comments to explain what is draw
 <!-- TODO: Pointability particularly useful since it eases memory load and is less awkward (?). On the other hand: meta -->
 
 The diagrams can often be understood easily after the research. Often, they just need some additional comments added to make sense for you or others. For interviewing and observation this is often not the case: You need to spend much time transcribing and ordering the results.
+
 
 ## Start the research session
 
@@ -557,7 +569,7 @@ Seeing an actual example avoids misunderstandings and gives rich opportunities f
 > Participant: Yes, it is a little icon on my desktop that does help me, when things go wrong!
 > Researcher: Can you show me how you use it?
 
-This avoids misunderstandings. The »thing« could be a script that fixes a setting. Os something else. We don't know, and it is easier for researcher and participant to look at it together.
+This avoids misunderstandings. The »thing« could be a script that fixes a setting. Or something else. We don't know, and it is easier for researcher and participant to look at it together.
 
 ## Steer the course of research
 

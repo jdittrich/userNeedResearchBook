@@ -1,5 +1,85 @@
 # Summarize your insights
 
+The analysis of diagrams and themes is done…
+
+THIS IS FOR DESIGN: The methods I suggest here summarize your research results further to make them useful when working on design concepts.
+
+IT IS NOT ABOUT BUY IN: I will not give a complete framework of how to communicate and use research in an organization. For that there are many other books, and the right strategies depend highly on size and culture of the audience.
+
+## Overview of themes in the research
+INTRO…
+    PROBLEM: Sub groups may have interesting data.
+    PROBLEM: Not graspable, illustrated
+    PROBLEM: Could be better linked to other data.
+
+WHAT DO WE WANT:
+    see above.
+BUILDS ON: Your themes
+MEDIA:
+    slides as natural media.
+    paper/pdf also OK
+    →compact, mixes media (text, images, quotes)
+USE: recall and communicate essential principles
+
+SUMMARY:
+
+EXAMPLES:
+* Reserach on heavvy commons users (https://commons.wikimedia.org/wiki/File:HeavyCommonsUserQualitativeResearch.pdf)
+
+## Scenarios of use
+INTRO:
+    PROBLEM: How do users do activity X?
+    PROBLEM: Abstract principles are nice but how is it in the actual situation?
+BUILDS ON: Analyzed lists (if done), notes…
+MEDIA: Text, lists or comics. Use in slideshows, text or issue reports (user stories!)
+USE: Give a sense of the actual situation to consider and improve it.
+USE: Design a part of the experience
+USE: Can be counter-checked by users or experts
+USE: Build future scenarios upon
+
+EXAMPLES: Scenario-Bibliothek-all.svg (comic)
+EXAMPLES: All on https://meta.wikimedia.org/wiki/Research:Teahouse/scenarios
+EXAMPLES: https://github.com/cockpit-project/cockpit/wiki/Feature:SOS-reporting
+GENERAL/REUSE: http://fordes.de/posts/usingscenariosindesign.html
+
+
+## Posters and Maps
+
+WHAT DO WE WANT: Represent aspects of the participants life sharable form
+BUILDS ON: Diagrams + Analysed notes
+MEDIA: Poster-ish, some pages in pdf
+MEDIA COMBINATIONS: Maps, supplements with text. Combine. Arrows.
+USE: Remind easily of basic things
+SUMMARY:
+
+* Presentable
+* Discussable
+* Clean, add information
+
+EXAMPLES:
+* Wiktionary poster: https://commons.wikimedia.org/wiki/File:WiktionaryResearchResults.pdf
+* New readers sample (OK, but not best example): https://commons.wikimedia.org/wiki/File:New_Readers_-_Where_we_went..._-_Nigeria.png
+* User journey map
+
+## General communication hints
+* Easy style
+* Inverted pyramid
+* Audience needs
+* …move forward with dedicated resources
+
+## Futher ideas
+
+* Generate concepts: https://commons.wikimedia.org/wiki/File:Finding_20_Concepts.jpg
+*
+
+
+
+
+
+
+
+
+
 <!--
 SOME NOTES:
 Posture: There are many books on how to communicate your findings to convince stakeholders. This section has a simpler aim:
@@ -42,6 +122,7 @@ Scenarios.
 Set the frame
 "Next steps" or "we will use this"
 
+Maps
 
 Possible structure
 
@@ -51,9 +132,20 @@ Possible structure
  * Easy style,
 * Remember yourself
 * Towards design
- * Szenarios  
+ * Szenarios
+
+
 
 -->
+
+
+
+
+
+
+
+---------------------------------
+
 
 If you work with others, the results of your research need to be communicated so
 they can act upon your research results.
