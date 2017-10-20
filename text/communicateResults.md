@@ -1,151 +1,4 @@
-# Summarize your insights
-
-The analysis of diagrams and themes is done…
-
-THIS IS FOR DESIGN: The methods I suggest here summarize your research results further to make them useful when working on design concepts.
-
-IT IS NOT ABOUT BUY IN: I will not give a complete framework of how to communicate and use research in an organization. For that there are many other books, and the right strategies depend highly on size and culture of the audience.
-
-## Overview of themes in the research
-INTRO…
-    PROBLEM: Sub groups may have interesting data.
-    PROBLEM: Not graspable, illustrated
-    PROBLEM: Could be better linked to other data.
-
-WHAT DO WE WANT:
-    see above.
-BUILDS ON: Your themes
-MEDIA:
-    slides as natural media.
-    paper/pdf also OK
-    →compact, mixes media (text, images, quotes)
-USE: recall and communicate essential principles
-
-SUMMARY:
-
-EXAMPLES:
-* Reserach on heavvy commons users (https://commons.wikimedia.org/wiki/File:HeavyCommonsUserQualitativeResearch.pdf)
-
-## Scenarios of use
-INTRO:
-    PROBLEM: How do users do activity X?
-    PROBLEM: Abstract principles are nice but how is it in the actual situation?
-BUILDS ON: Analyzed lists (if done), notes…
-MEDIA: Text, lists or comics. Use in slideshows, text or issue reports (user stories!)
-USE: Give a sense of the actual situation to consider and improve it.
-USE: Design a part of the experience
-USE: Can be counter-checked by users or experts
-USE: Build future scenarios upon
-
-EXAMPLES: Scenario-Bibliothek-all.svg (comic)
-EXAMPLES: All on https://meta.wikimedia.org/wiki/Research:Teahouse/scenarios
-EXAMPLES: https://github.com/cockpit-project/cockpit/wiki/Feature:SOS-reporting
-GENERAL/REUSE: http://fordes.de/posts/usingscenariosindesign.html
-
-
-## Posters and Maps
-
-WHAT DO WE WANT: Represent aspects of the participants life sharable form
-BUILDS ON: Diagrams + Analysed notes
-MEDIA: Poster-ish, some pages in pdf
-MEDIA COMBINATIONS: Maps, supplements with text. Combine. Arrows.
-USE: Remind easily of basic things
-SUMMARY:
-
-* Presentable
-* Discussable
-* Clean, add information
-
-EXAMPLES:
-* Wiktionary poster: https://commons.wikimedia.org/wiki/File:WiktionaryResearchResults.pdf
-* New readers sample (OK, but not best example): https://commons.wikimedia.org/wiki/File:New_Readers_-_Where_we_went..._-_Nigeria.png
-* User journey map
-
-## General communication hints
-* Easy style
-* Inverted pyramid
-* Audience needs
-* …move forward with dedicated resources
-
-## Futher ideas
-
-* Generate concepts: https://commons.wikimedia.org/wiki/File:Finding_20_Concepts.jpg
-*
-
-
-
-
-
-
-
-
-
-<!--
-SOME NOTES:
-Posture: There are many books on how to communicate your findings to convince stakeholders. This section has a simpler aim:
-Summarize your findings so you can easily remember, communicate and use them.
-
-Why summarizing:
-* Continuation of analysis. Analysis is getting to the insights,
-* Summaries make them useful for you and others.
-
-1) Presentations
-2) Szenarios
-
-General Principles
-* Audience
-* Clarity
-
-Designerly Ways:
-* Szenarios
-*
-
- make sense similar to analysis
-
- But more summarized
- Analysis: Structure data to insights, principles. Focus: Work on getting there. All is there but not very usable for design.
-
-
- Communication: Insights. Focus: Communicate, Archive, use in design.
-
- use in design
- use for decision making
-
- What do others need?
-
- Cut the fluff.
-
- Media
-
-Scenarios.
-
-Set the frame
-"Next steps" or "we will use this"
-
-Maps
-
-Possible structure
-
-* Communicate
- * Inverted pyramid
- * audience needs
- * Easy style,
-* Remember yourself
-* Towards design
- * Szenarios
-
-
-
--->
-
-
-
-
-
-
-
----------------------------------
-
+# Communicate Results
 
 If you work with others, the results of your research need to be communicated so
 they can act upon your research results.
@@ -165,12 +18,15 @@ be different stakeholders with different needs, e.g.
 * Designers
 * …
 
-Some of their needs align, some may differ. Before you start, you should ask yourself who will receive the results and what specific interests they have. Also inquire if there is any preferred format. Some may prefer text-based reports, others may be used to slidedecks.
+Some of their needs align, some may differ. Before you start, you should ask yourself
+who will receive the results and what specific interests they have. Also inquire
+if there is any preferred format. Some may prefer text-based reports, others may
+be used to slidedecks.
 
 ## First things first
 
 Structure documentation in a way that puts the essential information
-first. A simple rule of thumb is this: If
+first. A simple rule of thumb is this: If 
 a reader stops early at some point, they should already know the most crucial
 information. If the documentation is structured in a different way, it can happen
 that after reading half of it, the most crucial information has not delivered.
@@ -189,7 +45,7 @@ make sense of the participants’ language and actions.
 
 As a rule of thumb, rather assume too
 few knowledge than too much. A person knowing something will just overhear or
-overlook an explanation while a person who lacks knowledge is lost without it.
+overlook an explaination while a person who lacks knowledge is lost without it.
 
 ## Sections of a research documentation
 
@@ -295,20 +151,7 @@ names and quotes are not real but are only corresponding to their actual
 counterparts.
 
 ### Scenarios
-<!-- TODO: Explain why scenarios are great:
-1) Communication
-2) Current use
-3) Future use
-4) Allowing What if and it-is in one format.
-
-Also: Usability tests
-
-Examples: see
-
-* https://www.mediawiki.org/wiki/Universal_Language_Selector/Interaction_Design_Framework#User_Profiles_and_scenarios
-* https://www.wikidata.org/wiki/Wikidata:List_generation_input
-
--->
+<!-- TODO: Explain why scenarios are great: 1) Communication 2) Current use 3) Future use 4) Allowing What if and it-is in one format. Also: Usability tests -->
 
 
 Activities don’t happen in isolation from each other: They depend on previous

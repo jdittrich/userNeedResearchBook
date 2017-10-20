@@ -2,23 +2,9 @@
 
 ## Making sense of data
 
-<!-- general TODO s
-* Check for use of "we". Prefer I, if that is not good, use "you"
-* Introduce one way of formatting the examples. Titles always normal, always with "title:" before?, primary data always italic, primary data never left out (?)
-* Excessive use of commas. Get rid of them!
-
--->
-
-When you start with the analysis you have done some research sessions. Our goal is to structure the data from your research in a meaningful way.
-
-<!-- todo: secondary reason: inform data collection. primary reason: design -->
-
-* While analyzing your data you will see where you need to adjust research questions or fill gaps in your data. This is why it makes sense to do data gathering and data analysis in parallel.  <!-- TODO where does this iterative structure fit?-->
-
-
 Your data can't be used for supporting design decisions: It consists of many unstructured small pieces. You can't make sense of such a mess.
 
-You need to find a way to order the data in a way which provides us with the sense behind the data, just like a summary and interpretation of a long and complex book.
+We need to find a way to order the data in a way which provides us with the sense behind the data, just like a summary and interpretation of a long and complex book.
 
 This is not a passive process: Making sense of data requires taking different perspectives and trying them out to see how the data can be interpreted in different ways to fining interpretations that are helpful for designing and explain the user behavior.
 
@@ -30,7 +16,8 @@ The data analysis is done by inferring themes from data points. Thus, the proces
 empirical (as it is based on gathered data). But even if the same data is used, different people will create different analysis. This is because the result of the
 analysis depends on the reasonable, but still individual and debatable, interpretation of the
 data. You could say that *»looking at last years design to quickly reuse elements«* belongs to a
-theme concerned with *»I want to save time«* or to a theme related to the topic of *»reviewing designs for inspiration«* (given that it could serve both from the user's perspective).
+theme concerned with *»I want to save time«* or to a theme related to the topic of *»reviewing
+designs for inspiration«* (given that it could serve both from the user's perspective).
 
 There is no »right« or »wrong«, nor a clear cut criterion of being »close enough« to the data when
 you  interpret your data. Instead of having a clear, measurable rule like the »you
@@ -47,6 +34,8 @@ bricks, there is no single »right« building. But neither is it a process which
 
 ![one way to build a house](images/lego_houseFinished.jpg){.portrait}
 
+
+
 There are many, many ways to stack up the bricks – but only a very few of these possible ways will result in something that can be plausibly called a house.
 
 How your final Lego^®^ house will look is not determined from the beginning.
@@ -60,15 +49,14 @@ is not determined at the beginning, but a process, just like building
 your Lego^®^ house, in which you try, fail, find improvements and – step by
 step – come closer to a structure you are satisfied with.
 
-## How to make sense of diagrams and lists
-<!-- TODO examples of a process for adiagrams scenario based on a step wise list-->
+## How to make sense of diagrams
 
-I will explain how to analyze diagrams and lists, this is:
+Diagrams can be
 
-* lists and flowcharts, e.g. the steps needed to print a document.
 * charts, e.g. how the mood changes over the day,
 * maps of places, e.g. where is what located in your office,
 * maps of relations, e.g. on what and with whom are your working
+* flows, e.g. the steps needed to print a document.
 
 In our analysis, we will compare and summarize the collected data and bring it into an easy to grasp form.
 
@@ -78,16 +66,6 @@ To prepare the analysis, you write annotations on the diagrams. For this, you ca
 
 Note possible meanings, like:
 
-<!-- Lists -->
->
-> Here a part of the process of a user to add entries to a free database. Here, they add entries for people working in academia:
->
-> 1. Look up Professor at uni page
-> 2. …seems to be notable (well published)  **NOTE: ensure the source data is suitable**
-> 3. Search → create new wikidata item **NOTE: by using and the button that appears if nothing is foundthe creation of duplicate items is avoided**
-> …
-
-<!-- Good/Bad time -->
 > ![Annotated Diagram](images/U1_GoodBadTime_Diagramm.svg)
 >
 > In this diagram I noted some ideas for an interpretation:
@@ -96,15 +74,12 @@ Note possible meanings, like:
 > * Starting with the designing itself was a positive experience.
 > * After the start the curve declines a bit. Maybe this is because populating the design with texts and images may be a bit boring.
 > * Praise seemed to raise the mood.
-> * …in parallel the participant did line breaks and letter spacing, I assume these are finishing touches and itself maybe a bit boring.
+> * …in parallel the participant did linebreaks and letterspacing, I assume these are finishing touches and itself maybe a bit boring.
 > * Sending the finished design to the client seemed to be a positive thing. Maybe this is a kind of closure point – »I finished the design!«
-> * …however, waiting for the final acceptance is again negative, though usually only in the beginning (the participant projected this – the dotted line is assumed, since at the point of the research session, the design was just send a day ago or so.)
+> * …however, waiting for the final acceptance is again negative, though usualy only in the beginning (the participant projected this – the dotted line is assumed, since at the point of the research session, the design was just send a day ago or so.)
 >
 > I did such annotations for all the diagrams, to keep it brief, I don't include all of them here.
 >
-
-
-
 
 ### Commonalities and contrasts
 
@@ -138,7 +113,7 @@ Note common patterns as well as interesting findings, e.g. if most diagrams shar
 > The forth participant’s diagram:
 >
 > * Start is good again (This seems to be a pattern), it can be due to anticipation (P3,P2) and because of actually starting (P1, P4, also P3)
-> * There are less great review/re-planning phases, which are also in U2 and U4;
+> * There are less great review/replanning phases, which are also in U2 and U4;
 > * Finishing is good, which is also a pattern in P1,P2,P3
 > * What is new, is that the mood fell because a design seemed boring, the bad phases were usually framed as something from the outside (tough client wishes as in P2 or waiting: P1, P3) or as having a hard problem (P2).
 >
@@ -147,15 +122,11 @@ Note common patterns as well as interesting findings, e.g. if most diagrams shar
 > ![Annotated diagram, P5](images/U5_GoodBadTime_Diagramm.svg)
 >
 > * Again, like in the diagram before, starting is good. I would hypothesize that the anticipation feels great and that the actual start even lifts the mood a bit on top (?)
-> * Like in P2, client wishes/negative feedback drag the mood down. Here we have negative feedback.
-> * Maybe starting/trying a new approach is a bit like the positive feeling at the projects start (also P4 shows a similar pattern, P2 framed it more as solving problems. I don't know if that is the same)
-> * The pattern of »new approach good/client feedback bad« repeats (at time of the research, the project was still ongoing, so there can't be a "end is positive" pattern here.)
-
-<!--
+* Like in P2, client wishes/negative feedback drag the mood down. Here we have negative feedback.
+* Maybe starting/trying a new approach is a bit like the positive feeling at the projects start (also P4 shows a similar pattern, P2 framed it more as solving problems. I don't know if that is the same)
+* The pattern of »new approach good/client feedback bad« repeats (at time of the research, the project was still ongoing, so there can't be a "end is positive" pattern here.)
 
 
-
--->
 ### Crosscheck
 
 It can be interesting and useful to not only compare the diagrams on the same topic, but also relate data across diagrams and also involve your written notes. This also works vice versa – when you analyze your notes, you can check your diagrams for supplemental information and add it to your notes.
@@ -187,9 +158,8 @@ The basis for our analysis are the utterances or observations, usually represent
 
 >»I find it boring to move around all the text boxes again!«.
 
-<!-- NOTE some clarification/style in the following paragraph -->
-You will organize these hierarchically and group them if they may share a similar theme.
-Each group get a title, stating the theme of the underlying pieces of data.
+You will organize these hierarchically and group them, if they may share a similar theme.
+These groups get a headline, stating the theme of the underlying pieces of data.
 This is useful when designing, since you can refer to the title instead of reading through all  the underlying data each time.
 
 Sometimes, you will have several themes, which relate to a common theme themselves. In this case, it makes sense to make a group of groups with a title stating the overarching theme of this group of groups.
@@ -207,6 +177,7 @@ Sometimes, you will have several themes, which relate to a common theme themselv
 >         - *Data:* browses through the book to see…
 >         - …
 >
+
 
 Such a hierarchical analysis could be done in two ways:
 
@@ -230,7 +201,7 @@ Then we give that data a headline and name the topic:
 When we come across a piece of data which shares the topic, we can add it to the group, too:
 
 >- *Theme:* use other’s work  for inspiration
->	- *Data*:  Searches on amazon to see how covers of books about the same topic look like**
+>	- **Data:  Searches on amazon to see how covers of books about the same topic look like**
 >	- *Data:* »I look on google images how other calendars look like«
 >	- *Data:*  Browses through the book to see…
 
@@ -279,13 +250,13 @@ If we take the notes about DIY again this could look like this:
 
 > **Theme (based on an insight about the participants): Participants need to »make things work«**
 >
-> - The cabinet’s door was loose. It annoyed me, so I repaired it.
-> - When my bike is broken and I need to get to work with it the next day I can fix my bike quickly
+> 	- The cabinet’s door was loose. It annoyed me, so I repaired it.
+> 	- When my bike is broken and I need to get to work with it the next day I can fix my bike quickly
 >
 > **Theme (based on an insight about the participants): Good: DIY gives sense of individuality**
 >
-> - The shelf looks not as clean as a bought one, but it is mine
-> - I look at the assembled bike and think: nobody else has the same
+> 	- The shelf looks not as clean as a bought one, but it is mine
+> 	- I look at the assembled bike and think: nobody else has the same
 
 
 If we organize notes by themes based on the *insights* about the participants and summarize that insight in the group’s title, the theme’s title is a useful piece of information on its own: It is not just for accessing the notes, it is an empirically based principle we can follow, when we design.
@@ -313,25 +284,25 @@ To understand how to organize notes by themes based on insights, can be hard to 
 >
 > **Theme (based on same-things-being-mentioned):: Utterances with HTML**
 >
-> - To try out stuff in HTML is fun
-> - To know these 'attributes' of HTML-'tags' makes writing code easier.
+> 	- To try out stuff in HTML is fun
+> 	- To know these 'attributes' of HTML-'tags' makes writing code easier.
 >
 > **Theme (based on same-things-being-mentioned):: Utterances with JavaScript**
 >
-> - I analyze JavaScript code to understand patterns
-> - It is great to quickly test something using a JavaScript framework
+> 	- I analyze JavaScript code to understand patterns
+> 	- It is great to quickly test something using a JavaScript framework
 >
 > Organizing the notes by the insights we may draw from the notes, the structure look like this:
 >
 > **Theme (based on an insight about the participants): Trying out is good**
 >
-> - To try out stuff in HTML is fun
-> - It is great to quickly test something using a JavaScript framework
+> 	- To try out stuff in HTML is fun
+> 	- It is great to quickly test something using a JavaScript framework
 >
 > **Theme (based on an insight about the participants): Learning makes own coding better**
 >
-> - I analyze Javascript code to understand patterns
-> - To know these 'attributes' of HTML-'tags' makes writing code easier.
+> 	- I analyze Javascript code to understand patterns
+> 	- To know these 'attributes' of HTML-'tags' makes writing code easier.
 
 
 
@@ -348,7 +319,7 @@ When you create groups of data, it is good to know if the theme of the group is 
 > […]
 >
 > It will look like this after adding the participant codes (the data is from the second research
-> session):
+> session:
 >
 > - It is hard to know what exactly the client wants, because I don’t talk directly to the client –  **P2**
 > - The document is divided in sections, separated by blank pages.  –  **P2**
@@ -415,7 +386,7 @@ The resources you need for with pen and paper are:
 - paper
 - printer (or a lot of patience to write all by hand)
 - (removable) tape
-- a big wall (2m*3m minimum – which is why the wall is usually the show stopper ).
+- a big wall (2m*3m minimum – which is why the wall is usually the showstopper ).
 
 
 But why should you want to use an analog analysis, if it needs all these resources? Partly, the decision can be based on preferences: Some people like that they can move around the notes by hand and can get an overview of their data by just stepping back and glancing over it.
@@ -436,7 +407,7 @@ For analysis on your computer, I suggest the following steps for preparing your 
 
 \
 
-**State themes in titles of groups**: Each group gets a headline. Create a hierarchy by using different paragraph styles – bigger headlines for overarching themes-of-themes, smaller headlines for themes, that encompass the data directly. If you use paragraph styles to format your headlines, you can use the navigation tool of the wordprocessor to go through your structure. You can as well just use the list-hierarchy feature (pressing the tab-key creates a subordinate list point). I prefer headlines, though.
+**State themes in titles of groups**: Each group gets a headline. Create a hierarchy by using different paragraph styles – bigger headlines for overarching themes-of-themes, smaller headlines for themes, that encompass the data directly. If you use paragraph styles to format your headlines, you can use the navigation tool of the wordprocessor to go through your structure. You can as well just use the list-hierarchy feature (pressing the Tabuator-key creates a subordinate list point). I prefer headlines, though.
 
 #### How to: Analysis with pen and paper
 
@@ -466,12 +437,15 @@ pink ones for titles of a group of groups.
 
 ### Develop a first Structure  {#firstStructure}
 
-After you annotated your notes you can start to structure them.
+After you annotated your notes, you can start to structure them.
 Structuring the notes means grouping similar data together,
 suggesting themes behind the data, naming these themes
-and deciding which data falls under which theme.
+and deciding, which data falls under which theme.
 
-You don't use all your data yet. You can start with what you find useful, when skimming through or you can use the data of two participants for now. The goal is to set up some preliminary structure, like a sketch of the analysis.
+You don't use all your data yet. You can start with what you find
+useful, when skimming through or you can use the data of
+two participants for now. The goal is to set up some
+preliminary structure, like a sketch of the analysis.
 
 ![setting up a basic structure](images/lego_housefirstStructure.jpg)
 
@@ -588,21 +562,21 @@ the first participant and ending with the most recent one – though any
 other scheme will suffice as well. Just be sure, that you know with which data you
 dealt with already and with which you did not.
 
-When filling the data in the structure you may notice that you need to
+When filling the data in the structure, you may notice, that you need to
 create additional themes. Some of the titles of the themes may need to be
 renamed as well. Just go ahead and make these changes, if you feel they are needed.
 
-> - *Title:* Test in the media you target
+> - \[Title:\] Test in the media you target
 >      - I folded prototypes for paper sizes that seem to be suitable
->      - This is close the print shops results without spending too much
+>      -  This is close the print shops results without spending too much
 >      - Tedious: Not having an own printer
 >      - […]
 >
-> - *Title:* »being closer«: Page Spreads instead of single pages
+> - \[Title\]»being closer«: Page Spreads instead of single pages
 >     - Creates page spreads (In books you have always 2 opposite pages, thus single pages are not useful for design)
 >
 > \
-> <!-- TODO: Not having the P3 code in the example but referring to it in the discussion is irritating. Should I add the P3 codes here? Or just take the comment out? -->
+>
 > Actually, the example above is not great in terms of analysis:
  The »Test in the Media you target«  data is almost all from one
  person (P3) and the »being closer«-Group
@@ -904,7 +878,5 @@ groups are: »combining functions and aesthetics« etc.). In contrast,
 »using existing works for inspiration« is a group of groups which states
 a meaningful insight.
 >
->You see that I could not use all data, so I made some less significant
+>You see, that I could not use all data, so I made some less significant
 groups in the »misc« section.
-
-<!-- TODO: Combine diagrams, notes, tables etc. with each other – whatever makes sense to you -->
