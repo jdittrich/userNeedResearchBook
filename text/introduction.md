@@ -2,12 +2,9 @@
 
 ## Why I wrote this book
 
-When I started with UX design I came across the idea that things
-should not only be usable, but also useful: Product should match peoples motivations, activities and problems. To be able to build such products, you need to find out about the how and why about the user’s work.
+I think that products should not only be usable but also useful. This means they satisfy an actual need of the people using them. To be able to build such products, you need to find out about motivations, activities and problems of the (potential) product’s users.
 
-This idea made and makes much sense for me.
-
-<!-- I think my first project in that direction was a bookmark manager and my research consisted of asking some people these questions via mail:
+<!--  I think my first project in that direction was a bookmark manager and my research consisted of asking some people these questions via mail:
 
 > * What do you do when you find information on a webpage useful for you (Bookmarks, Scrapbook, Delicious, simply remember) and why?
 > * What do you find difficult about the current system to refind informations on the web and why?
@@ -16,80 +13,68 @@ I got some interesting mails back and tried to consider their answers in my desi
 
 <!-- Possible example here -->
 
-When I wanted to learn more about this kind of research it got a bit tricky. It was not easy for me to find the information and when I found some I was often confused: Some books started with a lot of theory that did build on other theories. Some others were more design oriented, but seemed to require a big team of well trained people and a huge budget. However, there were also great resources, blog posts and conversations that helped me finding approaches that I could use for my projects. It was not easy but it was also fun to look into design research, ethnography, anthropology and psychotherapy.
+It was initially not easy to learn about this: Some books started with a lot of theory that was build on additional theories. Other books were more design oriented, but seemed to require a big team of well-trained people and a huge budget. However, there were also great resources, blog posts and conversations that helped me to find methods that I could use for my projects. In this book I want to show you how to use these methods. 
 
-During my Master’s I approached a professor of mine with the idea of creating a class on design methods in the next terms. He agreed and I made teaching and improving this class the topic of my Master's thesis. For three terms I taught the class, kept a diary of what went well, what was difficult and what was unclear to me. I used this to improve the class and make the content more accessible and actionable.
+These methods should…
 
-After 3 terms I stopped teaching the class. I had a script that I used for teaching the class. I took this script and started to create this book.
+* …be useful for design projects in business and academia
+*… work without a large budget
+* …be understandable and applicable without a specific (academic) background
 
-Aside of having the script anyway, there was another motivation, and that had to do with programming. I learned programming during my studies. And learning programming was in a way much easier than learning design research since there were soooooo many online materials for it. And many were really good and free, not only as in »free of charge« but also free to use and adapt them to ones needs. And I thought this is a really great thing to have for a discipline. So aside of using my script and making it easier to for people to get into the field I also wanted to create a free resources like the ones that made it much easier for me to learn Python and Javascript.
+To ease learning, I provide examples. I found it particularly useful to have them myself when learning about skills like *asking open questions* or *clustering themes*. Much more useful than a definition is to see how these are done.
 
-When writing the book, I had some goals:
-
-* The methods should be useful for design projects in business and academia
-* The methods should work without a large budget
-* The methods should be understandable and applicable without a specific (academic) background
-
-To make it easy to understand I tried to provide many examples. Examples are very helpful in learning new skills (Find out about cognitive load theory to learn more) and I found it particularly useful to have them myself when learning about skills like *asking open questions* or *clustering themes*. Much more useful than a definition is usually to see how these are done. It also enables you to try the same.
-
-Friends supported my in volunteering for an example research project on project work of freelancing designers, so a lot of examples will be from this project.
+Friends supported me by volunteering for an example research project on project work of freelancing designers, so a lot of examples will be drawn from this project.
 
 ## User need research is most useful in early stages of a project
 
-User needs should be researched in early project stages. It is usually less useful when a lot of money and time has been spend on specific solutions.
+User needs should be researched in *early* project stages. It is less useful when a lot of time and money has been spent already on building a particular product.
 
- Here are some scenarios in which user need research makes sense:
+Here are some scenarios in which user need research makes sense:
 
-**1. There is a broad topic given which you want to explore further.**
+**1. There is a broad topic given, which you want to explore further.**
 
-> This might be »using libraries« or even »Finding and working with information in media«.
+Starting with a broad topic, not focused on a particular implementation, gives a lot of freedom. Such projects are not very common, though.
 
-Starting with a broad topic, not focused on a solution can be great and gives a lot of freedom. Such projects are not very common, though.
+> You should find out about people “using libraries” or even “Finding and working with information in media”.
 
-**2. There is an idea for a product or a service**  You want to find out what user motivations, activities and problems are important to consider when building this product or service. This is the scenario that I use the user need research methods in most often.
+**2. There is an idea for a product or a service**
 
-> The library wants to create an app for creating bibliographies, and
-> they want to find out what they need to consider when doing this
+You want to find out what user motivations, activities and problems are important to consider when building a product or service. This is the scenario in which I use user need research most often.
+
+> The library wants to create an app for creating bibliographies.
+> They want to find out what they need to consider when doing this
 
 **3. An existent product is to be improved or changed.**
 
-> The library has an app for creating bibliographies since several years.
-> However, there are complaints about it being useless and hard to use;
-> Now they want to find out how version 2.0 should be different
+> The library already has an app for creating bibliographies since several years.
+> But students complain about it being useless and hard to use.
+> Now the library wants to find out how version 2.0 should be different
 
-In the case an *existing* product should be improved, it is common to use usability tests, but it makes sense to combine them with user need research – what about finding out about the usability problems of the current system by observing their everyday tasks?
+If an *existing* product should be improved, it is common to use usability tests. But it makes sense to combine tests with user need research – what about finding out about the usability problems of the current system by observing users’ everyday tasks?
 
-<!-- align the team, ideas --> 
+<!-- align the team, ideas -->
 
 ## Our inquiry concerns the user, not our (future) product
 
-You may be very motivated to get to design an actual product and you may have some ideas already, but if you focus on the product now, your findings will be tied that specific idea. And an idea can easily turn out as not feasible. But if you focus on the user, your findings will be independent of a particular idea.
+You now may be very motivated to start designing your future product. But if you focus on the *product* now, your research findings will be tied that specific product – which may or may not be useful for your users. If you instead focus on the *user*, your findings will be independent of a particular product implementation.
 
-This idea seems to be hard to grasp. When I talk about user need research a frequent assumption is, that I ask users things like:
+This idea seems to be hard to grasp. When I talk about user need research, a frequent assumption is, that I ask users things like this:
 
-* what do you want?
+* What do you want?
 * How I should design a product for you?
 
 However, I don't do this: It would not tell me much about the *how* and *why* of their actions – only that they want something.
 
-Sometimes, user need research is also confounded with usability testing. In usability testing, you test a product to tweak it. That is all fine, but that does not help much to find out if the product is useful.
+Sometimes, user need research is also confused with usability testing. In usability testing, you test a product to improve it. Usability testing is not about finding user needs that exists independent of that product.
 
-Paradoxically, we need to *let go* of our focus on *products* to be able to understand the users [^ Though there are some product based methods to research user needs, e.g. *presumptive design*.] and by that develop products that users need.
+Paradoxically, we need to *let go* of our focus on *products* to be able to understand the users and to develop products that users need.
 
 
 ## User need research is an iterative process, not a linear one
 
-The process that I describe in this book may seem to be divided into clear steps. If you look at the main chapters they are:
+The process that I describe in this book may seem to be divided into clear steps, each of which having its own chapter. But in contrast to what the linear structure of this book suggests, it is very useful to switch between steps and also go back to previous ones:
 
-However, this is a simplification that enabled me to describe these methods in a linear and organized text. Actually, the process might look more like:
+* If I talk to three students about eLearning (Step: *Data Gathering*), and two of them mention they use Facebook discussion groups for exchanging on learning tasks with peers, I could specifically recruit additional people (Back to step *Prepare your research*) who could walk me through a few of such groups.
+* If I notice in *data analysis*, that I can't make much sense of the emerging themes, I could schedule a few sessions of listening and observing and focus on the topics of motivation, freedom and client feedback (and by that go back to *prepare research*, *data gathering* and *analyzing data*).
 
-It is very useful to iterate the steps instead of doing all of them, one after the other.
-
-* If I talk to three students about eLearning, and two of them mention they use Facebook groups for exchanging on learning tasks with peers, I could specifically recruit people who would walk me through a few of such groups.
-* If I notice in data analysis, that there might be a connection between two concepts, maybe a conflict between ›Trying many ideas freely‹ and ›Client feedback constrains me‹, I could schedule a few sessions of listening and observing and focus on the topics of motivation, freedom and client feedback.
-
-Aside of these specific ideas, it also helps you learning: You can see how your actions affect later steps and vary your approaches. It can be very useful to reflect on these learnings e.g. by writing notes to yourself.
-
-<!-- TODO: Example of memo -->
-
-User need research is an iterative process: Instead of doing all steps once after each other, you can loop some of them before proceeding. This allows to use insights from later steps (like analysis) to shape earlier steps (like data gathering).
+User need research is an iterative process: Instead of doing all steps once after each other, you can loop some of them before proceeding. This allows using insights from later steps (like analysis) to shape earlier steps (like data gathering).
