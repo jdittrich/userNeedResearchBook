@@ -22,12 +22,11 @@
 #layoutWrapper #autoToc{
 font-family:sans-serif;
 color:black;
-background:rgb(230,235,240);
+background:rgb(245,245,245);
 top: 0px;
 left: 0px;
 font-size:0.8rem;
 box-sizing: border-box;
-box-shadow: 3px 3px 2px hsla(0, 0%, 0%, 0.2);
 min-width:auto;
 height:auto;
 padding-bottom: 0px;
