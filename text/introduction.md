@@ -77,6 +77,4 @@ The process that I describe in this book may seem to be divided into clear steps
 * If I talk to three students about eLearning (Step: *Data Gathering*), and two of them mention they use Facebook discussion groups for exchanging on learning tasks with peers, I could specifically recruit additional people (Back to step *Prepare your research*) who could walk me through a few of such groups.
 * If I notice in *data analysis*, that I can't make much sense of the emerging themes, I could schedule a few sessions of listening and observing and focus on the topics of motivation, freedom and client feedback (and by that go back to *prepare research*, *data gathering* and *analyzing data*).
 
-![Top: how step-wise design processes are described. Bottom: What actually happens](images/linearAndNonlinearDesignProcess.svg)
-
 User need research is an iterative process: Instead of doing all steps once after each other, you can loop some of them before proceeding. This allows using insights from later steps (like analysis) to shape earlier steps (like data gathering).
