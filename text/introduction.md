@@ -13,7 +13,7 @@ I got some interesting mails back and tried to consider their answers in my desi
 
 <!-- Possible example here -->
 
-It was initially not easy to learn about this: Some books started with a lot of theory that was build on additional theories. Other books were more design oriented, but seemed to require a big team of well-trained people and a huge budget. However, there were also great resources, blog posts and conversations that helped me to find methods that I could use for my projects. In this book I want to show you how to use these methods. 
+It was initially not easy to learn about this: Some books started with a lot of theory that was build on additional theories. Other books were more design oriented, but seemed to require a big team of well-trained people and a huge budget. However, there were also great resources, blog posts and conversations that helped me to find methods that I could use for my projects. In this book I want to show you how to use these methods.
 
 These methods should…
 
@@ -76,5 +76,7 @@ The process that I describe in this book may seem to be divided into clear steps
 
 * If I talk to three students about eLearning (Step: *Data Gathering*), and two of them mention they use Facebook discussion groups for exchanging on learning tasks with peers, I could specifically recruit additional people (Back to step *Prepare your research*) who could walk me through a few of such groups.
 * If I notice in *data analysis*, that I can't make much sense of the emerging themes, I could schedule a few sessions of listening and observing and focus on the topics of motivation, freedom and client feedback (and by that go back to *prepare research*, *data gathering* and *analyzing data*).
+
+![Top: how step-wise design processes are described. Bottom: What actually happens](images/linearAndNonlinearDesignProcess.svg)
 
 User need research is an iterative process: Instead of doing all steps once after each other, you can loop some of them before proceeding. This allows using insights from later steps (like analysis) to shape earlier steps (like data gathering).
