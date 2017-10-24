@@ -5,7 +5,7 @@ STYLESDIR = $(BASEDIR)/styles
 TEMPLATEDIR=$(BASEDIR)/templates
 TEXTDIR=$(BASEDIR)/text
 YAMLMETA = $(TEXTDIR)/URBookMetadata.yaml
-TEXTSOURCES=$(TEXTDIR)/license.md $(TEXTDIR)/introduction.md $(TEXTDIR)/findPeople.md $(TEXTDIR)/prepareTheResearch.md $(TEXTDIR)/dataGathering.md $(TEXTDIR)/afterTheSession.md $(TEXTDIR)/dataAnalysis.md $(TEXTDIR)/communicateResults.md $(TEXTDIR)/appendix.md
+TEXTSOURCES=$(TEXTDIR)/license.md $(TEXTDIR)/introduction.md $(TEXTDIR)/prepareTheResearch.md $(TEXTDIR)/dataGathering.md $(TEXTDIR)/afterTheSession.md $(TEXTDIR)/dataAnalysis.md $(TEXTDIR)/communicateResults.md $(TEXTDIR)/appendix.md
  
 help:	
 	@echo ' '
