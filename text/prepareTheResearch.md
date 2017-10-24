@@ -155,7 +155,7 @@ These topics are relevant for design, and they can be easily remembered even in 
 
 -------------
 
-There are other frameworks, like *AEIOU* [^if you want to know about its origins, read [Building a Useful Research Tool: An Origin Story of AEIOU ](https://www.epicpeople.org/building-a-useful-research-tool/)]. If you don't like MAP, it can be a good alternative. It is a mnemonic for the following aspects:
+There are other frameworks, like *AEIOU* ^[if you want to know about its origins, read [Building a Useful Research Tool: An Origin Story of AEIOU ](https://www.epicpeople.org/building-a-useful-research-tool/)]. If you don't like MAP, it can be a good alternative. It is a mnemonic for the following aspects:
 
 * ***A**ctivities* – what people to achieve something
 * ***E**nvironments* where do the activities happen?
