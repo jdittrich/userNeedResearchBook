@@ -17,13 +17,13 @@ It was initially not easy to learn about this: Some books started with a lot of 
 
 These methods should…
 
-* …be useful for design projects in business and academia
-*… work without a large budget
-* …be understandable and applicable without a specific (academic) background
+* … be useful for design projects in business and academia
+* … work without a large budget
+* … be understandable and applicable without a specific (academic) background
 
 To ease learning, I provide examples. I found it particularly useful to have them myself when learning about skills like *asking open questions* or *clustering themes*. Much more useful than a definition is to see how these are done.
 
-Friends supported me by volunteering for an example research project on project work of freelancing designers, so a lot of examples will be drawn from this project.
+Friends supported me by volunteering for an example research project on the work of freelancing designers, so a lot of examples will be drawn from this project.
 
 ## User need research is most useful in early stages of a project
 
