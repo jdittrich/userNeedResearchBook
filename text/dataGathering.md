@@ -3,7 +3,6 @@
 In this chapter, I will show how to gather data to get to know about the activities, motivations and problems of our research participants.
 You will gather informations by listening to descriptions and explanations of our participants and by observing them working.
 The resulting data will be text, photos and diagrams.
-<!-- TODO: check if transcription of photos is part of analysis -->
 
 Contrary to a common misconception of user need research, your inquiry will not be (directly) about future ideas and design –
 you are not going to ask »do you think that a \[gadget\] would help you?«. It is hard to reliably guess if something would be a
@@ -12,14 +11,19 @@ of the participant. Instead of dealing with ideas directly, you will  find out a
 This will allow to evaluate your ideas (»do my ideas  match what they consider essential?«) and to get inspiration for new ideas (»how can I support this motivation?«)
 
 To make this work, see your participants as competent in what they do: they are experts in their fields and in their daily work.
-This is contrary to the idea of designers and programmers as people who improve the lives of those
-who »don’t get it«. Instead of this, assume that the participants have a reason of doing their work the way they do it.
+This is contrary to the idea that people »don’t get it« and need to be helped by designers and programmers. Instead of this, assume that the participants have a reason of doing their work the way they do it.
+
+<!-- TODO: Show intertwinement with analysis and sensemaking
+
+e.g. The gathering the data will be followed by analyzing it. However, it makes sense to intertwine the data gathering and data analysis: … TODO
+
+-->
 
 ## Modes of data gathering
 
 ### Listening and asking questions
 
-A common way to gather data is asking questions and listening to the participant’s answers. However, the use of questions and answers in user needfinding is unlike the questions and answers in questionnaires. In questionnaires, it is often aimed for short, definitive answers out of a determined set of possibilities (»on a 4 point scale: how much do you agree with…«). Instead of this, you aim for longer answers that are not from a determined set of possible answers. Thus, you are more likely to get rich descriptions, much like veritable stories which retell the participant’s experiences. In addition, these stories tell you about the context of the user’s activities and the user’s motivations. To encourage giving such story like answers, you  often need to ask for descriptions of activities and the reasons for doing them.
+A common way to gather data is asking questions and listening to the participant’s answers. However, the use of questions and answers in user needfinding is unlike the questions and answers in questionnaires. Questionnaires often aimed for short, definitive answers which need to be selected from of a set of possibilities (»on a 4 point scale: how much do you agree with…«). In user needfinding instead, you aim for longer answers that are not from a determined set of possible answers. Thus, you are more likely to get rich descriptions, much like stories which retell the participant’s experiences. These stories tell you about the context of the user’s activities and the user’s motivations. To encourage giving such story like answers, you  often need to ask for descriptions of activities and the reasons for doing them.
 
 > »Can you describe me how you decided to use this layout?«
 >
@@ -31,33 +35,20 @@ Asking questions and getting answers form a participant is a very versatile tool
 
 But because of this it can happen that you hardly focus on actual  experiences and instead talk about abstract events. Observations are thus a good supplement to asking questions and listening, since observations are naturally concerned with actual actions you can see happening at the very moment.
 
-<!-- TODO usage hints
-
-Assessment
-Positive:
-Very versatile
-Probably the most applied, best documented data gathering method
-It is similar to a conversation
-Con:
-It is similar to a conversation and we easily fall in patterns of our normal conversations: Cutting the participant off, suggesting the answer in our questions and restricting the possible answers to yes or no.
-Good for: Good for almost anything. Particularly helpful to explore anything not concrete like motivations and feelings..
-
--->
-
 ### Observe
-
-<!-- TODO: how is this reflected in data recording? Observations can be noted, sketched and photographed -->
 
 What Participants describe is not always the ideal way to convey the information. Just like a picture can be worth a thousand words, it makes often sense to ask participants to show what they mean and to demonstrate how they work. It can also be easier compared to describing to.
 
-When you observe, you will even notice things your participants would never consider mentioning: It may have become second nature for them which tools they use, how they apply these tools to their work and which problems they meet. As well, you may gain information about the context, like means of communicating with co-workers or cues in the environment that point out problems – for example quick fixes on devices using tape and cardboard, or added instructions on devices and machines.
+When you observe, you will even notice things your participants would never consider mentioning: It may have become second nature for them which tools they use, how they apply these tools to their work and which problems they meet, so they won't mention it. But you can observe it. You can also gain information about the context, like means of communicating with co-workers or cues in the environment that point out problems – for example quick fixes on devices using tape and cardboard, or added instructions on devices and machines.
+
+<!-- possibly show photo of quickfix here like the taped credit card machine: https://www.flickr.com/photos/31068346@N05/35836744434/in/dateposted-public/ -->
 
 It is not needed to have observation as a separate step in the research process. It makes great sense to interweave it with asking questions and listening. Just ask for a demonstration instead of a description.
 
 > Participant: »So I got this image and now I would try to get a suitable crop for that flyer«
 > Researcher: »Can you show me how you do it?«
 
-Think of yourself as an apprentice of the participant. The participant is the master or expert who can teach you some of his/her skills. This means that understanding the user by observing is not a passive process. Like an apprentice, you can and should ask questions.
+Think of yourself as an apprentice of the participant. The participant is the expert who can teach you some of their skills. This means that understanding the user by observing is not a passive process. Like an apprentice, you can and should ask questions.
 
 > Ask about reasons: »You drew that object and changed it size, then you deleted it again… what was the reason behind this?
 > Ask about things you notice in the environment: »Can you tell me what these markings are for?«
@@ -76,25 +67,27 @@ Avoid positioning yourself as the expert in the participant’s domain by sugges
 
 ![observing the user’s work](images/ObservationDesign1.jpg)
 
-<!-- TODO usage hints
+### Co-Document in diagrams and lists
 
-Positive:
-Very rich, detailed data
-Negative:
-It is not always possible to show something spontaneously: It may depend on other factors, like time, a colleague handing in something etc.
-Use it for…:
-Understanding a work activity in detail
-If something is “hard to explain” for a participant, it may be easy to show, instead.
-Get the problems, glitches and shortcuts of actual work as opposed to “the way it should be”
+The simplest form of this data gathering method is listing steps to do a task together with the participant:
 
--->
+   > I wonder how you edit data on wikidata – what are your steps?
 
-### Diagrams
+Sharing the list allows the researcher to ask questions:
 
-You probably have used diagrams to show something: A flowchart, a map, an illustration of a device etc. Instead of only using diagrams to *show* what you know, you can also create them together with a participant to *collect data*.
+    > You said you do
 
-The diagrams you will deal with in research give graphical overviews of topics such as: Moods, Spacial configuration, social connections, instructions of use for software or devices, workflows etc.
+and the participant can make corrections
 
+    >
+
+The writing can be done by the researcher, participant or both. No single person »owns« the paper.
+
+The list is a relatively simple form: Steps in linear order. But add an arrow and you get loops and conditions.
+
+>
+
+With that you are on the level of simple diagramming. Other formats for co-documentation can be very free in form, like an annotated sketch, they could look similar to typical statistical charts or focus on connections like in a mind map.
 
 ![timeline diagram. If the graph goes up, the mood gets better, if it goes down, the participant feels bad, borded or annoyed](images/U1_GoodBadTime_Diagramm.svg)
 
@@ -102,42 +95,27 @@ The diagrams you will deal with in research give graphical overviews of topics s
 
 ![List with workflow steps](images/List_Task.png)
 
-You can spontaneously use drawings, but it often makes sense to prepare templates. For the timeline diagram of moods above, my template looked like this:
+It often makes sense to prepare templates. For the timeline diagram of moods above, my template looked like this:
 
-<!-- TODO Example template -->
 ![example template](images/GoodBadTime_Diagramm.svg)
 
-These templates give some scaffold which makes creating the diagrams easier. Some people still hesitate to create diagrams, since they think they are expected to produce artworks or accurate sketches. In this case, tell them:
+These templates give some scaffold which it easier for the participants to create the diagrams. Some people still hesitate to create diagrams, since they think they are expected to produce artworks or accurate sketches. In this case, tell them:
 
 > »When I say documenting by drawing and writing, it does not mean that we are going to produce an artwork here. This is what the end result may look like«
 
 Show an example from an unrelated area of research so they can see what you are going for (In a corner of my templates I often have a little example inserted).
 
-You and the participant create the diagram together. No single person »owns« the paper. The degree of collaboration can vary, though: It may be the case that the participant looks over your shoulder and comments verbally, while you draw; I can be the case that the participant creates the diagram without much intervention from your side and you just ask some questions.
-
-![researcher pointing and asking: »*What dows this comment mean?*«](images/diagram_researcherPoints.jpg)
-
-To make them comprehensible, diagrams will have comments to explain what is drawn. If you don’t understand something, point to it and ask the participant. Both, you or the participant, can then write the information in the diagram.
+To make them comprehensible, diagrams will have comments to explain what is drawn. If you don’t understand something, point to it and ask the participant. Both, you or the participant, can then write the additional information in the diagram.
 
 > »The line here seems to indicate that you were very happy at the beginning of the project…«
 > Participant: »Yes, I’m looking forward to doing it and there are so many ideas«
 > You: »Can you write this in the diagram, so I can understand it later?«
 > Participant: [Writes as comment in the diagram] Looking forward, Many Ideas: Good
 
+<!-- TODO: Pointability particularly useful since it eases memory load and is less awkward (?). On the other hand: meta -->
+
 The diagrams can often be understood easily after the research. Often, they just need some additional comments added to make sense for you or others. For interviewing and observation this is often not the case: You need to spend much time transcribing and ordering the results.
 
-
-<!-- TODO: usage hints -->
-<!--
-Positive:
-Templates and creating the diagrams together can be a great help for beginners
-Easy to document with just some additional notes
-Diagrams can aid conversation about what is shown in the diagram
-Negative:
-You need to bring some materials and create the templates
-Use it when:
-* If you roughly know what interests you and you need to gain an overview of it: “How do you repair a computer?”, “What do places in your neighborhood mean for you” etc.
--->
 
 ## Start the research session
 
@@ -147,8 +125,7 @@ When you have found a participant, a place, a time and have your equipment ready
 
 My  advice is  simple: Be friendly. If you come to
 their place (which is preferable, since you can observe the actual
-context) be a nice guest; if they come to your place or you meet in some
-»neutral space«, be a nice host.
+context) be a nice guest; if they come to your place or you meet in some »neutral space« (which includes online conversations), be a nice host.
 
 Greet the participant and thank for their time:
 
@@ -168,15 +145,13 @@ Make clear that you are here to learn – and not an evaluator of the
 quality of the participant’s work.
 
 >…Therefore we'd like to get to know how you work. You are an expert in
- that field and we'd like to learn from you. This is not some kind of
- test – when I ask questions, there are no wrong answers.
+> that field and we'd like to learn from you. This is not some kind of
+> test – when I ask questions, there are no wrong answers.
 
-Although you may have described the timeframe and the method already
+Although you may have described the time frame and the method already
 when recruiting the participant, tell again what you are going to do:
 
-> We will have a conversation about your work and I'll be asking some
-questions. In addition, I’m interested in watching you when you do your work.
-The whole process will take about an hour.
+> We will have a conversation about your work and I'll be asking some questions. In addition, I’m interested in watching you when you do your work. The whole process will take about an hour.
 
 
 The participant must know how you record data and who will see it. So
@@ -184,14 +159,14 @@ tell the Participant:
 
 
 > I'd like to take notes, and, in addition, record audio – if that is
-OK with you. The audio recording helps me to focus on your work as I
-don’t need to concentrate as much on writing notes, if I have the
-recording as backup. Me and a colleague will listen to the audio;
-we will anonymize and transcribe the data before we share
-it with the product design team.
+> OK with you. The audio recording helps me to focus on your work as I
+> don’t need to concentrate as much on writing notes, if I have the
+> recording as backup. Me and a colleague will listen to the audio;
+> we will anonymize and transcribe the data before we share
+> it with the product design team.
 >
 > If you feel uncomfortable with being recorded at any time we can pause
-the recording.
+> the recording.
 >
 > You can cancel the interview at any time if you feel it is needed.
 
@@ -202,15 +177,15 @@ have  additional information.
 
 
 > [Example from an in-house research project] »Audio recording… I’m not sure about this…«
-»Thats fine with me. Though, may I ask what worries are?« »Hmm…yeah, I don't like, you know, human
- resources to get that data«
+> »Thats fine with me. Though, may I ask what worries are?« »Hmm…yeah, I don't like, you know, human
+>  resources to get that data«
 >
 >  »I understand your concern. It is fine if you don't agree but I can
- assure you that Human Resources is a separate section. We don't share
- personal data and what we record today is not accessible to them. Also, all data
- that leaves my computer or the one of my colleague is being anonymized
- and we remove all data that points to you as person, including names,
- workplace and so on.
+>  assure you that Human Resources is a separate section. We don't share
+>  personal data and what we record today is not accessible to them. Also, all data
+>  that leaves my computer or the one of my colleague is being anonymized
+>  and we remove all data that points to you as person, including names,
+>  workplace and so on.
 
 
 If they don’t agree, just stick with writing notes.
@@ -226,7 +201,7 @@ session.
 
 ### Start simple
 
-Start with some easy-to-answer questions – like: »Lets start with some simple questions about your job«. You can ask »What is your job title« and maybe follow »How do you name your Job when friends ask you what you do?«. As well, it might be interesting how experienced the person is: »How long have you been working in your current occupation?« These examples are tied to work related studies – for doing research with university studentsm I tie the questions to their particular context and ask, for example, how long they have been studying so far.
+Start with some easy-to-answer questions – like: »Lets start with some simple questions about your job«. You can ask »What is your job title« and maybe follow »How do you name your Job when friends ask you what you do?«. As well, it might be interesting how experienced the person is: »How long have you been working in your current occupation?« These examples are tied to work related studies – for doing research with university students I tie the questions to their particular context and ask, for example, how long they have been studying so far.
 
 These questions will help you to get to know some context of the participant’s work. But there is another advantage: Such questions are easy to answer. This gets the participants used to answering questions and opening up towards you. After a brief section with these easy-to-answer questions, you can transition to questions that demand more elaborate answers.
 
@@ -241,7 +216,7 @@ However, when giving this kind of feedback you should be careful. You could easi
 > A negative example of feedback would be:
 > »It was great to hear that you say you have some trouble exchanging files by mail!« (Since you may have already thought of a feature that might be helpful in that case)
 
-The participant will try to be a nice person try to make you happy by going on about the problems with files in mails even if sending files per mail is possibly not that bad in the participant’s view. Instead of reassuring the participant using judgements and emotions, focus on the fact that you got information you that helps you:
+The participant will try to be a nice person try to make you happy by going on about the problems with files in mails even if sending files per mail is possibly not that bad in the participant’s view. Instead of reassuring the participant using judgments and emotions, focus on the fact that you got information you that helps you:
 
 > »That was interesting to hear –«
 
@@ -255,7 +230,17 @@ Probably, you would not make a bad impression anyway, but let’s go through it 
 
 ![much better posture](images/bodyPostureGood.jpg){.portrait}
 
+<!--  TODO: could get a "expose you non-knowledge" or so (Like in spreadley)
+
+* Show your non-knowledge
+* Show that you want to know more
+
+-->
+
+
 ## Don’t skew the results
+
+<!-- TODO possibly: The framing of "skewing" assumes that there is one true answer -->
 
 ### Ask open questions
 
@@ -459,7 +444,7 @@ So: don’t be afraid to react towards the participant – reacting towards the 
 essential in our research. But don’t suggest »good« or »bad« answers or
 »good« or »bad« ways of doing things by using words, gestures or facial expressions.
 
-### Silence feels strange but is o.k.
+### Silence feels strange but is okay
 
 <!-- TODO check if it should be merged with probing -->
 
@@ -471,11 +456,10 @@ along.
 creating the print-ready-file? [1 sec] Was it all well?« »yeah, sort
 of well I think«
 
-
 It is tempting to fill the silence with suggestions for the answer. But
-it can skew the answers and can turn a open question (»can you
-describe…?«) into a closed question (»can you describe… was it…?«
-/»yes«).
+it can turn a open question (»can you describe…?«) into a closed question
+(»can you describe… was it…?«/»yes«) or prevent the participant coming up with
+their answer on their own.
 
 Try to tolerate the silence. Usually, the participant will
 answer within a few seconds. If you notice silence which you want to fill, count
@@ -489,32 +473,26 @@ Or
 
 > Can you tell me what you are thinking about?
 
+By asking these questions, you can help the participant to continue with
+elaborating on the question you asked, even if they need some thinking to
+answer it. <!-- CHECK: new section-->
 
-If the participant has started to give an answer already but stops talking and makes a longer pause and you still like to know more, you could »echo« the most recent statement or words the participant has said.
-
-
-
-> Participant: »So I had it finished and send it away to the client and then almost nothing… [Pause]«
->
-> Researcher: »almost nothing?«
+<!-- TODO: new section here:
 
 
-This is a technique to make people carry on without skewing their
-answer.
 
 
-> Researcher:»almost nothing?«
->
-> Participant: »Yes, there was a brief mail that they got the
- design but I was unsure if that person actually gave it to
- the people who can decide something. That waiting just sucks.«
+TODO: possibly move switch topics here?
+-->
+
 
 ## Take a closer look
 
 ### Probing
 
 You got some valuable information, but there seems to be even more interesting things you may get to know about that topic. In this case you can »probe« for further information.
-We already know one way to do this: Silence. The participant may just jump in and fill the silence with further information.
+
+ We already know one way to do this: Silence. The participant may just jump in and fill the silence with further information.
 
 > Participant: »So I had it finished and send it away to the client and then almost nothing… «
 > [Pause, Researcher nods]
@@ -525,7 +503,7 @@ If leaving a pause does not make sense, you can achieve a similar outcome by rep
 > Participant: »So I had it finished and send it away to the client and then almost nothing… «
 > Researcher: »almost nothing?«
 
-This is a technique to make people carry on without actually adding any information.
+This this way, you can help participants to carry on without actually adding any information yourself.
 
 > Researcher: »almost nothing?«
 > Participant: »Yes, there was a brief mail that they got the design but I was unsure if that person actually gave it to the people who can decide something. That waiting just sucks.«
@@ -580,7 +558,22 @@ OR
 
 By checking your interpretations of the participants descriptions and activities, you can avoid misunderstandings and gain additional insights.
 
+<!-- TODO: Ask for a demonstration and examples -->
+
+### Ask for examples
+
+Seeing an actual example avoids misunderstandings and gives rich opportunities for further insights: If possible, ask for an example, when participants mention activities or tools they use.
+
+> Participant: …so I would use the thing here.
+> Researcher: The thing?
+> Participant: Yes, it is a little icon on my desktop that does help me, when things go wrong!
+> Researcher: Can you show me how you use it?
+
+This avoids misunderstandings. The »thing« could be a script that fixes a setting. Or something else. We don't know, and it is easier for researcher and participant to look at it together.
+
 ## Steer the course of research
+
+<!-- TODO: Integrate into modes of data gathering and kinds of questions? -->
 
 ### Switch topics
 
@@ -647,7 +640,7 @@ Again, the methods can be intertwined:
 
 > You said that the client is often unclear in what he wants and says things like »it should pop more«. I write that here in the diagram, so I can remember it.
 
-Using different methods and switching between them may seem like additional work. However, it can ease your work and, at the same time, increase its outcomes – just like choosing the right tools in manual crafts.
+Using different methods and switching between them may seem like additional work. However, it can ease your work and, at the same time, improve its outcomes – just like choosing the right tools in manual crafts.
 
 ## Recording data
 
@@ -661,7 +654,7 @@ While you observe or listen to the participant you will take brief notes. This i
 \
 <!-- SECTION: TECHNIQUE -->
 
-When you look at your notesheet and think about what to write down, listening and observing don't work well. Try too keep it as unobtrusive as possible.
+When you look down at your notes and think about what to write, listening and observing don't work well. Try too keep it as unobtrusive as possible.
 
 
 * If you don’t care too much about your handwriting you can write notes without much looking at the paper except for some occasional glances (the method has its limits, though)
@@ -698,6 +691,7 @@ Note that it is not a perfect capture of all that happened: It records only soun
 participant points to the screen and refers to »this«, the recording is not much of help.
 
 ### Photos
+
 Making photos is rather easy and can capture lots of information. For example, you can
 photograph the participant's desk to aid your memory. Later, you can go back and see
 what was on it: Paper, pens, computer; were there tidy looking stacks and containers
