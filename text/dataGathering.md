@@ -1,17 +1,18 @@
 ﻿# Data Gathering
 
+<!-- TODO: fix dashes (" n " to "m"), italicize quotes, turn »« into “” -->
+
 In this chapter, I will show how to gather data to get to know about the activities, motivations and problems of our research participants.
-You will gather informations by listening to descriptions and explanations of our participants and by observing them working.
+You will gather information by listening to descriptions and explanations of our participants and by observing them working.
 The resulting data will be text, photos and diagrams.
 
 Contrary to a common misconception of user need research, your inquiry will not be (directly) about future ideas and design –
 you are not going to ask »do you think that a \[gadget\] would help you?«. It is hard to reliably guess if something would be a
 great thing to have in the future and the answer would tell you not much about the actual activities, motivations or problems
-of the participant. Instead of dealing with ideas directly, you will  find out about the *how* and *why* of our participant’s activities.
-This will allow to evaluate your ideas (»do my ideas  match what they consider essential?«) and to get inspiration for new ideas (»how can I support this motivation?«)
+of the participant. Instead of dealing with ideas directly, you will find out about the *how* and *why* of our participant’s activities.
+This will allow to evaluate your ideas (»do my ideas match what they consider essential?«) and to get inspiration for new ideas (»how can I support this motivation?«)
 
-To make this work, see your participants as competent in what they do: they are experts in their fields and in their daily work.
-This is contrary to the idea that people »don’t get it« and need to be helped by designers and programmers. Instead of this, assume that the participants have a reason of doing their work the way they do it.
+To make this work, see your participants as competent in what they do: they are experts in their fields and in their daily work. This is contrary to the idea that people »don’t get it« and need to be helped by designers and programmers. Instead of this, assume that the participants have a reason of doing their work the way they do it.
 
 <!-- TODO: Show intertwinement with analysis and sensemaking
 
@@ -33,13 +34,13 @@ A common way to gather data is asking questions and listening to the participant
 
 Asking questions and getting answers form a participant is a very versatile tool. It can be done without many resources. You are not tied to a specific place and you can talk about past events as well as future plans.
 
-But because of this it can happen that you hardly focus on actual  experiences and instead talk about abstract events. Observations are thus a good supplement to asking questions and listening, since observations are naturally concerned with actual actions you can see happening at the very moment.
+But because of this it can happen that you hardly focus on actual experiences and instead talk about abstract events. Observations are thus a good supplement to asking questions and listening, since observations are concerned with actual actions you can see happening at the very moment.
 
 ### Observe
 
 What Participants describe is not always the ideal way to convey the information. Just like a picture can be worth a thousand words, it makes often sense to ask participants to show what they mean and to demonstrate how they work. It can also be easier compared to describing to.
 
-When you observe, you will even notice things your participants would never consider mentioning: It may have become second nature for them which tools they use, how they apply these tools to their work and which problems they meet, so they won't mention it. But you can observe it. You can also gain information about the context, like means of communicating with co-workers or cues in the environment that point out problems – for example quick fixes on devices using tape and cardboard, or added instructions on devices and machines.
+When you observe, you will even notice things your participants would never consider mentioning: It may have get second nature for them which tools they use, how they apply these tools to their work and which problems they meet, so they won't mention it. But you can observe it. You can also gain information about the context, like means of communicating with co-workers or cues in the environment that point out problems – for example quick fixes on devices using tape and cardboard, or added instructions on devices and machines.
 
 <!-- possibly show photo of quickfix here like the taped credit card machine: https://www.flickr.com/photos/31068346@N05/35836744434/in/dateposted-public/ -->
 
@@ -58,7 +59,7 @@ Teaching an apprentice is not a theoretical or artificially set up process: The 
 > Participant: »What should I do now?«
 > You: »What would you do if I would not be here?«
 
-Naturally, they should be relevant to your interests as well:
+Of course, they should be relevant to your interests as well:
 
 > [continuing the conversation above] Participant: »I would either crop this bunch of images or I'd try to find a suitable font for the headlines in this document
 > You: »If the tasks are equally relevant to you, I'd be more interested in watching you choosing the fonts«
@@ -69,25 +70,11 @@ Avoid positioning yourself as the expert in the participant’s domain by sugges
 
 ### Co-Document in diagrams and lists
 
-The simplest form of this data gathering method is listing steps to do a task together with the participant:
+<!-- todo: Review with images --> 
 
-   > I wonder how you edit data on wikidata – what are your steps?
+In co-documentation, the participant and you record the data together by drawing and writing. This can be as simple as asking the participant: *“Draw a simple floorplan of your office. Mark what is important to your work and write why”*.
 
-Sharing the list allows the researcher to ask questions:
-
-    > You said you do
-
-and the participant can make corrections
-
-    >
-
-The writing can be done by the researcher, participant or both. No single person »owns« the paper.
-
-The list is a relatively simple form: Steps in linear order. But add an arrow and you get loops and conditions.
-
->
-
-With that you are on the level of simple diagramming. Other formats for co-documentation can be very free in form, like an annotated sketch, they could look similar to typical statistical charts or focus on connections like in a mind map.
+Here are some examples of co-documentation results:
 
 ![timeline diagram. If the graph goes up, the mood gets better, if it goes down, the participant feels bad, borded or annoyed](images/U1_GoodBadTime_Diagramm.svg)
 
@@ -95,27 +82,23 @@ With that you are on the level of simple diagramming. Other formats for co-docum
 
 ![List with workflow steps](images/List_Task.png)
 
-It often makes sense to prepare templates. For the timeline diagram of moods above, my template looked like this:
+Having the documentation in front of you and the participant eases improving it directly while it is being created. You, the researcher, can refer to it to ask for elaboration (*“Is this the photocopying machine, that you said gets stuck so often?”*). The information provided in the answer should be added to the documentations. The participant can use the shared documentation to extend already documented things (*“One other thing I add is that I can get paper for the xerox here [writes comment on the paper]”*). Since researcher and participant need to understand the documentation is a check against unclear terms, references and also just sloppy writing. This makes the results often very accessible and useful.
 
-![example template](images/GoodBadTime_Diagramm.svg)
+> »The line here seems to indicate that you were very happy at the beginning of the project…« Participant: »Yes, I’m looking forward to doing it and there are so many ideas« You: »Can you write this in the diagram, so I can understand it later?« Participant: [Writes as comment in the diagram] Looking forward, Many Ideas: Good
 
-These templates give some scaffold which it easier for the participants to create the diagrams. Some people still hesitate to create diagrams, since they think they are expected to produce artworks or accurate sketches. In this case, tell them:
+Who does the recording – drawing and/or writing – depends on what is more practical and gives more interesting data. When researching workflows, *I* write the documentation as a researcher, since participants should be able to demonstrate their tasks directly which is hard when you need to switch between demonstrating and writing all the time. When the participants document a project on a timeline, *they* draw it directly and I only ask questions.
 
-> »When I say documenting by drawing and writing, it does not mean that we are going to produce an artwork here. This is what the end result may look like«
+On way to ease the documenting for the participant is showing a simple example of what the result of a co-documentation can look like. It is helpful if the participant has no clear idea of what they should do. It also can reduce anxiety in drawing related tasks – some people assume they need to produce an artwork and showing that a rough sketch is fine.
 
-Show an example from an unrelated area of research so they can see what you are going for (In a corner of my templates I often have a little example inserted).
+<!-- Example -->
 
-To make them comprehensible, diagrams will have comments to explain what is drawn. If you don’t understand something, point to it and ask the participant. Both, you or the participant, can then write the additional information in the diagram.
+For some types of documentation, templates can be very useful: They give a basic structure and the participlant can fill in the data. This is most useful for chart-like types of diagrams or for annotating a map. But even if you can't provide a template for the primary data, you can still prepare paper with an example, fields for the name, date and title and a blank space for the data. I also sometimes print a small example in a corner of the template.
 
-> »The line here seems to indicate that you were very happy at the beginning of the project…«
-> Participant: »Yes, I’m looking forward to doing it and there are so many ideas«
-> You: »Can you write this in the diagram, so I can understand it later?«
-> Participant: [Writes as comment in the diagram] Looking forward, Many Ideas: Good
+![example template for mood-timeline-diagrams](images/GoodBadTime_Diagramm.svg)
 
-<!-- TODO: Pointability particularly useful since it eases memory load and is less awkward (?). On the other hand: meta -->
+The use of co documentation may be a less widespread method than interviews and observation. It plays well with both, though: You can co-document workflows combined with observing them and you can also go from an interview to co-documenting a specific aspect (*“That is interesting! I would like to remember it clarly later on, so I would like to write the steps down with you”*) or use a documentation to refer back to in an interview (*“You wrote… How does relate to…”*) and add further details to it.
 
-The diagrams can often be understood easily after the research. Often, they just need some additional comments added to make sense for you or others. For interviewing and observation this is often not the case: You need to spend much time transcribing and ordering the results.
-
+Co-documenting via lists, diagrams and drawings may seem unusual in the beginning. But they produce very useful and graspable data by having the researcher and the participant work together. The participant’s active part in documenting and the possibility to see directly what is recorded can empower participants: They are not just passive sources but actively create data.
 
 ## Start the research session
 
@@ -123,7 +106,7 @@ The diagrams can often be understood easily after the research. Often, they just
 
 When you have found a participant, a place, a time and have your equipment ready, you can start with the actual research session.
 
-My  advice is  simple: Be friendly. If you come to
+My advice is simple: Be friendly. If you come to
 their place (which is preferable, since you can observe the actual
 context) be a nice guest; if they come to your place or you meet in some »neutral space« (which includes online conversations), be a nice host.
 
