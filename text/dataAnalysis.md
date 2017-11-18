@@ -1,7 +1,5 @@
 ﻿# Analysis {#Analysis}
 
-## Making sense of data
-
 <!-- general TODO s
 * Check for use of "we". Prefer I, if that is not good, use "you"
 * Introduce one way of formatting the examples. Titles always normal, always with "title:" before?, primary data always italic, primary data never left out (?)
@@ -9,20 +7,9 @@
 
 -->
 
-When you start with the analysis you have done some research sessions. Our goal is to structure the data from your research in a meaningful way.
+The data you gathered can’t be used for supporting design decisions: It consists of many unstructured small pieces. Now you need to structure and analyse the data – similar as writing a summary and interpretation of a long and complex book. Analysis is not a passive process: Making sense of data requires taking different perspectives and trying them out to see how the data can be interpreted.
 
-<!-- todo: secondary reason: inform data collection. primary reason: design -->
-
-* While analyzing your data you will see where you need to adjust research questions or fill gaps in your data. This is why it makes sense to do data gathering and data analysis in parallel.  <!-- TODO where does this iterative structure fit?-->
-
-
-Your data can't be used for supporting design decisions: It consists of many unstructured small pieces. You can't make sense of such a mess.
-
-You need to find a way to order the data in a way which provides us with the sense behind the data, just like a summary and interpretation of a long and complex book.
-
-This is not a passive process: Making sense of data requires taking different perspectives and trying them out to see how the data can be interpreted in different ways to fining interpretations that are helpful for designing and explain the user behavior.
-
-Analyzing the data also helps to communicate your findings. You will be able to summarize it in a way that enables your colleagues or teammates to work with your findings without having taken part in all steps of the process.
+<!-- design and communication. Don't forget iterative -->
 
 ## Doing the »right« Analysis
 
@@ -32,13 +19,7 @@ analysis depends on the reasonable, but still individual and debatable, interpre
 data. You could say that *»looking at last years design to quickly reuse elements«* belongs to a
 theme concerned with *»I want to save time«* or to a theme related to the topic of *»reviewing designs for inspiration«* (given that it could serve both from the user's perspective).
 
-There is no »right« or »wrong«, nor a clear cut criterion of being »close enough« to the data when
-you  interpret your data. Instead of having a clear, measurable rule like the »you
-must have p&#060;0.05 significance« ^[For those of you who love statistics (like me): Sorry for the example. I
-know that this criterion is highly debated] in statistics, most important is that your
-analysis is plausible (instead of »right« or »wrong«).
-
-I compare the process of analysis to building a house from a pile of Lego^®^ bricks. These
+There is no clear-cut »right« or »wrong«, when you interpret your data. Most important is that your analysis is plausible and based on the data you collected. I compare the process of analysis to building a house from a pile of Lego^®^ bricks. These
 bricks are like the not-yet-analyzed data you start with. When you build a house out of these
 bricks, there is no single »right« building. But neither is it a process which is arbitrary.
 
@@ -47,48 +28,37 @@ bricks, there is no single »right« building. But neither is it a process which
 
 ![one way to build a house](images/lego_houseFinished.jpg){.portrait}
 
-There are many, many ways to stack up the bricks – but only a very few of these possible ways will result in something that can be plausibly called a house.
+There are many, many ways to stack up the bricks *somehow* – but only a few of these
+possible ways will result in something that can be plausibly called a house.
 
 How your final Lego^®^ house will look is not determined from the beginning.
-You will change
-designs, move walls and sometimes try to use the same piece in different
+You will change designs, move walls and sometimes try to use the same piece in different
 parts of the building to try out and improve. The same things will
-happen when you analyze data: There are many  possible ways to
- arrange the data, but only some of them will create something that
+happen when you analyze data: There are many possible ways to
+ structure the data, but only some of them will create something that
 is meaningful to you and others. This creation of a meaningful structure
 is not determined at the beginning, but a process, just like building
 your Lego^®^ house, in which you try, fail, find improvements and – step by
 step – come closer to a structure you are satisfied with.
 
 ## How to make sense of diagrams and lists
-<!-- TODO examples of a process for adiagrams scenario based on a step wise list-->
 
-I will explain how to analyze diagrams and lists, this is:
+I will explain how to analyze diagrams and lists. This can be:
 
 * lists and flowcharts, e.g. the steps needed to print a document.
 * charts, e.g. how the mood changes over the day,
 * maps of places, e.g. where is what located in your office,
 * maps of relations, e.g. on what and with whom are your working
 
-In our analysis, we will compare and summarize the collected data and bring it into an easy to grasp form.
+In our analysis, we will compare and summarize the collected data and bring it into an easy-to-grasp form.
 
 ### Prepare the diagrams for analysis
 
 To prepare the analysis, you write annotations on the diagrams. For this, you can photocopy the diagrams and write on the copies. If you like to keep it digital, you can use any application which can add text over images (e.g. the free [*Inkscape*](https://inkscape.org/en/)).
 
-Note possible meanings, like:
-
-<!-- Lists -->
->
-> Here a part of the process of a user to add entries to a free database. Here, they add entries for people working in academia:
->
-> 1. Look up Professor at uni page
-> 2. …seems to be notable (well published)  **NOTE: ensure the source data is suitable**
-> 3. Search → create new wikidata item **NOTE: by using and the button that appears if nothing is foundthe creation of duplicate items is avoided**
-> …
-
 <!-- Good/Bad time -->
-> ![Annotated Diagram](images/U1_GoodBadTime_Diagramm.svg)
+>
+> ![Annotated mood-graph](images/U1_GoodBadTime_Diagramm.svg)
 >
 > In this diagram I noted some ideas for an interpretation:
 >
@@ -103,6 +73,24 @@ Note possible meanings, like:
 > I did such annotations for all the diagrams, to keep it brief, I don't include all of them here.
 >
 
+----------
+
+>
+> ![Annotated workflow diagram: CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/deed.en) Credit: Yarl (Workflow) Papuass (documenting), Jan Dittrich (recording, adaption as SVG) Based on: https://commons.wikimedia.org/wiki/File:WikidataCon_2017_Workshop_Workflows_03.jpg](images/Wikidata_Workflow_1_annotated_noIinterpretation.svg)
+> This is a diagram of a users workflow when editing on the free database project [*Wikidata*](https://www.wikidata.org). Wikidata collects statements about things. These things are called “Items”. The [item for the Mona Lisa](https://www.wikidata.org/wiki/Q12418) could have the statements "instanceOf: Painting", "Creator:Leonardo da Vinci". “Painting” and “Leonardo da Vinci” would be items themselves, so all is linked!
+>
+> The workflows for the Wikidata example were created by participants in a workshop at a conference.
+>
+> I wrote my interpretation and ideas in blue at the workflow steps:
+>
+> * Enabling the gadget (a little helper tool) seems to be a prerequisite, so I wrote “setup”
+> * in 2) a series of points concerned with list creation seems to start: “create a list”
+> * I added a link to the used tool, so I can see how it works (“see: https//pet…”)
+> * The participant wrote they add P31. This is a computer readable identifier for the data property "instanceOf"
+> * For each entry on the list, they seem to open a Wikidata item (“Opens one…”)
+> * Wikipedia is source for data and opened in parallel (“Uses Wikip…”)
+> * 5) seems to be less a workflow step but more a list of problems.
+> * I was irritated by P1234. It is an actual data property on Wikidata, but it did not make much sense, so I assumed 1234 is a placeholder for any number.
 
 
 
@@ -114,7 +102,6 @@ Note common patterns as well as interesting findings, e.g. if most diagrams shar
 > I compared the diagram above with this diagram:
 >
 > ![Annotated Diagram, P2](images/U2_GoodBadTime_Diagramm.svg)
->
 >
 > * It looks much different from the first diagram above – there are far more ups and downs
 > * However, we have also a positive start of the design process
@@ -149,23 +136,54 @@ Note common patterns as well as interesting findings, e.g. if most diagrams shar
 > * Again, like in the diagram before, starting is good. I would hypothesize that the anticipation feels great and that the actual start even lifts the mood a bit on top (?)
 > * Like in P2, client wishes/negative feedback drag the mood down. Here we have negative feedback.
 > * Maybe starting/trying a new approach is a bit like the positive feeling at the projects start (also P4 shows a similar pattern, P2 framed it more as solving problems. I don't know if that is the same)
-> * The pattern of »new approach good/client feedback bad« repeats (at time of the research, the project was still ongoing, so there can't be a "end is positive" pattern here.)
+> * The pattern of »new approach good/client feedback bad« repeats (at time of the research, the project was still ongoing, so there can't be a “end is positive” pattern here.)
+
+
+ -------
+
+
+> Here an example for doing an analysis on workflows:
+![Annotated diagram 1: CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/deed.en) Credit: Yarl (Workflow) Papuass (documenting), Jan Dittrich (recording, adaption as SVG) Based on: https://commons.wikimedia.org/wiki/File:WikidataCon_2017_Workshop_Workflows_03.jpg](images/Wikidata_Workflow_1_annotated.svg)
+> First diagram:
+>
+> * …from the annotating, I already got the impression that there are two main steps: working on a to-do-list and working on an item, adding data.
+>
+![Annotated diagram 2: CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/deed.en) Credit: Susannaanas (documentation), Jan Dittrich (photo and adaption as svg)Based on: https://commons.wikimedia.org/wiki/File:WikidataCon_2017_Workshop_Workflows_04.jpg](images/Wikidata_Workflow_2_annotated.svg)
+>
+> Second Diagram:
+>
+> * Here we seem to have an additional step of creation before data is added to the new item.
+> * The participant checked if there is a corresponding Wikidata-entry the the entry on the to-do list, since the list was created from wikipedia items (in order to check if corresponding wikidata items exists.)
+>
+![Annotated diagram 3: CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/deed.en) Credit: Papuass (Workflow) Yarl (documenting), Jan Dittrich (recording, adaption as SVG)Based on: https://commons.wikimedia.org/wiki/File:WikidataCon_2017_Workshop_Workflows_06.jpg](images/Wikidata_Workflow_3_annotated.svg)
+> Third diagram:
+>
+> * Here is a *create list*-step. It did not happen in 2) but there is also there in 1)!
+> * there is a tool setup-step in the beginning.
+> * The step for the item concerns only its creation and addition of name and description, not adding of content.
+>
+![Annotated diagram 4: CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/deed.en)
+Credit: Liridon (Workflow), Hakanist (documenting), Jan Dittrich (recording, adaption as SVG)
+Based on: https://commons.wikimedia.org/wiki/File:WikidataCon_2017_Workshop_Workflows_08.jpg ](images/Wikidata_Workflow_4_annotated.svg)
+>
+> Forth diagram:
+> * A "Standard"-Function of Wikipedia is used as list (Recent changes page)
+> * In contrast to the other workflows, there is a manual select step (Finding a change concerning a person);
+> * Like in the third diagram, there is editing of name/labels and description – but on an existing item, not a new one.
+*  Like in the first and second diagram, the Wikipedia article serves as data source.
 
 <!--
-
-
-
--->
 ### Crosscheck
 
 It can be interesting and useful to not only compare the diagrams on the same topic, but also relate data across diagrams and also involve your written notes. This also works vice versa – when you analyze your notes, you can check your diagrams for supplemental information and add it to your notes.
-
+-->
 
 ### Summarize
+
 You can summarize the findings in a diagram itself. It will look similar to the ones the participants drew.  In this diagram, you include findings you could support since they showed in several diagrams. I sometimes also include data which I could not necessarily corroborate, but find interesting.
 
 
-> Analyzing the diagrams I got these conclusions:
+> Analyzing the mood-diagrams I got these conclusions:
 >
 > * In all but one (P1) diagram the onset of a project seems to be a good experience
 > * In three (P2, P4, P5) of the five diagrams there is a significant decline after the projects first, motivated phase. The reasons are: Seemingly unsolvable problems, project not going according to the plan and unhappy clients. A commonality is that the named reasons for the bad mood are seemingly out of the control of the participants (Except for P4, where the reason was seen in the »boring« design)
@@ -175,9 +193,22 @@ You can summarize the findings in a diagram itself. It will look similar to the 
 >
 > ![summary of the analysis in diagram form](images/SummaryAnalysis_GoodBadTime_Diagramm.svg)
 
+
+-----------------
+
+
+> I created this diagram to summarize the workflows for editing wikidata:
+> ![summary diagram wikidata edit workflow](images/Wikidata_Workflow_summary.svg)
+> * In the first (“Adding instanceOf…”) and in the third (“Adding wikidata items…”) were a setup step. I included this – also because I knew from other reserach that tool use is widespread
+> * All four editors worked from a list. I tried to specify what that list could be. Different kinds of lists served different purposes: A list of existing items can serve for supplementing these; a list of Wikipedia articles without corresponding Wikidata-items enables the creation of needed items.
+> * All editors did some work on items. However there are different possible actions: creating items (3), some editing existing ones (1,4) and some created and then edited (2).
+
+
+<!-- TODO: Chapter end -->
+
 ## Making sense of notes
 
-Your notes are data in written form, maybe with some occasional sketches. I will demonstrate a method to analyze your notes in depth. In contrast to the methods for analyzing diagrams, this is more complex. However, it is a very powerful method, which allows to go beyond the pure data and extract overarching themes and interrelations from it. It is a variation of typical *qualitative data analysis* methods like *thematic analysis*, *grounded theory* or the like.
+Your notes are data in written form, maybe with some occasional sketches. I will demonstrate a method to analyze your notes in depth. In contrast to the methods for analyzing diagrams, this is more complex. However, it is a very powerful method, which allows going beyond the pure data and extract overarching themes and interrelations from it. It is a variation of typical *qualitative data analysis* methods like *thematic analysis*, *grounded theory* or the like.
 
 
 ### Organize notes hierarchically
