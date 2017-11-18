@@ -64,7 +64,7 @@ To prepare the analysis, you write annotations on the diagrams. For this, you ca
 >
 > * I remembered, that most participants seemed to be quite happy at the beginning of their projects. This participant seemed to have a tough start. I assumed organization and waiting was not a positive experience, so I highlighted it
 > * Starting with the designing itself was a positive experience.
-> * After the start the curve declines a bit. Maybe this is because populating the design with texts and images may be a bit boring.
+> * After the start, the curve declines a bit. Maybe this is because populating the design with texts and images may be a bit boring.
 > * Praise seemed to raise the mood.
 > * …in parallel the participant did line breaks and letter spacing, I assume these are finishing touches and itself maybe a bit boring.
 > * Sending the finished design to the client seemed to be a positive thing. Maybe this is a kind of closure point—“I finished the design!”
@@ -76,7 +76,7 @@ To prepare the analysis, you write annotations on the diagrams. For this, you ca
 ----------
 
 >
-> ![Annotated workflow diagram: CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/deed.en) Credit: Yarl (Workflow) Papuass (documenting), Jan Dittrich (recording, adaption as SVG) Based on: https://commons.wikimedia.org/wiki/File:WikidataCon_2017_Workshop_Workflows_03.jpg](images/Wikidata_Workflow_1_annotated_noInterpretation.svg)
+> ![Annotated workflow diagram: CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/deed.en) *Credit:* Yarl (Workflow) Papuass (documenting), Jan Dittrich (recording, adaption as SVG) *Based on:* https://commons.wikimedia.org/wiki/File:WikidataCon_2017_Workshop_Workflows_03.jpg](images/Wikidata_Workflow_1_annotated_noInterpretation.svg)
 >
 > This is a diagram of a users workflow when editing on the free database project [*Wikidata*](https://www.wikidata.org). Wikidata collects statements about things. These things are called “Items”. The [item for the Mona Lisa](https://www.wikidata.org/wiki/Q12418) could have the statements "instanceOf: Painting", "Creator:Leonardo da Vinci". “Painting” and “Leonardo da Vinci” would be items themselves, so all is linked!
 >
@@ -145,20 +145,20 @@ Note common patterns as well as interesting findings, e.g. if most diagrams shar
 
 > Here an example for doing an analysis on workflows:
 >
-![Annotated diagram 1: CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/deed.en) Credit: Yarl (Workflow) Papuass (documenting), Jan Dittrich (recording, adaption as SVG) Based on: https://commons.wikimedia.org/wiki/File:WikidataCon_2017_Workshop_Workflows_03.jpg](images/Wikidata_Workflow_1_annotated.svg)
+![Annotated diagram 1: CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/deed.en) *Credit:* Yarl (Workflow) Papuass (documenting), Jan Dittrich (recording, adaption as SVG) *Based on:* https://commons.wikimedia.org/wiki/File:WikidataCon_2017_Workshop_Workflows_03.jpg](images/Wikidata_Workflow_1_annotated.svg)
 >
 > First diagram:
 >
 > * …from the annotating, I already got the impression that there are two main steps: working on a to-do-list and working on an item, adding data.
 >
-![Annotated diagram 2: CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/deed.en) Credit: Susannaanas (documentation), Jan Dittrich (photo and adaption as svg)Based on: https://commons.wikimedia.org/wiki/File:WikidataCon_2017_Workshop_Workflows_04.jpg](images/Wikidata_Workflow_2_annotated.svg)
+![Annotated diagram 2: CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/deed.en) *Credit:* Susannaanas (documentation), Jan Dittrich (photo and adaption as svg) *Based on:* https://commons.wikimedia.org/wiki/File:WikidataCon_2017_Workshop_Workflows_04.jpg](images/Wikidata_Workflow_2_annotated.svg)
 >
 > Second Diagram:
 >
 > * Here we seem to have an additional step of creation before data is added to the new item.
 > * The participant checked if there is a corresponding Wikidata-entry the the entry on the to-do list, since the list was created from wikipedia items (in order to check if corresponding wikidata items exists.)
 >
-![Annotated diagram 3: CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/deed.en) Credit: Papuass (Workflow) Yarl (documenting), Jan Dittrich (recording, adaption as SVG)Based on: https://commons.wikimedia.org/wiki/File:WikidataCon_2017_Workshop_Workflows_06.jpg](images/Wikidata_Workflow_3_annotated.svg)
+![Annotated diagram 3: CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/deed.en) *Credit:* Papuass (Workflow) Yarl (documenting), Jan Dittrich (recording, adaption as SVG) *Based on:* https://commons.wikimedia.org/wiki/File:WikidataCon_2017_Workshop_Workflows_06.jpg](images/Wikidata_Workflow_3_annotated.svg)
 >
 > Third diagram:
 >
@@ -167,7 +167,7 @@ Note common patterns as well as interesting findings, e.g. if most diagrams shar
 > * The step for the item concerns only its creation and addition of name and description, not adding of content.
 >
 ![Annotated diagram 4: CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/deed.en)
-Credit: Liridon (Workflow), Hakanist (documenting), Jan Dittrich (recording, adaption as SVG)
+*Credit:* Liridon (Workflow), Hakanist (documenting), Jan Dittrich (recording, adaption as SVG)
 Based on: https://commons.wikimedia.org/wiki/File:WikidataCon_2017_Workshop_Workflows_08.jpg ](images/Wikidata_Workflow_4_annotated.svg)
 >
 > Forth diagram:

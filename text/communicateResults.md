@@ -26,13 +26,13 @@ be used to slidedecks.
 ## First things first
 
 Structure documentation in a way that puts the essential information
-first. A simple rule of thumb is this: If 
+first. A simple rule of thumb is this: If
 a reader stops early at some point, they should already know the most crucial
 information. If the documentation is structured in a different way, it can happen
 that after reading half of it, the most crucial information has not delivered.
 Also, it is motivating to deal with documents that put important matters first.
 One can read e.g. the summary in the beginning and then decide that this is the
-needed information and continue – or discard the document and don't waste time.
+needed information and continue—or discard the document and don't waste time.
 
 ## Don't make it hard to understand
 <!-- TODO: Translator-Metaphor: User to audience? -->
@@ -40,7 +40,7 @@ You create the documentation for people who are not user researchers and who
 often have not taken part in the research. They won't understand any jargon of
 your profession and maybe also not the vocabulary the users use. Thus, avoid
 language that is hard to grasp or uses words unknown to your readers. Instead,
-»translate« for them: Describe the research in terms they know and help them to
+“translate” for them: Describe the research in terms they know and help them to
 make sense of the participants’ language and actions.
 
 As a rule of thumb, rather assume too
@@ -61,10 +61,10 @@ Aim
 Research Methods
 
 : Describe how you gathered and analyzed the data. The research
-in this guide uses  »interviewing and obeservation« for gathering the data and
-»thematic analysis« or »qualitative clustering« as analysis methods (The terms
+in this guide uses  “interviewing and obeservation” for gathering the data and
+“thematic analysis” or “qualitative clustering” as analysis methods (The terms
 for the analysis are not 100% scientifically correct though since analysis
-followed no »official« method)
+followed no “official” method)
 
 Participants/Sample
 
@@ -115,8 +115,8 @@ using headings, lists and italics to guide the reader.
 ![a page spread from a report](images/exampleWrittenReport.png)
 
 There are lots of books which explain how to write concise and easy-to-get text.
-The most efficient guide I know was given by George Orwells in »Politics and the
-English Language« – I quote:
+The most efficient guide I know was given by George Orwells in “Politics and the
+English Language”—I quote:
 
 > 1. Never use a metaphor, simile or other figure of speech which you are used
 to seeing in print.
@@ -129,7 +129,7 @@ to seeing in print.
 ^[[Orwell’s Rules for
 writers](http://wikilivres.ca/wiki/Politics_and_the_English_Language)]
 
-In addition, read the text aloud – in particular, if you already noticed that
+In addition, read the text aloud—in particular, if you already noticed that
 you have had difficulties finding the right word or to express a complicated
 concept. If you need to re-read sentences to make sense of them or to stress the
 right words, you should go for a rewrite.
@@ -141,11 +141,11 @@ help others to have empathy with the users.
 
 > **Rather abstract:** Users like the alignment function
 >
-> **Combined with Quote**: Users like the alignment function. Sandy: »It is like doing work by magic – click! And its there!«
+> **Combined with Quote**: Users like the alignment function. Sandy: “It is like doing work by magic—click! And its there!”
 
 Remember to protect the participant's identity if they did not give you the
 permission to share their quotes or names. If they did not give you the
-permission, only share a plausible, but faked »quote« and don't use real names
+permission, only share a plausible, but faked “quote” and don't use real names
 but faked ones as well. Don’t deceive your audience either: mention that the
 names and quotes are not real but are only corresponding to their actual
 counterparts.
@@ -168,21 +168,21 @@ A good framework for writing scenarios is asking yourself these questions:
 
 Answer them in your scenario:
 
-> Annika studies media culture and needs to finish here homework on »Cultural
-subconceptualist theory in the works of Koons« in order to hand the homework in
-on time. She goes to the library to see if the book on »Capitalism in the works
-of Rushdie« by Andreas Geoffrey contains arguments supporting her view on the
+> Annika studies media culture and needs to finish here homework on “Cultural
+subconceptualist theory in the works of Koons” in order to hand the homework in
+on time. She goes to the library to see if the book on “Capitalism in the works
+of Rushdie” by Andreas Geoffrey contains arguments supporting her view on the
 structuralist paradigm.
 >
 > She enters the library and walks up to one of the
 computers standing in the corners of the library's halls.
 > She wants to look
 up the name of the author, but she notes that she forgot the copy of the book
-that referenced the work. She still knows that »Rusdie« or »Rushdie« was in the
+that referenced the work. She still knows that “Rusdie” or “Rushdie” was in the
 title of the book she needs. After several trials she finds the right spelling
 of the name and, after scanning through a list, she finds the book she wants to
 read. The detail page of the search application gives the address of the library
-building she is in already and a code: »X0-3R52«… \[scenario may continue\]
+building she is in already and a code: “X0-3R52”… \[scenario may continue\]
 
 You could as well create a scenario as a series of sketches, like a comic strip:
 
@@ -230,17 +230,17 @@ by sketching a prototypical arrangement of items.
 
 Illustrations and photos in particular have another function aside of getting
 information across: They make the research and its findings more graspable,
-intuitive and »real« for your audience. Just like scenarios and quotes they
+intuitive and “real” for your audience. Just like scenarios and quotes they
 enable to imagine how your research participants acted which in turn helps to
 develop empathy for them. Consider again our example from above in which an
 image and a text were compared. The photo does not only give some abstract
-information. It shows that you have been with actual participant or – in this
-case – did research on actual tools they use.
+information. It shows that you have been with actual participant or—in this
+case—did research on actual tools they use.
 
 When using photos, remember to protect the privacy of your participants. Only
 show photos of their workplaces or of themselves if they agreed to it.
 
-## Typical documents for reporting results (»Deliverables«)
+## Typical documents for reporting results (“Deliverables”)
 
 You can combine text, images diagrams and scenarios in several ways to
 communicate your message. Let’s look at some possibilities.
@@ -261,7 +261,7 @@ Quick findings are very useful if your audience:
 ### Written Reports
 
 Written reports are roughly four to a several dozen pages long. Nevertheless,
-only deliver what the audience needs and wants to know – be concise. It is easy
+only deliver what the audience needs and wants to know—be concise. It is easy
 to get sidetracked and to write length and complex sentences.
 
 Written reports consist mainly of text, but you should use images, quotes and
@@ -275,7 +275,7 @@ university](images/exampleWrittenReport2.png)
 <!-- TODO: slides with you talking or as a container for information without you being there ein person? -->
 
 Slides can deliver the same content as written reports or quick findings. They
-convey the information in a more visual way – so they have fewer text and more
+convey the information in a more visual way—so they have fewer text and more
 images, diagrams, and storyboards.
 
 If you give the presentation yourself try to deliver as few as possible of the
