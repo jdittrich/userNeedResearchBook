@@ -77,6 +77,7 @@ To prepare the analysis, you write annotations on the diagrams. For this, you ca
 
 >
 > ![Annotated workflow diagram: CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/deed.en) Credit: Yarl (Workflow) Papuass (documenting), Jan Dittrich (recording, adaption as SVG) Based on: https://commons.wikimedia.org/wiki/File:WikidataCon_2017_Workshop_Workflows_03.jpg](images/Wikidata_Workflow_1_annotated_noIinterpretation.svg)
+>
 > This is a diagram of a users workflow when editing on the free database project [*Wikidata*](https://www.wikidata.org). Wikidata collects statements about things. These things are called “Items”. The [item for the Mona Lisa](https://www.wikidata.org/wiki/Q12418) could have the statements "instanceOf: Painting", "Creator:Leonardo da Vinci". “Painting” and “Leonardo da Vinci” would be items themselves, so all is linked!
 >
 > The workflows for the Wikidata example were created by participants in a workshop at a conference.
@@ -84,12 +85,12 @@ To prepare the analysis, you write annotations on the diagrams. For this, you ca
 > I wrote my interpretation and ideas in blue at the workflow steps:
 >
 > * Enabling the gadget (a little helper tool) seems to be a prerequisite, so I wrote “setup”
-> * in 2) a series of points concerned with list creation seems to start: “create a list”
+> * In 2), a series of points concerned with list creation seems to start: “create a list”
 > * I added a link to the used tool, so I can see how it works (“see: https//pet…”)
 > * The participant wrote they add P31. This is a computer readable identifier for the data property "instanceOf"
 > * For each entry on the list, they seem to open a Wikidata item (“Opens one…”)
 > * Wikipedia is source for data and opened in parallel (“Uses Wikip…”)
-> * 5) seems to be less a workflow step but more a list of problems.
+> * Point 5)  seems to be less a workflow step but more a list of problems.
 > * I was irritated by P1234. It is an actual data property on Wikidata, but it did not make much sense, so I assumed 1234 is a placeholder for any number.
 
 
@@ -137,13 +138,15 @@ Note common patterns as well as interesting findings, e.g. if most diagrams shar
 > * Like in P2, client wishes/negative feedback drag the mood down. Here we have negative feedback.
 > * Maybe starting/trying a new approach is a bit like the positive feeling at the projects start (also P4 shows a similar pattern, P2 framed it more as solving problems. I don't know if that is the same)
 > * The pattern of »new approach good/client feedback bad« repeats (at time of the research, the project was still ongoing, so there can't be a “end is positive” pattern here.)
-
+>
 
  -------
 
 
 > Here an example for doing an analysis on workflows:
+>
 ![Annotated diagram 1: CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/deed.en) Credit: Yarl (Workflow) Papuass (documenting), Jan Dittrich (recording, adaption as SVG) Based on: https://commons.wikimedia.org/wiki/File:WikidataCon_2017_Workshop_Workflows_03.jpg](images/Wikidata_Workflow_1_annotated.svg)
+>
 > First diagram:
 >
 > * …from the annotating, I already got the impression that there are two main steps: working on a to-do-list and working on an item, adding data.
@@ -156,6 +159,7 @@ Note common patterns as well as interesting findings, e.g. if most diagrams shar
 > * The participant checked if there is a corresponding Wikidata-entry the the entry on the to-do list, since the list was created from wikipedia items (in order to check if corresponding wikidata items exists.)
 >
 ![Annotated diagram 3: CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/deed.en) Credit: Papuass (Workflow) Yarl (documenting), Jan Dittrich (recording, adaption as SVG)Based on: https://commons.wikimedia.org/wiki/File:WikidataCon_2017_Workshop_Workflows_06.jpg](images/Wikidata_Workflow_3_annotated.svg)
+>
 > Third diagram:
 >
 > * Here is a *create list*-step. It did not happen in 2) but there is also there in 1)!
@@ -167,10 +171,12 @@ Credit: Liridon (Workflow), Hakanist (documenting), Jan Dittrich (recording, ada
 Based on: https://commons.wikimedia.org/wiki/File:WikidataCon_2017_Workshop_Workflows_08.jpg ](images/Wikidata_Workflow_4_annotated.svg)
 >
 > Forth diagram:
+>
 > * A "Standard"-Function of Wikipedia is used as list (Recent changes page)
 > * In contrast to the other workflows, there is a manual select step (Finding a change concerning a person);
 > * Like in the third diagram, there is editing of name/labels and description – but on an existing item, not a new one.
 *  Like in the first and second diagram, the Wikipedia article serves as data source.
+>
 
 <!--
 ### Crosscheck
