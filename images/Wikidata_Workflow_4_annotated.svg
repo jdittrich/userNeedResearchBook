@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="99.755325mm"
+   height="133.0071mm"
+   viewBox="0 0 353.46375 471.28498"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Wikidata_Workflow_4_annotated.svg">
+  <title
+     id="title4210">Wikidata edit workflow 4</title>
+  <defs
+     id="defs4">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5711"
+       id="pattern5716"
+       patternTransform="matrix(0.30951328,0.02062884,-0.00939651,0.35313976,160.96619,525.08547)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="64"
+       height="64"
+       patternTransform="translate(-130.48988,572.35956)"
+       id="pattern5711">
+      <image
+         width="64"
+         height="64"
+         preserveAspectRatio="none"
+         style="image-rendering:optimizeSpeed"
+         xlink:href="data:image/png;base64,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 "
+         id="image5696"
+         x="0"
+         y="0" />
+    </pattern>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="15.636352"
+     inkscape:cy="84.570518"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer3"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Wikidata edit workflow 4</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/3.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Liridon (Workflow) Hakanist (documenting), Jan Dittrich (recording, adaption as SVG)</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="background"
+     style="display:inline"
+     sodipodi:insensitive="true"
+     transform="translate(21.42857,28.571424)">
+    <rect
+       style="opacity:0.50199998;fill:url(#pattern5716);fill-opacity:1;stroke:none"
+       width="353.46375"
+       height="471.285"
+       x="-21.42857"
+       y="-28.571424"
+       id="rect5704" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="license"
+     style="display:inline"
+     transform="translate(21.42857,28.571424)">
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.76005268px;line-height:125%;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:0.26499999;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;enable-background:accumulate"
+       x="-12.731606"
+       y="427.06613"
+       id="text5055"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5057"
+         x="-12.731606"
+         y="427.06613"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.1062746px;font-family:sans-serif;-inkscape-font-specification:sans-serif">CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/deed.en) </tspan><tspan
+         sodipodi:role="line"
+         x="-12.731606"
+         y="432.19897"
+         id="tspan5059"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.1062746px;font-family:sans-serif;-inkscape-font-specification:sans-serif">Credit: Liridon (Workflow), Hakanist (documenting), Jan Dittrich (recording, adaption as SVG)</tspan><tspan
+         sodipodi:role="line"
+         x="-12.731606"
+         y="437.33182"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.1062746px;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         id="tspan4208">Based on: https://commons.wikimedia.org/wiki/File:WikidataCon_2017_Workshop_Workflows_08.jpg</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4210"
+       y="427.06613"
+       x="-12.731606"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.76005268px;line-height:125%;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:0.26499999;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;enable-background:accumulate"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.1062746px;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         y="427.06613"
+         x="-12.731606"
+         id="tspan4212"
+         sodipodi:role="line">CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/deed.en) </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.1062746px;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         id="tspan4214"
+         y="432.19897"
+         x="-12.731606"
+         sodipodi:role="line">Credit: Liridon (Workflow), Hakanist (documenting), Jan Dittrich (recording, adaption as SVG)</tspan><tspan
+         id="tspan4216"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.1062746px;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         y="437.33182"
+         x="-12.731606"
+         sodipodi:role="line">Based on: https://commons.wikimedia.org/wiki/File:WikidataCon_2017_Workshop_Workflows_08.jpg</tspan></text>
+  </g>
+  <g
+     inkscape:label="data"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-9.3861372,-236.39223)"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;enable-background:accumulate"
+       x="170.05008"
+       y="302.35675"
+       id="text4174"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4176"
+         x="172.4407"
+         y="302.35675"
+         style="text-align:center;text-anchor:middle">User: Liridon Wikidata </tspan><tspan
+         sodipodi:role="line"
+         x="170.05008"
+         y="322.35675"
+         id="tspan4178"
+         style="text-align:center;text-anchor:middle">workflow</tspan></text>
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;enable-background:accumulate"
+       x="64.907356"
+       y="356.10956"
+       id="text4180"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4182"
+         x="64.907356"
+         y="356.10956"> — Visit recent changes of</tspan><tspan
+         sodipodi:role="line"
+         x="64.907356"
+         y="376.10956"
+         id="tspan4184">Albanian Wiki</tspan></text>
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;enable-background:accumulate"
+       x="70.210655"
+       y="418.48645"
+       id="text4186"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4188"
+         x="70.210655"
+         y="418.48645">— Find an article about a </tspan><tspan
+         sodipodi:role="line"
+         x="70.210655"
+         y="438.48645"
+         id="tspan4190">person</tspan></text>
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;enable-background:accumulate"
+       x="22.708162"
+       y="472.62061"
+       id="text4192"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.99662496,-0.08208952,0.08208952,0.99662496,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan4194"
+         x="22.708162"
+         y="472.62061">— Switch to Wikidata item</tspan></text>
+    <text
+       transform="matrix(0.99662496,-0.08208952,0.08208952,0.99662496,0,0)"
+       sodipodi:linespacing="125%"
+       id="text4196"
+       y="481.08273"
+       x="142.54643"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.44394302px;line-height:125%;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;enable-background:accumulate"
+       xml:space="preserve"><tspan
+         y="481.08273"
+         x="142.54643"
+         id="tspan4198"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold'">via link in side bar</tspan></text>
+    <text
+       transform="matrix(0.99662496,-0.08208952,0.08208952,0.99662496,0,0)"
+       sodipodi:linespacing="125%"
+       id="text4200"
+       y="501.94168"
+       x="34.9855"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;enable-background:accumulate"
+       xml:space="preserve"><tspan
+         y="501.94168"
+         x="34.9855"
+         id="tspan4202"
+         sodipodi:role="line">— Edit missing labels and </tspan></text>
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;enable-background:accumulate"
+       x="35.08371"
+       y="526.0564"
+       id="text4204"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.99866115,-0.05172923,0.05172923,0.99866115,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan4206"
+         x="35.08371"
+         y="526.0564">descriptions on 10 languages</tspan></text>
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.7539959px;line-height:125%;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;enable-background:accumulate"
+       x="65.004051"
+       y="517.34576"
+       id="text4208"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.99319467,-0.11646607,0.11646607,0.99319467,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan4210"
+         x="65.004051"
+         y="517.34576"
+         style="font-weight:bold"> en, sq</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 118.06663,509.90527 6.06092,-4.04061 0,0"
+       id="path4212"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 121.8547,503.84435 c 0,0 4.16688,-1.26269 5.17704,-0.88388 1.01015,0.37881 -1.89404,5.42957 -1.89404,5.42957"
+       id="path4214"
+       inkscape:connector-curvature="0" />
+    <text
+       transform="matrix(0.99838403,-0.05682726,0.05682726,0.99838403,0,0)"
+       sodipodi:linespacing="125%"
+       id="text4216"
+       y="535.2511"
+       x="86.053329"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.7539959px;line-height:125%;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;enable-background:accumulate"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold'"
+         y="535.2511"
+         x="86.053329"
+         id="tspan4219"
+         sodipodi:role="line">if latin language use the same name</tspan></text>
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;enable-background:accumulate"
+       x="32.845493"
+       y="558.1925"
+       id="text4221"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.99844685,-0.05571255,0.05571255,0.99844685,0,0)"><tspan
+         sodipodi:role="line"
+         x="32.845493"
+         y="558.1925"
+         id="tspan4225">— Check English wikipedia for </tspan><tspan
+         sodipodi:role="line"
+         x="32.845493"
+         y="578.1925"
+         id="tspan4229">additional info fo r the subject </tspan></text>
+    <text
+       transform="matrix(0.99882411,-0.04848087,0.04848087,0.99882411,0,0)"
+       sodipodi:linespacing="125%"
+       id="text4947"
+       y="584.78192"
+       x="207.58623"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.7539959px;line-height:125%;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;enable-background:accumulate"
+       xml:space="preserve"><tspan
+         style="font-weight:bold"
+         y="584.78192"
+         x="207.58623"
+         id="tspan4949"
+         sodipodi:role="line">was missing</tspan></text>
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;enable-background:accumulate"
+       x="303.7944"
+       y="555.83105"
+       id="text4951"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4953"
+         x="303.7944"
+         y="555.83105">e.g.</tspan></text>
+    <text
+       transform="matrix(0.99844685,-0.05571255,0.05571255,0.99844685,0,0)"
+       sodipodi:linespacing="125%"
+       id="text4955"
+       y="600.54291"
+       x="29.007"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;enable-background:accumulate"
+       xml:space="preserve"><tspan
+         id="tspan4959"
+         y="600.54291"
+         x="29.007"
+         sodipodi:role="line">Official website e.g. → anything</tspan><tspan
+         y="620.54291"
+         x="29.007"
+         sodipodi:role="line"
+         id="tspan4963">missing I can find</tspan></text>
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;enable-background:accumulate"
+       x="15.540658"
+       y="648.16168"
+       id="text4965"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.99778043,-0.06658986,0.06658986,0.99778043,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan4967"
+         x="15.540658"
+         y="648.16168">CREATED BY: HAKAN IST</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.70000005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 328.43726,543.15243 c -8.03571,2.5 -27.14286,10 -27.85714,12.14286 -0.71429,2.14286 27.85714,-8.21429 29.82143,-9.10714 1.96428,-0.89286 -6.90878,4.84293 -10.71429,6.42856 -4.28571,1.78572 -15.53571,6.78572 -18.39286,8.57144 -2.85714,1.78571 23.21429,-5.89286 28.57143,-7.85715 l 5.35715,-1.96428"
+       id="path4969"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssssc" />
+  </g>
+  <rect
+     style="opacity:0.69499984;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.39999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect4936"
+     width="128.21428"
+     height="41.785713"
+     x="198.21428"
+     y="358.07071" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="annotations"
+     transform="translate(21.42857,28.571424)"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#73d216;stroke-width:1.9000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 21.594028,63.85623 2.142857,130.44813"
+       id="path4962"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.90412331px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;enable-background:accumulate"
+       x="-119.81882"
+       y="16.501099"
+       id="text4929"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,-1,1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan4932-4"
+         x="-119.81882"
+         y="16.501099">todo-list</tspan></text>
+    <path
+       style="display:inline;fill:#553b5d;fill-rule:evenodd;stroke:#755076;stroke-width:1.89999998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 18.78617,218.82356 0,166.79306"
+       id="path4924"
+       inkscape:connector-curvature="0" />
+    <text
+       transform="matrix(0,-1,1,0,0,0)"
+       sodipodi:linespacing="125%"
+       id="text4934-5"
+       y="12.853467"
+       x="-307.05939"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#755076;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;enable-background:accumulate"
+       xml:space="preserve"><tspan
+         y="12.853467"
+         x="-307.05939"
+         id="tspan4936"
+         sodipodi:role="line">on-item-edit</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#c17d11;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 306.74336,270.25401 2.85714,98.45463"
+       id="path4992"
+       inkscape:connector-curvature="0" />
+    <text
+       transform="matrix(0,-1,1,0,0,0)"
+       sodipodi:linespacing="125%"
+       id="text4995"
+       y="324.6572"
+       x="-399.75839"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#8f5902;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;enable-background:accumulate"
+       xml:space="preserve"><tspan
+         id="tspan4999"
+         y="324.6572"
+         x="-399.75839"
+         sodipodi:role="line">import/edit data</tspan></text>
+  </g>
+  <text
+     xml:space="preserve"
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;enable-background:accumulate"
+     x="189.79552"
+     y="128.77831"
+     id="text4904"
+     sodipodi:linespacing="125%"
+     transform="matrix(0.99847273,0.05524678,-0.05524678,0.99847273,0,0)"><tspan
+       sodipodi:role="line"
+       id="tspan4906"
+       x="189.79552"
+       y="128.77831"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;font-family:serif;-inkscape-font-specification:serif;fill:#37537d">List (on Wikipedia)</tspan></text>
+  <text
+     transform="matrix(0.99847273,0.05524678,-0.05524678,0.99847273,0,0)"
+     sodipodi:linespacing="125%"
+     id="text4908"
+     y="157.7522"
+     x="193.00829"
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;enable-background:accumulate"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;font-family:serif;-inkscape-font-specification:serif;fill:#37537d"
+       y="157.7522"
+       x="193.00829"
+       sodipodi:role="line"
+       id="tspan4912">manual topic select</tspan></text>
+  <text
+     xml:space="preserve"
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;enable-background:accumulate"
+     x="183.97134"
+     y="208.71454"
+     id="text4916"
+     sodipodi:linespacing="125%"
+     transform="matrix(0.99993739,-0.01119002,0.01119002,0.99993739,0,0)"><tspan
+       id="tspan4918"
+       sodipodi:role="line"
+       x="183.97134"
+       y="208.71454"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;font-family:serif;-inkscape-font-specification:serif;fill:#37537d">switch to item</tspan></text>
+  <text
+     transform="matrix(0.99993739,-0.01119002,0.01119002,0.99993739,0,0)"
+     sodipodi:linespacing="125%"
+     id="text4920"
+     y="261.89609"
+     x="212.66376"
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;enable-background:accumulate"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;font-family:serif;-inkscape-font-specification:serif;fill:#37537d"
+       y="261.89609"
+       x="212.66376"
+       sodipodi:role="line"
+       id="tspan4922">supplement</tspan></text>
+  <text
+     xml:space="preserve"
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#37537d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;enable-background:accumulate"
+     x="196.43779"
+     y="371.3642"
+     id="text4924"
+     sodipodi:linespacing="125%"
+     transform="matrix(0.99993739,-0.01119002,0.01119002,0.99993739,0,0)"><tspan
+       id="tspan4926"
+       sodipodi:role="line"
+       x="196.43779"
+       y="371.3642"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:serif;-inkscape-font-specification:serif;fill:#37537d">manually import data </tspan><tspan
+       sodipodi:role="line"
+       x="196.43779"
+       y="385.4267"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:serif;-inkscape-font-specification:serif;fill:#37537d"
+       id="tspan4928">from WP and other </tspan><tspan
+       sodipodi:role="line"
+       x="196.43779"
+       y="399.4892"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:serif;-inkscape-font-specification:serif;fill:#37537d"
+       id="tspan4934">sources</tspan></text>
+  <text
+     transform="matrix(0.99725972,-0.07398007,0.07398007,0.99725972,0,0)"
+     sodipodi:linespacing="125%"
+     id="text4938"
+     y="313.67096"
+     x="161.28464"
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#37537d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;enable-background:accumulate"
+     xml:space="preserve"><tspan
+       id="tspan4944"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:serif;-inkscape-font-specification:serif;fill:#37537d"
+       y="313.67096"
+       x="161.28464"
+       sodipodi:role="line">en-WP as main source?</tspan></text>
+</svg>
