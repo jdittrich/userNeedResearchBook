@@ -70,7 +70,7 @@ Avoid positioning yourself as the expert in the participant’s domain by sugges
 
 ### Co-Document in diagrams and lists
 
-<!-- todo: Review with images --> 
+<!-- todo: Review with images -->
 
 In co-documentation, the participant and you record the data together by drawing and writing. This can be as simple as asking the participant: *“Draw a simple floorplan of your office. Mark what is important to your work and write why”*.
 
@@ -88,11 +88,11 @@ Having the documentation in front of you and the participant eases improving it 
 
 Who does the recording – drawing and/or writing – depends on what is more practical and gives more interesting data. When researching workflows, *I* write the documentation as a researcher, since participants should be able to demonstrate their tasks directly which is hard when you need to switch between demonstrating and writing all the time. When the participants document a project on a timeline, *they* draw it directly and I only ask questions.
 
-On way to ease the documenting for the participant is showing a simple example of what the result of a co-documentation can look like. It is helpful if the participant has no clear idea of what they should do. It also can reduce anxiety in drawing related tasks – some people assume they need to produce an artwork and showing that a rough sketch is fine.
+On way to ease the documenting for the participant is showing a simple example of what the result of a co-documentation can look like. It is helpful if the participant has no clear idea of what they should do. It can also reduce anxiety in drawing related tasks – some people assume they need to produce an artwork and showing that a rough sketch is fine.
 
 <!-- Example -->
 
-For some types of documentation, templates can be very useful: They give a basic structure and the participlant can fill in the data. This is most useful for chart-like types of diagrams or for annotating a map. But even if you can't provide a template for the primary data, you can still prepare paper with an example, fields for the name, date and title and a blank space for the data. I also sometimes print a small example in a corner of the template.
+For some types of documentation, templates can be very useful: They give a basic structure and the participant can fill in the data. This is most useful for chart-like types of diagrams or for annotating a map. But even if you can't provide a template for the primary data, you can still prepare paper with an example, fields for the name, date and title and a blank space for the data. I also sometimes print a small example in a corner of the template.
 
 ![example template for mood-timeline-diagrams](images/GoodBadTime_Diagramm.svg)
 
@@ -153,11 +153,10 @@ tell the Participant:
 >
 > You can cancel the interview at any time if you feel it is needed.
 
-I had rarely someone who did not agree to being recorded. If that
-happens you can ask if they have any specific worries – possibly you can
-inform them about that specific aspect and they might agree when they
-have  additional information.
-
+It rarely happened to me that someone did not agree to being recorded. If that
+happens to you, you can ask if they have any specific worries – possibly you can
+inform them about that specific aspect, and they might agree when they
+have additional information.
 
 > [Example from an in-house research project] »Audio recording… I’m not sure about this…«
 > »Thats fine with me. Though, may I ask what worries are?« »Hmm…yeah, I don't like, you know, human
@@ -228,8 +227,8 @@ Probably, you would not make a bad impression anyway, but let’s go through it 
 ### Ask open questions
 
 You may have noticed that the suggested questions from the previous
-section are not aiming for specific, short answers. In daily life, you often  want answers to be
-short and precise:  »Are you a graphic designer?« »No, I am a programmer« /
+section are not aiming for specific, short answers. In daily life, you often want answers to be
+short and precise: »Are you a graphic designer?« »No, I am a programmer« /
 »How much do you like your Job? Give a mark« »B!« / »Please name your Tools –«
 »I use InDesign, Photoshop and Sketch«.
 
@@ -247,7 +246,7 @@ about the *why* and *how* of the participant’s work here ^[Research  concerned
 with finding out about »how« and »why« using methods like interviews and
 observations is also called »qualitative« research. In contrast, »quantitative research«
 usually tests hypothesis (like »an orange ›buy‹ button generates more
-sales that a blue one «) and employs controlled experiments and statistics. In this book
+sales that a blue one «) and employs controlled experiments and statistics. In this book,
 we learn about qualitative methods].
 
 Imagine, in contrast to the research session outlined above (short
