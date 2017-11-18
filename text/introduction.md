@@ -50,20 +50,20 @@ You want to find out what user motivations, activities and problems are importan
 > But students complain about it being useless and hard to use.
 > Now the library wants to find out how version 2.0 should be different
 
-If an *existing* product should be improved, it is common to use usability tests. But it makes sense to combine tests with user need research – what about finding out about the usability problems of the current system by observing users’ everyday tasks?
+If an *existing* product should be improved, it is common to use usability tests. But it makes sense to combine tests with user need research—what about finding out about the usability problems of the current system by observing users’ everyday tasks?
 
 <!-- align the team, ideas -->
 
 ## Our inquiry concerns the user, not our (future) product
 
-You now may be very motivated to start designing your future product. But if you focus on the *product* now, your research findings will be tied that specific product – which may or may not be useful for your users. If you instead focus on the *user*, your findings will be independent of a particular product implementation.
+You now may be very motivated to start designing your future product. But if you focus on the *product* now, your research findings will be tied that specific product—which may or may not be useful for your users. If you instead focus on the *user*, your findings will be independent of a particular product implementation.
 
 This idea seems to be hard to grasp. When I talk about user need research, a frequent assumption is, that I ask users things like this:
 
 * What do you want?
 * How I should design a product for you?
 
-However, I don't do this: It would not tell me much about the *how* and *why* of their actions – only that they want something.
+However, I don't do this: It would not tell me much about the *how* and *why* of their actions—only that they want something.
 
 Sometimes, user need research is also confused with usability testing. In usability testing, you test a product to improve it. Usability testing is not about finding user needs that exists independent of that product.
 

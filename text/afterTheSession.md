@@ -44,10 +44,10 @@ clarify your sketches and notes so you can comprehend them after your
 memories of the experience have faded.
 
 
-> I have line *»Big changes«* in my
+> I have line *“Big changes”* in my
 Notes. I remember that I made this note when the participant told me that her colleagues make bigger
 changes between to two versions of their designs than she does.
-I added this information to the notes, since it provided a way to understand what the »big changes«
+I added this information to the notes, since it provided a way to understand what the “big changes”
 actually refer to.
 
 
@@ -71,13 +71,13 @@ step of the process.
  messy before. **2)** At the right you see an newly drawn annotated sketch
  that provides a visual representation (how the document is organized
  by inserting empty pages). **3.)** More information has been provided. It
- was »keeping for inspiration«, now its »keeping *old stuff* for
- inspiration«
+ was “keeping for inspiration”, now its “keeping *old stuff* for
+ inspiration”
 
 Using different colors is useful for another type of supplement:
 Ideas or remarks in connection to your notes. When I go
 through the notes I often have some ideas for a design or a question
-which I would like to further explore in a future interview.  I write them down in a third color or I prefix the note with *»IDEA:«* or *»QUESTION«* in order to prevent myself of mixing ideas with empirical data.
+which I would like to further explore in a future interview.  I write them down in a third color or I prefix the note with *“IDEA:”* or *“QUESTION”* in order to prevent myself of mixing ideas with empirical data.
 
 ## Transcribe your notes
 
@@ -125,13 +125,13 @@ When the audio contains information which is not in the document or if it
 supplements information that is already there, I pause the playback and write the
 additional information in the document. So the process is very similar to supplementing your notes from memory.
 
-> Audio recording: »…hmm I send it to my boss. She will check it. Now I go to that
-other document, and see…«
+> Audio recording: “…hmm I send it to my boss. She will check it. Now I go to that
+other document, and see…”
 >
-> The notes say: »Send document via mail«
+> The notes say: “Send document via mail”
 >
 > So I add the information about the cause of sending the mail:
-> »Send document via mail to the boss for checking.«
+> “Send document via mail to the boss for checking.”
 
 If you need to save time, go through your notes and see where they lack information. Then just jump
 to the parts of the audio that might complement these sections.
