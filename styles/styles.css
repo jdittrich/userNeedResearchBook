@@ -58,7 +58,7 @@ h1 a:hover,h2 a:hover,h3 a:hover,h4 a:hover,h5 a:hover{
 }
 
 h1,h2,h3,h4,h5,h6{
-   line-height:1.35em;
+  line-height:1.35em;
 }
 
 h1.title{
@@ -189,6 +189,8 @@ blockquote small, .example small {
   width: 100%;
   padding-left:0em;
   line-height: 1.45em;
+  font-family:sans-serif;
+  font-style:normal
 }
 
 .gallery{
@@ -250,10 +252,15 @@ pre {
 }
 
 hr {
-  height:0;
-  color:#eee;
-  border:1px solid #eee;
-  margin:2em 0 1em;
+  height: 0;
+  border: none; /*avoids double border*/
+  margin: 2em auto;
+  width: 20%;
+  border-bottom: 1px solid rgb(207, 207, 207);
+}
+
+.footnotes hr{ /*soo footnotes are seperate by a larger seperator*/
+  width: 100%;
 }
 
 .normal {font-weight:normal;}
