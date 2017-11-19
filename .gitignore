@@ -1,0 +1,26 @@
+# pdf, odt is not for git, but for releases
+*.pdf
+/*.odt 
+*.context
+*.tex
+/index.html
+
+# temp files from tex
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fmt
+*.fot
+*.cb
+*.cb2
+
+## Intermediate documents:
+*.dvi
+*.xdv
+
+
+
