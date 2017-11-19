@@ -3,7 +3,7 @@
 /*.odt 
 *.context
 *.tex
-/index.html
+
 
 # temp files from tex
 *.aux
