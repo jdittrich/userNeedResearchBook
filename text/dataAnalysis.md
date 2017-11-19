@@ -206,7 +206,7 @@ You can summarize the findings in a diagram itself. It will look similar to the 
 > I created this diagram to summarize the workflows for editing wikidata:
 > ![summary diagram wikidata edit workflow](images/Wikidata_Workflow_summary.svg)
 >
-> * In the first (“Adding instanceOf…”) and in the third (“Adding wikidata items…”) were a setup step. I included this—also because I knew from other reserach that tool use is widespread
+> * In the first (“Adding instanceOf…”) and in the third (“Adding wikidata items…”) were a setup step. I included this—also because I knew from other research that tool use is widespread
 > * All four editors worked from a list. I tried to specify what that list could be. Different kinds of lists served different purposes: A list of existing items can serve for supplementing these; a list of Wikipedia articles without corresponding Wikidata-items enables the creation of needed items.
 > * All editors did some work on items. However, there are different possible actions: creating items (3), some editing existing ones (1,4) and some created and then edited (2).
 >

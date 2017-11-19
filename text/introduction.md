@@ -31,20 +31,21 @@ User needs should be researched in *early* project stages. It is less useful whe
 
 Here are some scenarios in which user need research makes sense:
 
-**1. There is a broad topic given, which you want to explore further.**
+
+##### 1. There is a broad topic given, which you want to explore further
 
 Starting with a broad topic, not focused on a particular implementation, gives a lot of freedom. Such projects are not very common, though.
 
 > You should find out about people “using libraries” or even “Finding and working with information in media”.
 
-**2. There is an idea for a product or a service**
+##### 2. There is an idea for a product or a service
 
 You want to find out what user motivations, activities and problems are important to consider when building a product or service. This is the scenario in which I use user need research most often.
 
 > The library wants to create an app for creating bibliographies.
 > They want to find out what they need to consider when doing this
 
-**3. An existent product is to be improved or changed.**
+##### 3. An existent product is to be improved or changed
 
 > The library already has an app for creating bibliographies since several years.
 > But students complain about it being useless and hard to use.
