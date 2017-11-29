@@ -7,7 +7,7 @@ I think that products should not only be usable but also useful. This means they
 <!--  I think my first project in that direction was a bookmark manager and my research consisted of asking some people these questions via mail:
 
 > * What do you do when you find information on a webpage useful for you (Bookmarks, Scrapbook, Delicious, simply remember) and why?
-> * What do you find difficult about the current system to refind informations on the web and why?
+> * What do you find difficult about the current system to re-find information on the web and why?
 
 I got some interesting mails back and tried to consider their answers in my design. Looking back, I would have done a few things differently, but for a small project I think it was a good method. -->
 
@@ -64,7 +64,7 @@ This idea seems to be hard to grasp. When I talk about user need research, a fre
 * What do you want?
 * How I should design a product for you?
 
-However, I don't do this: It would not tell me much about the *how* and *why* of their actions—only that they want something.
+However, I don’t do this: It would not tell me much about the *how* and *why* of their actions—only that they want something.
 
 Sometimes, user need research is also confused with usability testing. In usability testing, you test a product to improve it. Usability testing is not about finding user needs that exists independent of that product.
 

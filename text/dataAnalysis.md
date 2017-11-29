@@ -24,9 +24,9 @@ bricks are like the not-yet-analyzed data you start with. When you build a house
 bricks, there is no single “right” building. But neither is it a process which is arbitrary.
 
 
-![possible arrangement of bricks—but not a house](images/lego_bricksToStartWith.jpg){.portrait}
+![Possible arrangement of bricks—but not a house](images/lego_bricksToStartWith.jpg){.portrait}
 
-![one way to build a house](images/lego_houseFinished.jpg){.portrait}
+![One way to build a house](images/lego_houseFinished.jpg){.portrait}
 
 There are many, many ways to stack up the bricks *somehow*—but only a few of these
 possible ways will result in something that can be plausibly called a house.
@@ -45,10 +45,10 @@ step—come closer to a structure you are satisfied with.
 
 I will explain how to analyze diagrams and lists. This can be:
 
-* lists and flowcharts, e.g. the steps needed to print a document.
-* charts, e.g. how the mood changes over the day,
-* maps of places, e.g. where is what located in your office,
-* maps of relations, e.g. on what and with whom are your working
+* Lists and flowcharts, e.g. the steps needed to print a document.
+* Charts, e.g. how the mood changes over the day,
+* Maps of places, e.g. where is what located in your office,
+* Maps of relations, e.g. on what and with whom are your working
 
 In our analysis, we will compare and summarize the collected data and bring it into an easy-to-grasp form.
 
@@ -76,9 +76,9 @@ To prepare the analysis, you write annotations on the diagrams. For this, you ca
 ----------
 
 >
-> ![Annotated workflow diagram: CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/deed.en) *Credit:* Yarl (Workflow) Papuass (documenting), Jan Dittrich (recording, adaption as SVG) *Based on:* https://commons.wikimedia.org/wiki/File:WikidataCon_2017_Workshop_Workflows_03.jpg](images/Wikidata_Workflow_1_annotated_noInterpretation.svg)
+> ![Annotated workflow diagram: CC-BY 4.0 ([https://creativecommons.org/licenses/by/4.0/deed.en](https://creativecommons.org/licenses/by/4.0/deed.en)) *Credit:* Yarl (Workflow) Papuass (documenting), Jan Dittrich (recording, adaption as SVG) *Based on:* Wikimedia Commons [WikidataCon_2017_Workshop_Workflows_03.jpg](https://commons.wikimedia.org/wiki/File:WikidataCon_2017_Workshop_Workflows_03.jpg) ](images/Wikidata_Workflow_1_annotated_noInterpretation.svg)
 >
-> This is a diagram of a users workflow when editing on the free database project [*Wikidata*](https://www.wikidata.org). Wikidata collects statements about things. These things are called “Items”. The [item for the Mona Lisa](https://www.wikidata.org/wiki/Q12418) could have the statements "instanceOf: Painting", "Creator:Leonardo da Vinci". “Painting” and “Leonardo da Vinci” would be items themselves, so all is linked!
+> This is a diagram of a user’s workflow when editing on the free database project [*Wikidata*](https://www.wikidata.org). Wikidata collects statements about things. These things are called “Items”. The [item for the Mona Lisa](https://www.wikidata.org/wiki/Q12418) could have the statements “instanceOf: Painting”, “Creator:Leonardo da Vinci”. “Painting” and “Leonardo da Vinci” would be items themselves, so all is linked!
 >
 > The workflows for the Wikidata example were created by participants in a workshop at a conference.
 >
@@ -145,34 +145,34 @@ Note common patterns as well as interesting findings, e.g. if most diagrams shar
 
 > Here an example for doing an analysis on workflows:
 >
-![Annotated diagram 1: CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/deed.en) *Credit:* Yarl (Workflow) Papuass (documenting), Jan Dittrich (recording, adaption as SVG) *Based on:* https://commons.wikimedia.org/wiki/File:WikidataCon_2017_Workshop_Workflows_03.jpg](images/Wikidata_Workflow_1_annotated.svg)
+![Annotated diagram 1: CC-BY 4.0 ([https://creativecommons.org/licenses/by/4.0/deed.en](https://creativecommons.org/licenses/by/4.0/deed.en)) *Credit:* Yarl (Workflow) Papuass (documenting), Jan Dittrich (recording, adaption as SVG) *Based on:* Wikimedia Commons [WikidataCon_2017_Workshop_Workflows_03.jpg](https://commons.wikimedia.org/wiki/File:WikidataCon_2017_Workshop_Workflows_03.jpg)](images/Wikidata_Workflow_1_annotated.svg)
 >
 > First diagram:
 >
 > * …from the annotating, I already got the impression that there are two main steps: working on a to-do-list and working on an item, adding data.
 >
-![Annotated diagram 2: CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/deed.en) *Credit:* Susannaanas (documentation), Jan Dittrich (photo and adaption as svg) *Based on:* https://commons.wikimedia.org/wiki/File:WikidataCon_2017_Workshop_Workflows_04.jpg](images/Wikidata_Workflow_2_annotated.svg)
+![Annotated diagram 2: CC-BY 4.0 ([https://creativecommons.org/licenses/by/4.0/deed.en](https://creativecommons.org/licenses/by/4.0/deed.en)) *Credit:* Susannaanas (documentation), Jan Dittrich (photo and adaption as svg) *Based on:* Wikimedia Commons [WikidataCon_2017_Workshop_Workflows_04.jpg](https://commons.wikimedia.org/wiki/File:WikidataCon_2017_Workshop_Workflows_04.jpg)](images/Wikidata_Workflow_2_annotated.svg)
 >
 > Second Diagram:
 >
 > * Here we seem to have an additional step of creation before data is added to the new item.
-> * The participant checked if there is a corresponding Wikidata-entry the the entry on the to-do list, since the list was created from wikipedia items (in order to check if corresponding wikidata items exists.)
+> * The participant checked if there is a corresponding Wikidata-entry the  entry on the to-do list, since the list was created from wikipedia items (in order to check if corresponding wikidata items exists.)
 >
-![Annotated diagram 3: CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/deed.en) *Credit:* Papuass (Workflow) Yarl (documenting), Jan Dittrich (recording, adaption as SVG) *Based on:* https://commons.wikimedia.org/wiki/File:WikidataCon_2017_Workshop_Workflows_06.jpg](images/Wikidata_Workflow_3_annotated.svg)
+![Annotated diagram 3: CC-BY 4.0 ([https://creativecommons.org/licenses/by/4.0/deed.en](https://creativecommons.org/licenses/by/4.0/deed.en) ) *Credit:* Papuass (Workflow) Yarl (documenting), Jan Dittrich (recording, adaption as SVG) *Based on:* Wikimedia Commons [WikidataCon_2017_Workshop_Workflows_06.jpg](https://commons.wikimedia.org/wiki/File:WikidataCon_2017_Workshop_Workflows_06.jpg)](images/Wikidata_Workflow_3_annotated.svg)
 >
 > Third diagram:
 >
 > * Here is a *create list*-step. It did not happen in 2) but there is also there in 1)!
-> * there is a tool setup-step in the beginning.
+> * There is a tool setup-step in the beginning.
 > * The step for the item concerns only its creation and addition of name and description, not adding of content.
 >
-![Annotated diagram 4: CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/deed.en)
+![Annotated diagram 4: CC-BY 4.0 ([https://creativecommons.org/licenses/by/4.0/deed.en](https://creativecommons.org/licenses/by/4.0/deed.en))
 *Credit:* Liridon (Workflow), Hakanist (documenting), Jan Dittrich (recording, adaption as SVG)
-Based on: https://commons.wikimedia.org/wiki/File:WikidataCon_2017_Workshop_Workflows_08.jpg ](images/Wikidata_Workflow_4_annotated.svg)
+Based on: Wikimedia Commons [WikidataCon_2017_Workshop_Workflows_08.jpg](https://commons.wikimedia.org/wiki/File:WikidataCon_2017_Workshop_Workflows_08.jpg)](images/Wikidata_Workflow_4_annotated.svg)
 >
 > Forth diagram:
 >
-> * A "Standard"-Function of Wikipedia is used as list (Recent changes page)
+> * A “Standard”-Function of Wikipedia is used as list (Recent changes page)
 > * In contrast to the other workflows, there is a manual select step (Finding a change concerning a person);
 > * Like in the third diagram, there is editing of name/labels and description—but on an existing item, not a new one.
 *  Like in the first and second diagram, the Wikipedia article serves as data source.
@@ -382,7 +382,7 @@ When you create groups of data, it is good to know if the theme of the group is 
 >
 > - It is hard to know what exactly the client wants, because I don’t talk directly to the client
 > - The document is divided in sections, separated by blank pages.
-> - The current ideas/prototypes are in the first section. All discarded or “paused” ones are in later sections (the archive”)
+> - The current ideas/prototypes are in the first section. All discarded or “paused” ones are in later sections (the “archive”)
 > […]
 >
 > It will look like this after adding the participant codes (the data is from the second research
@@ -390,7 +390,7 @@ When you create groups of data, it is good to know if the theme of the group is 
 >
 > - It is hard to know what exactly the client wants, because I don’t talk directly to the client— **P2**
 > - The document is divided in sections, separated by blank pages. — **P2**
-> - The current ideas/prototypes are in the first section. All discarded or ›paused‹ ones are in later sections (the archive”)— **P2**
+> - The current ideas/prototypes are in the first section. All discarded or ›paused‹ ones are in later sections (the “archive”)—**P2**
 > […]
 
 
@@ -430,7 +430,7 @@ part you want to annotate with your interpretation, then click the
 use something like “COMMENT:” or “ANNOTATION:” to mark your comments;
 
 
-Annotating your data is a creative process. If in doubt, whether an annotation is relevant or not: opt for writing it. Later on, it might become useful. If you are unsure about something or an idea seems to be far fetched, just go for it. Since you keep data and comments distinguishable from each other, you can always throw stuff out again. The goal is not to come
+Annotating your data is a creative process. If in doubt, whether an annotation is relevant or not: opt for writing it. Later on, it might become useful. If you are unsure about something or an idea seems to be far-fetched, just go for it. Since you keep data and comments distinguishable from each other, you can always throw stuff out again. The goal is not to come
 up with great annotations, but to wrap your head around the data and to find possible ways to interpreting it.
 
 ### Decide, whether you want to do a digital or analog analysis
@@ -439,9 +439,9 @@ After annotating your data you should take the decision in which media you want 
 
 The analysis methods described here can be used in both media. Nevertheless, each way has different strengths.
 
-![analyzing data analog by using sticky notes. Theme are written on yellow sticky notes, themes of themes are written on orange sticky notes](images/affinityDiagram2.jpg)
+![Analyzing data analog by using sticky notes. Theme are written on yellow sticky notes, themes of themes are written on orange sticky notes](images/affinityDiagram2.jpg)
 
-![analyzing data digitally by using a word processor. Themes have gray headlines, themes of themes have black headlines](images/hierarchyWordprocessorAnalysis.png)
+![Analyzing data digitally by using a word processor. Themes have gray headlines, themes of themes have black headlines](images/hierarchyWordprocessorAnalysis.png)
 
 The resources you need for analyzing on your computer are:
 
@@ -458,7 +458,7 @@ The resources you need for with pen and paper are:
 
 But why should you want to use an analog analysis, if it needs all these resources? Partly, the decision can be based on preferences: Some people like that they can move around the notes by hand and can get an overview of their data by just stepping back and glancing over it.
 
-If you work with peers on your analysis, you have some advantages when using the analogue pen and paper approach: you can easily discuss your ideas with others and will get new ideas how to structure the data. You can as well invite your boss to take a look and be part of the team, at least for some time. This type of on-site, collaborative, analysis is best done analog. Using digital tools it is not that easy and direct—despite of all the great digital innovations we have nowadays.
+If you work with peers on your analysis, you have some advantages when using the analogue pen and paper approach: you can easily discuss your ideas with others and will get new ideas how to structure the data. You can as well invite your boss to take a look and be part of the team, at least for some time. This type of on-site, collaborative, analysis is best done analog. Using digital tools it is not that easy and direct—despite all the great digital innovations we have nowadays.
 
 ![Making sense of data together, using lots of sticky notes. (Image by [flickr user Kalsau](https://www.flickr.com/photos/kalsau/), licensed under CC-BY 2.0, [https://creativecommons.org/licenses/by/2.0/](https://creativecommons.org/licenses/by/2.0/); Changes: Image was cropped) ](images/DesignEthnographyStudioLifeAnalysis4_crop.jpg)
 
@@ -480,7 +480,7 @@ For analysis on your computer, I suggest the following steps for preparing your 
 
 For working analog I recommend the following steps to get analysis-ready:
 
-1. Create table in a word processor, many rows, 2 columns (given you print on DINA4) . Each table cell will be a note.
+1. Create table in a word processor, many rows, 2 columns (given you print on DINA4). Each table cell will be a note.
 	1. In the table settings, switch off page breaks in cells and switch “keep paragraphs together” on, so that one note/table cell will not break between pages.
 	2. In the table settings, choose a decent padding around each cell, like 0.5cm
 	3. Choose a font size of about 12pt, large enough to read it\
@@ -504,14 +504,14 @@ pink ones for titles of a group of groups.
 
 ### Develop a first Structure  {#firstStructure}
 
-After you annotated your notes you can start to structure them.
+After you annotated your notes, you can start to structure them.
 Structuring the notes means grouping similar data together,
 suggesting themes behind the data, naming these themes
 and deciding which data falls under which theme.
 
 You don't use all your data yet. You can start with what you find useful, when skimming through or you can use the data of two participants for now. The goal is to set up some preliminary structure, like a sketch of the analysis.
 
-![setting up a basic structure](images/lego_housefirstStructure.jpg)
+![Setting up a basic structure](images/lego_housefirstStructure.jpg)
 
 #### Move in Approximation
 
@@ -520,7 +520,7 @@ approximation. If you do you analysis on paper, cluster the notes you
 assume to follow a common theme in one place, and notes for other
 themes in other places. If you analyze using a word processor, move similar
 notes in adjacent lines. Create different groups, each containing similar notes,
-by using several line breaks above and below such a group or by
+by using several line-breaks above and below such a group or by
 creating a list for each assumed theme.
 
 > - Asking herself: what would impress the person (a safety advisor)
@@ -585,7 +585,7 @@ the indented sub-lists are group titles):
 > - Media
 >     - Do tests in the media you target
 >     - Suitablility of media
->     - “being closer” : 2 page spreads instead of single pages etc.
+>     - “being closer” : 2 page-spreads instead of single pages etc.
 > - Idea Attachment
 > - Motivation at the beginning; then the problems start.
 > - Finishing is good
@@ -603,8 +603,8 @@ Next, try if these themes are useful for organizing more than just a few data po
 
 ### Fill the Structure
 Now need to try if the structure you created is feasible. Go through your data and
-sort it into the themes—be it actual insights or just stated commonalities –
-you came up with, or just move the data into proximity to similar data.
+sort it into the themes—be it actual insights or just stated commonalities—you 
+came up with, or just move the data into proximity to similar data.
 
 The difference to the previous step is that we now focus on involving
 all the data into the process of generating themes. In contrast,
@@ -619,15 +619,15 @@ it is temporarily OK to have very small groups, at the end each
 theme should be derived from several data points and not on a single
 utterance. On the other hand, if a theme encompasses more than 10
 utterances or observations, consider if it makes sense to split the group in
-“subthemes”..
+“subthemes”.
 
 Usually, I would go chronologically through all my notes starting with
 the first participant and ending with the most recent one—though any
 other scheme will suffice as well. Just be sure, that you know with which data you
 dealt with already and with which you did not.
 
-When filling the data in the structure you may notice that you need to
-create additional themes. Some of the titles of the themes may need to be
+When filling the data in the structure, you may notice that you need to
+create additional themes. Some titles of the themes may need to be
 renamed as well. Just go ahead and make these changes, if you feel they are needed.
 
 > - *Title:* Test in the media you target
@@ -673,7 +673,7 @@ place later:
 >
 > Inside the misc group some possibilities for future insights
 emerged—for example the first (god: Shortcuts) and the third
-point (“bad: doing the…” could be part of a newly formed
+point (“bad: doing the…”) could be part of a newly formed
 insights named “I want to avoid repetitive tasks”
 
 
@@ -696,7 +696,7 @@ fit for some data.
 
 Have a look at structures that need improvement: Groups, which  have a title which
 does not express an actual insight yet, and data, for which you did not find a good place.
-This data might now be helpful to create new themes or can add to some of the themes.
+This data might now be helpful to create new themes or can add to some themes.
 
 Take a critical look at the themes in relation to the data they encompass: Is there a fit or
 did you fall prey to wishful thinking? Possibly, there is actually only a weak match between
@@ -753,7 +753,7 @@ groups, either moving the data to a temporary “misc” group or to another, mo
 group.
 
 While we want to make use of the data we have, it is most
-important to create sound and helpful themes based on the data –
+important to create sound and helpful themes based on the data—
 instead of just  putting everything under a label.
 
 It is possible, that you can state an insight more clearly  by rewriting
@@ -840,7 +840,7 @@ design. I created two subgroups which were more meaningful.
 >     -   Which design do we take? Talks with fellow designer
 >     -   […]
 >
-> after splitting and rearrangement:
+> After splitting and rearrangement:
 >
 > -   Exchange Knowledge
 >     -   A friend told her that concrete is visualized dashed
@@ -945,4 +945,3 @@ a meaningful insight.
 >You see that I could not use all data, so I made some less significant
 groups in the “misc” section.
 
-<!-- TODO: Combine diagrams, notes, tables etc. with each other—whatever makes sense to you -->
