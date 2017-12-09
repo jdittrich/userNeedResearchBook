@@ -453,7 +453,7 @@ The resources you need for with pen and paper are:
 - paper
 - printer (or a lot of patience to write all by hand)
 - (removable) tape
-- a big wall (2m*3m minimum—which is why the wall is usually the show stopper ).
+- a big wall (2m*3m minimum—which is why the wall is usually the most difficult to get).
 
 
 But why should you want to use an analog analysis, if it needs all these resources? Partly, the decision can be based on preferences: Some people like that they can move around the notes by hand and can get an overview of their data by just stepping back and glancing over it.
@@ -856,7 +856,7 @@ design. I created two subgroups which were more meaningful.
 
 
 >One main point in my first structure was “Highly motivated at the
-> beginning; then the problems start.”. After restructuring this became
+> beginning; then the problems start.”. After restructuring, this became
 > a sub point of motivation related groups.
 >
 >- \[group-of-groups\] Motivations
