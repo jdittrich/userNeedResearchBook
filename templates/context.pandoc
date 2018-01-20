@@ -1,0 +1,230 @@
+% Based on Pandoc’s context template, modifications my Jan Dittrich
+%
+% templates is dual licensed, under both the GPL (v2 or higher, same as pandoc)
+% and the BSD 3-clause license (included below).
+%
+% Copyright (c) 2014--2017, John MacFarlane
+%
+%Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following %conditions are met:
+%
+%    Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+%
+%    Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+%
+%    Neither the name of John MacFarlane nor the names of other contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+%
+% THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+% Pandoc + Jan
+
+% PANDOC:
+
+
+\mainlanguage[en]
+
+
+\setupalign[hz, hanging, hyphenated] %optischer Randausgleich
+% \setupdirections[bidi=on,method=two] %text direction, probably not needed
+
+\setupexternalfigures[location=local,directory=images.,conversion=pdf, maxwidth=\textwidth] % lowres,prefix=lowres/]
+
+
+% Enable hyperlinks
+\setupinteraction
+  [state=start,
+$if(title)$
+  title={$title$},
+$endif$
+$if(subtitle)$
+  subtitle={$subtitle$},
+$endif$
+$if(author)$
+  author={$for(author)$$author$$sep$; $endfor$},
+$endif$
+$if(keywords)$
+  keyword={$for(keywords)$$keywords$$sep$; $endfor$},
+$endif$
+  style=$linkstyle$, %here I should define some sensible color.
+  color=$linkcolor$,
+  contrastcolor=$linkcontrastcolor$]
+
+% make chapter, section bookmarks visible when opening document
+\placebookmarks[chapter, section, subsection, subsubsection, subsubsubsection, subsubsubsubsection][chapter, section]
+\setupinteractionscreen[option=bookmark]
+\setuptagging[state=start]
+
+
+\setuppapersize[A4]
+\setuplayout[grid=yes, marking=on, location=middle, backspace=30mm, width=140mm]%former: location=doublesided
+
+\setuppagenumbering
+	[location={header,marginedge},alternative=doublesided, way=bypart] %for some reason, alternative=doublesited affects the whole layout not the numbers. Strange that this is not a layout option than.
+
+\setupbodyfontenvironment[default][em=italic]
+\usemodule[simplefonts][size=10pt]
+\setmainfont[Fira Sans][expansion=quality,protrusion=quality]
+\definesimplefont[Chapterfont][Zilla Slab][size=24pt]
+\definesimplefont[Sectionfont][Zilla Slab][size=16pt]
+\definesimplefont[Subsectionfont][Zilla Slab][size=12pt]
+\definesimplefont[blockfont][Zilla Slab][size=9pt]
+
+% use microtypography
+\definefontfeature[default][default][script=latn, protrusion=quality, expansion=quality, itlc=yes, textitalics=yes, onum=yes, pnum=yes]
+\definefontfeature[smallcaps][script=latn, protrusion=quality, expansion=quality, smcp=yes, onum=yes, pnum=yes]
+\setupalign[hz,hanging]
+\setupitaliccorrection[global, always]
+
+\setupbodyfontenvironment[default][em=italic] % use italic as em, not slanted
+
+
+\setupwhitespace[medium]
+
+\setupindenting[yes,small]
+
+\definepagebreak
+  [chapterpagebreak]
+  [yes, right]
+
+
+
+\setuphead[subsubsection]      [style=\bf]
+\setuphead[subsubsubsection]   [style=\sc]
+\setuphead[subsubsubsubsection][style=\it]
+
+\setupheads[align={flushleft,nothyphenated}]
+
+\setuphead[chapter][align={flushleft,nothyphenated} , after={\nowhitespace}, grid=top, pagebreak=chapterpagebreak, style=Chapterfont]
+\setuphead[section][align={flushleft,nothyphenated}, grid=top, after={\nowhitespace}, before={\blank[2*big]}, style=Sectionfont]
+\setuphead[subsection][align={flushleft},grid=top,  after={\nowhitespace}, before={\blank[1*big]}, style=Subsectionfont] %was \setuphead[subsection][align={flushleft}, grid=top, style=\subsectionfont]
+\setuphead[subsubsection][align={flushleft}, grid=top, number=no] %try \subsectionfont\italic oder zeigt auf wiki.contextgarden.net/Style_Alternatives
+
+
+
+$if(headertext)$
+\setupheadertexts$for(headertext)$[$headertext$]$endfor$
+$endif$
+$if(footertext)$
+\setupfootertexts$for(footertext)$[$footertext$]$endfor$
+$endif$
+
+\definedescription
+  [description]
+  [headstyle=bold, style=normal, location=hanging, width=broad, margin=1cm, alternative=hanging]
+
+\setupitemize[autointro]    % prevent orphan list intro
+\setupitemize[indentnext=no]
+
+\setupfloat[figure][default={here,nonumber}]
+\setupfloat[table][default={here,nonumber}]
+
+\setupthinrules[width=15em] % width of horizontal rules
+
+\setuppagenumbering
+	[location={header,marginedge},alternative=doublesided, way=bypart] %for some reason, alternative=doublesited affects the whole layout not the numbers. Strange that this is not a layout option than.
+
+
+\setupcaptions[style={\em}, inbetween={\blank[\strutdepth]},align={flushleft,nothyphenated,verytolerant}]
+
+\setupcaption[figure][location=bottom, style={\em}, inbetween={\blank[\strutdepth]},align={flushleft,nothyphenated,verytolerant}, prefix=no, way=bytext] %prefix: section-wise number prefix
+\setupcaption[table][location=top]
+
+\setupfloats[location=left]
+
+%\setupTABLE[frame=off]
+\setupTABLE[r][first][bottomrulethickness=2pt]
+\setupTABLE[r][each][bottomrulethickness=0.5pt]
+\setupTABLE[r][last][bottomrulethickness=2pt]
+\setupTABLE[column][each][leftframe=off, rightframe=off]
+\setupTABLE[split=yes]
+
+$for(header-includes)$
+$header-includes$
+$endfor$
+
+\starttext
+
+\clubpenalty=9000
+\widowpenalty=9000
+\brokenpenalty=9000
+
+
+$if(title)$
+\startalignment[middle]
+  {\tfd $title$}
+$if(subtitle)$
+  \smallskip
+  {\tfa $subtitle$}
+$endif$
+$if(author)$
+  \smallskip
+  {\tfa $for(author)$$author$$sep$\crlf $endfor$}
+$endif$
+$if(date)$
+  \smallskip
+  {\tfa $date$}
+$endif$
+  \bigskip
+\stopalignment
+$endif$
+$if(abstract)$
+\midaligned{\it Abstract}
+\startnarrower[2*middle]
+$abstract$
+\stopnarrower
+\blank[big]
+$endif$
+$for(include-before)$
+$include-before$
+$endfor$
+
+$if(toc)$
+\completecontent
+$endif$
+
+
+$body$
+
+$for(include-after)$
+$include-after$
+$endfor$
+\stoptext
+
+
+% JAN %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%test...
+%\setupalign[hz, hanging, hyphenated] %optischer Randausgleich
+%
+%\definepagebreak
+%  [chapterpagebreak]
+%  [yes, right]
+%
+%\setupheads[align={flushleft,nothyphenated}]
+%
+%\setuphead[chapter][align={flushleft,nothyphenated} , after={\nowhitespace}, grid=top, style=\titlefont, pagebreak=chapterpagebreak ]
+%\setuphead[section][align={flushleft,nothyphenated}, grid=top, after={\nowhitespace}, before={\blank[2*big]},  style=\sectionfont]
+%\setuphead[subsection][align={flushleft},grid=top, style=\subsectionfont, after={\nowhitespace}, before={\blank[1*big]}] %was \setuphead[subsection][align={flushleft}, grid=top, style=\subsectionfont]
+%\setuphead[subsubsection][align={flushleft}, grid=top, style=\subsubsectionfont, number=no] %try \subsectionfont\italic oder zeigt auf wiki.contextgarden.net/Style_Alternatives
+%
+%%indention
+%\setupindenting[yes,1.5em]
+%
+%\setupitemize[2, packed]
+%
+%
+%\setuppagenumbering
+%	[location={header,marginedge},alternative=doublesided, way=bypart] %for some reason, alternative=doublesited affects the whole layout not the numbers. Strange that this is not a layout option than.
+%
+%
+%\setupcaptions[style={\em}, inbetween={\blank[\strutdepth]},align={flushleft,nothyphenated,verytolerant}]
+%
+%\setupcaption[figure][location=bottom, style={\em}, inbetween={\blank[\strutdepth]},align={flushleft,nothyphenated,verytolerant}, prefix=no, way=bytext] %prefix: section-wise number prefix
+%\setupcaption[table][location=top]
+%
+%\setupfloats[location=left]
+%
+%%\setupTABLE[frame=off]
+%\setupTABLE[r][first][bottomrulethickness=2pt]
+%\setupTABLE[r][each][bottomrulethickness=0.5pt]
+%\setupTABLE[r][last][bottomrulethickness=2pt]
+%\setupTABLE[column][each][leftframe=off, rightframe=off]
+%\setupTABLE[split=yes]

@@ -1,16 +1,8 @@
 ﻿# Data Gathering
 
-<!-- TODO: fix dashes (" n " to "m"), italicize quotes, turn “” into “” -->
+In this chapter, I will show how to gather data on the activities, motivations and problems of our research participants. The data is gathered by listening to descriptions and explanations of our participants and by observing them working. The resulting data will be text, photos and diagrams.
 
-In this chapter, I will show how to gather data to get to know about the activities, motivations and problems of our research participants.
-You will gather information by listening to descriptions and explanations of our participants and by observing them working.
-The resulting data will be text, photos and diagrams.
-
-Contrary to a common misconception of user need research, your inquiry will not be (directly) about future ideas and design—
-you are not going to ask “do you think that a \[gadget\] would help you?”. It is hard to reliably guess if something would be a
-great thing to have in the future and the answer would tell you not much about the actual activities, motivations or problems
-of the participant. Instead of dealing with ideas directly, you will find out about the *how* and *why* of our participant’s activities.
-This will allow to evaluate your ideas (“do my ideas match what they consider essential?”) and to get inspiration for new ideas (“how can I support this motivation?”)
+Contrary to a common misconception of user need research, your inquiry will not be (directly) about future ideas and design—you are not going to ask “do you think that a \[gadget\] would help you?”. It is hard to  guess if an imagined things would  great to have in the future. Instead of dealing with ideas directly, you will find out about the *how* and *why* of our participant’s activities. This will allow to evaluate your ideas (“do my ideas match what they consider essential?”) and to get inspiration for new ideas (“how can I support this activity?”)
 
 To make this work, see your participants as competent in what they do: they are experts in their fields and in their daily work. This is contrary to the idea that people “don’t get it” and need to be helped by designers and programmers. Instead of this, assume that the participants have a reason of doing their work the way they do it.
 
@@ -24,7 +16,7 @@ e.g. The gathering the data will be followed by analyzing it. However, it makes 
 
 ### Listening and asking questions
 
-A common way to gather data is asking questions and listening to the participant’s answers. However, the use of questions and answers in user needfinding is unlike the questions and answers in questionnaires. Questionnaires often aimed for short, definitive answers which need to be selected from of a set of possibilities (“on a 4 point scale: how much do you agree with…”). In user needfinding instead, you aim for longer answers that are not from a determined set of possible answers. Thus, you are more likely to get rich descriptions, much like stories which retell the participant’s experiences. These stories tell you about the context of the user’s activities and the user’s motivations. To encourage giving such story-like answers, you often need to ask for descriptions of activities and the reasons for doing them.
+A common way to gather data is asking questions and listening to the participant’s answers. Asking questions may seem familiar from questionnaires. However, the use of questions and answers in user needfinding is different. Questionnaires often aimed for short, definitive answers which need to be selected from of a set of possibilities (“on a 4 point scale: how much do you agree with…”). In user needfinding, you aim for longer answers which are not from a determined set of possible answers. Thus, you are more likely to get rich, story-like  descriptions, telling about  the user’s  motivations, activities and their context. To encourage the participant to give such story-like answers, you often need to ask for descriptions of activities and the reasons for doing them.
 
 > “Can you describe me how you decided to use this layout?”
 >
@@ -32,7 +24,9 @@ A common way to gather data is asking questions and listening to the participant
 >
 > “You said that you need to look that color model up. Why?”
 
-Asking questions and getting answers from a participant is a very versatile tool. It can be done without many resources. You are not tied to a specific place and you can talk about past events as well as future plans.
+
+Asking questions and getting answers from a participant is a very versatile tool. It can be done without many resources. Furthermore, you are not tied to a specific place and you can talk about past events as well as future plans.
+
 
 But because of this, it can happen that you hardly focus on actual experiences and instead talk about abstract events. Observations are thus a good supplement to asking questions and listening, since observations are concerned with actual actions you can see happening at the very moment.
 

@@ -821,7 +821,7 @@ Some groups may grow rather big, especially if their themes  are not insights,
 but are based on mere commonalities of underlying data (like
 “dealing with color”). This is an excellent opportunity to develop themes
 by creating subgroups. The process of developing subgroups
-is like in  [“Develop a first structure”](#firstStructure) (just inside the group): Move
+is like in [“Develop a first structure”](#firstStructure) (just inside the group): Move
 similar data in proximity and try to create clear-cut insights if
 possible. In this process, you might find a more suitable way to state
 the theme of the main group, too.
