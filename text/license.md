@@ -6,7 +6,7 @@ Text and images are under the following License (if not stated otherwise)
 
 Programming libraries that may be included in the website version of the book have their own licenses and are *not* covered by the Creative Commons license above.
 
-### Contributers{-}
+### Contributors{-}
 
 * [lisacharlotterost](https://github.com/lisacharlotterost)
 
