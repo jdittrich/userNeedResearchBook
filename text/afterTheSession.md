@@ -1,12 +1,12 @@
 ﻿# Review your data
 
-After our research session we need to take care that we can use the rich data in our later analysis.
+After gathering data, we need to take care that we can use the rich data in our later analysis.
 
 When collecting the data with the participant you will be very busy listening and thinking of following questions. So you may not be able to keep up with writing notes and drawing sketches. To make the most of our data, we supplement our notes, sketches and diagrams and add some information about the context of the data gathering to close gaps and to help us to keep all the data ordered.
 
 There are two ways to supplement your data: From memory and from additional recordings, like an audio recording.
 
-Supplementing your data should be done as soon as possible after the research session. I recommend to schedule the data gathering in a way that you have some time directly after the session to supplement and order your data.
+Supplementing your data should be done as soon as possible after the research session. I recommend to scheduling the data gathering in a way that you have some time directly after the session to supplement and order your data.
 
 ## Supplement data from memory
 
@@ -68,7 +68,7 @@ step of the process.
  used:
 >
 >**1)** These parts have been partly rewritten in black as it was too
- messy before. **2)** At the right you see an newly drawn annotated sketch
+ messy before. **2)** At the right you see a newly drawn annotated sketch
  that provides a visual representation (how the document is organized
  by inserting empty pages). **3.)** More information has been provided. It
  was “keeping for inspiration”, now its “keeping *old stuff* for
@@ -83,9 +83,9 @@ which I would like to further explore in a future interview.  I write them down 
 
 Since they are often written quickly, your notes will usually be rather incoherent: Single words, small sketches, and longer sentences will all be scattered on the paper. Tidy your data and transcribe the notes in a digital document.
 
-![before transcription](images/exampleNotesBeforeTranscript.png)
+![Before transcription](images/exampleNotesBeforeTranscript.png)
 
-![after transcription](images/exampleNotesTranscript.png)
+![After transcription](images/exampleNotesTranscript.png)
 
 In your digital transcript, put one statement (or whatever you consider to make sense on its own) in each line. Avoid tying together two separate statements on one line and, on the other hand, make sure that the data you put into one line is meaningful on its own and is not just a single word or a description which is free of any context and thus hard to set in relation to other data. This is a simple way of ensuring that we chunk our data in a way we can later use for the analysis.
 
@@ -142,11 +142,11 @@ It should be easy to find out later which data was from which participant and ho
 
 Take care that all sheets of paper and files have…:
 
-* a participant code like P1 for the first, P2 for the second participant etc. This way you can later trace back which data belongs together
+* A participant code like P1 for the first, P2 for the second participant etc. This way you can later trace back which data belongs together
 * The name of the project and the date. In your next or even a parallel project, you may have another “first” participant, and you don’t want to mix them up
-* The filenames (or the names of the folders they are in) should carry the participant code, project name and possibly the method too, which may lead to lenghty filenames like: LMS_P1_diagram-sharingprocess.png (“LMS” being “Learning Management Systems”, the project name, “P1” is the participant code, “diagram” is the method and “sharingprocess” is the topic)
+* The filenames (or the names of the folders they are in) should carry the participant code, project name and possibly the method too, which may lead to lengthy filenames like: LMS_P1_diagram-sharingprocess.png (“LMS” being “Learning Management Systems”, the project name, “P1” is the participant code, “diagram” is the method and “sharingprocess” is the topic)
 * You should look for possible interconnections between different kinds of data. Maybe the participant mentioned his messy desk and you have a photo of it? Add a line in your transcript, referring to the photo. Or the participant talks about the problems of sending data to the print shop and the printing process was part of a workflow diagram you both created? Write a brief line in your notes and the diagram to connect both.
 
 If you take these steps you can still match project and participants later so you don't loose time or data because of mixups.
 
-As a result of these steps you your now have a transcript of your notes, diagrams, sketches and photos with possible cross referencing annotations, participant codes, and descriptive filenames.
+As a result of these steps you your now have a transcript of your notes, diagrams, sketches and photos with possible cross-referencing annotations, participant codes, and descriptive filenames.

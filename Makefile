@@ -32,4 +32,11 @@ html:
 epub: 
 	pandoc -s --epub-stylesheet=$(STYLESDIR)/styles.css -t epub -o urbook.epub $(YAMLMETA) $(TEXTSOURCES)
 
-.PHONY: html epub
+# not working yet:
+context:
+	pandoc --template $(TEMPLATEDIR)/context.pandoc -t context -o urbook.context --top-level-division=chapter --filter=pandoc-svg.py  text/URBookMetadata.yaml text/license.md text/introduction.md text/prepareTheResearch.md text/dataGathering.md text/afterTheSession.md text/dataAnalysis.md text/communicateResults.md text/appendix.md
+
+odt:
+	pandoc -t odt -o urbook.odt $(YAMLMETA) $(TEXTSOURCES)
+
+.PHONY: html epub context odt

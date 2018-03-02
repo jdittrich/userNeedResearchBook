@@ -9,13 +9,13 @@ First, I ask myself why the product idea would be good for something people do. 
 Here is an example:
 
 * The initial idea is *“build a learning platform for university students”*
-* The meaningful activity connected to it can be *“using digital media to learn better for university”*
-* Asking *how* and *why* I come to *“How and why do students use computers to learn better for university?”*
-* I then refined the question a bit, since *learning better* is often understood as remembering facts or passing exams. Also, “ use computers” sounded like if I am not interested e.g. in smartphones or use of social networks. In the end, I used “How and why do students use digital media related to their studies”.
+* The meaningful activity connected to it can be *“using digital media in order to learn better for university”*
+* Asking *how* and *why* I come to *“How and why do students use computers in order to learn better for university?”*
+* I then refined the question a bit, since *in order to learn better* is often understood as remembering facts or passing exams. Also, “ use computers” sounded like if I am not interested e.g. in smartphones or use of social networks. In the end, I used “How and why do students use digital media related to their studies”.
 
 <!-- TODO other example-->
 
-The research question is a help for you to form more detailed questions and to communicate your aims. It does not need to be the *one true question*. Thus, it can also be refined later after you gained a better understanding of the matter. 
+The research question is a help for you to form more detailed questions and to communicate your aims. It does not need to be the *one true question*. Thus, it can also be refined later after you gained a better understanding of the matter.
 
 ## Find participants
 
@@ -27,15 +27,17 @@ To be able to do research on the “how” and “why” of user’s work, you n
 
 Research participants should be able to talk about what they do and demonstrate it. Because of this, it makes sense to focus on activities when you recruit.
 
-For other methods, the criteria are more demographic like “30year old male, making $50k/year and being interested in technology”. But this is not very helpful when we want to learn about motivations, activities and problems of people.
+For other methods, the criteria are more demographic like “30 year old male, making $50k/year and being interested in technology”. But this is not very helpful when you want to learn about motivations, activities and problems of people.
 
-If, for example you have the research question *“How and why do students use computers to learn better for university?”* the activity is “learning for university”. This is what you should focus on: Find people who learn for university. There is also the role “student”, which for these purposes does not add much.
+If, for example, you have the research question *“How and why do students use computers to learn for university?”* the activity is “learning for university”. This is what you should focus on: Find people who learn for university.
 
-If your question is “How and why do Wikipedia editors switch language versions”, the activity is “switching language versions”, additionally constraint by the role: “Wikipedia editors”. So your would try to find people who edit Wikipedia and switch language versions—for example, because they edit in several languages. 
+If your question is “How and why do Wikipedia editors switch language versions”, the activity is “switching language versions”, additionally constraint by the role: “Wikipedia editors”. So you would try to find people who edit Wikipedia and switch language versions—for example because they edit in several languages.
 
-I don't exclude the roles, but usually I focus on the activities first. In the question “How and why do programmers organize their code”, the essential part is organizing the code. Yes, it is a pretty good guess that programmers do that activity. But if you got designers, artists or data analysts who code, you can learn a lot from these people as well.
+I don't exclude the roles (“Student”, “Wikipedia Editor”), but I focus on the activities first. In the question “How and why do programmers organize their code”, the essential part is organizing the code. This is also what people can tell you about and what they can demonstrate. Yes, it is a pretty good guess that programmers “organize code”. But if you got designers, data analysts or mechatronics engineers who do that activity, you can learn from them as well.
 
-### Collect participants where they are
+### Recruit participants where they are
+
+<!-- ↑ that could be better, but even my german sentences are not great: …wo sie sind? -->
 
 I assume that you don't have the money to employ a recruiting agency to get your participants. Thus, you will need to find and ask them yourself. Think of methods to make possible participants aware of your research and the possibility to participate. For example, participants could be found among
 
@@ -60,7 +62,7 @@ or by writing an email— you should give them the following information:
 - Incentives (if you can afford it)
 - Your contact information
 
-This can look like this: 
+This can look like this:
 
 > **Are you a designer?**
 >
@@ -118,7 +120,7 @@ In all these cases you can involve more participants — but before you do, try 
 * …need to clarify your research topic (to focus your efforts)
 * …need to specify the involved groups (to recruit the right participants)
 
-<!-- TODO write summarizing end sentence --> 
+<!-- TODO write summarizing end sentence -->
 
 
 
@@ -227,4 +229,4 @@ will need some equipment for doing that:
 
 You should get to know your equipment before you start the actual data collection. So be sure to know the essential operations to actually make a photo and start and stop the recording. Check the audio quality by putting the phone/recorder roughly a meter away from you and saying some sentences in your normal voice. Listen to the recording to test if you can (easily) understand what you said.
 
-When your equipment is ready and checked, you can start to collect your data. 
+When your equipment is ready and checked, you can start to collect your data.
