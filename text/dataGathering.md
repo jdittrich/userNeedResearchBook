@@ -2,7 +2,7 @@
 
 In this chapter, I will show how to gather data on the activities, motivations and problems of our research participants. The data is gathered by listening to descriptions and explanations of our participants and by observing them working. The resulting data will be text, photos and diagrams.
 
-Contrary to a common misconception of user need research, your inquiry will not be (directly) about future ideas and design—you are not going to ask “do you think that a \[gadget\] would help you?”. It is hard to  guess if an imagined things would  great to have in the future. Instead of dealing with ideas directly, you will find out about the *how* and *why* of our participant’s activities. This will allow to evaluate your ideas (“do my ideas match what they consider essential?”) and to get inspiration for new ideas (“how can I support this activity?”)
+Contrary to a common misconception of user need research, your inquiry will not be (directly) about future ideas and design—you are not going to ask “do you think that a \[gadget\] would help you?”. It is hard to  guess if an imagined thing  would  be great to have in the future. Instead of dealing with ideas directly, you will find out about the *how* and *why* of our participant’s activities. This will allow to evaluate your ideas (“do my ideas match what they consider essential?”) and to get inspiration for new ideas (“how can I support this activity?”)
 
 To make this work, see your participants as competent in what they do: they are experts in their fields and in their daily work. This is contrary to the idea that people “don’t get it” and need to be helped by designers and programmers. Instead of this, assume that the participants have a reason of doing their work the way they do it.
 
@@ -76,21 +76,23 @@ Here are some examples of co-documentation results:
 
 ![List with workflow steps](images/List_Task.png)
 
-Having the documentation in front of you and the participant eases improving it directly while it is being created. You, the researcher, can refer to it to ask for elaboration (*“Is this the photocopying machine, that you said gets stuck so often?”*). Their answer should be added to the documentation. The participant can use the shared documentation to extend already documented things (*“One other thing I add is that I can get paper for the xerox here [writes comment on the paper]”*). The fact that researcher and participant need to understand the documentation is a check against unclear terms, references and also just sloppy handwriting. This makes the results often very accessible and useful.
+Having the documentation in front of you and the participant eases improving it directly while it is being created. You, the researcher, can refer to it to ask for elaboration (*“Is this the photocopying machine, that you said gets stuck so often?”*). Their answer should be added to the documentation. The participant can use the shared documentation to extend already documented things (*“One other thing I add is that I can get paper for the xerox here [writes comment on the paper]”*). 
+
+The fact that researcher and participant need to understand the documentation is a check against unclear terms, references and also just sloppy handwriting. This makes the results often very accessible and useful.
 
 > “The line here seems to indicate that you were very happy at the beginning of the project…” Participant: “Yes, I’m looking forward to doing it and there are so many ideas” You: “Can you write this in the diagram, so I can understand it later?” Participant: [Writes as comment in the diagram] Looking forward, Many Ideas: Good
 
 Who does the recording—drawing and/or writing—depends on what is more practical and gives more interesting data. When researching workflows, *I* write the documentation as a researcher, since participants should be able to demonstrate their tasks directly which is hard when you need to switch between demonstrating and writing all the time. When the participants document a project on a timeline, *they* draw it directly and I only ask questions.
 
-On way to ease the documenting for the participant is showing a simple example of what the result of a co-documentation can look like. It is helpful if the participant has no clear idea of what they should do. It can also reduce anxiety in drawing related tasks—some people assume they need to produce an artwork and showing that a rough sketch is fine.
+On way to ease the documenting for the participant is showing a simple example of what the result of a co-documentation can look like. An example is helpful, if the participant has no clear idea of what they should do. It can also reduce anxiety in drawing related tasks—some people assume they need to produce an artwork and showing that a rough sketch is fine.
 
 <!-- Example -->
-
-For some types of documentation, templates can be very useful: They give a basic structure and the participant can fill in the data. This is most useful for chart-like types of diagrams or for annotating a map. But even if you can't provide a template for the primary data, you can still prepare paper with an example, fields for the name, date and title and a blank space for the data. I also sometimes print a small example in a corner of the template.
+<!-- TODO Rework-->
+It can be easier for the participant if you provide a template instead of a blank page: This gives a basic structure. Provide fields for name, date, title and  space for the participant’s diagram. I also sometimes print a small example in a corner of the template. Templates work very well for chart-like types of diagrams, since the participant can draw on top of elements that are already there, like the diagrams’ axis.
 
 ![Example template for mood-timeline-diagrams](images/GoodBadTime_Diagramm.svg)
 
-The use of co documentation may be a less widespread method than interviews and observation. It plays well with both, though: You can co-document workflows combined with observing them and you can also go from an interview to co-documenting a specific aspect (*“That is interesting! I would like to remember it clarly later on, so I would like to write the steps down with you”*) or use a documentation to refer back to in an interview (*“You wrote… How does relate to…”*) and add further details to it.
+Co-Documentation works well in combination with interviewing and observation: You can co-document workflows combined with observing them and you can also go from an interview to co-documenting a specific aspect (*“That is interesting! I would like to remember it clarly later on, so I would like to write the steps down with you”*) or use a documentation to refer back to in an interview (*“You wrote… How does relate to…”*) and add further details to it.
 
 Co-documenting via lists, diagrams and drawings may seem unusual in the beginning. But they produce very useful and graspable data by having the researcher and the participant work together. The participant’s active part in documenting and the possibility to see directly what is recorded can empower participants: They are not just passive sources but actively create data.
 
@@ -321,7 +323,7 @@ Contrast this with questions like
 Sometimes,  “Is”-Questions will  come in a disguised
 form—as an addition, which is made to an open question:
 
-> You: “Can you tell me how you solve this problem? *…Do you do it by just  calling the client and resolving the issue?*”
+> You: “Can you tell me how you solve this problem? *…Do you do it by just calling the client and resolving the issue?*”
 >
 > Participant: “Yes, I do”
 >
@@ -401,7 +403,7 @@ the rich formatting functions of a word processor are needed or that such docume
 are used for just everything in this office, so that switching to a “better”
 solution would impose mental costs of switching to and operating in an unusual context.
 
-Your influencing feedback could be non-verbal as well. Like in everyday
+Your influence could be non-verbal as well. Like in everyday
 conversations, you may shrug or frown if you disagree with an
 utterance or an action. Even if you don’t say “this is wrong”, frowning
 or shaking your head may have the same results.
