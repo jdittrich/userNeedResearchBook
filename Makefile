@@ -36,4 +36,7 @@ epub:
 context:
 	pandoc --template $(TEMPLATEDIR)/context.pandoc -t context -o urbook.context --top-level-division=chapter --filter=pandoc-svg.py  text/URBookMetadata.yaml text/license.md text/introduction.md text/prepareTheResearch.md text/dataGathering.md text/afterTheSession.md text/dataAnalysis.md text/communicateResults.md text/appendix.md
 
-.PHONY: html epub context
+odt:
+	pandoc -t odt -o urbook.odt $(YAMLMETA) $(TEXTSOURCES)
+
+.PHONY: html epub context odt
