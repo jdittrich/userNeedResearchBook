@@ -1,5 +1,9 @@
 ﻿# Data Gathering
 
+<!-- TODO:
+Check for focus on "why", go more for process and how
+-->
+
 In this chapter, I will show how to gather data on the activities, motivations and problems of our research participants. The data is gathered by listening to descriptions and explanations of our participants and by observing them working. The resulting data will be text, photos and diagrams.
 
 Contrary to a common misconception of user need research, your inquiry will not be (directly) about future ideas and design—you are not going to ask “do you think that a \[gadget\] would help you?”. It is hard to  guess if an imagined thing  would  be great to have in the future. Instead of dealing with ideas directly, you will find out about the *how* and *why* of our participant’s activities. This will allow to evaluate your ideas (“do my ideas match what they consider essential?”) and to get inspiration for new ideas (“how can I support this activity?”)
