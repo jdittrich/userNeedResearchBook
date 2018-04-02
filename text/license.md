@@ -5,6 +5,7 @@
 #### Contributors{-}
 
 * [lisacharlotterost](https://github.com/lisacharlotterost)
+* Claudia Landivar
 
 #### Suggestions and Feedback{-}
 
