@@ -17,7 +17,7 @@ body{
   width:100%; /*important for responsive display,  breakpoint switches this for :auto*/
 }
 
-#main, div.section.level1 { /*main for html, section.level1 for epub*/
+#main, section.level1 { /*main for html, section.level1 for epub*/
   font-family:sans-serif;
   font-size:110%;
   line-height:1.6em;
@@ -46,19 +46,13 @@ a:visited {color:#606;}
 a:hover {color:#606;}
 a:active {color:#900; outline:none;}
 
-//following was commented out because it made the copy-link-to-this-headline always black (instead blue)
-// h1 a:link,h2 a:link,h3 a:link,h4 a:link,h5 a:link, h1 a:visited,h2 a:visited,h3 a:visited,h4 a:visited,h5 a:visited{
-//  font-weight:inherit;
-//  color: inherit;
-//  text-decoration:inherit;
-// }
 
 h1 a:hover,h2 a:hover,h3 a:hover,h4 a:hover,h5 a:hover{
   text-decoration:underline;
 }
 
 h1,h2,h3,h4,h5,h6{
-  line-height:1.35em;
+  line-height:1.1em;
 }
 
 h1.title{
@@ -73,6 +67,10 @@ h1 {
   font-size:280%;
   margin:2.5em 0 0.4em;
   font-weight: normal;
+}
+
+section:first-child h1:first-child{
+  margin-top:0.5em; /*if the h1 is at the top, then remove the spaceing*/
 }
 
 h2 {
@@ -128,9 +126,6 @@ a.link-to-self:hover{
   opacity:0.7;
   text-decoration:none;
 }
-
-
-
 
 p {
   text-align:left;
@@ -223,6 +218,7 @@ blockquote small, .example small {
 
 ul, ol, dl {
   text-align:left;
+  padding-left:1.5em;
 }
 
 ul li{
