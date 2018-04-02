@@ -30,7 +30,7 @@ html:
 	pandoc --toc -V lang:en -H $(TEMPLATEDIR)/includeHeader.pandoc -B $(TEMPLATEDIR)/includeBefore.pandoc -A $(TEMPLATEDIR)/includeAfter.pandoc -A $(TEMPLATEDIR)/includeAfterScripts.pandoc -c $(STYLESDIR)/normalize.css -c $(STYLESDIR)/styles.css -c $(STYLESDIR)/print.css -c $(STYLESDIR)/autoToc.css -t html5 -o index.html $(YAMLMETA) $(TEXTSOURCES)
 
 epub: 
-	pandoc -s --epub-stylesheet=$(STYLESDIR)/styles.css -t epub -o urbook.epub $(YAMLMETA) $(TEXTSOURCES)
+	pandoc -s --css=$(STYLESDIR)/styles.css -t epub -o urbook.epub $(YAMLMETA) $(TEXTSOURCES)
 
 # not working yet:
 context:

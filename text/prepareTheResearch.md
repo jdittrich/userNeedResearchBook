@@ -1,3 +1,4 @@
+
 # Prepare your research
 
 ## Create a user focused how-and-why question based on the initial idea for the project  {#questiontopics}
@@ -11,7 +12,7 @@ Here is an example:
 * The initial idea is *“build a learning platform for university students”*
 * The meaningful activity connected to it can be *“using digital media in order to learn better for university”*
 * Asking *how* and *why* I come to *“How and why do students use computers in order to learn better for university?”*
-* I then refined the question a bit, since *in order to learn better* is often understood as remembering facts or passing exams. Also, “ use computers” sounded like if I am not interested e.g. in smartphones or use of social networks. In the end, I used “How and why do students use digital media related to their studies”.
+* I then refined the question a bit, since *in order to learn better* is often understood as remembering facts or passing exams. Also, “use computers” sounded like if I am not interested e.g. in smartphones or use of social networks. In the end, I used “How and why do students use digital media related to their studies”.
 
 <!-- TODO other example-->
 
@@ -29,9 +30,9 @@ Research participants should be able to talk about what they do and demonstrate 
 
 For other methods, the criteria are more demographic like “30 year old male, making $50k/year and being interested in technology”. But this is not very helpful when you want to learn about motivations, activities and problems of people.
 
-If, for example, you have the research question *“How and why do students use computers to learn for university?”* the activity is “learning for university”. This is what you should focus on: Find people who learn for university.
+* If, for example, you have the research question *“How and why do students use computers to learn for university?”* the activity is “learning for university”. This is what you should focus on: Find people who learn for university.
 
-If your question is “How and why do Wikipedia editors switch language versions”, the activity is “switching language versions”, additionally constraint by the role: “Wikipedia editors”. So you would try to find people who edit Wikipedia and switch language versions—for example because they edit in several languages.
+* If your question is “How and why do Wikipedia editors switch language versions”, the activity is “switching language versions”, additionally constraint by the role: “Wikipedia editors”. So you would try to find people who edit Wikipedia and switch language versions—for example because they edit in several languages.
 
 I don't exclude the roles (“Student”, “Wikipedia Editor”), but I focus on the activities first. In the question “How and why do programmers organize their code”, the essential part is organizing the code. This is also what people can tell you about and what they can demonstrate. Yes, it is a pretty good guess that programmers “organize code”. But if you got designers, data analysts or mechatronics engineers who do that activity, you can learn from them as well.
 
