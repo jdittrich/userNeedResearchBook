@@ -28,7 +28,7 @@ To be able to do research on the “how” and “why” of user’s work, you n
 
 Research participants should be able to talk about what they do and demonstrate it. Because of this, it makes sense to focus on activities when you recruit.
 
-For other methods, the criteria are more demographic like “30 year old male, making $50k/year and being interested in technology”. But this is not very helpful when you want to learn about motivations, activities and problems of people.
+For other methods, the criteria are more demographic like “30-40-year-old male, making more than $50k/year and being interested in technology”. But this is not very helpful when you want to learn about motivations, activities and problems of people.
 
 * If, for example, you have the research question *“How and why do students use computers to learn for university?”* the activity is “learning for university”. This is what you should focus on: Find people who learn for university.
 
@@ -38,7 +38,7 @@ I don't exclude the roles (“Student”, “Wikipedia Editor”), but I focus o
 
 ### Recruit participants where they are
 
-<!-- ↑ that could be better, but even my german sentences are not great: …wo sie sind? -->
+<!-- ↑ that could be better, but even my german sentences are not great: …wo sie sind?! -->
 
 I assume that you don't have the money to employ a recruiting agency to get your participants. Thus, you will need to find and ask them yourself. Think of methods to make possible participants aware of your research and the possibility to participate. For example, participants could be found among
 
