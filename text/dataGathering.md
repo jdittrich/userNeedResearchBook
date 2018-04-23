@@ -74,7 +74,7 @@ In co-documentation, the participant and you record the data together by drawing
 
 Here are some examples of co-documentation results:
 
-![Timeline diagram. If the graph goes up, the mood gets better, if it goes down, the participant feels bad, borded or annoyed](images/U1_GoodBadTime_Diagramm.svg)
+![Timeline diagram. If the graph goes up, the mood gets better, if it goes down, the participant feels bad, bored or annoyed](images/U1_GoodBadTime_Diagramm.svg)
 
 ![Social space map: The participant is in the center. They draw people (or whatever else they think matters) around them and write the nature of the connection on the arrows](images/diagram_people.svg)
 
