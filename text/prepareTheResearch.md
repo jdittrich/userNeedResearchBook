@@ -1,11 +1,11 @@
 
 # Prepare your research
 
-## Create a user focused how-and-why question based on the initial idea for the project  {#questiontopics}
+## Create a user-focused how-and-why question based on the initial idea for the project  {#questiontopics}
 
-Our research will often start from a (rough) idea for a future market, product or feature. To get to know our users, we must transform these ideas for an outcome into questions for our research, focused people, not a product.
+It can help a lot to have a guiding question when you start your research. This question should relate to how and why your (potential) users do what they do. In many projects, you start with ideas for a future market, product or feature. You can use these ideas as a starting point for creating a useful, user-focused research question.
 
-First, I ask myself why the product idea would be good for something people do. Then I ask, how and why they do this. The outcome can be used as research question.
+First, ask yourself why the product idea would be good for something people do. Then ask, how and why they do this. The outcome can be used as research question.
 
 Here is an example:
 
@@ -14,7 +14,6 @@ Here is an example:
 * Asking *how* and *why* I come to *“How and why do students use computers in order to learn better for university?”*
 * I then refined the question a bit, since *in order to learn better* is often understood as remembering facts or passing exams. Also, “use computers” sounded like if I am not interested e.g. in smartphones or use of social networks. In the end, I used “How and why do students use digital media related to their studies”.
 
-<!-- TODO other example-->
 
 The research question is a help for you to form more detailed questions and to communicate your aims. It does not need to be the *one true question*. Thus, it can also be refined later after you gained a better understanding of the matter.
 
@@ -22,77 +21,74 @@ The research question is a help for you to form more detailed questions and to c
 
 In user research you want to find out what our users do and how and why they do it. If you know this, you can design our products accordingly.
 
-To be able to do research on the “how” and “why” of user’s work, you need to find people who would like to answer your questions and would show you what they do. These people are our (research) *participants*.
+To be able to do research on the “how” and “why” of users’ work, you need to find people who would like to answer your questions and would show you what they do. These people are our (research) *participants*.
 
 ### Potential participants do the activity that is in your research question
 
 Research participants should be able to talk about what they do and demonstrate it. Because of this, it makes sense to focus on activities when you recruit.
 
-For other methods, the criteria are more demographic like “30-40-year-old male, making more than $50k/year and being interested in technology”. But this is not very helpful when you want to learn about motivations, activities and problems of people.
+Since they are not about behavior, demographics are not very useful: “30-40-year-old male, making more than $50k/year and being interested in technology” does not relate much to motivations, activities and problems of users. Instead, base your recruiting on the activity that is part of your research question:
 
-* If, for example, you have the research question *“How and why do students use computers to learn for university?”* the activity is “learning for university”. This is what you should focus on: Find people who learn for university.
+* If, for example, you have the research question *“How and why do students use computers to learn for university?”* the activity is “learning for university”. This is what you should focus on: Find people, who learn for university.
 
-* If your question is “How and why do Wikipedia editors switch language versions”, the activity is “switching language versions”, additionally constraint by the role: “Wikipedia editors”. So you would try to find people who edit Wikipedia and switch language versions—for example because they edit in several languages.
+* If your question is “How and why do small business owners keep track of their bills?”, the activity is “keeping track of bills”, additionally constraint by the role: “Small business owners”.
 
-I don't exclude the roles (“Student”, “Wikipedia Editor”), but I focus on the activities first. In the question “How and why do programmers organize their code”, the essential part is organizing the code. This is also what people can tell you about and what they can demonstrate. Yes, it is a pretty good guess that programmers “organize code”. But if you got designers, data analysts or mechatronics engineers who do that activity, you can learn from them as well.
+I don't exclude the roles (“Student”, “Owner of a small business”), but I focus on the activities first. In the question “How and why do small business owners keep track of their bills”, the essential part is keeping track of bills. This is also what people can tell you about and what they can demonstrate. If I talk to an owner of a small business and they do not take care of  the bills themselves, I would ask why they do so and who is doing it instead—and then ask  whoever is  doing the “keeping track of bills”-activity if they want to participate.
 
-### Recruit participants where they are
+### Inform potential participants
 
 <!-- ↑ that could be better, but even my german sentences are not great: …wo sie sind?! -->
+The easy way to get participants is via an recruiting agency: You pay them and they will get you participants.  But since that might not be possible for you, here is how you do it yourself. Two conditions need to be satisfied in order to convince people to participate in your research: They need to know about the possibility and that it is rewarding to participate. 
 
-I assume that you don't have the money to employ a recruiting agency to get your participants. Thus, you will need to find and ask them yourself. Think of methods to make possible participants aware of your research and the possibility to participate. For example, participants could be found among
+It is motivating for potential participants if the research improves their life: A shopkeeper will likely be interested if you work on making it easier to keep track of bills and taxes, neighbors, if you try to make living in the neighborhood better. People will also be happy to participant, if they like your product and/or organization e.g. because your work is not-for profit and supports a good cause. 
 
-- Employees of other departments
-- Friends and family
-- People who see your posts on social media
-- People who visit your or your companies homepage
-- Participants of meetings/gatherings.
+Incentives are a simple, but effective motivation for participants. If you have the funds and particularly, if your project will earn you (or your employer) money, you should pay a fair sum for your participants’ time. If your funds are small and people like to support you and your cause, you could also offer something other than money: Something that people like, but would usually not “just” buy seems to work well—e.g. really good chocolate or a voucher for a nice local restaurant.
 
-To find the right participants for your research, try to find out where these people are: users of a
-particular software can be found on mailing lists, forums and user meetings or events.
-Young adults could be found via bulletin boards on university or college campus.
-Retired people may be found in church congregation and retirement homes.
+When you know what you can offer to potential participants, you can write down what participants can expect if they participate. This includes:
 
-Inform possible participants about the study and what they can expect when they participate.
-Regardless of how you inform them—if by speaking directly to them, by using a posting on a blackboard
-or by writing an email— you should give them the following information:
+* What the research will be about
+* How much time it will take to participate
+* What the research will be like/what you will do
+* Why they might want to participate, including
+    * How the research results might benefit them and/or others
+    * What they get as an incentive
 
-- The purpose of the study and the resulting benefits for the participant or the wider community (e.g. a product which is more suitable to their needs)
-- The research method (answering questions and observation)
-- The time frame (ranging usually from 30min-2h)
-- Incentives (if you can afford it)
-- Your contact information
+You can use this information to create paper notes or posts to social media—This is how it could look like as a slightly formal note for a notice board at university:
 
-This can look like this:
+<!-- TODO Rewrite to match Library-Book example-->
 
-> **Are you a designer?**
->
-> We, a team of students of the Weimar University,  want to improve the free layout program frame
-drawer and want the application to match your workflow and needs.
-Therefore, we would like to gather some insights in the way you work.
->
-> If you would like to support us, someone from our team would visit your workplace and ask you some
-questions and look over your shoulder while you work.
-This would take approximately 1h.
->
-> All participants get a $10 voucher for the university's cafeteria.
-If you would like to participate (or have further questions) please write a mail to jan.dittrich@example.com
+> Are you a designer?
+> 
+> The universty library would like to improve the LibApp to support you better in useing our library and digital services. Therefore, we would like to gather some insights into the way you work in the library and with our services.
+> If you would like to support us, someone from our team ask you some questions and look over your shoulder while you work. This would take approximately 1h and take place in the library or some other place where you use our services from. 
+> All participants get a $10 voucher for the university’s cafeteria. If you would like to participate (or have further questions) please write an email to jan.dittrich@example.com 
 
+In some cases, finding participants is easy, because participants are motivated and you can easily reach out to them, as in this example: 
 
-When you reach out to communities for recruiting, be sure to comply to the rules of the organizations and social groups involved.
-It does not help your research if the community you target gets upset with you for violating their privacy or customs.
-If you are unsure, just ask.
+> Let’s say, you are working for the university library. They have acquired a grant for their “digital infrastructure” and now have the task to find out how their services could be improved. You can easily use the library’s notice board, and also ask the “how-to-use-the-library” trainers to mention the project. 
+> Students might even be motivated enough to just join out of interest and because they want to contribute to improving their own life – but since it is possible and fair, you should pay them for their time. 
 
-Once you started your research you can ask participants if they know others who match your ideas of possible participants.
-It is likely that they know some other people who work in the same job or have similar hobbies. (In the literature, this is also called *“Snowball sampling”*)
+In above example, it was easy to reach out to participants because you were already close to them, spatially as well as socially.  But sometimes, field access is more difficult than just putting up some notes. Often, this is because you actually don’t know who or where possible participants can be found, and so you can’t ask them. This means you need to get to them in a step-by-step process. The following example outlines this: 
+
+> You want to find out how people use open data on air pollution which is published by cities. You don’t know anyone who does this work. Since the project is not secret, you give it a try and post about it on Facebook. You are lucky, and a friend of yours happens to know that a local hackspace is hosting a bi-weekly “data hackers” meeting. So you write an email and ask if you could join the meeting and introduce your project.  
+> In parallel, you have also searched the web, and by trying “[next largest city] open data” you found out that the infrastructure department of the city has given an award to the best data project some weeks ago. You could reach out to the staff member who awarded the price. They might be able to refer you to some people who are interested in the topic, since they needed to get in contact with them when advertising the competition for the award.
+
+In the scenario above, I described a step-by-step process of reaching out: In each step, you try to be referred to a next person who is more knowledgeable and familiar with the people you want to do research with. You do this, until you are referred to possible participants. 
+
+At each step, you can learn about how to approach the next: If your friend refers you to a meeting of data hackers, that friend can probably also tell you if you should behave in a particular way if you are going there. For the hacker meeting, it might make sense to NOT be wearing a suit. In other places, the smart clothes might be essential. The more formal and seggregated a setting is, the more important it is to not violate its customs: Hospitals, churches and bureaucracies are tough to research if you don’t behave the “right” way. 
+
+Some people who might help you  are in a core position to regulate access to potential participants. The ethnographical jargon for them is “Gatekeepers”. They can decide to help you and let you through the metaphorical “gate” behind which your participants are waiting – or they can hinder your access if they find reasons to not help you. In the example above, a gatekeeper could be the person who runs the “data hackers”-meetup or the city’s digital infrastructure person.
+
+If you have found people who like to be your research participants, you can ask them if they know others who might like to participate. It works like the step-by-step recruiting process, but instead of moving towards your participants, you now can go from one to another by being referred. 
+
+In any case, it is useful to consider different ways to get to your participants. If one way fails (e.g. friends of friends), you may be successful in another (e.g. writing a mail to a “gatekeeper”). In case several approaches work, you get more potential participants. But even more important is that you now have a more diverse set of people, which leads to richer results. 
 
 
 ### Make compromises, if needed
 
-Especially if you are on your own, you may need to compromise and do research with participants that don't match your intended users exactly. When doing this, keep in mind to check for similarity of tasks, problems and motivations. These checks don't ensure that the participants are exactly the ones who may use your final product. But you can be rather sure that they can tell you something which is of interest for you.
+Especially if you are short on money and/or time, you may need to compromise and do research with participants that don't match your intended users exactly. When doing this, keep in mind to check for similarity of tasks, problems and motivations. These checks don't ensure that the participants are exactly the ones who may use your final product. But you can be rather sure that they can tell you something which is of interest for you.
 
 If you design an app for people to create bibliographies and you can only get some bachelor’s and master’s students, but no professors, your results will still reveal a lot about the processes of creating bibliographies. The student’s motivation is probably writing final term papers and the professors would like to write journal papers. This is a possible difference — as long as you aware of it, you are probably fine. But if you want to design a skateboard and the only participants you can get are elderly people who enjoy hiking, you are in trouble (if you find elderly people who enjoy skating, go for it).
-
 
 ### A small number of participants is fine
 
@@ -135,29 +131,29 @@ Before the research session, I try to get an overview of what I want to explore.
 
 These topics are relevant for design, and they can be easily remembered even in the midst of research: Three points are few and you can use the mnemonic M-A-P: Motivations, Activities, Problems.
 
-**Motivations** — what the participant want to archive, what is important for them?
+**Motivations** — what does the participant want to achieve? What is important for them? Motivations can give you context to what the participant’s do. 
 
 * *“Can you describe the worst experience in your day so far?”*
 * *“Which tasks in your job do you like the most?”*
 * *“Can you show me a piece of work you are proud of?”*
 
-<!-- *Questions about Motivations are usually about emotions and goals. Since people act in ways to archive their motivations, they often their relation to activities as well. You can explore these relations further in follow-up questions—*“You said you hate talking with this client. What in particular makes it a bad experience for you?”*.-->
+<!-- *Questions about Motivations are usually about emotions and goals. Since people act in ways to achieve their motivations, they often their relation to activities as well. You can explore these relations further in follow-up questions—*“You said you hate talking with this client. What in particular makes it a bad experience for you?”*.-->
 
-**Activities** — what does the participant do?
+**Activities** — what does the participant do? How do they do it? What are solutions, procesures, “hacks” do they use? Activities are the core part of reserach: This is what can be observed and  where things happen. 
 
 * *“Can you describe the task you are currently working on?”*
 * *“Can you show me how you use the application?”*
 
 <!-- When asking about activities you can often use follow up questions to find out why and how users do what they do: *“You said, you apply paragraph styles. What do they do?”* or *“You just used that ›align‹ function—before, you placed objects manually. What is the difference between those activities?.”* -->
 
-**Problems** — what is in the way of the participant getting to their goals?
+**Problems** — what is in the way of the participant getting to their goals? Problems can make you and the participant aware of motivations and activities that are so familiar, that you don't think of them—until something gets in the way. 
 
 * *“When do you feel hindered or slowed down?”*
 * *“Can you show me how you circumvent this from happening?”*
 * *“What will happen if you can’t solve this problem?”*
 
--------------
 
+<!--
 There are other frameworks, like *AEIOU* ^[if you want to know about its origins, read [Building a Useful Research Tool: An Origin Story of AEIOU ](https://www.epicpeople.org/building-a-useful-research-tool/)]. If you don't like MAP, it can be a good alternative. It is a mnemonic for the following aspects:
 
 * ***A**ctivities*—what people to achieve something
@@ -168,7 +164,7 @@ There are other frameworks, like *AEIOU* ^[if you want to know about its origins
 
 -------------------
 
-Use a framework like MAP or AEIOU to remind you of the different aspects you can research. This is particularly useful for collecting first experiences but can also help seasoned researchers.
+Use a framework like MAP or AEIOU to remind you of the different aspects you can research. This is particularly useful for collecting first experiences but can also help seasoned researchers. -->
 
 List the topics you want to explore and structure them in a way that is meaningful to you. This list of topics can then be used to create a cheat sheet for the research session.
 
