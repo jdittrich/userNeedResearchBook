@@ -709,7 +709,7 @@ the stated theme and the data. In this case, revise your structure.
 #### Find better names
 
 Groups based on commonalities or vague similarity will hopefully evolve
-into insights about the participants. To archive this, try to revise group titles:
+into insights about the participants. To achieve this, try to revise group titles:
  make them more concise, clear and meaningful. If  a group of data is just named
 with a title based on mere commonalities of the data in that group,
 try to state an actual insight for that group. This will almost certainly
