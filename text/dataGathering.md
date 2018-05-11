@@ -2,6 +2,13 @@
 
 <!-- TODO:
 Check for focus on "why", go more for process and how
+
+Check for visual research being covered in an actionable way. A college tried the methods: 
+- Before the research it was hard to find all the templates.
+- After the research it turned out that some people had not annotates very elaborately. Maybe they did not talk at all, but maybe I need to point out needed support more. 
+- Do I give helps to frame a context for the templates (this distance is the timeframe of the .... project now… )
+- Headline for social map might be confusing: Devices you work with
+
 -->
 
 In this chapter, I will show how to gather data on the activities, motivations and problems of our research participants. The data is gathered by listening to descriptions and explanations of our participants and by observing them working. The resulting data will be text, photos and diagrams.

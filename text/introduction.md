@@ -1,27 +1,23 @@
 # Introduction
 
-Products should not only be usable but also useful. This means they satisfy a need of the people using them. But how do you discover this? By getting to know users’  motivations, activities, and problems by gathering data and finding patterns. This text teaches methods for doing this.
+<!-- Maybe I should connect these paragraphs better-->
 
-----------------
+*Products should not only be usable but also useful. This means they satisfy a need of the people using them. But how do you discover this? By getting to know users’  motivations, activities, and problems by gathering data and finding patterns. This text teaches methods for doing this.*
 
-I found it hard to start with doing research on user needs because some approaches demanded theoretical knowledge, while others assumed a large budget for research.
+\
+
+ I found it hard to start with doing research on user needs because some approaches demanded theoretical knowledge, while others assumed a large budget for research.
  I try to keep the barriers to doing research low by prioritizing methods that…
 
 * are useful for design projects in business as well as in academia
 * work with a small  budget
 * are understandable and applicable without a specific (academic) background
 
-To make it easy to see how methods are used, I provide examples. More useful than an abstract  definition of methods like “asking open questions” or “clustering themes” is to see how these are put into action when doing research.
+ I provide examples to make it easy to see how methods are used. More useful than an abstract  definition of methods like “asking open questions” or “clustering themes” is to see how these are put into action when doing research.
 
----------------------
+This text describes methods and tricks of the trade. They worked for me and I saw them work for others, too. However, they are not a list of rules that guarantee success if followed. Indeed, doing research this way could actually lead to useless results. Also, it would be very boring. See this book as a travel guide ^[This idea, that a book on methods should be treated like a travel guide, is inspired by _Reassembling the Social_ by Bruno Latour, a book on so-called _Actor-Network-Theory_, which is frequently applied in sociology of science], written by a person who has already traveled a bit. As in a travel guide, it can be helpful to follow the suggestions. But if the way I suggest can’t be walked, feel free to go around the obstacle. If the locals give you strange looks, maybe your current situation is one I have yet to experience. Feel free to adapt to what makes sense in your situation.
 
-This text describes methods and tricks of the trade. They worked for me and I saw them work for others, too. However, they are not a list of rules that guarantee success if followed. Indeed, doing research this way could actually lead to useless results. Also, it would be very boring.
-
-See this book as a travel guide ^[This idea, that a book on methods should be treated like a travel guide, is inspired by _Reassembling the Social_ by Bruno Latour, a book on so-called _Actor-Network-Theory_, which is frequently applied in sociology of science], written by a person who has already traveled a bit. As in a travel guide, it can be helpful to follow the suggestions. But if the way I suggest can’t be walked, feel free to go around the obstacle. If the locals give you strange looks, maybe your current situation is one I have yet to experience. Feel free to adapt to what makes sense in your situation.
-
-----------
-
-This book is open source, which means it is both free-as-in-freedom and free-as-in-free-beer. This means you can not only read it for free, but also change and adapt it (Details are in [the license](#license)) I hope this helps to spread the knowledge and to improve this book together. So let me know of errors you find in it and tell me and others how the book is useful to you. 
+Talking about adapting to your needs: This book is open source, which means it is both free-as-in-freedom and free-as-in-free-beer. This means you can not only read it for free, but also change and adapt it (Details are in [the license](#license)) I hope this helps to spread the knowledge and to improve this book together. So let me know of errors you find in it and tell me and others how the book is useful to you. 
 
 ## User research helps you to create more useful products
 
@@ -55,7 +51,7 @@ Here are some scenarios in which user need research makes sense:
 
 **There is an idea for a product or a service.** You want to find out user motivations, activities and problems that are important to consider when building a product or service. This is the scenario in which I use user need research most often. An example task is  _“The library wants to create an app for creating bibliographies. They want to find out what they need to consider for making it a useful product”_
 
-**An existent product is to be improved or changed.** If a substantial overhaul is planned, it makes sense to observe how the product is used to find out where user needs are unmet. A task could be:  _“The library already provides an app for creating bibliographies since several years. But students complain about it being useless and hard to use. Now, you should find out about the users to help the library to see how version 2.0 should be different.”_
+**A product is to be improved or changed.** If a substantial overhaul is planned, it makes sense to observe how the product is used to find out where user needs are unmet. A task could be:  _“The library already provides an app for creating bibliographies since several years. But students complain about it being useless and hard to use. Now, you should find out about the users to help the library to see how version 2.0 should be different.”_
 
 In all these examples, the outcome is not set yet: Your findings could make a difference and shape the outcome. But if the decisions are already made and your results won’t make a difference, don’t do the research: It will be a frustrating experience if even the most interesting results won’t change the project’s determined course.
 
@@ -66,7 +62,7 @@ You now may be very motivated to start designing your future product. But if you
 This idea seems to be hard to grasp. When I talk about user need research, a frequent assumption is, that I ask users things like this:
 
 * What do you want?
-* How I should design a product for you?
+* How should I design a product for you?
 
 However, I don’t do this: It would not tell me much about the *how* and *why* of their actions—only that they want something. 
 
@@ -74,9 +70,12 @@ Sometimes, user need research is also confused with usability testing. In usabil
 
 Paradoxically, we need to *let go* of our focus on *products* to be able to understand the users and to develop products that users need.
 
+<!-- 
 ------------------------------
 	
 
+
+PROBABLY REMOVE; IT IS HARD TO UNDERSTAND THAT THIS BELONGS TO THE MAIN  CHAPTER
 In this book, you can expect to learn easy, approachable, easy-to-learn ways to find user needs. Nevertheless, this text is not a collection of recipes and more like a travel guide through your first projects. 
 
-User need research should be done in early project stages. This way, your research can focus on the and your research can have an impact on the project’s outcome.
+User need research should be done in early project stages. This way, your research can focus on the and your research can have an impact on the project’s outcome. -->
