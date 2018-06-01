@@ -40,10 +40,9 @@
 
 ## Tech-y stuff on building and git
 
-(This is a bit programmer-ish. No fail as user researcher or designer, if you don't want to deal with this mess.)
+This is a bit programmer-ish
 
 * The tool used for converting the files into the website and other formats is [pandoc](http://johnmacfarlane.net/pandoc/).
-* The master branch is directly served online (not gh-pages)
 * If you do changes, commit [the markdown](https://github.com/jdittrich/userNeedResearchBook/tree/gh-pages/text) (and other relevant files like possible images), but **not** the build index.html.
 * On [\*nix](https://en.wikipedia.org/wiki/*nix) systems, you can use *[make](https://en.wikipedia.org/wiki/Make_(software)) html* to create the website, *make epub* to create an epub, *make odt* to create a [libreoffice](http://www.libreoffice.org/) file, which can be useful for working in a word processor or for using google docs or the like for collaboration.
-
+* The website version is served via [github pages](https://pages.github.com/). The master branch is directly served online (no  *gh-pages* branch)
