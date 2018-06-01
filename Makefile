@@ -39,4 +39,7 @@ context:
 odt:
 	pandoc -t odt -o urbook.odt $(YAMLMETA) $(TEXTSOURCES)
 
-.PHONY: html epub context odt
+docx:
+	pandoc -t docx -o urbook.docx $(YAMLMETA) $(TEXTSOURCES)
+
+.PHONY: html epub context odt docx
