@@ -137,7 +137,7 @@ Note common patterns as well as interesting findings, e.g. if most diagrams shar
 > * Again, like in the diagram before, starting is good. I would hypothesize that the anticipation feels great and that the actual start even lifts the mood a bit on top (?)
 > * Like in P2, client wishes/negative feedback drag the mood down. Here we have negative feedback.
 > * Maybe starting/trying a new approach is a bit like the positive feeling at the projects start (also P4 shows a similar pattern, P2 framed it more as solving problems. I don't know if that is the same)
-> * The pattern of “new approach good/client feedback bad” repeats (at time of the research, the project was still ongoing, so there can't be a “end is positive” pattern here.)
+> * The pattern of “new approach good/client feedback bad” repeats (at time of the research, the project was still ongoing, so there can't be an “end is positive” pattern here.)
 >
 
  -------
@@ -340,7 +340,7 @@ Grouping your notes based on insights about your participants provides great ben
 
 To understand how to organize notes by themes based on insights, can be hard to grasp for beginners. To ease the learning, I provide another example:
 
-> Let’s say we gathered this data (amongst others) when researching beginners in web programming:
+> Let’s say we gathered this data (among others) when researching beginners in web programming:
 >
 > - To try out stuff in HTML is fun
 > - I analyze Javascript code to understand patterns
@@ -585,7 +585,7 @@ the indented sub-lists are group titles):
 > - Media
 >     - Do tests in the media you target
 >     - Suitablility of media
->     - “being closer” : 2 page-spreads instead of single pages etc.
+>     - “being closer”: 2 page-spreads instead of single pages etc.
 > - Idea Attachment
 > - Motivation at the beginning; then the problems start.
 > - Finishing is good
