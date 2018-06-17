@@ -7,6 +7,10 @@
 * [lisacharlotterost](https://github.com/lisacharlotterost)
 * Claudia Landivar
 
+#### Resources{-}
+
+Supplemental information, versions for ebook-readers and co-documentation templates can be found at <http://urbook.fordes.de>
+
 #### Suggestions and Feedback{-}
 
 This book is free/libre, if you help to improve it, it helps all other fellow readers.
