@@ -22,9 +22,9 @@ $(function(){
 	$('<a class="toggle">hide TOC</a>').prependTo("#autoToc").click(function(){
 		$("#layoutWrapper").toggleClass("menuactive");
 		if($("#layoutWrapper").hasClass("menuactive")){
-				$("#autoToc .toggle").text("hide TOC");
+				$("#autoToc .toggle").text("hide table of contents");
 		}else{
-				$("#autoToc .toggle").text("show TOC");
+				$("#autoToc .toggle").text("show table of contents");
 		}
 	});
 	//end Toggle TOC visibility
