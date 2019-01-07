@@ -1,5 +1,5 @@
-userNeedReseachBook
-===================
+userNeedResearchBook
+====================
 
 Hands-on intro to user need research 
 
