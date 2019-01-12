@@ -40,9 +40,9 @@ I don't exclude the roles (“Student”, “Owner of a small business”), but 
 <!-- ↑ that could be better, but even my german sentences are not great: …wo sie sind?! -->
 The easy way to get participants is via an recruiting agency: You pay them and they will get you participants.  But since that might not be possible for you, here is how you do it yourself. Two conditions need to be satisfied in order to convince people to participate in your research: They need to know about the possibility and that it is rewarding to participate. 
 
-It is motivating for potential participants if the research improves their life: A shopkeeper will likely be interested if you work on making it easier to keep track of bills and taxes, neighbors, if you try to make living in the neighborhood better. People will also be happy to participant, if they like your product and/or organization e.g. because your work is not-for profit and supports a good cause. 
+It is motivating for potential participants if the research improves their life: A shopkeeper will likely be interested if you work on making it easier to keep track of bills , neighbors will be motivated to help if you try to make living in the neighborhood better.
 
-Incentives are a simple, but effective motivation for participants. If you have the funds and particularly, if your project will earn you (or your employer) money, you should pay a fair sum for your participants’ time. If your funds are small and people like to support you and your cause, you could also offer something other than money: Something that people like, but would usually not “just” buy seems to work well—e.g. really good chocolate or a voucher for a nice local restaurant.
+Incentives, like money or vouchers,  are a simple, but effective motivation for participants. If you have the funds and particularly, if your project will earn you (or your employer) money, you should pay a fair sum for your participants’ time. If your funds are small and people like to support you and your cause, you could also offer something other than money: Something that people like, but would usually not “just” buy seems to work well—e.g. really good chocolate or a voucher for a nice local restaurant.
 
 When you know what you can offer to potential participants, you can write down what participants can expect if they participate. This includes:
 
@@ -59,7 +59,7 @@ You can use this information to create paper notes or posts to social media—Th
 
 > Are you a designer?
 > 
-> The universty library would like to improve the LibApp to support you better in useing our library and digital services. Therefore, we would like to gather some insights into the way you work in the library and with our services.
+> The university library would like to improve the LibApp to support you better in using our library and digital services. Therefore, we would like to gather some insights into the way you work in the library and with our services.
 > If you would like to support us, someone from our team ask you some questions and look over your shoulder while you work. This would take approximately 1h and take place in the library or some other place where you use our services from. 
 > All participants get a $10 voucher for the university’s cafeteria. If you would like to participate (or have further questions) please write an email to jan.dittrich@example.com 
 
@@ -75,9 +75,9 @@ In above example, it was easy to reach out to participants because you were alre
 
 In the scenario above, I described a step-by-step process of reaching out: In each step, you try to be referred to a next person who is more knowledgeable and familiar with the people you want to do research with. You do this, until you are referred to possible participants. 
 
-At each step, you can learn about how to approach the next: If your friend refers you to a meeting of data hackers, that friend can probably also tell you if you should behave in a particular way if you are going there. For the hacker meeting, it might make sense to NOT be wearing a suit. In other places, the smart clothes might be essential. The more formal and seggregated a setting is, the more important it is to not violate its customs: Hospitals, churches and bureaucracies are tough to research if you don’t behave the “right” way. 
+At each step, you can learn about how to approach the next: If your friend refers you to a meeting of data hackers, that friend can probably also tell you if you should behave in a particular way if you are going there. For the hacker meeting, it might make sense to NOT be wearing a suit. In other places, the smart clothes might be essential.
 
-Some people who might help you  are in a core position to regulate access to potential participants. The ethnographical jargon for them is “Gatekeepers”. They can decide to help you and let you through the metaphorical “gate” behind which your participants are waiting – or they can hinder your access if they find reasons to not help you. In the example above, a gatekeeper could be the person who runs the “data hackers”-meetup or the city’s digital infrastructure person.
+Some people who might help you  are in a core position to regulate access to potential participants. The ethnographic jargon for them is “Gatekeepers”. They can decide to help you and let you through the metaphorical “gate” behind which your participants are waiting – or they can hinder your access if they find reasons to not help you. In the example above, a gatekeeper could be the person who runs the “data hackers”-meetup or the city’s digital infrastructure person.
 
 If you have found people who like to be your research participants, you can ask them if they know others who might like to participate. It works like the step-by-step recruiting process, but instead of moving towards your participants, you now can go from one to another by being referred. 
 
@@ -86,7 +86,7 @@ In any case, it is useful to consider different ways to get to your participants
 
 ### Make compromises, if needed
 
-Especially if you are short on money and/or time, you may need to compromise and do research with participants that don't match your intended users exactly. When doing this, keep in mind to check for similarity of tasks, problems and motivations. These checks don't ensure that the participants are exactly the ones who may use your final product. But you can be rather sure that they can tell you something which is of interest for you.
+Especially if you are short on money and/or time, you may need to compromise and do research with participants that do not match your intended users exactly. However,  if their motivations, activities and problems are similar, you are still  likely to learn from these participants. But if they are similar only in demographics or profession rather than in their activities, your can not expect meaningful results. 
 
 If you design an app for people to create bibliographies and you can only get some bachelor’s and master’s students, but no professors, your results will still reveal a lot about the processes of creating bibliographies. The student’s motivation is probably writing final term papers and the professors would like to write journal papers. This is a possible difference — as long as you aware of it, you are probably fine. But if you want to design a skateboard and the only participants you can get are elderly people who enjoy hiking, you are in trouble (if you find elderly people who enjoy skating, go for it).
 
@@ -139,7 +139,7 @@ These topics are relevant for design, and they can be easily remembered even in 
 
 <!-- *Questions about Motivations are usually about emotions and goals. Since people act in ways to achieve their motivations, they often their relation to activities as well. You can explore these relations further in follow-up questions—*“You said you hate talking with this client. What in particular makes it a bad experience for you?”*.-->
 
-**Activities** — what does the participant do? How do they do it? What are solutions, procesures, “hacks” do they use? Activities are the core part of reserach: This is what can be observed and  where things happen. 
+**Activities** — what does the participant do? How do they do it? What are solutions, processes, “hacks” do they use? Activities are the core part of research: This is what can be observed and  where things happen. 
 
 * *“Can you describe the task you are currently working on?”*
 * *“Can you show me how you use the application?”*
@@ -170,7 +170,7 @@ List the topics you want to explore and structure them in a way that is meaningf
 
 
 ### Write a cheat sheet to use in the research session
-<!--What is an interview guide for? Prepare the questions etc. Prepare youself… -->
+<!--What is an interview guide for? Prepare the questions etc. Prepare yourself… -->
 
 A cheat sheet is a little memory aid that you can take with you when you collect data.
 
