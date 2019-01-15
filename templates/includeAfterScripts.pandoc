@@ -1,71 +1,82 @@
-
-<script src="libs/jquery.js"></script>
-<script src="libs/toc_jquery.js"></script>
+<script src = "libs/tocbot.js"> </script>
 <script>
-$(function(){
-	var layoutWrapperSelector = "#layoutWrapper";
-	var textWrapperSelector ="#main";
+	window.onload = function () {
+		var layoutWrapperElement = document.getElementById("layoutWrapper");
+		//create TOC
+		var autotoc = document.createElement("div");
+		autotoc.id = "autoToc";
+		autotoc.classList.add("hidden");
 
-	//create TOC
-	$('<div id="autoToc"></div>').appendTo('#layoutWrapper');
-	$('#TOC').addClass("hidden");
-	$('#autoToc').toc({
-			 'container': textWrapperSelector,
-			 'highlightOffset': 10,
-			 'anchorName': function(i, heading, prefix) { //custom function for anchor name
-				 return prefix+i;
-			 },
-	});
-	//end create TOC
+		layoutWrapperElement.appendChild(autotoc);
 
-	//Toggle TOC visibility
-	$('<a class="toggle">hide TOC</a>').prependTo("#autoToc").click(function(){
-		$("#layoutWrapper").toggleClass("menuactive");
-		if($("#layoutWrapper").hasClass("menuactive")){
-				$("#autoToc .toggle").text("hide table of contents");
-		}else{
-				$("#autoToc .toggle").text("show table of contents");
-		}
-	});
-	//end Toggle TOC visibility
+		tocbot.init({
+			tocSelector: '#autoToc',
+			contentSelector: '#main',
+			headingSelector: 'h1, h2, h3',
+			ignoreSelector: '.unnumbered',
+		});
 
-	//media query: hide TOC if window is small, show if it is wide
-	var widthChange = function(mediaQuery){
-		if (mediaQuery.matches) {
-			$("#layoutWrapper").addClass("menuactive")
-			$("#autoToc .toggle").text("hide TOC");
+
+		//Toggle TOC visibility
+		var menutoggleElement = document.createElement("a");
+
+
+		menutoggleElement.setAttribute('class', "toggle");
+		menutoggleElement.textContent = "hide table of contents"
+
+		var autotocElement = document.getElementById("autoToc");
+
+		autotocElement.insertBefore(menutoggleElement, autotocElement.firstChild);
+
+		menutoggleElement.addEventListener("click", function (e) {
+			if (layoutWrapperElement.classList.contains("menuactive")) {
+				layoutWrapperElement.classList.remove("menuactive");
+				menutoggleElement.textContent = "show table of contents";
+			} else {
+				layoutWrapperElement.classList.add("menuactive");
+				menutoggleElement.textContent = "hide table of contents"
+			}
+		});
+
+		//media query: hide TOC if window is small, show if it is wide
+		var widthChange = function (mediaQuery) {
+			if (mediaQuery.matches) {
+				layoutWrapperElement.classList.add("menuactive");
+				menutoggleElement.textContent = "hide table of contents";
+			} else {
+				layoutWrapperElement.classList.remove("menuactive");
+				menutoggleElement.textContent = "show table of contents";
+			}
 		}
-		else {
-			$("#layoutWrapper").removeClass("menuactive")
-			$("#autoToc .toggle").text("show TOC");
+
+		if (window.matchMedia) {
+			var mediaQuery = window.matchMedia("(min-width:60rem)");
+			mediaQuery.addListener(widthChange);
+			widthChange(mediaQuery);
 		}
+		//end media query code
+
+
+		var headlines = document.querySelectorAll("h1,h2,h3,h4");
+		Array.prototype.forEach.call(headlines, function (el, i) {
+			var id = el.getAttribute('id');
+
+			if (id) {
+				//setup
+				var classname = "link-to-self";
+				var titletext = "copies link to this headline to the addressbar of your browser";
+				var visibleText = "☚";
+				var hreftext = "#" + id;
+				//create child element
+				var link = document.createElement("a");
+				link.setAttribute('class', classname);
+				link.setAttribute('title', titletext);
+				link.setAttribute('href', hreftext);
+				link.textContent = visibleText;
+
+				el.appendChild(link);
+
+			}
+		});
 	}
-
-	if(window.matchMedia){
-		var mediaQuery = window.matchMedia("(min-width:60rem)");
-		mediaQuery.addListener(widthChange);
-		widthChange(mediaQuery);
-	}
-	//end media query code
-
-	//add a span to each headline, linking to the headline itself, so that we can easily get a link to it
-	$("h1,h2,h3,h4").each(function(i,el){
-		var $el = $(el);
-		var id = $el.attr("id");
-		
-		if(id){
-			$el.append(
-				$("<a>",{
-					"title":"blas",
-					"href":"#"+$el.attr("id"),
-					"text":"☚",
-					"class":"link-to-self",
-					"title":"copies link to this headline to the adressbar of your browser"
-					}
-				)
-			)
-		}
-	})
-
-})
-</script>
+	</script>
