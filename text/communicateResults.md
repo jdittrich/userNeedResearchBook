@@ -8,6 +8,16 @@ results has some positive side effects: collecting, organizing and summarizing
 your findings will make it easier for yourself to remember your findings and you
 may be even able to improve your analysis further.
 
+This chapter is different that the others. In the chapters before, the focus was on the 
+research itself. But what  what works well  highly depends on what your audience is 
+familiar with—and this is something that I can't know. So I could give advice on how to 
+create a _persona_, but if your colleges base their work mainly on another framework, like
+_Jobs-To-Be-Done_ the persona would not help. 
+
+Because of this, the chapter gives some general advice, shows standard representations (like 
+diagrams and scenarios) and the formats is mentions are conventional (like slidedecks and reports).
+
+
 ## Consider the audiences needs
 
 Who will receive the research results and what interests do they have? There may
@@ -296,4 +306,4 @@ research. They can be put up in a hallway for everyone who walks by.
 Focus on a few important findings and show them using  graphical elements and text.
 You also can create a big version of diagrams you created or summarized.
 
-![A poster showing three core findings from research with editors of the free online dictionary Wiktionary (By Wikimedia Deutschland, Licensed under CC-BY-SA 4.0, [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/))](images/Poster_WiktionaryUsers_WMDE.png)
+![A poster showing three core findings from research with editors of the free online dictionary Wiktionary – By Wikimedia Deutschland, Licensed under CC-BY-SA 4.0, [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/) ](images/Poster_WiktionaryUsers_WMDE.png){ height=70% }

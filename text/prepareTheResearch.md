@@ -7,15 +7,16 @@ It can help a lot to have a guiding question when you start your research. This 
 
 First, ask yourself why the product idea would be good for something people do. Then ask, how and why they do this. The outcome can be used as research question.
 
-Here is an example:
+> 
+> Here is an example:
+>
+> * The initial idea is *“build a learning platform for university students”*
+> * The meaningful activity connected to it can be *“using digital media in order to learn better for university”*
+> * Asking *how* and *why* I come to *“How and why do students use computers in order to learn better for university?”*
+> * I then refined the question a bit, since *in order to learn better* is often understood as remembering facts or passing exams. Also, “use computers” sounded like if I am not interested e.g. in smartphones or use of social networks. In the end, I used “How and why do students use digital media related to their studies”.
 
-* The initial idea is *“build a learning platform for university students”*
-* The meaningful activity connected to it can be *“using digital media in order to learn better for university”*
-* Asking *how* and *why* I come to *“How and why do students use computers in order to learn better for university?”*
-* I then refined the question a bit, since *in order to learn better* is often understood as remembering facts or passing exams. Also, “use computers” sounded like if I am not interested e.g. in smartphones or use of social networks. In the end, I used “How and why do students use digital media related to their studies”.
 
-
-The research question is a help for you to form more detailed questions and to communicate your aims. It does not need to be the *one true question*. Thus, it can also be refined later after you gained a better understanding of the matter.
+The research question is a help for you to ask more focused questions and to communicate your aims. It does not need to be the *one true question*. Thus, it can also be refined later after you gained a better understanding of the matter.
 
 ## Find participants
 
@@ -29,20 +30,22 @@ Research participants should be able to talk about what they do and demonstrate 
 
 Since they are not about behavior, demographics are not very useful: “30-40-year-old male, making more than $50k/year and being interested in technology” does not relate much to motivations, activities and problems of users. Instead, base your recruiting on the activity that is part of your research question:
 
-* If, for example, you have the research question *“How and why do students use computers to learn for university?”* the activity is “learning for university”. This is what you should focus on: Find people, who learn for university.
+
+* If you have the research question *“How and why do students use computers to learn for university?”* the activity is “learning for university”. This is what you should focus on: Find people, who learn for university.
 
 * If your question is “How and why do small business owners keep track of their bills?”, the activity is “keeping track of bills”, additionally constraint by the role: “Small business owners”.
 
 I don't exclude the roles (“Student”, “Owner of a small business”), but I focus on the activities first. In the question “How and why do small business owners keep track of their bills”, the essential part is keeping track of bills. This is also what people can tell you about and what they can demonstrate. If I talk to an owner of a small business and they do not take care of  the bills themselves, I would ask why they do so and who is doing it instead—and then ask  whoever is  doing the “keeping track of bills”-activity if they want to participate.
 
-### Inform potential participants
+### Let potential participants know about your research and why they should take part
 
 <!-- ↑ that could be better, but even my german sentences are not great: …wo sie sind?! -->
-The easy way to get participants is via an recruiting agency: You pay them and they will get you participants.  But since that might not be possible for you, here is how you do it yourself. Two conditions need to be satisfied in order to convince people to participate in your research: They need to know about the possibility and that it is rewarding to participate. 
+ 
+The easy way to get participants is via an recruiting agency: You pay them and they will get you participants.  But since that might not be possible for you, here is how you do it yourself. Two conditions need to be satisfied for  people to take part in your research: They know about the possibility of participating in the study and they are motivated to actually participate. 
 
 It is motivating for potential participants if the research improves their life: A shopkeeper will likely be interested if you work on making it easier to keep track of bills , neighbors will be motivated to help if you try to make living in the neighborhood better.
 
-Incentives, like money or vouchers,  are a simple, but effective motivation for participants. If you have the funds and particularly, if your project will earn you (or your employer) money, you should pay a fair sum for your participants’ time. If your funds are small and people like to support you and your cause, you could also offer something other than money: Something that people like, but would usually not “just” buy seems to work well—e.g. really good chocolate or a voucher for a nice local restaurant.
+Incentives, like money or vouchers,  are a simple, but effective motivation for participants. If you have the funds and particularly, if your project will earn you (or your employer) money, you should pay a fair sum for your participants’ time. If your funds are small and people like to support you and your cause, you could also offer something that people like, but would usually not “just” buy, e.g. really good chocolate or a voucher for a nice local restaurant. Such things are far more valued than the money they cost. 
 
 When you know what you can offer to potential participants, you can write down what participants can expect if they participate. This includes:
 
@@ -55,7 +58,6 @@ When you know what you can offer to potential participants, you can write down w
 
 You can use this information to create paper notes or posts to social media—This is how it could look like as a slightly formal note for a notice board at university:
 
-<!-- TODO Rewrite to match Library-Book example-->
 
 > Are you a designer?
 > 
@@ -70,14 +72,14 @@ In some cases, finding participants is easy, because participants are motivated 
 
 In above example, it was easy to reach out to participants because you were already close to them, spatially as well as socially.  But sometimes, field access is more difficult than just putting up some notes. Often, this is because you actually don’t know who or where possible participants can be found, and so you can’t ask them. This means you need to get to them in a step-by-step process. The following example outlines this: 
 
-> You want to find out how people use open data on air pollution which is published by cities. You don’t know anyone who does this work. Since the project is not secret, you give it a try and post about it on Facebook. You are lucky, and a friend of yours happens to know that a local hackspace is hosting a bi-weekly “data hackers” meeting. So you write an email and ask if you could join the meeting and introduce your project.  
+> You want to find out how people use freely available data on air pollution which is published by cities. But you don’t know anyone who does work with such data . You give it a try and post about your research project on Facebook. You are lucky, and a friend of yours happens to know that a local “hackspace” is hosting a bi-weekly “data hackers” meeting. You click on the link your friend send you and find an email address. You write an email and ask if you could join the meeting and introduce your project.  
 > In parallel, you have also searched the web, and by trying “[next largest city] open data” you found out that the infrastructure department of the city has given an award to the best data project some weeks ago. You could reach out to the staff member who awarded the price. They might be able to refer you to some people who are interested in the topic, since they needed to get in contact with them when advertising the competition for the award.
 
 In the scenario above, I described a step-by-step process of reaching out: In each step, you try to be referred to a next person who is more knowledgeable and familiar with the people you want to do research with. You do this, until you are referred to possible participants. 
 
 At each step, you can learn about how to approach the next: If your friend refers you to a meeting of data hackers, that friend can probably also tell you if you should behave in a particular way if you are going there. For the hacker meeting, it might make sense to NOT be wearing a suit. In other places, the smart clothes might be essential.
 
-Some people who might help you  are in a core position to regulate access to potential participants. The ethnographic jargon for them is “Gatekeepers”. They can decide to help you and let you through the metaphorical “gate” behind which your participants are waiting – or they can hinder your access if they find reasons to not help you. In the example above, a gatekeeper could be the person who runs the “data hackers”-meetup or the city’s digital infrastructure person.
+Some people who might help you  are in a core position to regulate access to potential participants. The ethnographic jargon for them is “Gatekeepers”. They can decide to help you and let you through the metaphorical “gate” behind which your participants are waiting – or they can hinder your access if they find reasons to not help you. In the example above, a gatekeeper could be the person who runs the “data hackers”-meetup or the person being responsible for the city’s “open data”-initiative .
 
 If you have found people who like to be your research participants, you can ask them if they know others who might like to participate. It works like the step-by-step recruiting process, but instead of moving towards your participants, you now can go from one to another by being referred. 
 
@@ -98,7 +100,7 @@ You may think that conducting user research with more participants is generally 
 
 Nevertheless, only doing research on very few users will restrict the variance of data — like noticing that there may be several ways to do something. As well, you might not see which patterns are consistent among several people and which vary—which would certainly be impossible if you only had one or two participants. However, despite the constraints of such small samples they can still lead the helpful insights.
 
-When estimating how many participants you need, consider how much time or money you can spend on doing the research. Each additional participant gives you additional data and a broader view on your possible users. However, each research session needs time do and adds to the amount of data to be analyzed—so plan accordingly.
+When estimating how many participants you need, consider how much time or money you can spend on doing the research. Each additional participant gives you additional data and a broader view on your possible users. However, each research session needs time do and adds to the amount of data to be analyzed.
 
 An efficient way of involving the “right” amount of participants is doing your research iteratively: start with two or three participants and analyze the data (how this is done is described in the section on [Analyzing Data](#Analysis))
 
@@ -108,8 +110,8 @@ If preliminary findings are unclear or contradictory, you may need to involve mo
 
 Reasons for the such unsatisfactory results could be:
 
-* Your research encompasses different groups of people with different needs — For example the groups “students” and “professors” share some traits, but many characteristics will vary.
-* The topic of your research is too broad — for example, “How do people do design” is very broad, “How do interface designers involve specifications of user research and engineers in their designs” is more specific.
+* Your research encompasses different groups of people with different needs — For example, the groups “students” and “professors” share some traits, but many characteristics will vary.
+* The topic of your research is too broad — for example, “How do people do design” is very broad, “How do interface designers involve system specifications of engineers in their designs” is more specific.
 * Even if your research is focused and there is only one group of people involved, the actual patterns just vary.
 
 In all these cases you can involve more participants — but before you do, try to check if you…
@@ -117,9 +119,8 @@ In all these cases you can involve more participants — but before you do, try 
 * …need to clarify your research topic (to focus your efforts)
 * …need to specify the involved groups (to recruit the right participants)
 
-<!-- TODO write summarizing end sentence -->
 
-
+If you come from research based on measurements and statistics, it can be unusual to have a small number of participants and to refine your research iteratively.  In user need research we focus on collecting rich data and making sense of it by asking new questions and refining interpretations. To be able to do this we spend our resources on working with data from a few participants in depth.
 
 ## Prepare the research session
 
@@ -152,31 +153,36 @@ These topics are relevant for design, and they can be easily remembered even in 
 * *“Can you show me how you circumvent this from happening?”*
 * *“What will happen if you can’t solve this problem?”*
 
-
-<!--
-There are other frameworks, like *AEIOU* ^[if you want to know about its origins, read [Building a Useful Research Tool: An Origin Story of AEIOU ](https://www.epicpeople.org/building-a-useful-research-tool/)]. If you don't like MAP, it can be a good alternative. It is a mnemonic for the following aspects:
-
-* ***A**ctivities*—what people to achieve something
-* ***E**nvironments* where do the activities happen?
-* ***I**nteractions* between people and people and people and objects
-* ***O**bjects* are things in the environment. Some might be used in activities.
-* ***U**sers* do activities involving other users and objects
-
--------------------
-
-Use a framework like MAP or AEIOU to remind you of the different aspects you can research. This is particularly useful for collecting first experiences but can also help seasoned researchers. -->
-
 List the topics you want to explore and structure them in a way that is meaningful to you. This list of topics can then be used to create a cheat sheet for the research session.
 
 
 ### Write a cheat sheet to use in the research session
-<!--What is an interview guide for? Prepare the questions etc. Prepare yourself… -->
 
 A cheat sheet is a little memory aid that you can take with you when you collect data.
 
 What goes into such a sheet? The biggest part will be topics you want to explore and the **questions** that you want to ask for this.
 
-<!-- TODO: Example for a research guide  -->
+<!-- TODO: Check if this works -->
+> 
+> *Participant 5, 2015-04-20*
+> 
+> [ ] Tell reason for research: Improving communication with clients for freelancing designers. 
+> [ ] Tell how the research session will be (asking, listening, observing; 30-60min) 
+> [ ] Ask to read consent form and sign if OK 
+> 
+> Intro: 
+>  
+> * Is there a current project or task?
+> * [explore task]
+>
+> Initial task/handover:
+> 
+>  * How getting in contact with client, first task description?
+> * Is this still the current task description? 
+> * What does the task description mean for your work?
+> …
+
+
 
 When you write the questions on the cheat sheet,
 start with the general topics and progress towards more specific ones.
@@ -184,25 +190,14 @@ This is the order that makes sense in the course of a research session.
 Nevertheless, that order is only a helpful guess. You will usually deviate a bit (or a lot) from your cheat
 sheet.
 
-Often I include some kind of **checklist** on the top, especially if
+Often, I include some kind of **checklist** on the top, especially if
 there are legal matters involved, such as signing a consent form. Thus, I
 can tick off what we already dealt with and immediately see if I forgot something.
 
-<!-- As a beginner you may have some difficulties with formulating your
-questions without preparations when spontaneously entering on a new subject that
-happens to emerge in the research session.
-
-In this case, you can help yourself along with some reminders on the sheet, like
-“Activities/Motivations/Problems”, “How and Why”, or, for the graphics design topic:
-“creativity/variations/creative rules/technology” or the like. -->
-
 The cheat sheet is a tool to support you during the interview and help you along when your
 mind goes blank for a moment. It is not for ensuring that you ask all questions in the same
-way and in the same order.  Instead of controlling the situation user need research emphasizes
-the importance of exploring a given situation and it’s peculiarities. It is totally OK and even
-beneficial to come up with new questions which are not on the cheat sheet, or to react towards
-a new topic the participant brings up if you have the impression that this will give you new
-and interesting insights.
+way and in the same order.  Instead of controlling the situation, user need research emphasizes
+the exploring the situation. If the participant does or tells something which is new to you, use it to learn and feel free to  come up with new questions which are not on the cheat sheet.
 
 ### Take along tools that help you to record data easily
 
@@ -224,6 +219,6 @@ will need some equipment for doing that:
 	-   templates <!-- : link to diagrams -->
 	-   pencils and/or pens in different colors
 
-You should get to know your equipment before you start the actual data collection. So be sure to know the essential operations to actually make a photo and start and stop the recording. Check the audio quality by putting the phone/recorder roughly a meter away from you and saying some sentences in your normal voice. Listen to the recording to test if you can (easily) understand what you said.
+You should get to know your equipment before you start the actual data collection. So be sure to know how make a photo and start and stop the audio-recording. Check the audio quality by putting the phone/recorder roughly a meter away from you and saying some sentences in your normal voice. Listen to the recording to test if you can (easily) understand what you said. 
 
 When your equipment is ready and checked, you can start to collect your data.

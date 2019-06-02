@@ -7,13 +7,13 @@
 
 -->
 
-The data you gathered can’t be used for supporting design decisions: It consists of many unstructured small pieces. Now you need to structure and analyse the data—similar as writing a summary and interpretation of a long and complex book. Analysis is not a passive process: Making sense of data requires taking different perspectives and trying them out to see how the data can be interpreted.
+The data you gathered can’t be used for supporting design decisions yet: It consists of many unstructured small pieces. Now you need to structure and analyse the data—similar as writing a summary and interpretation of a long and complex book. Analysis is not a passive process: Making sense of data requires taking different perspectives and trying them out to see how the data can be interpreted.
 
 <!-- design and communication. Don't forget iterative -->
 
 ## Doing the “right” Analysis
 
-The data analysis is done by inferring themes from data points. Thus, the process is
+The data analysis is done by inferring recurring themes from data points. Thus, the process is
 empirical (as it is based on gathered data). But even if the same data is used, different people will create different analysis. This is because the result of the
 analysis depends on the reasonable, but still individual and debatable, interpretation of the
 data. You could say that *“looking at last years design to quickly reuse elements”* belongs to a
@@ -58,7 +58,7 @@ To prepare the analysis, you write annotations on the diagrams. For this, you ca
 
 <!-- Good/Bad time -->
 >
-> ![Annotated mood-graph](images/U1_GoodBadTime_Diagramm.svg)
+> ![Annotated mood-graph by P1](images/U1_GoodBadTime_Diagramm.svg)
 >
 > In this diagram I noted some ideas for an interpretation:
 >
@@ -69,13 +69,13 @@ To prepare the analysis, you write annotations on the diagrams. For this, you ca
 > * …in parallel the participant did line breaks and letter spacing, I assume these are finishing touches and itself maybe a bit boring.
 > * Sending the finished design to the client seemed to be a positive thing. Maybe this is a kind of closure point—“I finished the design!”
 > * …however, waiting for the final acceptance is again negative, though usually only in the beginning (the participant projected this—the dotted line is assumed, since at the point of the research session, the design was just send a day ago or so.)
->
-> I did such annotations for all the diagrams, to keep it brief, I don't include all of them here.
->
+> 
+> I wrote such annotations for all mood-graph-diagrams from the different participants in the reserach project. 
+> 
 
 ----------
 
->
+> 
 > ![Annotated workflow diagram: CC-BY 4.0 ([https://creativecommons.org/licenses/by/4.0/deed.en](https://creativecommons.org/licenses/by/4.0/deed.en)) *Credit:* Yarl (Workflow) Papuass (documenting), Jan Dittrich (recording, adaption as SVG) *Based on:* Wikimedia Commons [WikidataCon_2017_Workshop_Workflows_03.jpg](https://commons.wikimedia.org/wiki/File:WikidataCon_2017_Workshop_Workflows_03.jpg) ](images/Wikidata_Workflow_1_annotated_noInterpretation.svg)
 >
 > This is a diagram of a user’s workflow when editing on the free database project [*Wikidata*](https://www.wikidata.org). Wikidata collects statements about things. These things are called “Items”. The [item for the Mona Lisa](https://www.wikidata.org/wiki/Q12418) could have the statements “instanceOf: Painting”, “Creator:Leonardo da Vinci”. “Painting” and “Leonardo da Vinci” would be items themselves, so all is linked!
@@ -97,11 +97,11 @@ To prepare the analysis, you write annotations on the diagrams. For this, you ca
 
 ### Commonalities and contrasts
 
-Once you thought of possible meanings, you can check them. For this, you compare data from different users. Do they show the same pattern or do they differ? If yes, do you have a guess, why?
+Once you thought of possible interpretations, you can compare them using diagrams from other users. Do they show the same pattern or do they differ? If yes, why? When doing this you can overthrow or update your initial interpretations and develop 
 Note common patterns as well as interesting findings, e.g. if most diagrams share a common pattern, but one does not.
 
-> I compared the diagram above with this diagram:
->
+> I compared the mood-diagram from the previous section with this diagram:
+> 
 > ![Annotated Diagram, P2](images/U2_GoodBadTime_Diagramm.svg)
 >
 > * It looks much different from the first diagram above—there are far more ups and downs
@@ -112,7 +112,7 @@ Note common patterns as well as interesting findings, e.g. if most diagrams shar
 > * Distressful phase at the end
 > * Like in the diagram above, there is a  positive “it is done” phase
 >
-> My third participant’s diagram was this:
+>  I compared my analysis of the first and second diagram with the diagram drawn by the  third participant:
 >
 > ![Annotated diagram, P3](images/U3_GoodBadTime_Diagramm.svg)
 >
@@ -143,7 +143,9 @@ Note common patterns as well as interesting findings, e.g. if most diagrams shar
  -------
 
 
-> Here an example for doing an analysis on workflows:
+> We have looked at an example for analyzing the diagrams that show a “mood graph”. Other diagrams represent  data differently. 
+> To see how to analyse workflow documentation, here another example. While the type of the diagram is different, it follows 
+> the same pattern of annotations and comparisons to find commonalities and contrasts
 >
 ![Annotated diagram 1: CC-BY 4.0 ([https://creativecommons.org/licenses/by/4.0/deed.en](https://creativecommons.org/licenses/by/4.0/deed.en)) *Credit:* Yarl (Workflow) Papuass (documenting), Jan Dittrich (recording, adaption as SVG) *Based on:* Wikimedia Commons [WikidataCon_2017_Workshop_Workflows_03.jpg](https://commons.wikimedia.org/wiki/File:WikidataCon_2017_Workshop_Workflows_03.jpg)](images/Wikidata_Workflow_1_annotated.svg)
 >
@@ -194,36 +196,35 @@ You can summarize the findings in a diagram itself. It will look similar to the 
 > * In all but one (P1) diagram the onset of a project seems to be a good experience
 > * In three (P2, P4, P5) of the five diagrams there is a significant decline after the projects first, motivated phase. The reasons are: Seemingly unsolvable problems, project not going according to the plan and unhappy clients. A commonality is that the named reasons for the bad mood are seemingly out of the control of the participants (Except for P4, where the reason was seen in the “boring” design)
 > * for all participants the project ends good (excluding P5, where the project has not ended yet). Three (P2,P3,P4) seem to be very happy at the end: Finishing seems to be a good experience.
->
+> 
 > This can also be shown in a summarizing diagram which I drew:
->
+> 
 > ![summary of the analysis in diagram form](images/SummaryAnalysis_GoodBadTime_Diagramm.svg)
 
 
 -----------------
 
-
+> 
 > I created this diagram to summarize the workflows for editing wikidata:
+> 
 > ![summary diagram wikidata edit workflow](images/Wikidata_Workflow_summary.svg)
->
+> 
 > * In the first (“Adding instanceOf…”) and in the third (“Adding wikidata items…”) were a setup step. I included this—also because I knew from other research that tool use is widespread
 > * All four editors worked from a list. I tried to specify what that list could be. Different kinds of lists served different purposes: A list of existing items can serve for supplementing these; a list of Wikipedia articles without corresponding Wikidata-items enables the creation of needed items.
 > * All editors did some work on items. However, there are different possible actions: creating items (3), some editing existing ones (1,4) and some created and then edited (2).
->
+> 
 
 <!-- TODO: Chapter end -->
 
 ## Making sense of notes
 
-Your notes are data in written form, maybe with some occasional sketches. I will demonstrate a method to analyze your notes in depth. In contrast to the methods for analyzing diagrams, this is more complex. However, it is a very powerful method, which allows going beyond the pure data and extract overarching themes and interrelations from it. It is a variation of typical *qualitative data analysis* methods like *thematic analysis*, *grounded theory* or the like.
-
+Your notes are data in written form, maybe with some occasional sketches. I will demonstrate a method to analyze your notes in depth. In contrast to the methods for analyzing diagrams, this is more complex. However, it is a very powerful method, which allows going beyond the pure data to create meaningful interpretations of your data, which can serve as guidance in later design work.
 
 ### Organize notes hierarchically
 
-
 The basis for our analysis are the utterances or observations, usually represented by a line in your transcript, like:
 
->“I find it boring to move around all the text boxes again!”.
+> “I find it boring to move around all the text boxes again!”.
 
 <!-- NOTE some clarification/style in the following paragraph -->
 You will organize these hierarchically and group them if they may share a similar theme.
@@ -234,7 +235,7 @@ Sometimes, you will have several themes, which relate to a common theme themselv
 
 
 > Here is a part of an analysis.
->
+> 
 > - *Overarching theme*: using existing work for inspiration
 >     - *sub-theme*: review previous projects
 >         - *Data:* “ have a look at an old project to see how I solved this problem…”
@@ -242,7 +243,7 @@ Sometimes, you will have several themes, which relate to a common theme themselv
 >         - …
 >     - *sub-theme*: use other’s work  for inspiration
 >         - *Data:* “I look on google images how other calendars look like”
->         - *Data:* browses through the book to see…
+>         - *Data:* Browses through the book to see examples of existing designs
 >         - …
 >
 
@@ -251,26 +252,26 @@ Such a hierarchical analysis could be done in two ways:
 1. **Top-Down**: You first name the groups and write the titles and then sort pieces of data into the groups hereafter
 2. **Bottom-Up**: You first group pieces of data which seem to share a similar theme and then give the group a comprehensive title which states the topic shared by the underlying pieces of data.
 
-We are going to use mainly the 2nd way, doing a so called “bottom-up” analysis. In a bottom-up analysis, the themes depend on the data, but also on your interpretation of the data.
+We are going to use the  “bottom-up”-way of analysis. 
 
 In the analysis we may start with grouping similar data together—like these two lines:
 
 > - *Data:*  “I look on google images how other calendars look like”
-> - *Data:*  Browses through the book to see…
+> - *Data:*  Browses through the book to see examples of existing designs
 
 
 Then we give that data a headline and name the topic:
 
->- **Theme:** Use other’s work  for inspiration
+>- **Theme: Use other’s work  for inspiration**
 >	- *Data:* “I look on google images how other calendars look like”
->	- *Data:*  Browses through the book to see…
+>	- *Data:*  Browses through the book to see examples of existing designs
 
 When we come across a piece of data which shares the topic, we can add it to the group, too:
 
 >- *Theme:* use other’s work  for inspiration
->	- *Data*:  Searches on amazon to see how covers of books about the same topic look like**
+>	- *Data*:  **Searches on amazon to see how covers of books about the same topic look like**
 >	- *Data:* “I look on google images how other calendars look like”
->	- *Data:*  Browses through the book to see…
+>	- *Data:*  Browses through the book to see examples of existing designs
 
 This is a rather simplified overview of the process: In contrast to this example,
 you will as well spend time searching through data, rewriting theme titles and
@@ -278,7 +279,7 @@ may need to step back or just sleep over it to find a good new way
 to make sense of your data.
 
 
-### Create meaningful groups
+### Create meaningful groups {#MeaningfulNotes}
 
 I already talked about grouping notes by shared themes. But what is a *meaningful* theme?
 
@@ -372,11 +373,9 @@ To understand how to organize notes by themes based on insights, can be hard to 
 > - To know these 'attributes' of HTML-'tags' makes writing code easier.
 
 
-
-
 ### Prepare your notes for Analysis
 
-When you create groups of data, it is good to know if the theme of the group is relevant across several participants or only concerns one participant. To check for this, you should supply each note (=line in the transcript) with a participant code. A participant code works like a pseudonym: The user is not identifiable by his/her real name, but by a stand-in for the name. I use neutral number codes: The first person I did a research session with is P1, the second is P2 etc.
+When you create groups of data, it is good to know if the theme of the group is relevant across several participants or only concerns one participant. To check for this, you should supply each note (=line in the transcript) with a participant code. You already used this code in the section on [archiving your data](#AfterSessionArchiveData) to show to which participant the recorded data belongs. A participant code works like a pseudonym: The user is not identifiable by his/her real name, but by a stand-in for the name. I use neutral number codes: The first person I did a research session with is P1, the second is P2 etc.
 
 > If you have this on your transcript:
 >
@@ -433,11 +432,14 @@ use something like “COMMENT:” or “ANNOTATION:” to mark your comments;
 Annotating your data is a creative process. If in doubt, whether an annotation is relevant or not: opt for writing it. Later on, it might become useful. If you are unsure about something or an idea seems to be far-fetched, just go for it. Since you keep data and comments distinguishable from each other, you can always throw stuff out again. The goal is not to come
 up with great annotations, but to wrap your head around the data and to find possible ways to interpreting it.
 
-### Decide, whether you want to do a digital or analog analysis
+### Decide whether you want to do a digital or analog analysis
 
-After annotating your data you should take the decision in which media you want to conduct your analysis: Digital in a word processor, where lines hold the basic units of data, or analog on paper, where sticky notes are your means of dealing with the data.
+After annotating your data you should take the decision in which media you want to conduct your analysis: 
 
-The analysis methods described here can be used in both media. Nevertheless, each way has different strengths.
+- Digitally in a word processor, where lines hold the basic units of data
+- Analog on paper, where sticky notes are your means of dealing with the data.
+
+The analysis methods described here can be used in both media. Nevertheless, each medium has different strengths.
 
 ![Analyzing data analog by using sticky notes. Theme are written on yellow sticky notes, themes of themes are written on orange sticky notes](images/affinityDiagram2.jpg)
 
@@ -458,7 +460,7 @@ The resources you need for with pen and paper are:
 
 But why should you want to use an analog analysis, if it needs all these resources? Partly, the decision can be based on preferences: Some people like that they can move around the notes by hand and can get an overview of their data by just stepping back and glancing over it.
 
-If you work with peers on your analysis, you have some advantages when using the analogue pen and paper approach: you can easily discuss your ideas with others and will get new ideas how to structure the data. You can as well invite your boss to take a look and be part of the team, at least for some time. This type of on-site, collaborative, analysis is best done analog. Using digital tools it is not that easy and direct—despite all the great digital innovations we have nowadays.
+If you work with peers on your analysis, you have some advantages when using the analog pen-and-paper approach: you can easily discuss your ideas with others and will get new ideas how to structure the data. You can as well invite your boss to take a look and be part of the team, at least for some time. This type of on-site, collaborative, analysis is best done analog. Using digital tools it is not that easy and direct—despite all the great digital innovations we have nowadays.
 
 ![Making sense of data together, using lots of sticky notes. (Image by [flickr user Kalsau](https://www.flickr.com/photos/kalsau/), licensed under CC-BY 2.0, [https://creativecommons.org/licenses/by/2.0/](https://creativecommons.org/licenses/by/2.0/); Changes: Image was cropped) ](images/DesignEthnographyStudioLifeAnalysis4_crop.jpg)
 
@@ -470,7 +472,7 @@ For analysis on your computer, I suggest the following steps for preparing your 
 2. Paste your transcript into that document
 3. Add a page break before the transcript to separate not-yet-grouped data from your (upcoming) structure of lines grouped by themes.
 
-**Creating Groups:** Similar data is organized in lists. You can just use the word processors bullet point list feature. To rearrange data, you can use copy and paste, drag and drop and the tools the word processor provides (toolbar to move points in lists etc.)
+**Creating groups by moving lines** Similar data is organized in lists. You can just use the word processors bullet point list feature. To rearrange data, you can use copy and paste, drag and drop and the tools the word processor provides (toolbar to move points in lists etc.)
 
 \
 
@@ -478,10 +480,10 @@ For analysis on your computer, I suggest the following steps for preparing your 
 
 #### How to: Analysis with pen and paper
 
-For working analog I recommend the following steps to get analysis-ready:
+For working with pen and paper, I recommend the following steps to get ready for analysis:
 
-1. Create table in a word processor, many rows, 2 columns (given you print on DINA4). Each table cell will be a note.
-	1. In the table settings, switch off page breaks in cells and switch “keep paragraphs together” on, so that one note/table cell will not break between pages.
+1. Create table in a word processor with 2 columns and many rows. Each table cell will be a note.
+	1. In the table settings, switch off “Allow row to break across pages”, so that one note/table cell will not be split between pages.
 	2. In the table settings, choose a decent padding around each cell, like 0.5cm
 	3. Choose a font size of about 12pt, large enough to read it\
 	![](images/createAnalogNotes.png)
@@ -490,16 +492,14 @@ For working analog I recommend the following steps to get analysis-ready:
 4. Cut out each table cell (=piece of data)
 5. Optional: Cover the wall with the paper from paper rolls (thus you can remove the analysis, roll up the paper and archive it and you can remove it from the wall temporarily)
 
-**Creating groups**: during analysis you will stick your printed notes on the widths of paper
+**Creating groups by moving sticky notes**: During analysis you will stick your printed notes on the widths of paper
 using removable tape, crepe tape or spray glue—something sticky but non-permanent, so you can
 move the notes around in order to gradually improve the structure.
 
 \
 
-**State themes in  titles of  groups**: Write your group titles on notes of determined colors,
-which are different from the color of the actual data points. If you print your data points on
-white paper you can use yellow sticky notes for group titles and
-pink ones for titles of a group of groups.
+**State themes in  titles of  groups**: Write your group titles on sticky notes. Color-coding by hierarchy can be helpful: If you print your data points on
+white paper, you can use yellow sticky notes for group titles and pink ones for titles of a group of groups.
 
 
 ### Develop a first Structure  {#firstStructure}
@@ -558,11 +558,13 @@ As you gather other data that falls under that (yet vague) category, you may be 
 
 #### State insights
 
+<!--"Insights" could actually be replaced by "interpretation". Not sure if I should replace it. --> 
+
 You may have read through your annotations and have noticed something
 that may make a good insight right away. Great. Just write it down and
 assign the data to it. Even if you have only one or two pieces
-of data that fit the insight, don't worry, just see if the insight
-will emerge to be bigger. If not, you can still revise the title or
+of data that fit the insight, don't worry, just see if you find more data that 
+matches and strengthens the insight. If not, you can still revise the title or
 just get rid of the group and see where else the data might fit.
 
 
@@ -584,7 +586,7 @@ the indented sub-lists are group titles):
 >
 > - Media
 >     - Do tests in the media you target
->     - Suitablility of media
+>     - Suitability of media
 >     - “being closer”: 2 page-spreads instead of single pages etc.
 > - Idea Attachment
 > - Motivation at the beginning; then the problems start.
@@ -593,7 +595,7 @@ the indented sub-lists are group titles):
 > - TrialAndError
 > - Mutual dependencies of design elements like type area, content, font size etc. (?)
 >
-> Note that some themes are actual, meaningful insights (“Finishing is
+> Note that some themes are meaningful insights (“Finishing is
 good”, “(Page) Format is hard to change later”), while some are
 mere group titles based on commonalities of the  data they encompass (“Inspiration”, “Trial and Error”).
 
@@ -623,7 +625,7 @@ utterances or observations, consider if it makes sense to split the group in
 
 Usually, I would go chronologically through all my notes starting with
 the first participant and ending with the most recent one—though any
-other scheme will suffice as well. Just be sure, that you know with which data you
+other scheme will suffice as well. Just be sure that you know with which data you
 dealt with already and with which you did not.
 
 When filling the data in the structure, you may notice that you need to
@@ -717,7 +719,7 @@ require moving some data between groups in order to
 accommodate the data to the improved
 structure.
 
-> For one group I used the title “Arranging”, since arranging and aligning
+> For one group, I used the title “Arranging”, since arranging and aligning
 > objects, lines and text to a predefined grid or to each other was a
 > task that occurred frequently. But the title  “Arranging” just names a
 > commonality. To make clear that the group is
@@ -782,7 +784,7 @@ groups.
 > and emotions– where I moved *“bad: uncertainty before feedback
 > from client”*. The *“good: getting feedback”* was moved to a
 > cluster named *“Exchange with others”*.
-
+> \
 > While I think I gained something out of it, these changes
 > did not result in a new much better structure. It was
 > part of trials and errors in the process.
@@ -793,7 +795,7 @@ groups.
 > that a big part of the data was concerned with balancing
 > *functional* or *practical* requirements (price, readability etc.) with
 > requirements concerning *style* (using colors, being innovative)
-
+> \ 
 > Thus, I renamed the group to “trying to combine aesthetics and
 > functionality”. As the new title was more specific some data needed to
 > be taken out, put into other groups or to the temporary “misc” group.

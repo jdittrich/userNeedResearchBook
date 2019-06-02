@@ -62,8 +62,7 @@ step of the process.
 
 
 
->![](images/NotesSupplements2Anno.png)
->
+>![annotated notes](images/NotesSupplements2Anno.png)
 > In this scanned part of a note sheet you see how the supplements are
  used:
 >
@@ -133,10 +132,10 @@ other document, and see…”
 > So I add the information about the cause of sending the mail:
 > “Send document via mail to the boss for checking.”
 
-If you need to save time, go through your notes and see where they lack information. Then just jump
+If you need to save time, go through your notes and see where they lack information and jump
 to the parts of the audio that might complement these sections.
 
-## Order and archive your data
+## Order and archive your data{#AfterSessionArchiveData}
 
 It should be easy to find out later which data was from which participant and how notes, sketches, diagrams and possible audio recordings fit together.
 
@@ -144,9 +143,9 @@ Take care that all sheets of paper and files have…:
 
 * A participant code like P1 for the first, P2 for the second participant etc. This way you can later trace back which data belongs together
 * The name of the project and the date. In your next or even a parallel project, you may have another “first” participant, and you don’t want to mix them up
-* The filenames (or the names of the folders they are in) should carry the participant code, project name and possibly the method too, which may lead to lengthy filenames like: LMS_P1_diagram-sharingprocess.png (“LMS” being “Learning Management Systems”, the project name, “P1” is the participant code, “diagram” is the method and “sharingprocess” is the topic)
+* The filenames (or the names of the folders they are in) should carry the participant code, project name and possibly the method too, which may lead to lengthy filenames like: freelanceDesigners_P1_diagram_sign-off.png (“freelanceDesigners” being  the project name, “P1” is the participant code, “diagram” is the method and “sign-off” (by a client of a design) is the topic which is covered in the diagram)
 * You should look for possible interconnections between different kinds of data. Maybe the participant mentioned his messy desk and you have a photo of it? Add a line in your transcript, referring to the photo. Or the participant talks about the problems of sending data to the print shop and the printing process was part of a workflow diagram you both created? Write a brief line in your notes and the diagram to connect both.
 
 If you take these steps you can still match project and participants later so you don't loose time or data because of mixups.
 
-As a result of these steps you your now have a transcript of your notes, diagrams, sketches and photos with possible cross-referencing annotations, participant codes, and descriptive filenames.
+As a result of these steps, you your now have a transcript of your notes, diagrams, sketches and photos with possible cross-referencing annotations, participant codes, and descriptive filenames.
