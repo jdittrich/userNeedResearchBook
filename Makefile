@@ -10,20 +10,27 @@ TEXTSOURCES=$(TEXTDIR)/license.md $(TEXTDIR)/introduction.md $(TEXTDIR)/prepareT
 help:	
 	@echo ' '
 	@echo 'Makefile for '
-	@echo ' ┌──────────────────────────────────────────┐'
-	@echo ' │ A Beginner’s Guide to finding User Needs │'
-	@echo ' │ by Jan Dittrich                          │'
-	@echo ' └──────────────────────────────────────────┘' 
+	@echo ' ┌──────────────────────────────────────────┐ '
+	@echo ' │ A Beginner’s Guide to finding User Needs │ '
+	@echo ' │ by Jan Dittrich                          │ '
+	@echo ' └──────────────────────────────────────────┘ ' 
 	@echo ' '	
 	@echo 'USAGE:'
-	@echo '─────────────────────────────────────────────'
+	@echo '──────────────────────────────────────────────'
 	@echo 'make html: Creates index.html for the book'
 	@echo 'make epub: Creates epub file of the book'
+	@echo 'make pdf : Creates pdf file of the book using'
+	@echo '           the Eisvogel template'
 	@echo ' '
 	@echo 'REQUIRES:'
-	@echo '─────────────────────────────────────────────'
+	@echo '──────────────────────────────────────────────'
 	@echo 'pandoc (http://pandoc.org/)'
 	@echo ' '
+	@echo 'pdf needs additionally (ubuntu package names)'
+	@echo 'texlive: -base,-extra,-recommended, and'
+	@echo 'texlive-fonts: -extra, -extra-links,'
+	@echo '-recommended'  
+
 	
 
 html:
@@ -32,14 +39,9 @@ html:
 epub: 
 	pandoc -s --css=$(STYLESDIR)/styles.css -t epub -o urbook.epub $(YAMLMETA) $(TEXTSOURCES)
 
-# not working yet:
-context:
-	pandoc --template $(TEMPLATEDIR)/context.pandoc -t context -o urbook.context --top-level-division=chapter --filter=pandoc-svg.py  text/URBookMetadata.yaml text/license.md text/introduction.md text/prepareTheResearch.md text/dataGathering.md text/afterTheSession.md text/dataAnalysis.md text/communicateResults.md text/appendix.md
-
-odt:
-	pandoc -t odt -o urbook.odt $(YAMLMETA) $(TEXTSOURCES)
-
-docx:
-	pandoc -t docx -o urbook.docx $(YAMLMETA) $(TEXTSOURCES)
+pdf:
+	pandoc --filter=pandoc-svg.py --template $(TEMPLATEDIR)/eisvogel --pdf-engine=xelatex --metadata=abstract:" " -o urbook.pdf $(YAMLMETA) $(TEXTSOURCES)
+# --metadata=abstract=" " to set abstract to a null-value, since the latex book  template does not assume an abstract (2019-03)
+#lualatex does print out the conditional hyphen as hyphen, so I use xelatex (2019-05)
 
 .PHONY: html epub context odt docx

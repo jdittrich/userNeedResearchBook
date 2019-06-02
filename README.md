@@ -5,7 +5,7 @@ Hands-on intro to user need research
 
 Read at http://jdittrich.github.io/userNeedResearchBook/
 
-License: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+License: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) (libraries of single images and of code used to produce the website or pdf can be different)
 
 More on [contributing and the book’s concept](https://github.com/jdittrich/userNeedResearchBook/blob/master/conceptAndContributing.md)
 

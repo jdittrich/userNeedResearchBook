@@ -6,16 +6,16 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
   <meta name="author" content="Jan Dittrich" />
   <title>A Beg­inner’s Guide to Finding User Needs</title>
-  <style type="text/css">
+  <style>
       code{white-space: pre-wrap;}
       span.smallcaps{font-variant: small-caps;}
       span.underline{text-decoration: underline;}
       div.column{display: inline-block; vertical-align: top; width: 50%;}
   </style>
-  <link rel="stylesheet" href="styles/normalize.css">
-  <link rel="stylesheet" href="styles/styles.css">
-  <link rel="stylesheet" href="styles/print.css">
-  <link rel="stylesheet" href="styles/autoToc.css">
+  <link rel="stylesheet" href="styles/normalize.css" />
+  <link rel="stylesheet" href="styles/styles.css" />
+  <link rel="stylesheet" href="styles/print.css" />
+  <link rel="stylesheet" href="styles/autoToc.css" />
   <!--[if lt IE 9]>
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
   <![endif]-->
@@ -23,14 +23,14 @@
 <body>
 <div id="layoutWrapper">
 <div id="main">
-<header>
+<header id="title-block-header">
 <h1 class="title">A Beg­inner’s Guide to Finding User Needs</h1>
 <p class="author">Jan Dittrich</p>
 </header>
-<nav id="TOC">
+<nav id="TOC" role="doc-toc">
 <ul>
 <li><a href="#introduction">Introduction</a><ul>
-<li><a href="#user-research-helps-you-to-create-more-useful-products">User research helps you to create more useful products</a></li>
+<li><a href="#user-need-research-helps-you-to-create-more-useful-products">User need research helps you to create more useful products</a></li>
 <li><a href="#user-need-research-is-an-iterative-process-not-a-linear-one">User need research is an iterative process, not a linear one</a></li>
 <li><a href="#user-need-research-is-most-useful-before-the-product-is-being-built">User need research is most useful before the product is being built</a></li>
 <li><a href="#our-inquiry-concerns-the-user-not-our-future-product">Our inquiry concerns the user, not our (future) product</a></li>
@@ -39,7 +39,7 @@
 <li><a href="#questiontopics">Create a user-focused how-and-why question based on the initial idea for the project</a></li>
 <li><a href="#find-participants">Find participants</a><ul>
 <li><a href="#potential-participants-do-the-activity-that-is-in-your-research-question">Potential participants do the activity that is in your research question</a></li>
-<li><a href="#inform-potential-participants">Inform potential participants</a></li>
+<li><a href="#let-potential-participants-know-about-your-research-and-why-they-should-take-part">Let potential participants know about your research and why they should take part</a></li>
 <li><a href="#make-compromises-if-needed">Make compromises, if needed</a></li>
 <li><a href="#a-small-number-of-participants-is-fine">A small number of participants is fine</a></li>
 </ul></li>
@@ -63,9 +63,9 @@
 <li><a href="#affirm-that-you-listen">Affirm that you listen</a></li>
 <li><a href="#make-a-friendly-impression-by-using-body-language.">Make a friendly impression by using body language.</a></li>
 </ul></li>
-<li><a href="#dont-skew-the-results">Don’t skew the results</a><ul>
+<li><a href="#be-open-to-how-the-participant-works-and-thinks">Be open to how the participant works and thinks</a><ul>
 <li><a href="#ask-open-questions">Ask open questions</a></li>
-<li><a href="#be-aware-of-your-influence">Be aware of your influence</a></li>
+<li><a href="#do-not-suggest-right-or-wrong-answers-or-processes">Do not suggest “right” or “wrong” answers or processes</a></li>
 <li><a href="#silence-feels-strange-but-is-okay">Silence feels strange but is okay</a></li>
 </ul></li>
 <li><a href="#take-a-closer-look">Take a closer look</a><ul>
@@ -84,12 +84,10 @@
 <li><a href="#sketches">Sketches</a></li>
 <li><a href="#diagrams">Diagrams</a></li>
 </ul></li>
-</ul></li>
-<li><a href="#review-your-data">Review your data</a><ul>
 <li><a href="#supplement-data-from-memory">Supplement data from memory</a></li>
 <li><a href="#transcribe-your-notes">Transcribe your notes</a></li>
 <li><a href="#possibly-supplement-from-audio-recordings">Possibly supplement from audio recordings</a></li>
-<li><a href="#order-and-archive-your-data">Order and archive your data</a></li>
+<li><a href="#AfterSessionArchiveData">Order and archive your data</a></li>
 </ul></li>
 <li><a href="#Analysis">Analysis</a><ul>
 <li><a href="#doing-the-right-analysis">Doing the “right” Analysis</a></li>
@@ -100,10 +98,10 @@
 </ul></li>
 <li><a href="#making-sense-of-notes">Making sense of notes</a><ul>
 <li><a href="#organize-notes-hierarchically">Organize notes hierarchically</a></li>
-<li><a href="#create-meaningful-groups">Create meaningful groups</a></li>
+<li><a href="#MeaningfulNotes">Create meaningful groups</a></li>
 <li><a href="#prepare-your-notes-for-analysis">Prepare your notes for Analysis</a></li>
 <li><a href="#annotate-your-notes">Annotate your notes</a></li>
-<li><a href="#decide-whether-you-want-to-do-a-digital-or-analog-analysis">Decide, whether you want to do a digital or analog analysis</a></li>
+<li><a href="#decide-whether-you-want-to-do-a-digital-or-analog-analysis">Decide whether you want to do a digital or analog analysis</a></li>
 <li><a href="#firstStructure">Develop a first Structure</a></li>
 <li><a href="#fill-the-structure">Fill the Structure</a></li>
 <li><a href="#revise-the-structure">Revise the Structure</a></li>
@@ -142,7 +140,7 @@
 </ul>
 </nav>
 <h4 id="license" class="unnumbered">License</h4>
-<p><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span data-xmlns:dct="http://purl.org/dc/terms/" data-property="dct:title">A Beginner’s Guide to Finding User Needs</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/jdittrich" property="cc:attributionName" rel="cc:attributionURL">Jan Dittrich</a> licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. Some images may have other licenses (like CC-BY-SA).</p>
+<p><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">A Beginner’s Guide to Finding User Needs</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/jdittrich" property="cc:attributionName" rel="cc:attributionURL">Jan Dittrich</a> licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. Some images may have other licenses (like CC-BY-SA).</p>
 <h4 id="contributors" class="unnumbered">Contributors</h4>
 <ul>
 <li><a href="https://github.com/lisacharlotterost">lisacharlotterost</a></li>
@@ -158,7 +156,15 @@
 <li>write me a mail: dittrich.c.jan AT gmail DOT com</li>
 </ul>
 <h1 id="introduction">Introduction</h1>
-<!-- Maybe I should connect these paragraphs better-->
+<!-- 
+Maybe I should connect these paragraphs better
+-->
+<!-- 
+"Finding" suggests passive/"view from nowhere" researcher. What are alternatives to the "finding" titel?
+
+…to research for useful products?
+…to the how and why of user’s work?
+-->
 <p><em>Products should not only be usable but also useful. This means they satisfy a need of the people using them. But how do you discover this? By getting to know users’ motivations, activities, and problems by gathering data and finding patterns. This text teaches methods for doing this.</em></p>
 <p><br />
 </p>
@@ -169,25 +175,26 @@
 <li>are understandable and applicable without a specific (academic) background</li>
 </ul>
 <p>I provide examples to make it easy to see how methods are used. More useful than an abstract definition of methods like “asking open questions” or “clustering themes” is to see how these are put into action when doing research.</p>
-<p>This text describes methods and tricks of the trade. They worked for me and I saw them work for others, too. However, they are not a list of rules that guarantee success if followed. Indeed, doing research this way could actually lead to useless results. Also, it would be very boring. See this book as a travel guide <a href="#fn1" class="footnote-ref" id="fnref1"><sup>1</sup></a>, written by a person who has already traveled a bit. As in a travel guide, it can be helpful to follow the suggestions. But if the way I suggest can’t be walked, feel free to go around the obstacle. If the locals give you strange looks, maybe your current situation is one I have yet to experience. Feel free to adapt to what makes sense in your situation.</p>
+<p>This text describes methods and tricks of the trade. They worked for me and I saw them work for others, too. However, they are not a list of rules that guarantee success if followed. Indeed, doing research by always following a prescribed way, no matter what, will lead to useless results since you could not react to whatever new things you find out. See this book as a travel guide <a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a>, written by a person who has already traveled a bit. As in a travel guide, it can be helpful to follow the suggestions. But if the way I suggest can’t be walked, just go around the obstacle. If the locals give you strange looks, maybe your current situation is one I have yet to experience. Feel free to adapt to what makes sense in your situation.</p>
 <p>Talking about adapting to your needs: This book is open source, which means it is both free-as-in-freedom and free-as-in-free-beer. This means you can not only read it for free, but also change and adapt it (Details are in <a href="#license">the license</a>) I hope this helps to spread the knowledge and to improve this book together. So let me know of errors you find in it and tell me and others how the book is useful to you.</p>
-<h2 id="user-research-helps-you-to-create-more-useful-products">User research helps you to create more useful products</h2>
+<h2 id="user-need-research-helps-you-to-create-more-useful-products">User need research helps you to create more useful products</h2>
 <p>Without research, assumptions about the user’s activities with current and to-be-created products are often shallow and do not involve the user’s context. They focus on some features being used, but not much more.</p>
 <blockquote>
 <p>Let’s say, I want to design an app that eases collecting and organizing knowledge snippets and their references to books and websites, targeted at PhD students. This is surely a great thing to work on—but without research, I would just have some disjointed ideas in my head: It should be more visual than other, similar software and have an efficient add-new-reference function based on scanning the books barcode, because typing is not much fun… My assumptions about the context of use are very vague: The PhD students would use the application because they need to manage references.</p>
 </blockquote>
-<p>Instead, when you researched users’ needs, you can easily think of what is important to users in rich and detailed ways, considering intertwined activities, motivations and problems of users. This will be based on data. Furthermore, it will be structured by common patterns of the users’ behaviour. Analysing these patterns makes it easier to see where your research has gaps or potential. It also helps to communicate your findings to others: You can talk about the patterns and give examples, instead of detailing all single cases.</p>
+<p>Instead, when you researched users’ needs, you can easily think of what is important to users in rich and detailed ways, considering intertwined activities, motivations and problems of users. This will be based on data. Furthermore, it will be structured by common patterns of the users’ behavior. Analyzing these patterns makes it easier to see where your research has gaps or potential. It also helps to communicate your findings to others: You can talk about the patterns and give examples, instead of detailing all single cases.</p>
 <blockquote>
 <p>In my research on collecting and organizing references with some students and professors I found several patterns which can guide my ideas for future design. I might consider that disciplines have very different ways of working. Thus, it could make sense to focus to natural scientists, whose literature is mostly digital, or on liberal arts, who are more paper based. Deciding this would give the project focus. It might need more research, though. Nevertheless, even the mathematicians or physicists do not work only digitally: Paper still plays a large role in their knowledge work. Users from every discipline used paper and computer at the same time. They scribbled things down in front of the screen and alternated between printouts and digital representations. Should my product try to get rid of paper by simulating the paper-based parts digitally? Or assume strength in the differences and just bridge the gap between screen and physical world? And we have not even touched finding and using review works, writing a publication, collaborating with other researchers… all this leading to more ideas that can be discarded, build upon or feed back in further research.</p>
 </blockquote>
 <p>User research will help you to get a data-based, rich and conveyable image of the users motivations, activities and problems. This does help to tackle the right problems and to get new ideas of what could help the users. Without user research, you may also have assumptions about the user, but they can easily be wrong and will often be simplistic.</p>
 <h2 id="user-need-research-is-an-iterative-process-not-a-linear-one">User need research is an iterative process, not a linear one</h2>
-<p>The process that I describe in this book may seem to be divided into clear steps, each step its own chapter. But in contrast to what the linear structure of this book suggests, it is very useful to switch between steps and also go back to previous ones:</p>
+<p>The process that I describe in this book may seem to be divided into clear steps, each step its own chapter: First you prepare your research, then you gather data, you analyze it, and, at the end, you communicate the results.</p>
+<p>But in contrast to what the linear structure of this book suggests, it is very useful to switch between steps and also go back to previous ones:</p>
 <ul>
 <li>If I talk to three students about eLearning (Step: <em>Data Gathering</em>), and two of them mention they use Facebook discussion groups for exchanging on learning tasks with peers, I could specifically recruit additional people (Back to step <em>Prepare your research</em>) who could walk me through a few of such groups.</li>
 <li>If I notice in <em>data analysis</em>, that I can’t make much sense of how students use different media together, I could schedule a few sessions of listening and observing and focus on how a piece of information (like “the deadline got extended”) travels though different types of media (social networks, chat) and is transformed (maybe to “lets re-schedule the writing session”) in its use (and by that go back to <em>prepare research</em>, <em>data gathering</em> and <em>analyzing data</em>).</li>
 </ul>
-<p>User need research is an iterative process. Instead of doing all steps once, one after another, you can loop some of them before proceeding. This allows using insights from later steps (like analysis) to shape earlier steps (like data gathering).</p>
+<p>User need research is an iterative process. Instead of doing all steps once, one after another, you can go back and forth. This allows using insights from later steps (like analysis) to shape earlier steps (like data gathering).</p>
 <h2 id="user-need-research-is-most-useful-before-the-product-is-being-built">User need research is most useful before the product is being built</h2>
 <p>User needs should be researched in <em>early</em> project stages. It is less useful when a lot of time and money has been spent already on building a particular product.</p>
 <p>Here are some scenarios in which user need research makes sense:</p>
@@ -196,7 +203,7 @@
 <p><strong>A product is to be improved or changed.</strong> If a substantial overhaul is planned, it makes sense to observe how the product is used to find out where user needs are unmet. A task could be: <em>“The library already provides an app for creating bibliographies since several years. But students complain about it being useless and hard to use. Now, you should find out about the users to help the library to see how version 2.0 should be different.”</em></p>
 <p>In all these examples, the outcome is not set yet: Your findings could make a difference and shape the outcome. But if the decisions are already made and your results won’t make a difference, don’t do the research: It will be a frustrating experience if even the most interesting results won’t change the project’s determined course.</p>
 <h2 id="our-inquiry-concerns-the-user-not-our-future-product">Our inquiry concerns the user, not our (future) product</h2>
-<p>You now may be very motivated to start designing your future product. But if you focus on the <em>product</em> now, your research findings will be tied that specific product—which may or may not be useful for your users. If you instead focus on the <em>user</em>, your findings will be independent of a particular product implementation.</p>
+<p>You may be very motivated to start designing your future product now and research based on the product features you have in mind, asking for preferences and evaluate your product ideas with the users. But if you focus on the <em>product</em> now, your research findings will be tied that specific product—which may or may not be useful for your users. If you instead focus on the <em>user</em>, your findings will be independent of a particular product implementation.</p>
 <p>This idea seems to be hard to grasp. When I talk about user need research, a frequent assumption is, that I ask users things like this:</p>
 <ul>
 <li>What do you want?</li>
@@ -218,6 +225,7 @@ User need research should be done in early project stages. This way, your resear
 <h2 id="questiontopics">Create a user-focused how-and-why question based on the initial idea for the project</h2>
 <p>It can help a lot to have a guiding question when you start your research. This question should relate to how and why your (potential) users do what they do. In many projects, you start with ideas for a future market, product or feature. You can use these ideas as a starting point for creating a useful, user-focused research question.</p>
 <p>First, ask yourself why the product idea would be good for something people do. Then ask, how and why they do this. The outcome can be used as research question.</p>
+<blockquote>
 <p>Here is an example:</p>
 <ul>
 <li>The initial idea is <em>“build a learning platform for university students”</em></li>
@@ -225,7 +233,8 @@ User need research should be done in early project stages. This way, your resear
 <li>Asking <em>how</em> and <em>why</em> I come to <em>“How and why do students use computers in order to learn better for university?”</em></li>
 <li>I then refined the question a bit, since <em>in order to learn better</em> is often understood as remembering facts or passing exams. Also, “use computers” sounded like if I am not interested e.g. in smartphones or use of social networks. In the end, I used “How and why do students use digital media related to their studies”.</li>
 </ul>
-<p>The research question is a help for you to form more detailed questions and to communicate your aims. It does not need to be the <em>one true question</em>. Thus, it can also be refined later after you gained a better understanding of the matter.</p>
+</blockquote>
+<p>The research question is a help for you to ask more focused questions and to communicate your aims. It does not need to be the <em>one true question</em>. Thus, it can also be refined later after you gained a better understanding of the matter.</p>
 <h2 id="find-participants">Find participants</h2>
 <p>In user research you want to find out what our users do and how and why they do it. If you know this, you can design our products accordingly.</p>
 <p>To be able to do research on the “how” and “why” of users’ work, you need to find people who would like to answer your questions and would show you what they do. These people are our (research) <em>participants</em>.</p>
@@ -233,15 +242,15 @@ User need research should be done in early project stages. This way, your resear
 <p>Research participants should be able to talk about what they do and demonstrate it. Because of this, it makes sense to focus on activities when you recruit.</p>
 <p>Since they are not about behavior, demographics are not very useful: “30-40-year-old male, making more than $50k/year and being interested in technology” does not relate much to motivations, activities and problems of users. Instead, base your recruiting on the activity that is part of your research question:</p>
 <ul>
-<li><p>If, for example, you have the research question <em>“How and why do students use computers to learn for university?”</em> the activity is “learning for university”. This is what you should focus on: Find people, who learn for university.</p></li>
+<li><p>If you have the research question <em>“How and why do students use computers to learn for university?”</em> the activity is “learning for university”. This is what you should focus on: Find people, who learn for university.</p></li>
 <li><p>If your question is “How and why do small business owners keep track of their bills?”, the activity is “keeping track of bills”, additionally constraint by the role: “Small business owners”.</p></li>
 </ul>
 <p>I don’t exclude the roles (“Student”, “Owner of a small business”), but I focus on the activities first. In the question “How and why do small business owners keep track of their bills”, the essential part is keeping track of bills. This is also what people can tell you about and what they can demonstrate. If I talk to an owner of a small business and they do not take care of the bills themselves, I would ask why they do so and who is doing it instead—and then ask whoever is doing the “keeping track of bills”-activity if they want to participate.</p>
-<h3 id="inform-potential-participants">Inform potential participants</h3>
+<h3 id="let-potential-participants-know-about-your-research-and-why-they-should-take-part">Let potential participants know about your research and why they should take part</h3>
 <!-- ↑ that could be better, but even my german sentences are not great: …wo sie sind?! -->
-<p>The easy way to get participants is via an recruiting agency: You pay them and they will get you participants. But since that might not be possible for you, here is how you do it yourself. Two conditions need to be satisfied in order to convince people to participate in your research: They need to know about the possibility and that it is rewarding to participate.</p>
+<p>The easy way to get participants is via an recruiting agency: You pay them and they will get you participants. But since that might not be possible for you, here is how you do it yourself. Two conditions need to be satisfied for people to take part in your research: They know about the possibility of participating in the study and they are motivated to actually participate.</p>
 <p>It is motivating for potential participants if the research improves their life: A shopkeeper will likely be interested if you work on making it easier to keep track of bills , neighbors will be motivated to help if you try to make living in the neighborhood better.</p>
-<p>Incentives, like money or vouchers, are a simple, but effective motivation for participants. If you have the funds and particularly, if your project will earn you (or your employer) money, you should pay a fair sum for your participants’ time. If your funds are small and people like to support you and your cause, you could also offer something other than money: Something that people like, but would usually not “just” buy seems to work well—e.g. really good chocolate or a voucher for a nice local restaurant.</p>
+<p>Incentives, like money or vouchers, are a simple, but effective motivation for participants. If you have the funds and particularly, if your project will earn you (or your employer) money, you should pay a fair sum for your participants’ time. If your funds are small and people like to support you and your cause, you could also offer something that people like, but would usually not “just” buy, e.g. really good chocolate or a voucher for a nice local restaurant. Such things are far more valued than the money they cost.</p>
 <p>When you know what you can offer to potential participants, you can write down what participants can expect if they participate. This includes:</p>
 <ul>
 <li>What the research will be about</li>
@@ -254,7 +263,6 @@ User need research should be done in early project stages. This way, your resear
 </ul></li>
 </ul>
 <p>You can use this information to create paper notes or posts to social media—This is how it could look like as a slightly formal note for a notice board at university:</p>
-<!-- TODO Rewrite to match Library-Book example-->
 <blockquote>
 <p>Are you a designer?</p>
 <p>The university library would like to improve the LibApp to support you better in using our library and digital services. Therefore, we would like to gather some insights into the way you work in the library and with our services. If you would like to support us, someone from our team ask you some questions and look over your shoulder while you work. This would take approximately 1h and take place in the library or some other place where you use our services from. All participants get a $10 voucher for the university’s cafeteria. If you would like to participate (or have further questions) please write an email to jan.dittrich@example.com</p>
@@ -265,12 +273,12 @@ User need research should be done in early project stages. This way, your resear
 </blockquote>
 <p>In above example, it was easy to reach out to participants because you were already close to them, spatially as well as socially. But sometimes, field access is more difficult than just putting up some notes. Often, this is because you actually don’t know who or where possible participants can be found, and so you can’t ask them. This means you need to get to them in a step-by-step process. The following example outlines this:</p>
 <blockquote>
-<p>You want to find out how people use open data on air pollution which is published by cities. You don’t know anyone who does this work. Since the project is not secret, you give it a try and post about it on Facebook. You are lucky, and a friend of yours happens to know that a local hackspace is hosting a bi-weekly “data hackers” meeting. So you write an email and ask if you could join the meeting and introduce your project.<br />
+<p>You want to find out how people use freely available data on air pollution which is published by cities. But you don’t know anyone who does work with such data . You give it a try and post about your research project on Facebook. You are lucky, and a friend of yours happens to know that a local “hackspace” is hosting a bi-weekly “data hackers” meeting. You click on the link your friend send you and find an email address. You write an email and ask if you could join the meeting and introduce your project.<br />
 In parallel, you have also searched the web, and by trying “[next largest city] open data” you found out that the infrastructure department of the city has given an award to the best data project some weeks ago. You could reach out to the staff member who awarded the price. They might be able to refer you to some people who are interested in the topic, since they needed to get in contact with them when advertising the competition for the award.</p>
 </blockquote>
 <p>In the scenario above, I described a step-by-step process of reaching out: In each step, you try to be referred to a next person who is more knowledgeable and familiar with the people you want to do research with. You do this, until you are referred to possible participants.</p>
 <p>At each step, you can learn about how to approach the next: If your friend refers you to a meeting of data hackers, that friend can probably also tell you if you should behave in a particular way if you are going there. For the hacker meeting, it might make sense to NOT be wearing a suit. In other places, the smart clothes might be essential.</p>
-<p>Some people who might help you are in a core position to regulate access to potential participants. The ethnographic jargon for them is “Gatekeepers”. They can decide to help you and let you through the metaphorical “gate” behind which your participants are waiting – or they can hinder your access if they find reasons to not help you. In the example above, a gatekeeper could be the person who runs the “data hackers”-meetup or the city’s digital infrastructure person.</p>
+<p>Some people who might help you are in a core position to regulate access to potential participants. The ethnographic jargon for them is “Gatekeepers”. They can decide to help you and let you through the metaphorical “gate” behind which your participants are waiting – or they can hinder your access if they find reasons to not help you. In the example above, a gatekeeper could be the person who runs the “data hackers”-meetup or the person being responsible for the city’s “open data”-initiative .</p>
 <p>If you have found people who like to be your research participants, you can ask them if they know others who might like to participate. It works like the step-by-step recruiting process, but instead of moving towards your participants, you now can go from one to another by being referred.</p>
 <p>In any case, it is useful to consider different ways to get to your participants. If one way fails (e.g. friends of friends), you may be successful in another (e.g. writing a mail to a “gatekeeper”). In case several approaches work, you get more potential participants. But even more important is that you now have a more diverse set of people, which leads to richer results.</p>
 <h3 id="make-compromises-if-needed">Make compromises, if needed</h3>
@@ -280,14 +288,14 @@ In parallel, you have also searched the web, and by trying “[next largest city
 <p>There are no clear cut rules of how many participants are enough. However, most of my projects have between 3 and 8 participants. If I really need to be sure I would do research with 10, but that is about the limit I can manage on my own.</p>
 <p>You may think that conducting user research with more participants is generally better; you just could shorten each session, ask fewer questions and skip observing the participants. But you need time with each participant if you want to find out about the “how” and “why” of the participants’ work. Several sessions in hurry will lead to less useful results than research with one participant done right.</p>
 <p>Nevertheless, only doing research on very few users will restrict the variance of data — like noticing that there may be several ways to do something. As well, you might not see which patterns are consistent among several people and which vary—which would certainly be impossible if you only had one or two participants. However, despite the constraints of such small samples they can still lead the helpful insights.</p>
-<p>When estimating how many participants you need, consider how much time or money you can spend on doing the research. Each additional participant gives you additional data and a broader view on your possible users. However, each research session needs time do and adds to the amount of data to be analyzed—so plan accordingly.</p>
+<p>When estimating how many participants you need, consider how much time or money you can spend on doing the research. Each additional participant gives you additional data and a broader view on your possible users. However, each research session needs time do and adds to the amount of data to be analyzed.</p>
 <p>An efficient way of involving the “right” amount of participants is doing your research iteratively: start with two or three participants and analyze the data (how this is done is described in the section on <a href="#Analysis">Analyzing Data</a>)</p>
 <p>Take a look at the (preliminary) findings: If the results seem clear and consistent, you may do research with few additional participants to refine and check and to explore details — or, if time is up, leave it the way it is.</p>
 <p>If preliminary findings are unclear or contradictory, you may need to involve more participants.</p>
 <p>Reasons for the such unsatisfactory results could be:</p>
 <ul>
-<li>Your research encompasses different groups of people with different needs — For example the groups “students” and “professors” share some traits, but many characteristics will vary.</li>
-<li>The topic of your research is too broad — for example, “How do people do design” is very broad, “How do interface designers involve specifications of user research and engineers in their designs” is more specific.</li>
+<li>Your research encompasses different groups of people with different needs — For example, the groups “students” and “professors” share some traits, but many characteristics will vary.</li>
+<li>The topic of your research is too broad — for example, “How do people do design” is very broad, “How do interface designers involve system specifications of engineers in their designs” is more specific.</li>
 <li>Even if your research is focused and there is only one group of people involved, the actual patterns just vary.</li>
 </ul>
 <p>In all these cases you can involve more participants — but before you do, try to check if you…</p>
@@ -295,7 +303,7 @@ In parallel, you have also searched the web, and by trying “[next largest city
 <li>…need to clarify your research topic (to focus your efforts)</li>
 <li>…need to specify the involved groups (to recruit the right participants)</li>
 </ul>
-<!-- TODO write summarizing end sentence -->
+<p>If you come from research based on measurements and statistics, it can be unusual to have a small number of participants and to refine your research iteratively. In user need research we focus on collecting rich data and making sense of it by asking new questions and refining interpretations. To be able to do this we spend our resources on working with data from a few participants in depth.</p>
 <h2 id="prepare-the-research-session">Prepare the research session</h2>
 <p>The “Research session” is your time with the participant in which you listen to them and observe their activities. If you are prepared, it helps you to focus on the tasks at hand.</p>
 <h3 id="think-of-possible-topics-and-questions-for-your-research">Think of possible topics and questions for your research</h3>
@@ -320,34 +328,29 @@ In parallel, you have also searched the web, and by trying “[next largest city
 <li><em>“Can you show me how you circumvent this from happening?”</em></li>
 <li><em>“What will happen if you can’t solve this problem?”</em></li>
 </ul>
-<!--
-There are other frameworks, like *AEIOU* ^[if you want to know about its origins, read [Building a Useful Research Tool: An Origin Story of AEIOU ](https://www.epicpeople.org/building-a-useful-research-tool/)]. If you don't like MAP, it can be a good alternative. It is a mnemonic for the following aspects:
-
-* ***A**ctivities*—what people to achieve something
-* ***E**nvironments* where do the activities happen?
-* ***I**nteractions* between people and people and people and objects
-* ***O**bjects* are things in the environment. Some might be used in activities.
-* ***U**sers* do activities involving other users and objects
-
--------------------
-
-Use a framework like MAP or AEIOU to remind you of the different aspects you can research. This is particularly useful for collecting first experiences but can also help seasoned researchers. -->
 <p>List the topics you want to explore and structure them in a way that is meaningful to you. This list of topics can then be used to create a cheat sheet for the research session.</p>
 <h3 id="write-a-cheat-sheet-to-use-in-the-research-session">Write a cheat sheet to use in the research session</h3>
-<!--What is an interview guide for? Prepare the questions etc. Prepare yourself… -->
 <p>A cheat sheet is a little memory aid that you can take with you when you collect data.</p>
 <p>What goes into such a sheet? The biggest part will be topics you want to explore and the <strong>questions</strong> that you want to ask for this.</p>
-<!-- TODO: Example for a research guide  -->
+<!-- TODO: Check if this works -->
+<blockquote>
+<p><em>Participant 5, 2015-04-20</em></p>
+<p>[ ] Tell reason for research: Improving communication with clients for freelancing designers. [ ] Tell how the research session will be (asking, listening, observing; 30-60min) [ ] Ask to read consent form and sign if OK</p>
+<p>Intro:</p>
+<ul>
+<li>Is there a current project or task?</li>
+<li>[explore task]</li>
+</ul>
+<p>Initial task/handover:</p>
+<ul>
+<li>How getting in contact with client, first task description?</li>
+<li>Is this still the current task description?</li>
+<li>What does the task description mean for your work? …</li>
+</ul>
+</blockquote>
 <p>When you write the questions on the cheat sheet, start with the general topics and progress towards more specific ones. This is the order that makes sense in the course of a research session. Nevertheless, that order is only a helpful guess. You will usually deviate a bit (or a lot) from your cheat sheet.</p>
-<p>Often I include some kind of <strong>checklist</strong> on the top, especially if there are legal matters involved, such as signing a consent form. Thus, I can tick off what we already dealt with and immediately see if I forgot something.</p>
-<!-- As a beginner you may have some difficulties with formulating your
-questions without preparations when spontaneously entering on a new subject that
-happens to emerge in the research session.
-
-In this case, you can help yourself along with some reminders on the sheet, like
-“Activities/Motivations/Problems”, “How and Why”, or, for the graphics design topic:
-“creativity/variations/creative rules/technology” or the like. -->
-<p>The cheat sheet is a tool to support you during the interview and help you along when your mind goes blank for a moment. It is not for ensuring that you ask all questions in the same way and in the same order. Instead of controlling the situation user need research emphasizes the importance of exploring a given situation and it’s peculiarities. It is totally OK and even beneficial to come up with new questions which are not on the cheat sheet, or to react towards a new topic the participant brings up if you have the impression that this will give you new and interesting insights.</p>
+<p>Often, I include some kind of <strong>checklist</strong> on the top, especially if there are legal matters involved, such as signing a consent form. Thus, I can tick off what we already dealt with and immediately see if I forgot something.</p>
+<p>The cheat sheet is a tool to support you during the interview and help you along when your mind goes blank for a moment. It is not for ensuring that you ask all questions in the same way and in the same order. Instead of controlling the situation, user need research emphasizes the exploring the situation. If the participant does or tells something which is new to you, use it to learn and feel free to come up with new questions which are not on the cheat sheet.</p>
 <h3 id="take-along-tools-that-help-you-to-record-data-easily">Take along tools that help you to record data easily</h3>
 <p>With a participant talks about new and interesting things you want to be able to remember what was said. Thus, we record the interview — and we will need some equipment for doing that:</p>
 <figure>
@@ -374,7 +377,7 @@ In this case, you can help yourself along with some reminders on the sheet, like
 <li>pencils and/or pens in different colors</li>
 </ul></li>
 </ul>
-<p>You should get to know your equipment before you start the actual data collection. So be sure to know the essential operations to actually make a photo and start and stop the recording. Check the audio quality by putting the phone/recorder roughly a meter away from you and saying some sentences in your normal voice. Listen to the recording to test if you can (easily) understand what you said.</p>
+<p>You should get to know your equipment before you start the actual data collection. So be sure to know how make a photo and start and stop the audio-recording. Check the audio quality by putting the phone/recorder roughly a meter away from you and saying some sentences in your normal voice. Listen to the recording to test if you can (easily) understand what you said.</p>
 <p>When your equipment is ready and checked, you can start to collect your data.</p>
 <h1 id="data-gathering">Data Gathering</h1>
 <!-- TODO:
@@ -387,9 +390,9 @@ Check for visual research being covered in an actionable way. A college tried th
 - Headline for social map might be confusing: Devices you work with
 
 -->
-<p>In this chapter, I will show how to gather data on the activities, motivations and problems of our research participants. The data is gathered by listening to descriptions and explanations of our participants and by observing them working. The resulting data will be text, photos and diagrams.</p>
-<p>Contrary to a common misconception of user need research, your inquiry will not be (directly) about future ideas and design—you are not going to ask “do you think that a [gadget] would help you?”. It is hard to guess if an imagined thing would be great to have in the future. Instead of dealing with ideas directly, you will find out about the <em>how</em> and <em>why</em> of our participant’s activities. This will allow to evaluate your ideas (“do my ideas match what they consider essential?”) and to get inspiration for new ideas (“how can I support this activity?”)</p>
-<p>To make this work, see your participants as competent in what they do: they are experts in their fields and in their daily work. This is contrary to the idea that people “don’t get it” and need to be helped by designers and programmers. Instead of this, assume that the participants have a reason of doing their work the way they do it.</p>
+<p>In this chapter, I will show how to gather data on the activities, motivations and problems of your participants. The data is gathered by listening to descriptions and explanations of our participants and by observing them working. The resulting data will be text, photos and diagrams.</p>
+<p>Contrary to a common misconception of user need research, your inquiry will not be (directly) about future ideas and design—you are not going to ask “do you think that a [gadget] would help you?”. It is hard to guess if an imagined thing would be great to have in the future. Instead of working with product ideas, you will find out about the <em>how</em> and <em>why</em> of our participant’s activities. This will allow to evaluate your ideas (“do my ideas match what participants consider essential for them?”) and to get inspiration for new ideas (“how can I support this activity?”)</p>
+<p>See your participants as competent in what they do: they are experts in their fields and in their daily work. This is contrary to the idea that people “don’t get it” and need to be helped by designers and programmers. Assume that the participants have a reason of doing their work the way they do it and if you wonder about participant’s activities, try to find out what their reasons for these activities are.</p>
 <!-- TODO: Show intertwinement with analysis and sensemaking
 
 e.g. The gathering the data will be followed by analyzing it. However, it makes sense to intertwine the data gathering and data analysis: … TODO
@@ -425,7 +428,7 @@ e.g. The gathering the data will be followed by analyzing it. However, it makes 
 <blockquote>
 <p>[continuing the conversation above] Participant: “I would either crop this bunch of images or I’d try to find a suitable font for the headlines in this document You: “If the tasks are equally relevant to you, I’d be more interested in watching you choosing the fonts”</p>
 </blockquote>
-<p>Avoid positioning yourself as the expert in the participant’s domain by suggesting procedures and by telling the participant how and why something should be done. If the participant would just look up to you and your concept of how work should be done we would not get to know anything.</p>
+<p>Avoid positioning yourself as the expert in the participant’s domain by suggesting procedures and by telling the participant how and why something should be done. Your participants will stop being open about showing you how they work and they usually have a reason for doing what they do.</p>
 <figure>
 <img src="images/ObservationDesign1.jpg" alt="Observing the user’s work" /><figcaption>Observing the user’s work</figcaption>
 </figure>
@@ -448,9 +451,7 @@ e.g. The gathering the data will be followed by analyzing it. However, it makes 
 <p>“The line here seems to indicate that you were very happy at the beginning of the project…” Participant: “Yes, I’m looking forward to doing it and there are so many ideas” You: “Can you write this in the diagram, so I can understand it later?” Participant: [Writes as comment in the diagram] Looking forward, Many Ideas: Good</p>
 </blockquote>
 <p>Who does the recording—drawing and/or writing—depends on what is more practical and gives more interesting data. When researching workflows, <em>I</em> write the documentation as a researcher, since participants should be able to demonstrate their tasks directly which is hard when you need to switch between demonstrating and writing all the time. When the participants document a project on a timeline, <em>they</em> draw it directly and I only ask questions.</p>
-<p>On way to ease the documenting for the participant is showing a simple example of what the result of a co-documentation can look like. An example is helpful, if the participant has no clear idea of what they should do. It can also reduce anxiety in drawing related tasks—some people assume they need to produce an artwork and showing that a rough sketch is fine.</p>
-<!-- Example -->
-<!-- TODO Rework-->
+<p>For some participants, documenting their work by drawing and writing can be a bit unusual. It can help to show a simple example of what the result of a co-documentation can look like. It can also reduce anxiety in drawing related tasks—some people assume they need to produce an artwork. Showing that a rough sketch is fine helps them to get started.</p>
 <p>It can be easier for the participant if you provide a template instead of a blank page: This gives a basic structure. Provide fields for name, date, title and space for the participant’s diagram. I also sometimes print a small example in a corner of the template. Templates work very well for chart-like types of diagrams, since the participant can draw on top of elements that are already there, like the diagrams’ axis.</p>
 <figure>
 <img src="images/GoodBadTime_Diagramm.svg" alt="Example template for mood-timeline-diagrams" /><figcaption>Example template for mood-timeline-diagrams</figcaption>
@@ -496,8 +497,8 @@ e.g. The gathering the data will be followed by analyzing it. However, it makes 
 <p>Consider summarizing the information about the research and the use of the participant’s data in a consent form that the user signs. In this case keep the signed form, but hand the participant a copy of the form. Thus, the agreement is clear for both sides. See in the Appendix for an <a href="#consentForm">example of such a form</a>.</p>
 <p>After the participant has given their consent, you can start the research session.</p>
 <h3 id="start-simple">Start simple</h3>
-<p>Start with some easy-to-answer questions—like: “Lets start with some simple questions about your job”. You can ask “What is your job title” and maybe follow “How do you name your Job when friends ask you what you do?”. As well, it might be interesting how experienced the person is: “How long have you been working in your current occupation?” These examples are tied to work related studies—for doing research with university students I tie the questions to their particular context and ask, for example, how long they have been studying so far.</p>
-<p>These questions will help you to get to know some context of the participant’s work. But there is another advantage: Such questions are easy to answer. This gets the participants used to answering questions and opening up towards you. After a brief section with these easy-to-answer questions, you can transition to questions that demand more elaborate answers.</p>
+<p>Start with some easy-to-answer questions—like: “Lets start with some simple questions about your job”. You can ask “What is your job title” and follow up with “How do you describe your job to people who do not know what it is about?”. As well, it might be interesting how experienced the person is: “How long have you been working in your current occupation?” These examples are tied to work related studies—for doing research with university students I tie the questions to their particular context and ask, for example, how long they have been studying so far.</p>
+<p>These questions will help you to get to know some context of the participant’s work. But there is another advantage: Such questions are easy to answer. This gets the participants used to answering questions and opening up towards you. After a brief section with these easy-to-answer questions, you can transition to questions that encourage more elaborate answers.</p>
 <h2 id="assure-and-encourage">Assure and encourage</h2>
 <h3 id="affirm-that-you-listen">Affirm that you listen</h3>
 <p>You will ask questions aiming for descriptions and longer answers. So you will be listening to the participant most of the time. You probably have some ways to intuitively show that you listen—like nodding with the head or saying “yes” or “mm-mhh”. This is an important way to ensure the participant that their information is listened to and valued.</p>
@@ -518,21 +519,29 @@ e.g. The gathering the data will be followed by analyzing it. However, it makes 
 <figure>
 <img src="images/bodyPostureGood.jpg" alt="Much better posture" class="portrait" /><figcaption>Much better posture</figcaption>
 </figure>
-<!--  TODO: could get a "expose you non-knowledge" or so (Like in spreadley)
+<!--  TODO: could get a "expose you non-knowledge" or so (Like in spreadley p61)
 
 * Show your non-knowledge
 * Show that you want to know more
+-->
+<h2 id="be-open-to-how-the-participant-works-and-thinks">Be open to how the participant works and thinks</h2>
+<!-- 
+TODO possibly: The framing of "skewing" assumes that there is one true answer 
+Thus, something like: Be open to new experiences?;  It's not about you!; listening and  ???…
 
 -->
-<h2 id="dont-skew-the-results">Don’t skew the results</h2>
-<!-- TODO possibly: The framing of "skewing" assumes that there is one true answer -->
 <h3 id="ask-open-questions">Ask open questions</h3>
-<p>You may have noticed that the suggested questions from the previous section are not aiming for specific, short answers. In daily life, you often want answers to be short and precise: “Are you a graphic designer?” “No, I am a programmer” / “How much do you like your Job? Give a mark” “B!” / “Please name your Tools –” “I use InDesign, Photoshop and Sketch”.</p>
-<p>If you would diagram who speaks for how long when we ask for specific information with a “closed” range of possibilities, it would look like this:</p>
+<p>You may have noticed that the suggested questions from the previous section are not aiming for specific, short answers. So they are unlike typical survey-like questions like these:</p>
+<ul>
+<li>“Are you a graphic designer?”—“No, I am a programmer”</li>
+<li>“How much do you like your Job? Give a mark”—“B!”</li>
+<li>“Please name your Tools”—“I use InDesign, Photoshop and Sketch”.</li>
+</ul>
+<p>If you would diagram who speaks for how long when we ask for such questions, it would look like this:</p>
 <figure>
 <img src="images/talkDiagram_closed.svg" alt="short closed questions" /><figcaption>short closed questions</figcaption>
 </figure>
-<p>These questions demand very specific answers from a determined set: Yes or no, marks from A-F, a list of nouns. They would be useful if you would want to do statistics, for analysis that allows us to give results like “56.3% agreed strongly on Question X”. However, we want to find out about the <em>why</em> and <em>how</em> of the participant’s work here <a href="#fn2" class="footnote-ref" id="fnref2"><sup>2</sup></a>.</p>
+<p>These questions demand very specific answers from a determined set: Yes or no, marks from A-F, a list of nouns. They would be useful if you would want to do statistics, for analysis that allows us to give results like “56.3% agreed strongly on Question X”. However, we want to find out about the <em>why</em> and <em>how</em> of the participant’s work here <a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a>.</p>
 <p>Imagine, in contrast to the research session outlined above (short answers, short questions) a day-to-day situation, in which you get to know about somebody else’s experiences: A conversation with a friend. In such an exchange you will tell each other about your experiences, what you felt, why you did this and that etc. In a diagram it would look like this:</p>
 <figure>
 <img src="images/talkDiagram_friend.svg" alt="giving longer answers, equal share" /><figcaption>giving longer answers, equal share</figcaption>
@@ -573,7 +582,7 @@ e.g. The gathering the data will be followed by analyzing it. However, it makes 
 <p>You: “Is this a good design?”</p>
 <p>Participant: “yes!”</p>
 </blockquote>
-<p>“Is…” -questions will be answered with “yes” or “no”—but we don’t get to know <em>why</em> the participant approves or disapproves. In addition, “Is…”-Questions are a subtle form or influence <a href="#fn3" class="footnote-ref" id="fnref3"><sup>3</sup></a> : In case of doubt, it is likely that are participant just agrees to the suggestion you give by asking “Is…”</p>
+<p>“Is…” -questions will be answered with “yes” or “no”—but we don’t get to know <em>why</em> the participant approves or disapproves. In addition, “Is…”-Questions are a subtle form or influence <a href="#fn3" class="footnote-ref" id="fnref3" role="doc-noteref"><sup>3</sup></a> : In case of doubt, it is likely that are participant just agrees to the suggestion you give by asking “Is…”</p>
 <p>Sometimes, “Is”-Questions will come in a disguised form—as an addition, which is made to an open question:</p>
 <blockquote>
 <p>You: “Can you tell me how you solve this problem? <em>…Do you do it by just calling the client and resolving the issue?</em>”</p>
@@ -582,9 +591,9 @@ e.g. The gathering the data will be followed by analyzing it. However, it makes 
 </blockquote>
 <p>Avoiding closed questions is actually harder than one thinks. We intuitively try to make answering easier with such additions like “Do you…”.</p>
 <p>When you create your questions, check if they demand some predetermined outcomes—if they do, they are closed questions. In this case reformulate the questions in a way that allows and “open”, non-restricted, story-like answers.</p>
-<h3 id="be-aware-of-your-influence">Be aware of your influence</h3>
+<h3 id="do-not-suggest-right-or-wrong-answers-or-processes">Do not suggest “right” or “wrong” answers or processes</h3>
 <!-- Note. This repeats some info similar to the one in "affirm that you listen". I don't know if that is bad, so I keep it for now -->
-<p>A very obvious problem is influencing the participant. One way to minimize this would be making all research sessions alike—just like you would do when using a standardized questionnaire. But by doing this, you would lose the very strengths of the methods described here: Being able to find out about new and unexpected things, reacting to them and gaining understanding of the “how” and “why” by reacting on the situation.</p>
+<p>One way to minimize our influence on the participant would be making all research sessions alike—just like you would do when using a standardized questionnaire. But by doing this, you would lose the very strengths of the methods described here: Being able to find out about new and unexpected things, reacting to them and gaining understanding of the “how” and “why” by reacting on the situation.</p>
 <p>Each participant and their context is different and you can accommodate this by adjusting the research session to the context and the activities of the participant. This would not be possible when asking the same questions each time.</p>
 <p>So you neither can’t nor should take yourself out of the research session—you will <em>always</em> have some sort of effect on the participant when you do the research.</p>
 <p>What you should avoid, though, is influencing the participant by “suggesting” favorable answers or actions. Some sorts of this type of influence are obvious, others are not.</p>
@@ -612,9 +621,9 @@ e.g. The gathering the data will be followed by analyzing it. However, it makes 
 </blockquote>
 <p>Remember that nobody does inefficient things by purpose. Assume that the user has a reason. Try to find out what this reason may be.</p>
 <blockquote>
-<p>Again you could ask: “what’s the reason for you to do it this way”—and remember to ask follow-up questions to further explore the issue. In the example of the attached file it may be the case that the rich formatting functions of a word processor are needed or that such documents are used for just everything in this office, so that switching to a “better” solution would impose mental costs of switching to and operating in an unusual context.</p>
+<p>Again you could ask: “what’s the reason for you to do it this way”—and remember to ask follow-up questions to further explore the issue. In the example of the attached file it may be the case that the rich formatting functions of a word processor are needed or that such documents<!-- TODO check if it should be merged with probing --> are used for just everything in this office, so that switching to a “better” solution would impose mental costs of switching to and operating in an unusual context.</p>
 </blockquote>
-<p>Your influence could be non-verbal as well. Like in everyday conversations, you may shrug or frown if you disagree with an utterance or an action. Even if you don’t say “this is wrong”, frowning or shaking your head may have the same results.</p>
+<p>Your influence could be non-verbal as well: you may shrug or frown if you do not like an utterance or an action. Even if you don’t say “this is wrong”, frowning or shaking your head may have the same results.</p>
 <p>So: don’t be afraid to react towards the participant—reacting towards the participant is essential in our research. But don’t suggest “good” or “bad” answers or “good” or “bad” ways of doing things by using words, gestures or facial expressions.</p>
 <h3 id="silence-feels-strange-but-is-okay">Silence feels strange but is okay</h3>
 <!-- TODO check if it should be merged with probing -->
@@ -631,14 +640,7 @@ e.g. The gathering the data will be followed by analyzing it. However, it makes 
 <blockquote>
 <p>Can you tell me what you are thinking about?</p>
 </blockquote>
-<p>By asking these questions, you can help the participant to continue with elaborating on the question you asked, even if they need some thinking to answer it. <!-- CHECK: new section--></p>
-<!-- TODO: new section here:
-
-
-
-
-TODO: possibly move switch topics here?
--->
+<p>By asking these questions, you can help the participant to continue with elaborating on the question you asked, even if they need some thinking to answer it.</p>
 <h2 id="take-a-closer-look">Take a closer look</h2>
 <h3 id="probing">Probing</h3>
 <p>You got some valuable information, but there seems to be even more interesting things you may get to know about that topic. In this case you can “probe” for further information.</p>
@@ -785,12 +787,12 @@ If you record audio in parallel, you can be more relaxed when writing what was <
 <p><br />
 </p>
 <!-- expect to write lots of notes. Depending on person. For 30 min 2 DINA4-->
-<p>When I take notes in research I often write about 1 A4 page each 15min., sometimes more, sometimes less. So it does not make sense to try to write everything on one sheet or even in some space left on the cheat-sheet with your questions on it.</p>
+<p>When I take notes in research, I often write about 1 A4 page each 15min., sometimes more, sometimes less. You need to bring some paper, your notes of a typical session won’t fit a single page or on the margins of your cheat sheet.</p>
 <figure>
 <img src="images/notesheet.png" alt="Example for a sheet with research notes, written ca. over 20min" /><figcaption>Example for a sheet with research notes, written ca. over 20min</figcaption>
 </figure>
 <p><br />
-<!-- SECTION: CONTENT --> You will supplement, transcribe and analyze your notes after the data gathering. Thus you need to be able to make sense of them later. Between collecting the data and reviewing your notes, the <em>context</em> is easily forgotten: If you just write “empty page” it may make totally sense at the moment you write that, seeing what is happening and knowing what happened before and after. But without that implicit knowledge “empty page” does not make much sense.</p>
+<!-- SECTION: CONTENT --> You will supplement, transcribe and analyze your notes after the data gathering. Thus you need to be able to make sense of them later. Between collecting the data and reviewing your notes, the <em>context</em> is easily forgotten: If you observe that someone starts working on an empty page and you just write “empty page” it may make totally sense at the moment you write it since you are watching what is happening and knowing what happened before and after. But without this implicit knowledge of context the line “empty page” does not make much sense.</p>
 <blockquote>
 <p>Rather than “creates empty page” write “creates empty pages to organize drafts”</p>
 <p>Instead of “changes objects” write “Changes object size to match grid”</p>
@@ -800,9 +802,8 @@ If you record audio in parallel, you can be more relaxed when writing what was <
 <p>I recommend using audio recordings—it is a useful supplement to your notes. It will record the audio during the research session so that you can listen to what was said hereafter. Note that it is not a perfect capture of all that happened: It records only sound, so if the participant points to the screen and refers to “this”, the recording is not much of help.</p>
 <h3 id="photos">Photos</h3>
 <p>Making photos is rather easy and can capture lots of information. For example, you can photograph the participant’s desk to aid your memory. Later, you can go back and see what was on it: Paper, pens, computer; were there tidy looking stacks and containers for all the utensils? Or was it seemingly messy?</p>
-<p>You can photograph the users screen if your research involves computers and gadgets. Tech savvy users may cringe since a software based screenshot is technically superior—but if the user does not know you to make a screenshot, a camera is a handy way to capture the screen.</p>
+<p>You can photograph the users screen if your research involves computers and gadgets. A software based screenshot might in theory be superior—but if the user does not know you to make a screenshot, a camera is a handy way to capture the screen.</p>
 <p>You should be able to make photos with your camera quickly and reliably. Thus, use a device you know and which has a good auto-mode. The only setting that I use beyond that is the exposure compensation in case an important part of the image totally dark or disappears in light. Exposure compensation allows adjusting for that.</p>
-<p>Avoid complicated set-ups or even arranging the participant and his/her tools. Arranging the participant and his/her tools would change the data you record.</p>
 <figure>
 <img src="images/NutzerFotografieren.jpg" alt="Photographing the working user" /><figcaption>Photographing the working user</figcaption>
 </figure>
@@ -817,8 +818,7 @@ If you record audio in parallel, you can be more relaxed when writing what was <
 <img src="images/sketchesInNotes.png" alt="Sketches on the note sheet" /><figcaption>Sketches on the note sheet</figcaption>
 </figure>
 <h3 id="diagrams">Diagrams</h3>
-<p>A big advantage of diagrams are that the data gathering and documentation happen at the same time. So, there is not much to add. Happy diagramming!.</p>
-<h1 id="review-your-data">Review your data</h1>
+<p>A big advantage of diagrams are that the data gathering and documentation happen at the same time. So, there is not much to add. Happy diagramming!. compensation # Review your data</p>
 <p>After gathering data, we need to take care that we can use the rich data in our later analysis.</p>
 <p>When collecting the data with the participant you will be very busy listening and thinking of following questions. So you may not be able to keep up with writing notes and drawing sketches. To make the most of our data, we supplement our notes, sketches and diagrams and add some information about the context of the data gathering to close gaps and to help us to keep all the data ordered.</p>
 <p>There are two ways to supplement your data: From memory and from additional recordings, like an audio recording.</p>
@@ -848,8 +848,7 @@ If you record audio in parallel, you can be more relaxed when writing what was <
 <p>Similarly, if my writing is rather messy, I rewrite some words to ensure that I can later decipher what I wrote.</p>
 <p>I write and draw my supplements in another color than the color of the original notes. When I wrote my notes during the interview with a blue pen I use black for the supplements or vice versa, since I like to be able to keep track of what I did in which step of the process.</p>
 <blockquote>
-<p><img src="images/NotesSupplements2Anno.png" /></p>
-<p>In this scanned part of a note sheet you see how the supplements are used:</p>
+<p><img src="images/NotesSupplements2Anno.png" alt="annotated notes" /> In this scanned part of a note sheet you see how the supplements are used:</p>
 <p><strong>1)</strong> These parts have been partly rewritten in black as it was too messy before. <strong>2)</strong> At the right you see a newly drawn annotated sketch that provides a visual representation (how the document is organized by inserting empty pages). <strong>3.)</strong> More information has been provided. It was “keeping for inspiration”, now its “keeping <em>old stuff</em> for inspiration”</p>
 </blockquote>
 <p>Using different colors is useful for another type of supplement: Ideas or remarks in connection to your notes. When I go through the notes I often have some ideas for a design or a question which I would like to further explore in a future interview. I write them down in a third color or I prefix the note with <em>“IDEA:”</em> or <em>“QUESTION”</em> in order to prevent myself of mixing ideas with empirical data.</p>
@@ -895,18 +894,18 @@ If you record audio in parallel, you can be more relaxed when writing what was <
 <p>The notes say: “Send document via mail”</p>
 <p>So I add the information about the cause of sending the mail: “Send document via mail to the boss for checking.”</p>
 </blockquote>
-<p>If you need to save time, go through your notes and see where they lack information. Then just jump to the parts of the audio that might complement these sections.</p>
-<h2 id="order-and-archive-your-data">Order and archive your data</h2>
+<p>If you need to save time, go through your notes and see where they lack information and jump to the parts of the audio that might complement these sections.</p>
+<h2 id="AfterSessionArchiveData">Order and archive your data</h2>
 <p>It should be easy to find out later which data was from which participant and how notes, sketches, diagrams and possible audio recordings fit together.</p>
 <p>Take care that all sheets of paper and files have…:</p>
 <ul>
 <li>A participant code like P1 for the first, P2 for the second participant etc. This way you can later trace back which data belongs together</li>
 <li>The name of the project and the date. In your next or even a parallel project, you may have another “first” participant, and you don’t want to mix them up</li>
-<li>The filenames (or the names of the folders they are in) should carry the participant code, project name and possibly the method too, which may lead to lengthy filenames like: LMS_P1_diagram-sharingprocess.png (“LMS” being “Learning Management Systems”, the project name, “P1” is the participant code, “diagram” is the method and “sharingprocess” is the topic)</li>
+<li>The filenames (or the names of the folders they are in) should carry the participant code, project name and possibly the method too, which may lead to lengthy filenames like: freelanceDesigners_P1_diagram_sign-off.png (“freelanceDesigners” being the project name, “P1” is the participant code, “diagram” is the method and “sign-off” (by a client of a design) is the topic which is covered in the diagram)</li>
 <li>You should look for possible interconnections between different kinds of data. Maybe the participant mentioned his messy desk and you have a photo of it? Add a line in your transcript, referring to the photo. Or the participant talks about the problems of sending data to the print shop and the printing process was part of a workflow diagram you both created? Write a brief line in your notes and the diagram to connect both.</li>
 </ul>
 <p>If you take these steps you can still match project and participants later so you don’t loose time or data because of mixups.</p>
-<p>As a result of these steps you your now have a transcript of your notes, diagrams, sketches and photos with possible cross-referencing annotations, participant codes, and descriptive filenames.</p>
+<p>As a result of these steps, you your now have a transcript of your notes, diagrams, sketches and photos with possible cross-referencing annotations, participant codes, and descriptive filenames.</p>
 <h1 id="Analysis">Analysis</h1>
 <!-- general TODO s
 * Check for use of "we". Prefer I, if that is not good, use "you"
@@ -914,10 +913,10 @@ If you record audio in parallel, you can be more relaxed when writing what was <
 * Excessive use of commas. Get rid of them!
 
 -->
-<p>The data you gathered can’t be used for supporting design decisions: It consists of many unstructured small pieces. Now you need to structure and analyse the data—similar as writing a summary and interpretation of a long and complex book. Analysis is not a passive process: Making sense of data requires taking different perspectives and trying them out to see how the data can be interpreted.</p>
+<p>The data you gathered can’t be used for supporting design decisions yet: It consists of many unstructured small pieces. Now you need to structure and analyse the data—similar as writing a summary and interpretation of a long and complex book. Analysis is not a passive process: Making sense of data requires taking different perspectives and trying them out to see how the data can be interpreted.</p>
 <!-- design and communication. Don't forget iterative -->
 <h2 id="doing-the-right-analysis">Doing the “right” Analysis</h2>
-<p>The data analysis is done by inferring themes from data points. Thus, the process is empirical (as it is based on gathered data). But even if the same data is used, different people will create different analysis. This is because the result of the analysis depends on the reasonable, but still individual and debatable, interpretation of the data. You could say that <em>“looking at last years design to quickly reuse elements”</em> belongs to a theme concerned with <em>“I want to save time”</em> or to a theme related to the topic of <em>“reviewing designs for inspiration”</em> (given that it could serve both from the user’s perspective).</p>
+<p>The data analysis is done by inferring recurring themes from data points. Thus, the process is empirical (as it is based on gathered data). But even if the same data is used, different people will create different analysis. This is because the result of the analysis depends on the reasonable, but still individual and debatable, interpretation of the data. You could say that <em>“looking at last years design to quickly reuse elements”</em> belongs to a theme concerned with <em>“I want to save time”</em> or to a theme related to the topic of <em>“reviewing designs for inspiration”</em> (given that it could serve both from the user’s perspective).</p>
 <p>There is no clear-cut “right” or “wrong”, when you interpret your data. Most important is that your analysis is plausible and based on the data you collected. I compare the process of analysis to building a house from a pile of Lego<sup>®</sup> bricks. These bricks are like the not-yet-analyzed data you start with. When you build a house out of these bricks, there is no single “right” building. But neither is it a process which is arbitrary.</p>
 <figure>
 <img src="images/lego_bricksToStartWith.jpg" alt="Possible arrangement of bricks—but not a house" class="portrait" /><figcaption>Possible arrangement of bricks—but not a house</figcaption>
@@ -941,7 +940,7 @@ If you record audio in parallel, you can be more relaxed when writing what was <
 <!-- Good/Bad time -->
 <blockquote>
 <figure>
-<img src="images/U1_GoodBadTime_Diagramm.svg" alt="Annotated mood-graph" /><figcaption>Annotated mood-graph</figcaption>
+<img src="images/U1_GoodBadTime_Diagramm.svg" alt="Annotated mood-graph by P1" /><figcaption>Annotated mood-graph by P1</figcaption>
 </figure>
 <p>In this diagram I noted some ideas for an interpretation:</p>
 <ul>
@@ -953,12 +952,12 @@ If you record audio in parallel, you can be more relaxed when writing what was <
 <li>Sending the finished design to the client seemed to be a positive thing. Maybe this is a kind of closure point—“I finished the design!”</li>
 <li>…however, waiting for the final acceptance is again negative, though usually only in the beginning (the participant projected this—the dotted line is assumed, since at the point of the research session, the design was just send a day ago or so.)</li>
 </ul>
-<p>I did such annotations for all the diagrams, to keep it brief, I don’t include all of them here.</p>
+<p>I wrote such annotations for all mood-graph-diagrams from the different participants in the reserach project.</p>
 </blockquote>
 <hr />
 <blockquote>
 <figure>
-<img src="images/Wikidata_Workflow_1_annotated_noInterpretation.svg" alt="Annotated workflow diagram: CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/deed.en) Credit: Yarl (Workflow) Papuass (documenting), Jan Dittrich (recording, adaption as SVG) Based on: Wikimedia Commons WikidataCon_2017_Workshop_Workflows_03.jpg" /><figcaption>Annotated workflow diagram: CC-BY 4.0 (<a href="https://creativecommons.org/licenses/by/4.0/deed.en" class="uri">https://creativecommons.org/licenses/by/4.0/deed.en</a>) <em>Credit:</em> Yarl (Workflow) Papuass (documenting), Jan Dittrich (recording, adaption as SVG) <em>Based on:</em> Wikimedia Commons <a href="https://commons.wikimedia.org/wiki/File:WikidataCon_2017_Workshop_Workflows_03.jpg">WikidataCon_2017_Workshop_Workflows_03.jpg</a></figcaption>
+<img src="images/Wikidata_Workflow_1_annotated_noInterpretation.svg" alt="Annotated workflow diagram: CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/deed.en) Credit: Yarl (Workflow) Papuass (documenting), Jan Dittrich (recording, adaption as SVG) Based on: Wikimedia Commons WikidataCon_2017_Workshop_Workflows_03.jpg" /><figcaption>Annotated workflow diagram: CC-BY 4.0 (<a href="https://creativecommons.org/licenses/by/4.0/deed.en">https://creativecommons.org/licenses/by/4.0/deed.en</a>) <em>Credit:</em> Yarl (Workflow) Papuass (documenting), Jan Dittrich (recording, adaption as SVG) <em>Based on:</em> Wikimedia Commons <a href="https://commons.wikimedia.org/wiki/File:WikidataCon_2017_Workshop_Workflows_03.jpg">WikidataCon_2017_Workshop_Workflows_03.jpg</a></figcaption>
 </figure>
 <p>This is a diagram of a user’s workflow when editing on the free database project <a href="https://www.wikidata.org"><em>Wikidata</em></a>. Wikidata collects statements about things. These things are called “Items”. The <a href="https://www.wikidata.org/wiki/Q12418">item for the Mona Lisa</a> could have the statements “instanceOf: Painting”, “Creator:Leonardo da Vinci”. “Painting” and “Leonardo da Vinci” would be items themselves, so all is linked!</p>
 <p>The workflows for the Wikidata example were created by participants in a workshop at a conference.</p>
@@ -975,9 +974,9 @@ If you record audio in parallel, you can be more relaxed when writing what was <
 </ul>
 </blockquote>
 <h3 id="commonalities-and-contrasts">Commonalities and contrasts</h3>
-<p>Once you thought of possible meanings, you can check them. For this, you compare data from different users. Do they show the same pattern or do they differ? If yes, do you have a guess, why? Note common patterns as well as interesting findings, e.g. if most diagrams share a common pattern, but one does not.</p>
+<p>Once you thought of possible interpretations, you can compare them using diagrams from other users. Do they show the same pattern or do they differ? If yes, why? When doing this you can overthrow or update your initial interpretations and develop Note common patterns as well as interesting findings, e.g. if most diagrams share a common pattern, but one does not.</p>
 <blockquote>
-<p>I compared the diagram above with this diagram:</p>
+<p>I compared the mood-diagram from the previous section with this diagram:</p>
 <figure>
 <img src="images/U2_GoodBadTime_Diagramm.svg" alt="Annotated Diagram, P2" /><figcaption>Annotated Diagram, P2</figcaption>
 </figure>
@@ -990,7 +989,7 @@ If you record audio in parallel, you can be more relaxed when writing what was <
 <li>Distressful phase at the end</li>
 <li>Like in the diagram above, there is a positive “it is done” phase</li>
 </ul>
-<p>My third participant’s diagram was this:</p>
+<p>I compared my analysis of the first and second diagram with the diagram drawn by the third participant:</p>
 <figure>
 <img src="images/U3_GoodBadTime_Diagramm.svg" alt="Annotated diagram, P3" /><figcaption>Annotated diagram, P3</figcaption>
 </figure>
@@ -1023,16 +1022,16 @@ If you record audio in parallel, you can be more relaxed when writing what was <
 </blockquote>
 <hr />
 <blockquote>
-<p>Here an example for doing an analysis on workflows:</p>
+<p>We have looked at an example for analyzing the diagrams that show a “mood graph”. Other diagrams represent data differently. To see how to analyse workflow documentation, here another example. While the type of the diagram is different, it follows the same pattern of annotations and comparisons to find commonalities and contrasts</p>
 <figure>
-<img src="images/Wikidata_Workflow_1_annotated.svg" alt="Annotated diagram 1: CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/deed.en) Credit: Yarl (Workflow) Papuass (documenting), Jan Dittrich (recording, adaption as SVG) Based on: Wikimedia Commons WikidataCon_2017_Workshop_Workflows_03.jpg" /><figcaption>Annotated diagram 1: CC-BY 4.0 (<a href="https://creativecommons.org/licenses/by/4.0/deed.en" class="uri">https://creativecommons.org/licenses/by/4.0/deed.en</a>) <em>Credit:</em> Yarl (Workflow) Papuass (documenting), Jan Dittrich (recording, adaption as SVG) <em>Based on:</em> Wikimedia Commons <a href="https://commons.wikimedia.org/wiki/File:WikidataCon_2017_Workshop_Workflows_03.jpg">WikidataCon_2017_Workshop_Workflows_03.jpg</a></figcaption>
+<img src="images/Wikidata_Workflow_1_annotated.svg" alt="Annotated diagram 1: CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/deed.en) Credit: Yarl (Workflow) Papuass (documenting), Jan Dittrich (recording, adaption as SVG) Based on: Wikimedia Commons WikidataCon_2017_Workshop_Workflows_03.jpg" /><figcaption>Annotated diagram 1: CC-BY 4.0 (<a href="https://creativecommons.org/licenses/by/4.0/deed.en">https://creativecommons.org/licenses/by/4.0/deed.en</a>) <em>Credit:</em> Yarl (Workflow) Papuass (documenting), Jan Dittrich (recording, adaption as SVG) <em>Based on:</em> Wikimedia Commons <a href="https://commons.wikimedia.org/wiki/File:WikidataCon_2017_Workshop_Workflows_03.jpg">WikidataCon_2017_Workshop_Workflows_03.jpg</a></figcaption>
 </figure>
 <p>First diagram:</p>
 <ul>
 <li>…from the annotating, I already got the impression that there are two main steps: working on a to-do-list and working on an item, adding data.</li>
 </ul>
 <figure>
-<img src="images/Wikidata_Workflow_2_annotated.svg" alt="Annotated diagram 2: CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/deed.en) Credit: Susannaanas (documentation), Jan Dittrich (photo and adaption as svg) Based on: Wikimedia Commons WikidataCon_2017_Workshop_Workflows_04.jpg" /><figcaption>Annotated diagram 2: CC-BY 4.0 (<a href="https://creativecommons.org/licenses/by/4.0/deed.en" class="uri">https://creativecommons.org/licenses/by/4.0/deed.en</a>) <em>Credit:</em> Susannaanas (documentation), Jan Dittrich (photo and adaption as svg) <em>Based on:</em> Wikimedia Commons <a href="https://commons.wikimedia.org/wiki/File:WikidataCon_2017_Workshop_Workflows_04.jpg">WikidataCon_2017_Workshop_Workflows_04.jpg</a></figcaption>
+<img src="images/Wikidata_Workflow_2_annotated.svg" alt="Annotated diagram 2: CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/deed.en) Credit: Susannaanas (documentation), Jan Dittrich (photo and adaption as svg) Based on: Wikimedia Commons WikidataCon_2017_Workshop_Workflows_04.jpg" /><figcaption>Annotated diagram 2: CC-BY 4.0 (<a href="https://creativecommons.org/licenses/by/4.0/deed.en">https://creativecommons.org/licenses/by/4.0/deed.en</a>) <em>Credit:</em> Susannaanas (documentation), Jan Dittrich (photo and adaption as svg) <em>Based on:</em> Wikimedia Commons <a href="https://commons.wikimedia.org/wiki/File:WikidataCon_2017_Workshop_Workflows_04.jpg">WikidataCon_2017_Workshop_Workflows_04.jpg</a></figcaption>
 </figure>
 <p>Second Diagram:</p>
 <ul>
@@ -1040,7 +1039,7 @@ If you record audio in parallel, you can be more relaxed when writing what was <
 <li>The participant checked if there is a corresponding Wikidata-entry the entry on the to-do list, since the list was created from wikipedia items (in order to check if corresponding wikidata items exists.)</li>
 </ul>
 <figure>
-<img src="images/Wikidata_Workflow_3_annotated.svg" alt="Annotated diagram 3: CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/deed.en ) Credit: Papuass (Workflow) Yarl (documenting), Jan Dittrich (recording, adaption as SVG) Based on: Wikimedia Commons WikidataCon_2017_Workshop_Workflows_06.jpg" /><figcaption>Annotated diagram 3: CC-BY 4.0 (<a href="https://creativecommons.org/licenses/by/4.0/deed.en" class="uri">https://creativecommons.org/licenses/by/4.0/deed.en</a> ) <em>Credit:</em> Papuass (Workflow) Yarl (documenting), Jan Dittrich (recording, adaption as SVG) <em>Based on:</em> Wikimedia Commons <a href="https://commons.wikimedia.org/wiki/File:WikidataCon_2017_Workshop_Workflows_06.jpg">WikidataCon_2017_Workshop_Workflows_06.jpg</a></figcaption>
+<img src="images/Wikidata_Workflow_3_annotated.svg" alt="Annotated diagram 3: CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/deed.en ) Credit: Papuass (Workflow) Yarl (documenting), Jan Dittrich (recording, adaption as SVG) Based on: Wikimedia Commons WikidataCon_2017_Workshop_Workflows_06.jpg" /><figcaption>Annotated diagram 3: CC-BY 4.0 (<a href="https://creativecommons.org/licenses/by/4.0/deed.en">https://creativecommons.org/licenses/by/4.0/deed.en</a> ) <em>Credit:</em> Papuass (Workflow) Yarl (documenting), Jan Dittrich (recording, adaption as SVG) <em>Based on:</em> Wikimedia Commons <a href="https://commons.wikimedia.org/wiki/File:WikidataCon_2017_Workshop_Workflows_06.jpg">WikidataCon_2017_Workshop_Workflows_06.jpg</a></figcaption>
 </figure>
 <p>Third diagram:</p>
 <ul>
@@ -1049,7 +1048,7 @@ If you record audio in parallel, you can be more relaxed when writing what was <
 <li>The step for the item concerns only its creation and addition of name and description, not adding of content.</li>
 </ul>
 <figure>
-<img src="images/Wikidata_Workflow_4_annotated.svg" alt="Annotated diagram 4: CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/deed.en) Credit: Liridon (Workflow), Hakanist (documenting), Jan Dittrich (recording, adaption as SVG) Based on: Wikimedia Commons WikidataCon_2017_Workshop_Workflows_08.jpg" /><figcaption>Annotated diagram 4: CC-BY 4.0 (<a href="https://creativecommons.org/licenses/by/4.0/deed.en" class="uri">https://creativecommons.org/licenses/by/4.0/deed.en</a>) <em>Credit:</em> Liridon (Workflow), Hakanist (documenting), Jan Dittrich (recording, adaption as SVG) Based on: Wikimedia Commons <a href="https://commons.wikimedia.org/wiki/File:WikidataCon_2017_Workshop_Workflows_08.jpg">WikidataCon_2017_Workshop_Workflows_08.jpg</a></figcaption>
+<img src="images/Wikidata_Workflow_4_annotated.svg" alt="Annotated diagram 4: CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/deed.en) Credit: Liridon (Workflow), Hakanist (documenting), Jan Dittrich (recording, adaption as SVG) Based on: Wikimedia Commons WikidataCon_2017_Workshop_Workflows_08.jpg" /><figcaption>Annotated diagram 4: CC-BY 4.0 (<a href="https://creativecommons.org/licenses/by/4.0/deed.en">https://creativecommons.org/licenses/by/4.0/deed.en</a>) <em>Credit:</em> Liridon (Workflow), Hakanist (documenting), Jan Dittrich (recording, adaption as SVG) Based on: Wikimedia Commons <a href="https://commons.wikimedia.org/wiki/File:WikidataCon_2017_Workshop_Workflows_08.jpg">WikidataCon_2017_Workshop_Workflows_08.jpg</a></figcaption>
 </figure>
 <p>Forth diagram:</p>
 <ul>
@@ -1080,7 +1079,10 @@ It can be interesting and useful to not only compare the diagrams on the same to
 </blockquote>
 <hr />
 <blockquote>
-<p>I created this diagram to summarize the workflows for editing wikidata: <img src="images/Wikidata_Workflow_summary.svg" alt="summary diagram wikidata edit workflow" /></p>
+<p>I created this diagram to summarize the workflows for editing wikidata:</p>
+<figure>
+<img src="images/Wikidata_Workflow_summary.svg" alt="summary diagram wikidata edit workflow" /><figcaption>summary diagram wikidata edit workflow</figcaption>
+</figure>
 <ul>
 <li>In the first (“Adding instanceOf…”) and in the third (“Adding wikidata items…”) were a setup step. I included this—also because I knew from other research that tool use is widespread</li>
 <li>All four editors worked from a list. I tried to specify what that list could be. Different kinds of lists served different purposes: A list of existing items can serve for supplementing these; a list of Wikipedia articles without corresponding Wikidata-items enables the creation of needed items.</li>
@@ -1089,7 +1091,7 @@ It can be interesting and useful to not only compare the diagrams on the same to
 </blockquote>
 <!-- TODO: Chapter end -->
 <h2 id="making-sense-of-notes">Making sense of notes</h2>
-<p>Your notes are data in written form, maybe with some occasional sketches. I will demonstrate a method to analyze your notes in depth. In contrast to the methods for analyzing diagrams, this is more complex. However, it is a very powerful method, which allows going beyond the pure data and extract overarching themes and interrelations from it. It is a variation of typical <em>qualitative data analysis</em> methods like <em>thematic analysis</em>, <em>grounded theory</em> or the like.</p>
+<p>Your notes are data in written form, maybe with some occasional sketches. I will demonstrate a method to analyze your notes in depth. In contrast to the methods for analyzing diagrams, this is more complex. However, it is a very powerful method, which allows going beyond the pure data to create meaningful interpretations of your data, which can serve as guidance in later design work.</p>
 <h3 id="organize-notes-hierarchically">Organize notes hierarchically</h3>
 <p>The basis for our analysis are the utterances or observations, usually represented by a line in your transcript, like:</p>
 <blockquote>
@@ -1112,7 +1114,7 @@ It can be interesting and useful to not only compare the diagrams on the same to
 <li><em>sub-theme</em>: use other’s work for inspiration
 <ul>
 <li><em>Data:</em> “I look on google images how other calendars look like”</li>
-<li><em>Data:</em> browses through the book to see…</li>
+<li><em>Data:</em> Browses through the book to see examples of existing designs</li>
 <li>…</li>
 </ul></li>
 </ul></li>
@@ -1123,21 +1125,21 @@ It can be interesting and useful to not only compare the diagrams on the same to
 <li><strong>Top-Down</strong>: You first name the groups and write the titles and then sort pieces of data into the groups hereafter</li>
 <li><strong>Bottom-Up</strong>: You first group pieces of data which seem to share a similar theme and then give the group a comprehensive title which states the topic shared by the underlying pieces of data.</li>
 </ol>
-<p>We are going to use mainly the 2nd way, doing a so called “bottom-up” analysis. In a bottom-up analysis, the themes depend on the data, but also on your interpretation of the data.</p>
+<p>We are going to use the “bottom-up”-way of analysis.</p>
 <p>In the analysis we may start with grouping similar data together—like these two lines:</p>
 <blockquote>
 <ul>
 <li><em>Data:</em> “I look on google images how other calendars look like”</li>
-<li><em>Data:</em> Browses through the book to see…</li>
+<li><em>Data:</em> Browses through the book to see examples of existing designs</li>
 </ul>
 </blockquote>
 <p>Then we give that data a headline and name the topic:</p>
 <blockquote>
 <ul>
-<li><strong>Theme:</strong> Use other’s work for inspiration
+<li><strong>Theme: Use other’s work for inspiration</strong>
 <ul>
 <li><em>Data:</em> “I look on google images how other calendars look like”</li>
-<li><em>Data:</em> Browses through the book to see…</li>
+<li><em>Data:</em> Browses through the book to see examples of existing designs</li>
 </ul></li>
 </ul>
 </blockquote>
@@ -1146,14 +1148,14 @@ It can be interesting and useful to not only compare the diagrams on the same to
 <ul>
 <li><em>Theme:</em> use other’s work for inspiration
 <ul>
-<li><em>Data</em>: Searches on amazon to see how covers of books about the same topic look like**</li>
+<li><em>Data</em>: <strong>Searches on amazon to see how covers of books about the same topic look like</strong></li>
 <li><em>Data:</em> “I look on google images how other calendars look like”</li>
-<li><em>Data:</em> Browses through the book to see…</li>
+<li><em>Data:</em> Browses through the book to see examples of existing designs</li>
 </ul></li>
 </ul>
 </blockquote>
 <p>This is a rather simplified overview of the process: In contrast to this example, you will as well spend time searching through data, rewriting theme titles and may need to step back or just sleep over it to find a good new way to make sense of your data.</p>
-<h3 id="create-meaningful-groups">Create meaningful groups</h3>
+<h3 id="MeaningfulNotes">Create meaningful groups</h3>
 <p>I already talked about grouping notes by shared themes. But what is a <em>meaningful</em> theme?</p>
 <p>One method to group notes and to derive a theme would be going through the notes and see which utterances and observations mention the <em>same thing</em> or make the <em>same assessment</em>. Thus, all notes mentioning “color” would belong to one theme and get the title “Color”; all notes mentioning “good” belong to one theme and get the title “good things”.</p>
 <blockquote>
@@ -1231,7 +1233,7 @@ It can be interesting and useful to not only compare the diagrams on the same to
 </ul>
 </blockquote>
 <h3 id="prepare-your-notes-for-analysis">Prepare your notes for Analysis</h3>
-<p>When you create groups of data, it is good to know if the theme of the group is relevant across several participants or only concerns one participant. To check for this, you should supply each note (=line in the transcript) with a participant code. A participant code works like a pseudonym: The user is not identifiable by his/her real name, but by a stand-in for the name. I use neutral number codes: The first person I did a research session with is P1, the second is P2 etc.</p>
+<p>When you create groups of data, it is good to know if the theme of the group is relevant across several participants or only concerns one participant. To check for this, you should supply each note (=line in the transcript) with a participant code. You already used this code in the section on <a href="#AfterSessionArchiveData">archiving your data</a> to show to which participant the recorded data belongs. A participant code works like a pseudonym: The user is not identifiable by his/her real name, but by a stand-in for the name. I use neutral number codes: The first person I did a research session with is P1, the second is P2 etc.</p>
 <blockquote>
 <p>If you have this on your transcript:</p>
 <ul>
@@ -1268,9 +1270,13 @@ It can be interesting and useful to not only compare the diagrams on the same to
 <!-- TODO: Example image would be nice here -->
 <p>If you prefer working on a computer, you can annotate your data using a word processor with a comment function. Open your transcript, mark the part you want to annotate with your interpretation, then click the “comment” button. If you don’t use the comment function, but plain text, use something like “COMMENT:” or “ANNOTATION:” to mark your comments;</p>
 <p>Annotating your data is a creative process. If in doubt, whether an annotation is relevant or not: opt for writing it. Later on, it might become useful. If you are unsure about something or an idea seems to be far-fetched, just go for it. Since you keep data and comments distinguishable from each other, you can always throw stuff out again. The goal is not to come up with great annotations, but to wrap your head around the data and to find possible ways to interpreting it.</p>
-<h3 id="decide-whether-you-want-to-do-a-digital-or-analog-analysis">Decide, whether you want to do a digital or analog analysis</h3>
-<p>After annotating your data you should take the decision in which media you want to conduct your analysis: Digital in a word processor, where lines hold the basic units of data, or analog on paper, where sticky notes are your means of dealing with the data.</p>
-<p>The analysis methods described here can be used in both media. Nevertheless, each way has different strengths.</p>
+<h3 id="decide-whether-you-want-to-do-a-digital-or-analog-analysis">Decide whether you want to do a digital or analog analysis</h3>
+<p>After annotating your data you should take the decision in which media you want to conduct your analysis:</p>
+<ul>
+<li>Digitally in a word processor, where lines hold the basic units of data</li>
+<li>Analog on paper, where sticky notes are your means of dealing with the data.</li>
+</ul>
+<p>The analysis methods described here can be used in both media. Nevertheless, each medium has different strengths.</p>
 <figure>
 <img src="images/affinityDiagram2.jpg" alt="Analyzing data analog by using sticky notes. Theme are written on yellow sticky notes, themes of themes are written on orange sticky notes" /><figcaption>Analyzing data analog by using sticky notes. Theme are written on yellow sticky notes, themes of themes are written on orange sticky notes</figcaption>
 </figure>
@@ -1290,9 +1296,9 @@ It can be interesting and useful to not only compare the diagrams on the same to
 <li>a big wall (2m*3m minimum—which is why the wall is usually the most difficult to get).</li>
 </ul>
 <p>But why should you want to use an analog analysis, if it needs all these resources? Partly, the decision can be based on preferences: Some people like that they can move around the notes by hand and can get an overview of their data by just stepping back and glancing over it.</p>
-<p>If you work with peers on your analysis, you have some advantages when using the analogue pen and paper approach: you can easily discuss your ideas with others and will get new ideas how to structure the data. You can as well invite your boss to take a look and be part of the team, at least for some time. This type of on-site, collaborative, analysis is best done analog. Using digital tools it is not that easy and direct—despite all the great digital innovations we have nowadays.</p>
+<p>If you work with peers on your analysis, you have some advantages when using the analog pen-and-paper approach: you can easily discuss your ideas with others and will get new ideas how to structure the data. You can as well invite your boss to take a look and be part of the team, at least for some time. This type of on-site, collaborative, analysis is best done analog. Using digital tools it is not that easy and direct—despite all the great digital innovations we have nowadays.</p>
 <figure>
-<img src="images/DesignEthnographyStudioLifeAnalysis4_crop.jpg" alt="Making sense of data together, using lots of sticky notes. (Image by flickr user Kalsau, licensed under CC-BY 2.0, https://creativecommons.org/licenses/by/2.0/; Changes: Image was cropped)" /><figcaption>Making sense of data together, using lots of sticky notes. (Image by <a href="https://www.flickr.com/photos/kalsau/">flickr user Kalsau</a>, licensed under CC-BY 2.0, <a href="https://creativecommons.org/licenses/by/2.0/" class="uri">https://creativecommons.org/licenses/by/2.0/</a>; Changes: Image was cropped)</figcaption>
+<img src="images/DesignEthnographyStudioLifeAnalysis4_crop.jpg" alt="Making sense of data together, using lots of sticky notes. (Image by flickr user Kalsau, licensed under CC-BY 2.0, https://creativecommons.org/licenses/by/2.0/; Changes: Image was cropped)" /><figcaption>Making sense of data together, using lots of sticky notes. (Image by <a href="https://www.flickr.com/photos/kalsau/">flickr user Kalsau</a>, licensed under CC-BY 2.0, <a href="https://creativecommons.org/licenses/by/2.0/">https://creativecommons.org/licenses/by/2.0/</a>; Changes: Image was cropped)</figcaption>
 </figure>
 <h4 id="how-to-analysis-on-the-computer">How to: Analysis on the computer</h4>
 <p>For analysis on your computer, I suggest the following steps for preparing your analysis:</p>
@@ -1301,16 +1307,16 @@ It can be interesting and useful to not only compare the diagrams on the same to
 <li>Paste your transcript into that document</li>
 <li>Add a page break before the transcript to separate not-yet-grouped data from your (upcoming) structure of lines grouped by themes.</li>
 </ol>
-<p><strong>Creating Groups:</strong> Similar data is organized in lists. You can just use the word processors bullet point list feature. To rearrange data, you can use copy and paste, drag and drop and the tools the word processor provides (toolbar to move points in lists etc.)</p>
+<p><strong>Creating groups by moving lines</strong> Similar data is organized in lists. You can just use the word processors bullet point list feature. To rearrange data, you can use copy and paste, drag and drop and the tools the word processor provides (toolbar to move points in lists etc.)</p>
 <p><br />
 </p>
 <p><strong>State themes in titles of groups</strong>: Each group gets a headline. Create a hierarchy by using different paragraph styles—bigger headlines for overarching themes-of-themes, smaller headlines for themes, that encompass the data directly. If you use paragraph styles to format your headlines, you can use the navigation tool of the wordprocessor to go through your structure. You can as well just use the list-hierarchy feature (pressing the tab-key creates a subordinate list point). I prefer headlines, though.</p>
 <h4 id="how-to-analysis-with-pen-and-paper">How to: Analysis with pen and paper</h4>
-<p>For working analog I recommend the following steps to get analysis-ready:</p>
+<p>For working with pen and paper, I recommend the following steps to get ready for analysis:</p>
 <ol type="1">
-<li>Create table in a word processor, many rows, 2 columns (given you print on DINA4). Each table cell will be a note.
+<li>Create table in a word processor with 2 columns and many rows. Each table cell will be a note.
 <ol type="1">
-<li>In the table settings, switch off page breaks in cells and switch “keep paragraphs together” on, so that one note/table cell will not break between pages.</li>
+<li>In the table settings, switch off “Allow row to break across pages”, so that one note/table cell will not be split between pages.</li>
 <li>In the table settings, choose a decent padding around each cell, like 0.5cm</li>
 <li>Choose a font size of about 12pt, large enough to read it<br />
 <img src="images/createAnalogNotes.png" /></li>
@@ -1320,10 +1326,10 @@ It can be interesting and useful to not only compare the diagrams on the same to
 <li>Cut out each table cell (=piece of data)</li>
 <li>Optional: Cover the wall with the paper from paper rolls (thus you can remove the analysis, roll up the paper and archive it and you can remove it from the wall temporarily)</li>
 </ol>
-<p><strong>Creating groups</strong>: during analysis you will stick your printed notes on the widths of paper using removable tape, crepe tape or spray glue—something sticky but non-permanent, so you can move the notes around in order to gradually improve the structure.</p>
+<p><strong>Creating groups by moving sticky notes</strong>: During analysis you will stick your printed notes on the widths of paper using removable tape, crepe tape or spray glue—something sticky but non-permanent, so you can move the notes around in order to gradually improve the structure.</p>
 <p><br />
 </p>
-<p><strong>State themes in titles of groups</strong>: Write your group titles on notes of determined colors, which are different from the color of the actual data points. If you print your data points on white paper you can use yellow sticky notes for group titles and pink ones for titles of a group of groups.</p>
+<p><strong>State themes in titles of groups</strong>: Write your group titles on sticky notes. Color-coding by hierarchy can be helpful: If you print your data points on white paper, you can use yellow sticky notes for group titles and pink ones for titles of a group of groups.</p>
 <h3 id="firstStructure">Develop a first Structure</h3>
 <p>After you annotated your notes, you can start to structure them. Structuring the notes means grouping similar data together, suggesting themes behind the data, naming these themes and deciding which data falls under which theme.</p>
 <p>You don’t use all your data yet. You can start with what you find useful, when skimming through or you can use the data of two participants for now. The goal is to set up some preliminary structure, like a sketch of the analysis.</p>
@@ -1359,7 +1365,8 @@ It can be interesting and useful to not only compare the diagrams on the same to
 <p><em>These are mere titles, naming a commonality of the underlying data but telling nothing useful for design (yet)</em></p>
 </blockquote>
 <h4 id="state-insights">State insights</h4>
-<p>You may have read through your annotations and have noticed something that may make a good insight right away. Great. Just write it down and assign the data to it. Even if you have only one or two pieces of data that fit the insight, don’t worry, just see if the insight will emerge to be bigger. If not, you can still revise the title or just get rid of the group and see where else the data might fit.</p>
+<!--"Insights" could actually be replaced by "interpretation". Not sure if I should replace it. -->
+<p>You may have read through your annotations and have noticed something that may make a good insight right away. Great. Just write it down and assign the data to it. Even if you have only one or two pieces of data that fit the insight, don’t worry, just see if you find more data that matches and strengthens the insight. If not, you can still revise the title or just get rid of the group and see where else the data might fit.</p>
 <blockquote>
 <p>The first insights I wrote were these:</p>
 <ul>
@@ -1378,7 +1385,7 @@ It can be interesting and useful to not only compare the diagrams on the same to
 <li>Media
 <ul>
 <li>Do tests in the media you target</li>
-<li>Suitablility of media</li>
+<li>Suitability of media</li>
 <li>“being closer”: 2 page-spreads instead of single pages etc.</li>
 </ul></li>
 <li>Idea Attachment</li>
@@ -1388,7 +1395,7 @@ It can be interesting and useful to not only compare the diagrams on the same to
 <li>TrialAndError</li>
 <li>Mutual dependencies of design elements like type area, content, font size etc. (?)</li>
 </ul>
-<p>Note that some themes are actual, meaningful insights (“Finishing is good”, “(Page) Format is hard to change later”), while some are mere group titles based on commonalities of the data they encompass (“Inspiration”, “Trial and Error”).</p>
+<p>Note that some themes are meaningful insights (“Finishing is good”, “(Page) Format is hard to change later”), while some are mere group titles based on commonalities of the data they encompass (“Inspiration”, “Trial and Error”).</p>
 </blockquote>
 <p>Now, you will have some preliminary, data based themes, each created based on a few data points. Next, try if these themes are useful for organizing more than just a few data points.</p>
 <h3 id="fill-the-structure">Fill the Structure</h3>
@@ -1399,7 +1406,7 @@ It can be interesting and useful to not only compare the diagrams on the same to
 <img src="images/lego_houseWalls.jpg" alt="Build upon your preliminary structure to see if the idea actually works" /><figcaption>Build upon your preliminary structure to see if the idea actually works</figcaption>
 </figure>
 <p>Aim for 3 to 10 pieces of data per theme. While it is temporarily OK to have very small groups, at the end each theme should be derived from several data points and not on a single utterance. On the other hand, if a theme encompasses more than 10 utterances or observations, consider if it makes sense to split the group in “subthemes”.</p>
-<p>Usually, I would go chronologically through all my notes starting with the first participant and ending with the most recent one—though any other scheme will suffice as well. Just be sure, that you know with which data you dealt with already and with which you did not.</p>
+<p>Usually, I would go chronologically through all my notes starting with the first participant and ending with the most recent one—though any other scheme will suffice as well. Just be sure that you know with which data you dealt with already and with which you did not.</p>
 <p>When filling the data in the structure, you may notice that you need to create additional themes. Some titles of the themes may need to be renamed as well. Just go ahead and make these changes, if you feel they are needed.</p>
 <blockquote>
 <ul>
@@ -1456,7 +1463,7 @@ It can be interesting and useful to not only compare the diagrams on the same to
 <h4 id="find-better-names">Find better names</h4>
 <p>Groups based on commonalities or vague similarity will hopefully evolve into insights about the participants. To achieve this, try to revise group titles: make them more concise, clear and meaningful. If a group of data is just named with a title based on mere commonalities of the data in that group, try to state an actual insight for that group. This will almost certainly require moving some data between groups in order to accommodate the data to the improved structure.</p>
 <blockquote>
-<p>For one group I used the title “Arranging”, since arranging and aligning objects, lines and text to a predefined grid or to each other was a task that occurred frequently. But the title “Arranging” just names a commonality. To make clear that the group is about a user activity and to state the theme as an insight, I renamed “Arranging” to “Arranging objects is an important activity”</p>
+<p>For one group, I used the title “Arranging”, since arranging and aligning objects, lines and text to a predefined grid or to each other was a task that occurred frequently. But the title “Arranging” just names a commonality. To make clear that the group is about a user activity and to state the theme as an insight, I renamed “Arranging” to “Arranging objects is an important activity”</p>
 </blockquote>
 <blockquote>
 <p>One group was named “repetitive and manually”. This could be easily stated as an insight: “repetitive and ›do-it-manually‹ tasks are tedious”. By just adding the users view (“are tedious”) the title became an insight which is a useful principle for design.</p>
@@ -1488,16 +1495,11 @@ It can be interesting and useful to not only compare the diagrams on the same to
 </ul>
 <p><br />
 The title was not a meaningful insight and I felt that the analysis might benefit if I use the data in other themes.</p>
-<p>I already had a cluster related to motivations and emotions– where I moved <em>“bad: uncertainty before feedback from client”</em>. The <em>“good: getting feedback”</em> was moved to a cluster named <em>“Exchange with others”</em>.</p>
+<p>I already had a cluster related to motivations and emotions– where I moved <em>“bad: uncertainty before feedback from client”</em>. The <em>“good: getting feedback”</em> was moved to a cluster named <em>“Exchange with others”</em>.<br />
+While I think I gained something out of it, these changes did not result in a new much better structure. It was part of trials and errors in the process.</p>
 </blockquote>
 <blockquote>
-<p>While I think I gained something out of it, these changes did not result in a new much better structure. It was part of trials and errors in the process.</p>
-</blockquote>
-<blockquote>
-<p>Going through the data of a group named “general requirements”. I noted, that a big part of the data was concerned with balancing <em>functional</em> or <em>practical</em> requirements (price, readability etc.) with requirements concerning <em>style</em> (using colors, being innovative)</p>
-</blockquote>
-<blockquote>
-<p>Thus, I renamed the group to “trying to combine aesthetics and functionality”. As the new title was more specific some data needed to be taken out, put into other groups or to the temporary “misc” group.</p>
+<p>Going through the data of a group named “general requirements”. I noted, that a big part of the data was concerned with balancing <em>functional</em> or <em>practical</em> requirements (price, readability etc.) with requirements concerning <em>style</em> (using colors, being innovative)   Thus, I renamed the group to “trying to combine aesthetics and functionality”. As the new title was more specific some data needed to be taken out, put into other groups or to the temporary “misc” group.</p>
 </blockquote>
 <p><br />
 <br />
@@ -1616,6 +1618,8 @@ Before:</p>
 <h1 id="communicate-results">Communicate Results</h1>
 <p>If you work with others, the results of your research need to be communicated so they can act upon your research results.</p>
 <p>Aside from getting the results of your research across, communicating your results has some positive side effects: collecting, organizing and summarizing your findings will make it easier for yourself to remember your findings and you may be even able to improve your analysis further.</p>
+<p>This chapter is different that the others. In the chapters before, the focus was on the research itself. But what what works well highly depends on what your audience is familiar with—and this is something that I can’t know. So I could give advice on how to create a <em>persona</em>, but if your colleges base their work mainly on another framework, like <em>Jobs-To-Be-Done</em> the persona would not help.</p>
+<p>Because of this, the chapter gives some general advice, shows standard representations (like diagrams and scenarios) and the formats is mentions are conventional (like slidedecks and reports).</p>
 <h2 id="consider-the-audiences-needs">Consider the audiences needs</h2>
 <p>Who will receive the research results and what interests do they have? There may be different stakeholders with different needs, e.g.</p>
 <ul>
@@ -1675,7 +1679,7 @@ Before:</p>
 <li>Break any of these rules sooner than say anything barbarous.</li>
 </ol>
 </blockquote>
-<p><a href="#fn4" class="footnote-ref" id="fnref4"><sup>4</sup></a></p>
+<p><a href="#fn4" class="footnote-ref" id="fnref4" role="doc-noteref"><sup>4</sup></a></p>
 <p>In addition, read the text aloud—in particular, if you already noticed that you have had difficulties finding the right word or to express a complicated concept. If you need to re-read sentences to make sense of them or to stress the right words, you should go for a rewrite.</p>
 <h3 id="quotes">Quotes</h3>
 <p>Quotes convey the participant’s motivations and feelings. This is important to help others to have empathy with the users.</p>
@@ -1751,7 +1755,7 @@ Before:</p>
 <p>A poster is a great way to show the results in a way that is easy to grasp and will be consumed too by people who do not take specific interest in user research. They can be put up in a hallway for everyone who walks by.</p>
 <p>Focus on a few important findings and show them using graphical elements and text. You also can create a big version of diagrams you created or summarized.</p>
 <figure>
-<img src="images/Poster_WiktionaryUsers_WMDE.png" alt="A poster showing three core findings from research with editors of the free online dictionary Wiktionary (By Wikimedia Deutschland, Licensed under CC-BY-SA 4.0, https://creativecommons.org/licenses/by-sa/4.0/)" /><figcaption>A poster showing three core findings from research with editors of the free online dictionary Wiktionary (By Wikimedia Deutschland, Licensed under CC-BY-SA 4.0, <a href="https://creativecommons.org/licenses/by-sa/4.0/" class="uri">https://creativecommons.org/licenses/by-sa/4.0/</a>)</figcaption>
+<img src="images/Poster_WiktionaryUsers_WMDE.png" alt="A poster showing three core findings from research with editors of the free online dictionary Wiktionary – By Wikimedia Deutschland, Licensed under CC-BY-SA 4.0, https://creativecommons.org/licenses/by-sa/4.0/" style="height:70.0%" /><figcaption>A poster showing three core findings from research with editors of the free online dictionary Wiktionary – By Wikimedia Deutschland, Licensed under CC-BY-SA 4.0, <a href="https://creativecommons.org/licenses/by-sa/4.0/">https://creativecommons.org/licenses/by-sa/4.0/</a></figcaption>
 </figure>
 <h1 id="appendix">Appendix</h1>
 <h2 id="learn-even-more">Learn (even) more</h2>
@@ -1826,13 +1830,13 @@ Before:</p>
 <p><br />
 <br />
 </p>
-<section class="footnotes">
+<section class="footnotes" role="doc-endnotes">
 <hr />
 <ol>
-<li id="fn1"><p>This idea, that a book on methods should be treated like a travel guide, is inspired by <em>Reassembling the Social</em> by Bruno Latour, a book on so-called <em>Actor-Network-Theory</em>, which is frequently applied in sociology of science<a href="#fnref1" class="footnote-back">↩</a></p></li>
-<li id="fn2"><p>Research concerned with finding out about “how” and “why” using methods like interviews and observations is also called “qualitative” research. In contrast, “quantitative research” usually tests hypothesis (like “an orange ›buy‹ button generates more sales that a blue one”) and employs controlled experiments and statistics. In this book, we learn about qualitative methods<a href="#fnref2" class="footnote-back">↩</a></p></li>
-<li id="fn3"><p>Also called a “leading question”<a href="#fnref3" class="footnote-back">↩</a></p></li>
-<li id="fn4"><p><a href="http://wikilivres.ca/wiki/Politics_and_the_English_Language">Orwell’s Rules for writers</a><a href="#fnref4" class="footnote-back">↩</a></p></li>
+<li id="fn1" role="doc-endnote"><p>This idea, that a book on methods should be treated like a travel guide, is inspired by <em>Reassembling the Social</em> by Bruno Latour, a book on so-called <em>Actor-Network-Theory</em>, describing a perspective that is frequently taken in sociology of science<a href="#fnref1" class="footnote-back" role="doc-backlink">↩</a></p></li>
+<li id="fn2" role="doc-endnote"><p>Research concerned with finding out about “how” and “why” using methods like interviews and observations is also called “qualitative” research. In contrast, “quantitative research” usually tests hypothesis (like “an orange ›buy‹ button generates more sales that a blue one”) and employs controlled experiments and statistics. In this book, we learn about qualitative methods<a href="#fnref2" class="footnote-back" role="doc-backlink">↩</a></p></li>
+<li id="fn3" role="doc-endnote"><p>Also called a “leading question”<a href="#fnref3" class="footnote-back" role="doc-backlink">↩</a></p></li>
+<li id="fn4" role="doc-endnote"><p><a href="http://wikilivres.ca/wiki/Politics_and_the_English_Language">Orwell’s Rules for writers</a><a href="#fnref4" class="footnote-back" role="doc-backlink">↩</a></p></li>
 </ol>
 </section>
 </div>
@@ -1842,9 +1846,8 @@ Before:</p>
 	window.onload = function () {
 		var layoutWrapperElement = document.getElementById("layoutWrapper");
 		//create TOC
-		var autotoc = document.createElement("div");
+		var autotoc = document.createElement("nav");
 		autotoc.id = "autoToc";
-		autotoc.classList.add("hidden");
 
 		layoutWrapperElement.appendChild(autotoc);
 
@@ -1855,47 +1858,60 @@ Before:</p>
 			ignoreSelector: '.unnumbered',
 		});
 
-
 		//Toggle TOC visibility
 		var menutoggleElement = document.createElement("a");
 
 
 		menutoggleElement.setAttribute('class', "toggle");
-		menutoggleElement.textContent = "hide table of contents"
+		menutoggleElement.textContent = "hide Menu"
+		menutoggleElement.setAttribute("aria-expanded","true")
+
 
 		var autotocElement = document.getElementById("autoToc");
-
 		autotocElement.insertBefore(menutoggleElement, autotocElement.firstChild);
 
 		menutoggleElement.addEventListener("click", function (e) {
 			if (layoutWrapperElement.classList.contains("menuactive")) {
-				layoutWrapperElement.classList.remove("menuactive");
-				menutoggleElement.textContent = "show table of contents";
+				closeMenu();
 			} else {
-				layoutWrapperElement.classList.add("menuactive");
-				menutoggleElement.textContent = "hide table of contents"
+				openMenu();	
 			}
 		});
 
 		//media query: hide TOC if window is small, show if it is wide
 		var widthChange = function (mediaQuery) {
 			if (mediaQuery.matches) {
-				layoutWrapperElement.classList.add("menuactive");
-				menutoggleElement.textContent = "hide table of contents";
+				openMenu()
 			} else {
-				layoutWrapperElement.classList.remove("menuactive");
-				menutoggleElement.textContent = "show table of contents";
+				closeMenu();
 			}
 		}
 
 		if (window.matchMedia) {
-			var mediaQuery = window.matchMedia("(min-width:60rem)");
+			let mediaQuery = window.matchMedia("(min-width:60rem)");
 			mediaQuery.addListener(widthChange);
 			widthChange(mediaQuery);
 		}
+
+		function closeMenu(){
+			layoutWrapperElement.classList.remove("menuactive");
+			menutoggleElement.textContent = "show menu";;
+			menutoggleElement.setAttribute("aria-expanded", "false");
+		}
+
+		function openMenu(){
+			layoutWrapperElement.classList.add("menuactive");
+			menutoggleElement.textContent = "hide menu";
+			menutoggleElement.setAttribute("aria-expanded", "true");
+		}
+
 		//end media query code
 
+		//end of TOC menu code
 
+		// -----------------------------
+		// -- copy link to addressbar -- 
+		// -----------------------------
 		var headlines = document.querySelectorAll("h1,h2,h3,h4");
 		Array.prototype.forEach.call(headlines, function (el, i) {
 			var id = el.getAttribute('id');

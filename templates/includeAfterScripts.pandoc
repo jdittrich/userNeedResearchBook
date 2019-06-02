@@ -3,9 +3,8 @@
 	window.onload = function () {
 		var layoutWrapperElement = document.getElementById("layoutWrapper");
 		//create TOC
-		var autotoc = document.createElement("div");
+		var autotoc = document.createElement("nav");
 		autotoc.id = "autoToc";
-		autotoc.classList.add("hidden");
 
 		layoutWrapperElement.appendChild(autotoc);
 
@@ -16,47 +15,60 @@
 			ignoreSelector: '.unnumbered',
 		});
 
-
 		//Toggle TOC visibility
 		var menutoggleElement = document.createElement("a");
 
 
 		menutoggleElement.setAttribute('class', "toggle");
-		menutoggleElement.textContent = "hide table of contents"
+		menutoggleElement.textContent = "hide Menu"
+		menutoggleElement.setAttribute("aria-expanded","true")
+
 
 		var autotocElement = document.getElementById("autoToc");
-
 		autotocElement.insertBefore(menutoggleElement, autotocElement.firstChild);
 
 		menutoggleElement.addEventListener("click", function (e) {
 			if (layoutWrapperElement.classList.contains("menuactive")) {
-				layoutWrapperElement.classList.remove("menuactive");
-				menutoggleElement.textContent = "show table of contents";
+				closeMenu();
 			} else {
-				layoutWrapperElement.classList.add("menuactive");
-				menutoggleElement.textContent = "hide table of contents"
+				openMenu();	
 			}
 		});
 
 		//media query: hide TOC if window is small, show if it is wide
 		var widthChange = function (mediaQuery) {
 			if (mediaQuery.matches) {
-				layoutWrapperElement.classList.add("menuactive");
-				menutoggleElement.textContent = "hide table of contents";
+				openMenu()
 			} else {
-				layoutWrapperElement.classList.remove("menuactive");
-				menutoggleElement.textContent = "show table of contents";
+				closeMenu();
 			}
 		}
 
 		if (window.matchMedia) {
-			var mediaQuery = window.matchMedia("(min-width:60rem)");
+			let mediaQuery = window.matchMedia("(min-width:60rem)");
 			mediaQuery.addListener(widthChange);
 			widthChange(mediaQuery);
 		}
+
+		function closeMenu(){
+			layoutWrapperElement.classList.remove("menuactive");
+			menutoggleElement.textContent = "show menu";;
+			menutoggleElement.setAttribute("aria-expanded", "false");
+		}
+
+		function openMenu(){
+			layoutWrapperElement.classList.add("menuactive");
+			menutoggleElement.textContent = "hide menu";
+			menutoggleElement.setAttribute("aria-expanded", "true");
+		}
+
 		//end media query code
 
+		//end of TOC menu code
 
+		// -----------------------------
+		// -- copy link to addressbar -- 
+		// -----------------------------
 		var headlines = document.querySelectorAll("h1,h2,h3,h4");
 		Array.prototype.forEach.call(headlines, function (el, i) {
 			var id = el.getAttribute('id');

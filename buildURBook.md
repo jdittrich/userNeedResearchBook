@@ -11,7 +11,11 @@ pandoc --toc -V lang:en -H templates/includeHeader.pandoc -B templates/includeBe
 
 pandoc -s --epub-stylesheet=styles/styles.css -t epub -o urbook.epub text/URBookMetadata.yaml text/license.md text/introduction.md  text/prepareTheResearch.md text/dataGathering.md text/afterTheSession.md text/dataAnalysis.md text/communicateResults.md text/appendix.md
 
+## Generate pdf Eisvogel-Template
 
+pandoc --filter=pandoc-svg.py --template eisvogel --metadata=abstract:" " -o urbook.pdf text/URBookMetadata.yaml text/license.md text/introduction.md text/prepareTheResearch.md text/dataGathering.md text/afterTheSession.md text/dataAnalysis.md text/communicateResults.md text/appendix.md
+
+<!-- metadata with empty string to cause a false -->
 
 ## XeLaTex pdf (Minor Problems)
 

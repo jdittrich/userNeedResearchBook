@@ -13,51 +13,47 @@
 
 #layoutWrapper.menuactive{
 	position:relative;
-	padding-left:18em;
 	padding-left:18rem;
 }
 
 
-
 #layoutWrapper #autoToc{
-font-family:sans-serif;
-color:black;
-background:rgb(245,245,245);
-top: 0px;
-left: 0px;
-font-size:0.8rem;
-box-sizing: border-box;
-min-width:auto;
-height:auto;
-padding-bottom: 0px;
-overflow:hidden;
-bottom: auto;
-position:fixed;
-width: 18em;
-width: 18rem;
+	font-family:sans-serif;
+	color:black;
+	background:rgb(245,245,245);
+	top: 0px;
+	left: 0px;
+	font-size:0.8rem;
+	box-sizing: border-box;
+	min-width:auto;
+	height:auto;
+	padding-bottom: 0px;
+	overflow:hidden;
+	bottom: auto;
+	position:fixed;
+	width: 8rem;
 }
 
 #layoutWrapper.menuactive #autoToc {
 	bottom:0;
 	height:100%;
 	padding:0 0 2em 0;
+	width:18rem;
 }
 
 
 #layoutWrapper #autoToc a.toggle{
-		border: medium none;
-		padding: 4px 10px;
-		background:rgba(0,0,0,0.15);
-		color: black;
-		border:1px solid rgba(0,0,0,0.1);
-		border-bottom: 2px solid rgba(0,0,0,0.2);
-		text-align: left;
-		font-weight: bold;
-		box-shadow: 0px 1px 2px hsla(0, 0%, 0%, 0.2);
+	padding: 8px 10px;
+	background:rgba(0,0,0,0.1);
+	color: black;
+	border:1px solid rgba(0,0,0,0.1);
+	text-align: left;
+	font-weight: bold;
+	box-shadow: 0px 1px 2px hsla(0, 0%, 0%, 0.2);
 }
 
-#autoToc a.toggle:hover{
-background:rgba(0,0,0,0.3);
+#layoutWrapper #autoToc a.toggle:hover {
+	background:rgba(0,0,0,0.2);
 	text-decoration: none;
 }
 
@@ -77,8 +73,8 @@ background:rgba(0,0,0,0.3);
 }
 
 
-#autoToc>.toc-list{
-display:none;
+#autoToc>.toc-list{ /*case for closed TOC*/
+	display:none;
 }
 
 #layoutWrapper.menuactive #autoToc>.toc-list {
@@ -95,7 +91,7 @@ display:none;
 
 #autoToc li {
 	margin:0.5em 0 0.5em 0; 
-	}
+}
 
 #autoToc ol{
 	list-style-type:none;
@@ -104,36 +100,36 @@ display:none;
 
 
 #autoToc a {
-			color:black;
-			text-decoration: none;
-			display: block;
-			padding-top: 0.3em;
-			padding-bottom: 0.3em;
-			padding-right: 0.2em;	
-	}
+	color:black;
+	text-decoration: none;
+	display: block;
+	padding-top: 0.3em;
+	padding-bottom: 0.3em;
+	padding-right: 0.2em;	
+}
 
 #autoToc a:hover {
-			text-decoration:underline;
-	}
+	text-decoration:underline;
+}
 
+#autoToc .node-name--H1 {
+	padding-left: 5px;
+	font-weight:bold;
+}
+#autoToc .node-name--H2 {
+		padding-left: 15px;
+}
 
-	#autoToc .node-name--H1 {
-		padding-left: 5px;
-		font-weight:bold;
-	}
-	#autoToc .node-name--H2 {
-			padding-left: 15px;
-	}
+#autoToc .node-name--H3 {
+		padding-left: 20px;
+}
 
-	#autoToc .node-name--H3 {
-			padding-left: 20px;
-	}
+#autoToc .is-active-li>a{
+		background: rgb(57, 107, 165);
+}
 
-	#autoToc .is-active-li>a{
-			background: rgb(57, 107, 165);
-	}
+#autoToc .is-active-li>a{
+		color: white;
+}
 
-	#autoToc .is-active-li>a{
-			color: white;
-	}
 }
