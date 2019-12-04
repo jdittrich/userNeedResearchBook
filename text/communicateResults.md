@@ -8,8 +8,8 @@ results has some positive side effects: collecting, organizing and summarizing
 your findings will make it easier for yourself to remember your findings and you
 may be even able to improve your analysis further.
 
-This chapter is different that the others. In the chapters before, the focus was on the 
-research itself. But what  what works well  highly depends on what your audience is 
+This chapter is different than the others. In the chapters before, the focus was on the 
+research itself. But what works well is highly dependend on what your audience is 
 familiar with—and this is something that I can't know. So I could give advice on how to 
 create a _persona_, but if your colleges base their work mainly on another framework, like
 _Jobs-To-Be-Done_ the persona would not help. 
