@@ -178,7 +178,7 @@ A good framework for writing scenarios is asking yourself these questions:
 
 Answer them in your scenario:
 
-> Annika studies media culture and needs to finish here homework on “Cultural
+> Annika studies media culture and needs to finish her homework on “Cultural
 subconceptualist theory in the works of Koons” in order to hand the homework in
 on time. She goes to the library to see if the book on “Capitalism in the works
 of Rushdie” by Andreas Geoffrey contains arguments supporting her view on the
