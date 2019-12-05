@@ -40,7 +40,7 @@ epub:
 	pandoc -s --css=$(STYLESDIR)/styles.css -t epub -o urbook.epub $(YAMLMETA) $(TEXTSOURCES)
 
 pdf:
-	pandoc --filter=pandoc-svg.py --template $(TEMPLATEDIR)/eisvogel --pdf-engine=xelatex --metadata=abstract:" " -o urbook.pdf $(YAMLMETA) $(TEXTSOURCES)
+	pandoc --filter=pandoc-svg.py --template $(TEMPLATEDIR)/eisvogel --pdf-engine=xelatex --metadata=abstract:" " --top-level-division=chapter -V book -V classoption=oneside -o urbook.pdf $(YAMLMETA) $(TEXTSOURCES)
 # --metadata=abstract=" " to set abstract to a null-value, since the latex book  template does not assume an abstract (2019-03)
 #lualatex does print out the conditional hyphen as hyphen, so I use xelatex (2019-05)
 
