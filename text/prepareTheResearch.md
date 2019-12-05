@@ -166,9 +166,9 @@ What goes into such a sheet? The biggest part will be topics you want to explore
 > 
 > *Participant 5, 2015-04-20*
 > 
-> [ ] Tell reason for research: Improving communication with clients for freelancing designers. 
-> [ ] Tell how the research session will be (asking, listening, observing; 30-60min) 
-> [ ] Ask to read consent form and sign if OK 
+>  *  Tell reason for research: Improving communication with clients for freelancing designers. 
+>  *  Tell how the research session will be (asking, listening, observing; 30-60min) 
+>  *  Ask to read consent form and sign if OK 
 > 
 > Intro: 
 >  
