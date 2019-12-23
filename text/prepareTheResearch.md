@@ -41,9 +41,9 @@ I don't exclude the roles (“Student”, “Owner of a small business”), but 
 
 <!-- ↑ that could be better, but even my german sentences are not great: …wo sie sind?! -->
  
-The easy way to get participants is via an recruiting agency: You pay them and they will get you participants.  But since that might not be possible for you, here is how you do it yourself. Two conditions need to be satisfied for  people to take part in your research: They know about the possibility of participating in the study and they are motivated to actually participate. 
+The easy way to get participants is via a recruiting agency: You pay them and they will get you participants.  But since that might not be possible for you, here is how you do it yourself. Two conditions need to be satisfied for  people to take part in your research: They know about the possibility of participating in the study and they are motivated to actually participate. 
 
-It is motivating for potential participants if the research improves their life: A shopkeeper will likely be interested if you work on making it easier to keep track of bills , neighbors will be motivated to help if you try to make living in the neighborhood better.
+It is motivating for potential participants if the research improves their life: A shopkeeper will likely be interested if you work on making it easier to keep track of bills, neighbors will be motivated to help if you try to make living in the neighborhood better.
 
 Incentives, like money or vouchers,  are a simple, but effective motivation for participants. If you have the funds and particularly, if your project will earn you (or your employer) money, you should pay a fair sum for your participants’ time. If your funds are small and people like to support you and your cause, you could also offer something that people like, but would usually not “just” buy, e.g. really good chocolate or a voucher for a nice local restaurant. Such things are far more valued than the money they cost. 
 
@@ -72,14 +72,14 @@ In some cases, finding participants is easy, because participants are motivated 
 
 In above example, it was easy to reach out to participants because you were already close to them, spatially as well as socially.  But sometimes, field access is more difficult than just putting up some notes. Often, this is because you actually don’t know who or where possible participants can be found, and so you can’t ask them. This means you need to get to them in a step-by-step process. The following example outlines this: 
 
-> You want to find out how people use freely available data on air pollution which is published by cities. But you don’t know anyone who does work with such data . You give it a try and post about your research project on Facebook. You are lucky, and a friend of yours happens to know that a local “hackspace” is hosting a bi-weekly “data hackers” meeting. You click on the link your friend send you and find an email address. You write an email and ask if you could join the meeting and introduce your project.  
+> You want to find out how people use freely available data on air pollution which is published by cities. But you don’t know anyone who does work with such data. You give it a try and post about your research project on Facebook. You are lucky, and a friend of yours happens to know that a local “hackspace” is hosting a bi-weekly “data hackers” meeting. You click on the link your friend send you and find an email address. You write an email and ask if you could join the meeting and introduce your project.
 > In parallel, you have also searched the web, and by trying “[next largest city] open data” you found out that the infrastructure department of the city has given an award to the best data project some weeks ago. You could reach out to the staff member who awarded the price. They might be able to refer you to some people who are interested in the topic, since they needed to get in contact with them when advertising the competition for the award.
 
 In the scenario above, I described a step-by-step process of reaching out: In each step, you try to be referred to a next person who is more knowledgeable and familiar with the people you want to do research with. You do this, until you are referred to possible participants. 
 
 At each step, you can learn about how to approach the next: If your friend refers you to a meeting of data hackers, that friend can probably also tell you if you should behave in a particular way if you are going there. For the hacker meeting, it might make sense to NOT be wearing a suit. In other places, the smart clothes might be essential.
 
-Some people who might help you  are in a core position to regulate access to potential participants. The ethnographic jargon for them is “Gatekeepers”. They can decide to help you and let you through the metaphorical “gate” behind which your participants are waiting – or they can hinder your access if they find reasons to not help you. In the example above, a gatekeeper could be the person who runs the “data hackers”-meetup or the person being responsible for the city’s “open data”-initiative .
+Some people who might help you  are in a core position to regulate access to potential participants. The ethnographic jargon for them is “Gatekeepers”. They can decide to help you and let you through the metaphorical “gate” behind which your participants are waiting – or they can hinder your access if they find reasons to not help you. In the example above, a gatekeeper could be the person who runs the “data hackers”-meetup or the person being responsible for the city’s “open data”-initiative.
 
 If you have found people who like to be your research participants, you can ask them if they know others who might like to participate. It works like the step-by-step recruiting process, but instead of moving towards your participants, you now can go from one to another by being referred. 
 
@@ -88,13 +88,13 @@ In any case, it is useful to consider different ways to get to your participants
 
 ### Make compromises, if needed
 
-Especially if you are short on money and/or time, you may need to compromise and do research with participants that do not match your intended users exactly. However,  if their motivations, activities and problems are similar, you are still  likely to learn from these participants. But if they are similar only in demographics or profession rather than in their activities, your can not expect meaningful results. 
+Especially if you are short on money and/or time, you may need to compromise and do research with participants that do not match your intended users exactly. However,  if their motivations, activities and problems are similar, you are still  likely to learn from these participants. But if they are similar only in demographics or profession rather than in their activities, your cannot expect meaningful results. 
 
 If you design an app for people to create bibliographies and you can only get some bachelor’s and master’s students, but no professors, your results will still reveal a lot about the processes of creating bibliographies. The student’s motivation is probably writing final term papers and the professors would like to write journal papers. This is a possible difference — as long as you aware of it, you are probably fine. But if you want to design a skateboard and the only participants you can get are elderly people who enjoy hiking, you are in trouble (if you find elderly people who enjoy skating, go for it).
 
 ### A small number of participants is fine
 
-There are no clear cut rules of how many participants are enough. However, most of my projects have between 3 and 8 participants. If I really need to be sure I would do research with 10, but that is about the limit I can manage on my own.
+There are no clear-cut rules of how many participants are enough. However, most of my projects have between 3 and 8 participants. If I really need to be sure I would do research with 10, but that is about the limit I can manage on my own.
 
 You may think that conducting user research with more participants is generally better; you just could shorten each session, ask fewer questions and skip observing the participants. But you need time with each participant if you want to find out about the “how” and “why” of the participants’ work. Several sessions in hurry will lead to less useful results than research with one participant done right.
 
@@ -102,7 +102,7 @@ Nevertheless, only doing research on very few users will restrict the variance o
 
 When estimating how many participants you need, consider how much time or money you can spend on doing the research. Each additional participant gives you additional data and a broader view on your possible users. However, each research session needs time do and adds to the amount of data to be analyzed.
 
-An efficient way of involving the “right” amount of participants is doing your research iteratively: start with two or three participants and analyze the data (how this is done is described in the section on [Analyzing Data](#Analysis))
+An efficient way of involving the “right” number of participants is doing your research iteratively: start with two or three participants and analyze the data (how this is done is described in the section on [Analyzing Data](#Analysis))
 
 Take a look at the (preliminary) findings: If the results seem clear and consistent, you may do research with few additional participants to refine and check and to explore details — or, if time is up, leave it the way it is.
 
@@ -166,7 +166,7 @@ What goes into such a sheet? The biggest part will be topics you want to explore
 > 
 > *Participant 5, 2015-04-20*
 > 
->  *  Tell reason for research: Improving communication with clients for freelancing designers. 
+>  *  Tell the reason for research: Improving communication with clients for freelancing designers. 
 >  *  Tell how the research session will be (asking, listening, observing; 30-60min) 
 >  *  Ask to read consent form and sign if OK 
 > 
@@ -205,9 +205,9 @@ With a participant talks about new and interesting things you want to
 be able to remember what was said. Thus, we record the interview — and we
 will need some equipment for doing that:
 
-![Equipment for user research: paper, pen, audio recorder](images/interviewEquipment.svg)
+![Equipment for user research: paper, pen, audio recorder.](images/interviewEquipment.svg)
 
-- for note taking and sketching
+- for note-taking and sketching
 	- Paper, lined or blank (15 or more sheets, just to be safe)
 	- Pencil or Pen (Don't forget to bring backups!)
 	- Something to write on. A clipboard is great.

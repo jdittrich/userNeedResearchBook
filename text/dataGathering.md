@@ -27,7 +27,7 @@ e.g. The gathering the data will be followed by analyzing it. However, it makes 
 
 ### Listening and asking questions
 
-A common way to gather data is asking questions and listening to the participant’s answers. Asking questions may seem familiar from questionnaires. However, the use of questions and answers in user needfinding is different. Questionnaires often aimed for short, definitive answers which need to be selected from of a set of possibilities (“on a 4 point scale: how much do you agree with…”). In user needfinding, you aim for longer answers which are not from a determined set of possible answers. Thus, you are more likely to get rich, story-like  descriptions, telling about  the user’s  motivations, activities and their context. To encourage the participant to give such story-like answers, you often need to ask for descriptions of activities and the reasons for doing them.
+A common way to gather data is asking questions and listening to the participant’s answers. Asking questions may seem familiar from questionnaires. However, the use of questions and answers in user needfinding is different. Questionnaires often aimed for short, definitive answers which need to be selected from of a set of possibilities (“on a 4-point-scale: how much do you agree with…”). In user needfinding, you aim for longer answers which are not from a determined set of possible answers. Thus, you are more likely to get rich, story-like  descriptions, telling about  the user’s  motivations, activities and their context. To encourage the participant to give such story-like answers, you often need to ask for descriptions of activities and the reasons for doing them.
 
 > “Can you describe me how you decided to use this layout?”
 >
@@ -71,7 +71,7 @@ Of course, they should be relevant to your interests as well:
 
 Avoid positioning yourself as the expert in the participant’s domain by suggesting procedures and by telling the participant how and why something should be done. Your participants will stop being open about showing you how they work and they usually have a reason for doing what they do. 
 
-![Observing the user’s work](images/ObservationDesign1.jpg)
+![Observing the user’s work.](images/ObservationDesign1.jpg)
 
 ### Co-Document in diagrams and lists
 
@@ -81,11 +81,11 @@ In co-documentation, the participant and you record the data together by drawing
 
 Here are some examples of co-documentation results:
 
-![Timeline diagram. If the graph goes up, the mood gets better, if it goes down, the participant feels bad, bored or annoyed](images/U1_GoodBadTime_Diagramm.svg)
+![Timeline diagram. If the graph goes up, the mood gets better, if it goes down, the participant feels bad, bored or annoyed.](images/U1_GoodBadTime_Diagramm.svg)
 
-![Social space map: The participant is in the center. They draw people (or whatever else they think matters) around them and write the nature of the connection on the arrows](images/diagram_people.svg)
+![Social space map: The participant is in the center. They draw people (or whatever else they think matters) around them and write the nature of the connection on the arrows.](images/diagram_people.svg)
 
-![List with workflow steps](images/List_Task.png)
+![List with workflow steps.](images/List_Task.png)
 
 Having the documentation in front of you and the participant eases improving it directly while it is being created. You, the researcher, can refer to it to ask for elaboration (*“Is this the photocopying machine, that you said gets stuck so often?”*). Their answer should be added to the documentation. The participant can use the shared documentation to extend already documented things (*“One other thing I add is that I can get paper for the xerox here [writes comment on the paper]”*). 
 
@@ -99,9 +99,9 @@ For some participants, documenting their work by drawing and writing can be a bi
 
 It can be easier for the participant if you provide a template instead of a blank page: This gives a basic structure. Provide fields for name, date, title and  space for the participant’s diagram. I also sometimes print a small example in a corner of the template. Templates work very well for chart-like types of diagrams, since the participant can draw on top of elements that are already there, like the diagrams’ axis.
 
-![Example template for mood-timeline-diagrams](images/GoodBadTime_Diagramm.svg)
+![Example template for mood-timeline-diagrams.](images/GoodBadTime_Diagramm.svg)
 
-Co-Documentation works well in combination with interviewing and observation: You can co-document workflows combined with observing them and you can also go from an interview to co-documenting a specific aspect (*“That is interesting! I would like to remember it clarly later on, so I would like to write the steps down with you”*) or use a documentation to refer back to in an interview (*“You wrote… How does relate to…”*) and add further details to it.
+Co-Documentation works well in combination with interviewing and observation: You can co-document workflows combined with observing them and you can also go from an interview to co-documenting a specific aspect (*“That is interesting! I would like to remember it clearly later on, so I would like to write the steps down with you”*) or use a documentation to refer back to in an interview (*“You wrote… How does relate to…”*) and add further details to it.
 
 Co-documenting via lists, diagrams and drawings may seem unusual in the beginning. But they produce very useful and graspable data by having the researcher and the participant work together. The participant’s active part in documenting and the possibility to see directly what is recorded can empower participants: They are not just passive sources but actively create data.
 
@@ -119,13 +119,13 @@ Greet the participant and thank for their time:
 
 > Hello Lisa, great to meet you. I’m pleased that you could free some time for showing and telling me how you work.
 
-You may sprinkle in a bit of smalltalk:
+You may sprinkle in a bit of small talk:
 
 > Did you have a good start into the day?
 
 Participants should at least roughly know what the research is
-about. You don't need to reveal all your questions and topics,
- but the general topic should be described
+about. You don’t need to tell about all your questions and topics,
+ but the general topic should be described.
 
 > This research helps us to improve the workflow in the design process to design solutions for people who do graphic design.
 
@@ -133,7 +133,7 @@ Make clear that you are here to learn—and not an evaluator of the
 quality of the participant’s work.
 
 >…Therefore, we'd like to get to know how you work. You are an expert in
-> that field and we'd like to learn from you. This is not some kind of
+> that field, and we'd like to learn from you. This is not some kind of
 > test—when I ask questions, there are no wrong answers.
 
 Although you may have described the time frame and the method already
@@ -171,7 +171,7 @@ have additional information.
 >  assure you that Human Resources is a separate section. We don't share
 >  personal data and what we record today is not accessible to them. Also, all data
 >  that leaves my computer or the one of my colleague is being anonymized
->  and we remove all data that points to you as person, including names,
+>  and we remove all data that points to you as person, including the names,
 >  workplace and so on.”
 
 
@@ -188,7 +188,7 @@ session.
 
 ### Start simple
 
-Start with some easy-to-answer questions—like: “Lets start with some simple questions about your job”. You can ask “What is your job title” and follow up with “How do you describe your  job to people who do not know what it is about?”. As well, it might be interesting how experienced the person is: “How long have you been working in your current occupation?” These examples are tied to work related studies—for doing research with university students I tie the questions to their particular context and ask, for example, how long they have been studying so far.
+Start with some easy-to-answer questions—like: “Let’s start with some simple questions about your job”. You can ask “What is your job title” and follow up with “How do you describe your  job to people who do not know what it is about?”. As well, it might be interesting how experienced the person is: “How long have you been working in your current occupation?” These examples are tied to work related studies—for doing research with university students I tie the questions to their particular context and ask, for example, how long they have been studying so far.
 
 These questions will help you to get to know some context of the participant’s work. But there is another advantage: Such questions are easy to answer. This gets the participants used to answering questions and opening up towards you. After a brief section with these easy-to-answer questions, you can transition to questions that encourage more elaborate answers.
 
@@ -207,15 +207,15 @@ The participant will try to be a nice person try to make you happy by going on a
 
 > “That was interesting to hear –”
 
-You could even wrap the information up—“So, you said that…”—and/or refer to an area you like further information about. It will be clear, that you care for the information and listened well—without casting some judgment on what was told to you.
+You could even wrap the information up— “So, you said that…” —and/or refer to an area you like further information about. It will be clear, that you care for the information and listened well—without casting some judgment on what was told.
 
 ### Make a friendly impression by using body language.
 
 Probably, you would not make a bad impression anyway, but let’s go through it nevertheless: Don't give an angry or stern impression by frowning and crossing arms and legs. Don't look careless by leaning back and looking to the ceiling. During the interview, show reactions to what the participant says or does and look him/her in the eyes (at least for members of western culture). When taking notes, maintaining eye contact is not possible all the time—but keep eye contact when you can.
 
-![Not-so-good posture](images/bodyPostureBad.jpg){.portrait}
+![Not-so-good posture.](images/bodyPostureBad.jpg){.portrait}
 
-![Much better posture](images/bodyPostureGood.jpg){.portrait}
+![Much better posture.](images/bodyPostureGood.jpg){.portrait}
 
 <!--  TODO: could get a "expose you non-knowledge" or so (Like in spreadley p61)
 
@@ -235,17 +235,17 @@ Thus, something like: Be open to new experiences?;  It's not about you!; listeni
 ### Ask open questions
 
 You may have noticed that the suggested questions from the previous
-section are not aiming for specific, short answers. So they are unlike typical 
+section are not aiming for specific, short answers, unlike typical 
 survey-like questions like these: 
 
-* “Are you a graphic designer?”—“No, I am a programmer” 
-* “How much do you like your Job? Give a mark”—“B!” 
-*  “Please name your Tools”—“I use InDesign, Photoshop and Sketch”.
+* “Are you a graphic designer?” — “No, I am a programmer” 
+* “How much do you like your Job? Give a mark” — “B!” 
+*  “Please name your Tools” — “I use InDesign, Photoshop and Sketch”.
 
 If you would diagram who speaks for how long when we ask for such questions, it would
 look like this:
 
-![short closed questions](images/talkDiagram_closed.svg)
+![Short, closed questions.](images/talkDiagram_closed.svg)
 
 These questions demand very specific answers from a determined
 set: Yes or no, marks from A-F, a list of nouns. They would be useful if
@@ -258,25 +258,25 @@ usually tests hypothesis (like “an orange ›buy‹ button generates more
 sales that a blue one ”) and employs controlled experiments and statistics. In this book,
 we learn about qualitative methods].
 
-Imagine, in contrast to the research session outlined above (short
+Imagine, unlike the research session outlined above (short
 answers, short questions) a day-to-day situation, in which you get to
 know about somebody else’s experiences: A conversation with a friend. In
 such an exchange you will tell each other about your experiences, what you
 felt, why you did this and that etc. In a diagram it would look like
 this:
 
-![giving longer answers, equal share](images/talkDiagram_friend.svg)
+![Giving longer answers, equal share.](images/talkDiagram_friend.svg)
 
 In contrast to a conversation, our main goal is to collect data; we
 don’t want to tell about our Job as a user researcher, but
-hear answers from the participant. Thus asking questions and
+hear answers from the participant. Thus, asking questions and
 getting answers in a user needs research session look like this:
 
-![participant gives long answers, researcher asks short, open questions](images/talkDiagram_open.svg)
+![The participant gives long answers, the researcher asks short, open questions.](images/talkDiagram_open.svg)
 
 
 The questions we want to ask should encourage answers which describe
-experiences and give some insight into the “why” and “how” of the users
+experiences and give some insight into the “why” and “how” of the user’s
 activities and motivations. This type of question is called “open
 question” since these questions don’t have a determined (“closed”) set of answers.
 
@@ -359,11 +359,11 @@ standardized questionnaire. But by doing this, you would lose the very strengths
 described here: Being able to find out about new and unexpected things, reacting to them
 and gaining  understanding of the “how” and “why” by reacting on the situation.
 
-Each participant and their context is different and you can accommodate this by
+Each participant and their context is different. You can accommodate this by
 adjusting the research session to the context and the activities of the participant.
 This would not be possible when asking the same questions each time.
 
-So you neither can’t nor should take yourself out of the research session—you will *always* have some sort of effect on the participant when you do the research.
+You neither can’t nor should take yourself out of the research session—you will *always* have some sort of effect on the participant when you do the research.
 
 What you should avoid, though, is influencing the participant by
 “suggesting” favorable answers or actions. Some sorts of this type of influence are obvious,
@@ -410,7 +410,7 @@ in a workflow of the user which seem outright superfluous.
 Remember that nobody does inefficient things by purpose. Assume that the
 user has a reason. Try to find out what this reason may be.
 
-> Again you could ask: “what's the reason for you to do  it this way”—and remember to ask follow-up questions to further explore
+> Again, you could ask: “what's the reason for you to do  it this way”—and remember to ask follow-up questions to further explore
 the issue. In the example of the attached file it may be the case that
 the rich formatting functions of a word processor are needed or that such documents<!-- TODO check if it should be merged with probing -->
 are used for just everything in this office, so that switching to a “better”
@@ -497,7 +497,7 @@ Or, in the case of drawing:
 
 > This graph seems to indicate you were in quite a good mood here. Could you explain me a bit why you seem to be less happy here [Points]?
 
-By using these probing methods you can get additional information and show the participant that you are carefully listening and observing.
+By using these probing methods, you can get additional information and show the participant that you are carefully listening and observing.
 
 ### Check your understanding
 
@@ -513,7 +513,7 @@ There are several advantages of checking:
 
 For checking, you  always need  to refer to something that you want to check. You often need to describe it to the participant:
 
-> [Researcher] “So: If I want to print something first I need to ask for their color profile, when I have this, I load it in InDesign, choose the profile in the pdf dialog and then export it?” [Participant] “Yes. I usually to a test afterwards by opening the pdf in addition”
+> [Researcher] “So: If I want to print something first, I need to ask for their color profile, when I have this, I load it in InDesign, choose the profile in the pdf dialog and then export it?” [Participant] “Yes. I usually to a test afterwards by opening the pdf in addition”
 
 For this, you and the participant need to remember much at the same time. If possible, you can aid your memory by pointing to a device or part of a drawing or just demonstrating something. Don’t only rely on talking.
 
@@ -526,7 +526,7 @@ OR
 
 > Here [Points to diagram] your motivation seemed to change quite quickly—can you tell me more about this?
 
-![Researcher points to a part of the diagram](images/diagram_researcherPoints.jpg)
+![Researcher points to a part of the diagram.](images/diagram_researcherPoints.jpg)
 
 By checking your interpretations of the participants descriptions and activities, you can avoid misunderstandings and gain additional insights.
 
@@ -581,13 +581,13 @@ or:
 
 > You mentioned that the application needs to have the correct file format when you collaborate with someone. Could you tell me a bit more about your collaboration process?
 
-By altering the topic you can cover the issues you need to know about and, if needed, bring your research back on course. But do it considerate—each topic needs time to unfold.
+By altering the topic, you can cover the issues you need to know about and, if needed, bring your research back on course. But do it considerate—each topic needs time to unfold.
 
 ### Switch methods
 
 <!-- MAYBE: add context to the examples like "switching from… to… while saying on topic" -->
 
-Every method has its strength and weaknesses. So it makes sense to transition between methods in your research
+Every method has its strength and weaknesses. So it makes sense to transition between methods in your research.
 
 By using different methods on the same topic, you can gain new perspectives on it.
 
@@ -617,7 +617,7 @@ Using different methods and switching between them may seem like additional work
 ## Recording data
 
 ### Notes
-![making notes on a clipboard](images/notizenKlemmbrett.jpg){.portrait}
+![Making notes on a clipboard.](images/notizenKlemmbrett.jpg){.portrait}
 
 <!-- SECTION: INTRO -->
 
@@ -637,9 +637,9 @@ If you record audio in parallel, you can be more relaxed when writing what was *
 \
 
 <!-- expect to write lots of notes. Depending on person. For 30 min 2 DINA4-->
-When I take notes in research, I often write about 1 A4 page each 15min., sometimes more, sometimes less. You need to bring some paper, your notes of a typical session won't fit a single page or on the margins of your cheat sheet. 
+When I take notes in research, I often write about 1 A4 page each 15min., sometimes more, sometimes less. You need to bring some paper, since your notes of a typical session won’t fit a single page or on the margins of your cheat sheet. 
 
-![Example for a sheet with research notes, written ca. over 20min](images/notesheet.png)
+![Example for a sheet with research notes, written ca. over 20min.](images/notesheet.png)
 
 \
 <!-- SECTION: CONTENT -->
@@ -670,20 +670,20 @@ what was on it: Paper, pens, computer; were there tidy looking stacks and contai
 for all the utensils? Or was it seemingly messy?
 
 You can photograph the users screen if your research involves computers and gadgets.
-A software based screenshot might in theory be superior—but
+A software-based screenshot might in theory be superior—but
  if the user does not know you to make a screenshot, a camera is a handy way to capture
 the screen.
 
 You should be able to make photos with your camera quickly and reliably.
-Thus, use a device you know and which has a good auto-mode.
+Use a device you know and which has a good auto-mode.
 The only setting that I use beyond that is the exposure compensation
 in case an important part of the image totally dark or disappears in light.
 Exposure compensation allows adjusting for that.
 
 
-![Photographing the working user](images/NutzerFotografieren.jpg)
+![Photographing the working user.](images/NutzerFotografieren.jpg)
 
-![Photographing a screen instead of using screenshots](images/ObservationDesignU4ScreenFontMix.jpg)
+![Photographing a screen instead of using screenshots.](images/ObservationDesignU4ScreenFontMix.jpg)
 
 ### Sketches
 The Observations you make are, by nature, visual and concerned with processes.
@@ -695,9 +695,8 @@ irrelevant and make annotations to ease understanding the sketches later.
 I mostly use my sketches the same way I use notes: Notes and sketches are made on a common
 sheet of paper; one sketched observation goes in one line, if possible
 
-![Sketches on the note sheet](images/sketchesInNotes.png)
+![Sketches on the note sheet.](images/sketchesInNotes.png)
 
 ### Diagrams
 
-A big advantage of diagrams are that the data gathering and documentation happen at the same time. So, there is not much to add. Happy diagramming!.
-compensation
+A big advantage of diagrams is that the data gathering and documentation happen at the same time. So, there is not much to add. Happy diagramming!

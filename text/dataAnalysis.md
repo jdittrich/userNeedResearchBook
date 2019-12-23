@@ -7,7 +7,7 @@
 
 -->
 
-The data you gathered can’t be used for supporting design decisions yet: It consists of many unstructured small pieces. Now you need to structure and analyse the data—similar as writing a summary and interpretation of a long and complex book. Analysis is not a passive process: Making sense of data requires taking different perspectives and trying them out to see how the data can be interpreted.
+The data you gathered can’t be used for supporting design decisions yet: It consists of many unstructured small pieces. Now you need to structure and analyze the data—similar as writing a summary and interpretation of a long and complex book. Analysis is not a passive process: Making sense of data requires taking different perspectives and trying them out to see how the data can be interpreted.
 
 <!-- design and communication. Don't forget iterative -->
 
@@ -16,29 +16,30 @@ The data you gathered can’t be used for supporting design decisions yet: It co
 The data analysis is done by inferring recurring themes from data points. Thus, the process is
 empirical (as it is based on gathered data). But even if the same data is used, different people will create different analysis. This is because the result of the
 analysis depends on the reasonable, but still individual and debatable, interpretation of the
-data. You could say that *“looking at last years design to quickly reuse elements”* belongs to a
+data. You could say that *“looking at last year’s design to quickly reuse elements”* belongs to a
 theme concerned with *“I want to save time”* or to a theme related to the topic of *“reviewing designs for inspiration”* (given that it could serve both from the user's perspective).
 
-There is no clear-cut “right” or “wrong”, when you interpret your data. Most important is that your analysis is plausible and based on the data you collected. I compare the process of analysis to building a house from a pile of Lego^®^ bricks. These
-bricks are like the not-yet-analyzed data you start with. When you build a house out of these
+<!-- on using brand names (here: "Lego"): http://www.rightsofwriters.com/2010/12/can-i-mention-brand-name-products-in-my.html -->
+
+There is no clear-cut “right” or “wrong”, when you interpret your data. Most important is that your analysis is plausible and based on the data you collected. I compare the process of analysis to building a house from a pile of Lego bricks. These bricks are like the not-yet-analyzed data you start with. When you build a house out of these
 bricks, there is no single “right” building. But neither is it a process which is arbitrary.
 
 
-![Possible arrangement of bricks—but not a house](images/lego_bricksToStartWith.jpg){.portrait}
+![Possible arrangement of bricks—but not a house.](images/lego_bricksToStartWith.jpg){.portrait}
 
-![One way to build a house](images/lego_houseFinished.jpg){.portrait}
+![One way to build a house.](images/lego_houseFinished.jpg){.portrait}
 
 There are many, many ways to stack up the bricks *somehow*—but only a few of these
 possible ways will result in something that can be plausibly called a house.
 
-How your final Lego^®^ house will look is not determined from the beginning.
+How your final Lego house will look is not determined from the beginning.
 You will change designs, move walls and sometimes try to use the same piece in different
 parts of the building to try out and improve. The same things will
 happen when you analyze data: There are many possible ways to
  structure the data, but only some of them will create something that
 is meaningful to you and others. This creation of a meaningful structure
 is not determined at the beginning, but a process, just like building
-your Lego^®^ house, in which you try, fail, find improvements and—step by
+your Lego house, in which you try, fail, find improvements and—step by
 step—come closer to a structure you are satisfied with.
 
 ## How to make sense of diagrams and lists
@@ -70,7 +71,7 @@ To prepare the analysis, you write annotations on the diagrams. For this, you ca
 > * Sending the finished design to the client seemed to be a positive thing. Maybe this is a kind of closure point—“I finished the design!”
 > * …however, waiting for the final acceptance is again negative, though usually only in the beginning (the participant projected this—the dotted line is assumed, since at the point of the research session, the design was just send a day ago or so.)
 > 
-> I wrote such annotations for all mood-graph-diagrams from the different participants in the reserach project. 
+> I wrote such annotations for all mood-graph-diagrams from the different participants in the research project. 
 > 
 
 ----------
@@ -89,7 +90,7 @@ To prepare the analysis, you write annotations on the diagrams. For this, you ca
 > * I added a link to the used tool, so I can see how it works (“see: https//pet…”)
 > * The participant wrote they add P31. This is a computer readable identifier for the data property "instanceOf"
 > * For each entry on the list, they seem to open a Wikidata item (“Opens one…”)
-> * Wikipedia is source for data and opened in parallel (“Uses Wikip…”)
+> * Wikipedia is a source for data and opened in parallel (“Uses Wikip…”)
 > * Point 5)  seems to be less a workflow step but more a list of problems.
 > * I was irritated by P1234. It is an actual data property on Wikidata, but it did not make much sense, so I assumed 1234 is a placeholder for any number.
 
@@ -114,25 +115,24 @@ Note common patterns as well as interesting findings, e.g. if most diagrams shar
 >
 >  I compared my analysis of the first and second diagram with the diagram drawn by the  third participant:
 >
-> ![Annotated diagram, P3](images/U3_GoodBadTime_Diagramm.svg)
+> ![Annotated diagram, P3.](images/U3_GoodBadTime_Diagramm.svg)
 >
 > * Here, also, a positive start of the process (though the action is not designing, but forming a team)
 > * Waiting/idle time is associated with a declining mood, like with Participant 1
 > * There was a phase of rapid restructuring, positive new starts and declines of mood when the process did not work
-> * A (more dedicated?) new team formed. They had time to make it to the planning meetings. This experience was positive
+> * A (more dedicated?) new team formed. They had time to make it to the planning meetings. This experience was positive.
+> ![Annotated diagram, P4.](images/U4_GoodBadTime_Diagramm.svg)
 >
-> ![Annotated diagram, P4](images/U4_GoodBadTime_Diagramm.svg)
->
-> The forth participant’s diagram:
+> The fourth participant’s diagram:
 >
 > * Start is good again (This seems to be a pattern), it can be due to anticipation (P3,P2) and because of actually starting (P1, P4, also P3)
-> * There are less great review/re-planning phases, which are also in U2 and U4;
-> * Finishing is good, which is also a pattern in P1,P2,P3
+> * There are less great review/re-planning phases, which are also in P2 and P4;
+> * Finishing is good, which is also a pattern in P1, P2, P3
 > * What is new, is that the mood fell because a design seemed boring, the bad phases were usually framed as something from the outside (tough client wishes as in P2 or waiting: P1, P3) or as having a hard problem (P2).
 >
 > Last but not least: the 5th participant
 >
-> ![Annotated diagram, P5](images/U5_GoodBadTime_Diagramm.svg)
+> ![Annotated diagram, P5.](images/U5_GoodBadTime_Diagramm.svg)
 >
 > * Again, like in the diagram before, starting is good. I would hypothesize that the anticipation feels great and that the actual start even lifts the mood a bit on top (?)
 > * Like in P2, client wishes/negative feedback drag the mood down. Here we have negative feedback.
@@ -143,9 +143,10 @@ Note common patterns as well as interesting findings, e.g. if most diagrams shar
  -------
 
 
-> We have looked at an example for analyzing the diagrams that show a “mood graph”. Other diagrams represent  data differently. 
-> To see how to analyse workflow documentation, here another example. While the type of the diagram is different, it follows 
-> the same pattern of annotations and comparisons to find commonalities and contrasts
+> We have looked at an example for analyzing the diagrams that show a “mood graph”. Other diagrams 
+> represent  data differently. 
+> To see how to analyze workflow documentation, here another example. While the type of the diagram is different, 
+> it follows the same pattern of annotations and comparisons to find commonalities and contrasts.
 >
 ![Annotated diagram 1: CC-BY 4.0 ([https://creativecommons.org/licenses/by/4.0/deed.en](https://creativecommons.org/licenses/by/4.0/deed.en)) *Credit:* Yarl (Workflow) Papuass (documenting), Jan Dittrich (recording, adaption as SVG) *Based on:* Wikimedia Commons [WikidataCon_2017_Workshop_Workflows_03.jpg](https://commons.wikimedia.org/wiki/File:WikidataCon_2017_Workshop_Workflows_03.jpg)](images/Wikidata_Workflow_1_annotated.svg)
 >
@@ -158,13 +159,13 @@ Note common patterns as well as interesting findings, e.g. if most diagrams shar
 > Second Diagram:
 >
 > * Here we seem to have an additional step of creation before data is added to the new item.
-> * The participant checked if there is a corresponding Wikidata-entry the  entry on the to-do list, since the list was created from wikipedia items (in order to check if corresponding wikidata items exists.)
+> * The participant checked if there is a corresponding Wikidata-entry the  entry on the to-do list, since the list was created from Wikipedia items (in order to check if corresponding Wikidata items exists.)
 >
 ![Annotated diagram 3: CC-BY 4.0 ([https://creativecommons.org/licenses/by/4.0/deed.en](https://creativecommons.org/licenses/by/4.0/deed.en) ) *Credit:* Papuass (Workflow) Yarl (documenting), Jan Dittrich (recording, adaption as SVG) *Based on:* Wikimedia Commons [WikidataCon_2017_Workshop_Workflows_06.jpg](https://commons.wikimedia.org/wiki/File:WikidataCon_2017_Workshop_Workflows_06.jpg)](images/Wikidata_Workflow_3_annotated.svg)
 >
 > Third diagram:
 >
-> * Here is a *create list*-step. It did not happen in 2) but there is also there in 1)!
+> * Here is a *“create list”*-step. It did not happen in 2) but there is also there in 1)!
 > * There is a tool setup-step in the beginning.
 > * The step for the item concerns only its creation and addition of name and description, not adding of content.
 >
@@ -174,7 +175,7 @@ Based on: Wikimedia Commons [WikidataCon_2017_Workshop_Workflows_08.jpg](https:/
 >
 > Forth diagram:
 >
-> * A “Standard”-Function of Wikipedia is used as list (Recent changes page)
+> * A build-in function (*“Recent Changes”*) of Wikipedia is used as a list 
 > * In contrast to the other workflows, there is a manual select step (Finding a change concerning a person);
 > * Like in the third diagram, there is editing of name/labels and description—but on an existing item, not a new one.
 *  Like in the first and second diagram, the Wikipedia article serves as data source.
@@ -193,23 +194,23 @@ You can summarize the findings in a diagram itself. It will look similar to the 
 
 > Analyzing the mood-diagrams I got these conclusions:
 >
-> * In all but one (P1) diagram the onset of a project seems to be a good experience
-> * In three (P2, P4, P5) of the five diagrams there is a significant decline after the projects first, motivated phase. The reasons are: Seemingly unsolvable problems, project not going according to the plan and unhappy clients. A commonality is that the named reasons for the bad mood are seemingly out of the control of the participants (Except for P4, where the reason was seen in the “boring” design)
-> * for all participants the project ends good (excluding P5, where the project has not ended yet). Three (P2,P3,P4) seem to be very happy at the end: Finishing seems to be a good experience.
+> * In all but one (P1) diagram the onset of a project seems to be a good experience.
+> * In three (P2, P4, P5) of the five diagrams there is a significant decline after the projects first, motivated phase. The reasons are: Seemingly unsolvable problems, project not going according to the plan and unhappy clients. A commonality is that the named reasons for the bad mood are seemingly out of the control of the participants (Except for P4, where the reason was seen in the “boring” design).
+> * for all participants the project ends good (excluding P5, where the project has not ended yet). Three (P2, P3,P4) seem to be very happy at the end: Finishing seems to be a good experience.
 > 
 > This can also be shown in a summarizing diagram which I drew:
 > 
-> ![summary of the analysis in diagram form](images/SummaryAnalysis_GoodBadTime_Diagramm.svg)
+> ![Summary of the analysis as a diagram](images/SummaryAnalysis_GoodBadTime_Diagramm.svg)
 
 
 -----------------
 
 > 
-> I created this diagram to summarize the workflows for editing wikidata:
+> I created this diagram to summarize the workflows for editing Wikidata:
 > 
-> ![summary diagram wikidata edit workflow](images/Wikidata_Workflow_summary.svg)
+> ![summary diagram Wikidata edit workflow](images/Wikidata_Workflow_summary.svg)
 > 
-> * In the first (“Adding instanceOf…”) and in the third (“Adding wikidata items…”) were a setup step. I included this—also because I knew from other research that tool use is widespread
+> * In the first (“Adding instanceOf…”) and in the third (“Adding Wikidata items…”) workflow was a setup step. I included this—also because I knew from other research that tool use is widespread.
 > * All four editors worked from a list. I tried to specify what that list could be. Different kinds of lists served different purposes: A list of existing items can serve for supplementing these; a list of Wikipedia articles without corresponding Wikidata-items enables the creation of needed items.
 > * All editors did some work on items. However, there are different possible actions: creating items (3), some editing existing ones (1,4) and some created and then edited (2).
 > 
@@ -236,12 +237,12 @@ Sometimes, you will have several themes, which relate to a common theme themselv
 
 > Here is a part of an analysis.
 > 
-> - *Overarching theme*: using existing work for inspiration
->     - *sub-theme*: review previous projects
->         - *Data:* “ have a look at an old project to see how I solved this problem…”
+> - *Overarching theme*: Using existing work for inspiration
+>     - *Sub-theme*: Review previous projects
+>         - *Data:* “Have a look at an old project to see how I solved this problem…”
 >         - *Data:*  Participant searches for…
 >         - …
->     - *sub-theme*: use other’s work  for inspiration
+>     - *Sub-theme*: Use other’s work  for inspiration
 >         - *Data:* “I look on google images how other calendars look like”
 >         - *Data:* Browses through the book to see examples of existing designs
 >         - …
@@ -329,7 +330,7 @@ If we take the notes about DIY again this could look like this:
 
 If we organize notes by themes based on the *insights* about the participants and summarize that insight in the group’s title, the theme’s title is a useful piece of information on its own: It is not just for accessing the notes, it is an empirically based principle we can follow, when we design.
 
-If you design, let’s say, for a DIY-Online community, a theme based on an insight, like “DIY gives as sense of ownership”  may inspire the implementation of a function, which allows people to share their designs and customizations. The insight that sometimes DIY is just about fixing things may
+If you design, let’s say, for a DIY online community, a theme based on an insight, like “DIY gives as sense of ownership”  may inspire the implementation of a function, which allows people to share their designs and customizations. The insight that sometimes DIY is just about fixing things may
 lead to the provision of a wiki for collecting best practices for doing common repairs and
 maintenance.
 
@@ -344,18 +345,18 @@ To understand how to organize notes by themes based on insights, can be hard to 
 > Let’s say we gathered this data (among others) when researching beginners in web programming:
 >
 > - To try out stuff in HTML is fun
-> - I analyze Javascript code to understand patterns
+> - I analyze JavaScript code to understand patterns
 > - It is great to quickly test something using a JavaScript framework
 > - To know these ›attributes‹ of HTML-›tags‹ makes writing code easier.
 >
-> If we put the pieces of data which mention the same things in the same group we get these two groups:
+> If we put the pieces of data which mention the same things in the same group, we get these two groups:
 >
-> **Theme (based on same-things-being-mentioned):: Utterances with HTML**
+> **Theme (based on same-things-being-mentioned): Utterances with HTML**
 >
 > - To try out stuff in HTML is fun
 > - To know these 'attributes' of HTML-'tags' makes writing code easier.
 >
-> **Theme (based on same-things-being-mentioned):: Utterances with JavaScript**
+> **Theme (based on same-things-being-mentioned): Utterances with JavaScript**
 >
 > - I analyze JavaScript code to understand patterns
 > - It is great to quickly test something using a JavaScript framework
@@ -369,8 +370,8 @@ To understand how to organize notes by themes based on insights, can be hard to 
 >
 > **Theme (based on an insight about the participants): Learning makes own coding better**
 >
-> - I analyze Javascript code to understand patterns
-> - To know these 'attributes' of HTML-'tags' makes writing code easier.
+> - I analyze JavaScript code to understand patterns
+> - To know these ‘attributes’ of HTML-‘tags’ makes writing code easier.
 
 
 ### Prepare your notes for Analysis
@@ -395,7 +396,7 @@ When you create groups of data, it is good to know if the theme of the group is 
 
 You just add the participant code at the end or beginning of each line. It is not the most exiting work, but it can be done quickly—Copy the current code (like “P1”) in the computer's clipboard (STRG+C), place the cursor with the [arrow keys](http://en.wikipedia.org/wiki/Arrow_keys) and the [end](http://en.wikipedia.org/wiki/End_key)/ [home](http://en.wikipedia.org/wiki/Home_key) keys and paste the code (STRG+V).
 
-![Annotating data in a wordprocessor](images/commentsAnalysis.png)
+![Annotating data in a word processor.](images/commentsAnalysis.png)
 
 ### Annotate your notes
 <!-- I am unsure if that makes sense for beginners or not -->
@@ -434,16 +435,16 @@ up with great annotations, but to wrap your head around the data and to find pos
 
 ### Decide whether you want to do a digital or analog analysis
 
-After annotating your data you should take the decision in which media you want to conduct your analysis: 
+After annotating your data, you should take the decision in which media you want to conduct your analysis: 
 
 - Digitally in a word processor, where lines hold the basic units of data
 - Analog on paper, where sticky notes are your means of dealing with the data.
 
 The analysis methods described here can be used in both media. Nevertheless, each medium has different strengths.
 
-![Analyzing data analog by using sticky notes. Theme are written on yellow sticky notes, themes of themes are written on orange sticky notes](images/affinityDiagram2.jpg)
+![Analyzing data analog by using sticky notes. Theme are written on yellow sticky notes, themes of themes are written on orange sticky notes.](images/affinityDiagram2.jpg)
 
-![Analyzing data digitally by using a word processor. Themes have gray headlines, themes of themes have black headlines](images/hierarchyWordprocessorAnalysis.png)
+![Analyzing data digitally by using a word processor. Themes have gray headlines, themes of themes have black headlines.](images/hierarchyWordprocessorAnalysis.png)
 
 The resources you need for analyzing on your computer are:
 
@@ -451,16 +452,16 @@ The resources you need for analyzing on your computer are:
 
 The resources you need for with pen and paper are:
 
-- sticky notes
-- paper
-- printer (or a lot of patience to write all by hand)
-- (removable) tape
-- a big wall (2m*3m minimum—which is why the wall is usually the most difficult to get).
+- Sticky notes
+- Paper
+- Printer (or a lot of patience to write all by hand)
+- (Removable) tape
+- A big wall (2m*3m minimum—which is why the wall is usually the most difficult to get).
 
 
 But why should you want to use an analog analysis, if it needs all these resources? Partly, the decision can be based on preferences: Some people like that they can move around the notes by hand and can get an overview of their data by just stepping back and glancing over it.
 
-If you work with peers on your analysis, you have some advantages when using the analog pen-and-paper approach: you can easily discuss your ideas with others and will get new ideas how to structure the data. You can as well invite your boss to take a look and be part of the team, at least for some time. This type of on-site, collaborative, analysis is best done analog. Using digital tools it is not that easy and direct—despite all the great digital innovations we have nowadays.
+If you work with peers on your analysis, you have some advantages when using the analog pen-and-paper approach: you can easily discuss your ideas with others and will get new ideas how to structure the data. You can as well invite your boss to take a look and be part of the team, at least for some time. This type of on-site, collaborative, analysis is best done analog. Using digital tools it is not as easy and direct—despite all the great digital innovations we have nowadays.
 
 ![Making sense of data together, using lots of sticky notes. (Image by [flickr user Kalsau](https://www.flickr.com/photos/kalsau/), licensed under CC-BY 2.0, [https://creativecommons.org/licenses/by/2.0/](https://creativecommons.org/licenses/by/2.0/); Changes: Image was cropped) ](images/DesignEthnographyStudioLifeAnalysis4_crop.jpg)
 
@@ -476,7 +477,7 @@ For analysis on your computer, I suggest the following steps for preparing your 
 
 \
 
-**State themes in titles of groups**: Each group gets a headline. Create a hierarchy by using different paragraph styles—bigger headlines for overarching themes-of-themes, smaller headlines for themes, that encompass the data directly. If you use paragraph styles to format your headlines, you can use the navigation tool of the wordprocessor to go through your structure. You can as well just use the list-hierarchy feature (pressing the tab-key creates a subordinate list point). I prefer headlines, though.
+**State themes in titles of groups**: Each group gets a headline. Create a hierarchy by using different paragraph styles—bigger headlines for overarching themes-of-themes, smaller headlines for themes, that encompass the data directly. If you use paragraph styles to format your headlines, you can use the navigation tool of the word processor to go through your structure. You can as well just use the list-hierarchy feature (pressing the tab-key creates a subordinate list point). I prefer headlines, though.
 
 #### How to: Analysis with pen and paper
 
@@ -484,15 +485,15 @@ For working with pen and paper, I recommend the following steps to get ready for
 
 1. Create table in a word processor with 2 columns and many rows. Each table cell will be a note.
 	1. In the table settings, switch off “Allow row to break across pages”, so that one note/table cell will not be split between pages.
-	2. In the table settings, choose a decent padding around each cell, like 0.5cm
-	3. Choose a font size of about 12pt, large enough to read it\
+	2. In the table settings, choose a decent padding around each cell, like 0.5 cm
+	3. Choose a font size of about 12 pt, large enough to read it\
 	![](images/createAnalogNotes.png)
-2. Copy/paste all your data (line by line) from the transcript into the cells
-3. Print it
-4. Cut out each table cell (=piece of data)
-5. Optional: Cover the wall with the paper from paper rolls (thus you can remove the analysis, roll up the paper and archive it and you can remove it from the wall temporarily)
+2. Copy/paste all your data (line by line) from the transcript into the cells.
+3. Print it.
+4. Cut out each table cell (=piece of data).
+5. Optional: Cover the wall with the paper from paper rolls. (Thus, you can remove the analysis, roll up the paper and archive it and you can remove it from the wall temporarily)
 
-**Creating groups by moving sticky notes**: During analysis you will stick your printed notes on the widths of paper
+**Creating groups by moving sticky notes**: During analysis, you will stick your printed notes on the widths of paper
 using removable tape, crepe tape or spray glue—something sticky but non-permanent, so you can
 move the notes around in order to gradually improve the structure.
 
@@ -511,7 +512,7 @@ and deciding which data falls under which theme.
 
 You don't use all your data yet. You can start with what you find useful, when skimming through or you can use the data of two participants for now. The goal is to set up some preliminary structure, like a sketch of the analysis.
 
-![Setting up a basic structure](images/lego_housefirstStructure.jpg)
+![Setting up a basic structure.](images/lego_housefirstStructure.jpg)
 
 #### Move in Approximation
 
@@ -600,7 +601,7 @@ good”, “(Page) Format is hard to change later”), while some are
 mere group titles based on commonalities of the  data they encompass (“Inspiration”, “Trial and Error”).
 
 
-Now, you will have some preliminary, data based themes, each created based on a few data points.
+Now, you will have some preliminary, data-based themes, each created based on a few data points.
 Next, try if these themes are useful for organizing more than just a few data points.
 
 ### Fill the Structure
@@ -614,14 +615,14 @@ in the previous steps we focused more on generating an initial structure.
 
 If the previous step was building a (data-based) scaffold, now we try to build the actual walls.
 
-![Build upon your preliminary structure to see if the idea actually works](images/lego_houseWalls.jpg)
+![Build upon your preliminary structure to see if the idea actually works.](images/lego_houseWalls.jpg)
 
 Aim for 3 to 10 pieces of data per theme. While
 it is temporarily OK to have very small groups, at the end each
 theme should be derived from several data points and not on a single
 utterance. On the other hand, if a theme encompasses more than 10
 utterances or observations, consider if it makes sense to split the group in
-“subthemes”.
+“sub-themes”.
 
 Usually, I would go chronologically through all my notes starting with
 the first participant and ending with the most recent one—though any
@@ -647,7 +648,7 @@ renamed as well. Just go ahead and make these changes, if you feel they are need
  The “Test in the Media you target”  data is almost all from one
  person (P3) and the “being closer”-Group
  has only a single data point. In later iterations I'll change this
- group. But for now it suffices.
+ group. But for now, it suffices.
 >
 >\
 >\
@@ -655,7 +656,7 @@ renamed as well. Just go ahead and make these changes, if you feel they are need
 > While I was sorting the data, I created a new group to accommodate data
  related to changes in designs:
 >
-> - \[Titel:\]Changing and determining
+> - \[Title:\]Changing and determining
 >     -   Determining: What do we have? What do we need? What do we want to avoid?
 >     -   Sketching, e.g. for “How can I divide the page for 7 days of the week?”
 >    -   “This is trial and error”
@@ -663,11 +664,11 @@ renamed as well. Just go ahead and make these changes, if you feel they are need
 >\
 >\
 >
->Some data could not be accommodated yet. So I created a misc
+>Some data could not be accommodated yet. I created a misc
 group, where I could offload the data for now and try to find a better
 place later:
 >
->- \[Titel:\]misc
+>- \[Title:\]misc
 >     -   God: Shortcuts
 >     -   I need to ask the print shop what this design would cost
 >     -   Bad: Doing the same steps over and over again.
@@ -705,7 +706,7 @@ did you fall prey to wishful thinking? Possibly, there is actually only a weak m
 the stated theme and the data. In this case, revise your structure.
 
 
-![Some parts need to be revised and newly created](images/lego_houseRevise.jpg)
+![Some parts need to be revised and newly created.](images/lego_houseRevise.jpg)
 
 
 #### Find better names
@@ -817,12 +818,12 @@ you found a better fit.
 paper”* is a practice that results from that concern.)
 
 
-#### Create Subgroups
+#### Create Sub-groups
 
 Some groups may grow rather big, especially if their themes  are not insights,
 but are based on mere commonalities of underlying data (like
 “dealing with color”). This is an excellent opportunity to develop themes
-by creating subgroups. The process of developing subgroups
+by creating sub-groups. The process of developing sub-groups
 is like in [“Develop a first structure”](#firstStructure) (just inside the group): Move
 similar data in proximity and try to create clear-cut insights if
 possible. In this process, you might find a more suitable way to state
@@ -831,7 +832,7 @@ the theme of the main group, too.
 
 > I had a group with more than ten points regarding “Colleagues and
 Friends”. This title was rather general and thus not very useful for
-design. I created two subgroups which were more meaningful.
+design. I created two sub-groups which were more meaningful.
 >
 > \
 > Before:
@@ -862,15 +863,15 @@ design. I created two subgroups which were more meaningful.
 > a sub point of motivation related groups.
 >
 >- \[group-of-groups\] Motivations
->     -   \[Subgroup\]: Highly motivated at the beginning; then the problems start.
->     -   \[Subgroup\]: Finishing is good
->     -   \[Subgroup\]: Waiting for feedback is bad
->     -   \[Subgroup\]: being afraid of the client’s rejection of the design
+>     -   \[Sub-group\]: Highly motivated at the beginning; then the problems start.
+>     -   \[Sub-group\]: Finishing is good
+>     -   \[Sub-group\]: Waiting for feedback is bad
+>     -   \[Sub-group\]: being afraid of the client’s rejection of the design
 
 > Sometimes you first sort the data under the overarching title or
-> principle and then move it to an already existing subgroup later:
+> principle and then move it to an already existing sub-group later:
 >
-> The utterance: “Its bad that you can do imprecise things here,
+> The utterance: “It’s bad that you can do imprecise things here,
 > compared to programming (talking about Illustrator)” was first sorted
 > into “Media” and subsequently put into “using the right media”
 
@@ -878,7 +879,7 @@ design. I created two subgroups which were more meaningful.
 ### Wrap it up
 
 
-![it’s done! (though you could still change some things or two…)](images/lego_houseFinished.jpg)
+![It’s done! (though you could still change some things or two…)](images/lego_houseFinished.jpg)
 
 The steps described above build on each other. But like in other creative
 tasks, there will be a lot of going back and forth between steps of

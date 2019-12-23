@@ -1,6 +1,6 @@
 # Communicate Results
 
-If you work with others, the results of your research need to be communicated so
+If you work with others, the results of your research need to be communicated, so
 they can act upon your research results.
 
 Aside from getting the results of your research across, communicating your
@@ -8,14 +8,14 @@ results has some positive side effects: collecting, organizing and summarizing
 your findings will make it easier for yourself to remember your findings and you
 may be even able to improve your analysis further.
 
-This chapter is different than the others. In the chapters before, the focus was on the 
-research itself. But what works well is highly dependend on what your audience is 
+This chapter is different from the others. In the chapters before, the focus was on the 
+research itself. But what works well is highly dependent on what your audience is 
 familiar with—and this is something that I can't know. So I could give advice on how to 
 create a _persona_, but if your colleges base their work mainly on another framework, like
 _Jobs-To-Be-Done_ the persona would not help. 
 
 Because of this, the chapter gives some general advice, shows standard representations (like 
-diagrams and scenarios) and the formats is mentions are conventional (like slidedecks and reports).
+diagrams and scenarios) and the formats is mentions are conventional (like slide decks and reports).
 
 
 ## Consider the audiences needs
@@ -38,8 +38,8 @@ be used to slidedecks.
 Structure documentation in a way that puts the essential information
 first. A simple rule of thumb is this: If
 a reader stops early at some point, they should already know the most crucial
-information. If the documentation is structured in a different way, it can happen
-that after reading half of it, the most crucial information has not delivered.
+information. Otherwise, it can happen that after reading half of it, the most 
+crucial information has not delivered.
 Also, it is motivating to deal with documents that put important matters first.
 One can read e.g. the summary in the beginning and then decide that this is the
 needed information and continue—or discard the document and don't waste time.
@@ -53,9 +53,9 @@ language that is hard to grasp or uses words unknown to your readers. Instead,
 “translate” for them: Describe the research in terms they know and help them to
 make sense of the participants’ language and actions.
 
-As a rule of thumb, rather assume too
-few knowledge than too much. A person knowing something will just overhear or
-overlook an explaination while a person who lacks knowledge is lost without it.
+As a rule of thumb, rather assume too little knowledge than too much. 
+A person knowing something will just overhear or overlook an explanation 
+while a person who lacks some background information is lost without it.
 
 ## Sections of a research documentation
 
@@ -71,7 +71,7 @@ Aim
 Research Methods
 
 : Describe how you gathered and analyzed the data. The research
-in this guide uses  “interviewing and obeservation” for gathering the data and
+in this guide uses  “interviewing and observation” for gathering the data and
 “thematic analysis” or “qualitative clustering” as analysis methods (The terms
 for the analysis are not 100% scientifically correct though since analysis
 followed no “official” method)
@@ -115,17 +115,17 @@ strengths together.
 
 ### Text
 
-Text is as very versatile way to convey informations. On the downside, text may
+Text is as very versatile way to convey information. On the downside, text may
 seem not as quickly accessible as a diagram or a sketch. To lower the barriers,
 make sure that people know why they are reading your text. Give essential
 information at the beginning (What is this text about? Why was the work done?)
 and make sure that it is easy to get a quick overview:  Structure your text
 using headings, lists and italics to guide the reader.
 
-![a page spread from a report](images/exampleWrittenReport.png)
+![A page spread from a report.](images/exampleWrittenReport.png)
 
 There are lots of books which explain how to write concise and easy-to-get text.
-The most efficient guide I know was given by George Orwells in “Politics and the
+The most efficient guide I know was given by George Orwell in “Politics and the
 English Language”—I quote:
 
 > 1. Never use a metaphor, simile or other figure of speech which you are used
@@ -137,7 +137,7 @@ to seeing in print.
 > 6. Break any of these rules sooner than say anything barbarous.
 
 ^[[Orwell’s Rules for
-writers](http://wikilivres.ca/wiki/Politics_and_the_English_Language)]
+writers.](http://wikilivres.ca/wiki/Politics_and_the_English_Language)]
 
 In addition, read the text aloud—in particular, if you already noticed that
 you have had difficulties finding the right word or to express a complicated
@@ -151,12 +151,12 @@ help others to have empathy with the users.
 
 > **Rather abstract:** Users like the alignment function
 >
-> **Combined with Quote**: Users like the alignment function. Sandy: “It is like doing work by magic—click! And its there!”
+> **Combined with Quote**: Users like the alignment function. Sandy: “It is like doing work by magic—click! And it’s there!”
 
 Remember to protect the participant's identity if they did not give you the
 permission to share their quotes or names. If they did not give you the
 permission, only share a plausible, but faked “quote” and don't use real names
-but faked ones as well. Don’t deceive your audience either: mention that the
+but pseudonyms (made-up names) ones as well. Don’t deceive your audience either: mention that the
 names and quotes are not real but are only corresponding to their actual
 counterparts.
 
@@ -205,13 +205,13 @@ computer **2** remembering the code. Is this character a zero or the letter
 ### Diagrams
 
 ![A diagram showing the sources and flow of files used by university
-students](images/exampleDiagram_fileFlow.png)
+students.](images/exampleDiagram_fileFlow.png)
 
-![A diagram showing the workflow in creating a software](images/flowDiagram.svg)
+![A diagram showing the workflow in creating a software.](images/flowDiagram.svg)
 
 Diagrams are useful to show high-level concepts, relations and dependencies –
 for example showing which activities need to be done to create a page of a
-magazine or the ways a group of students share files when working together on a
+magazine or the ways a group of students shares files when working together on a
 joint project.
 
 You may use the summary diagrams you created in the analysis or create new
@@ -277,12 +277,12 @@ to get sidetracked and to write length and complex sentences.
 Written reports consist mainly of text, but you should use images, quotes and
 diagrams too when they make sense.
 
-![page spread from a report on wiki use for teaching at
-university](images/exampleWrittenReport2.png)
+![Page spread from a report on wiki use for teaching at
+university.](images/exampleWrittenReport2.png)
 
 ### Slides
 
-<!-- TODO: slides with you talking or as a container for information without you being there ein person? -->
+<!-- TODO: slides with you talking or as a container for information without you being there in person? -->
 
 Slides can deliver the same content as written reports or quick findings. They
 convey the information in a more visual way—so they have fewer text and more
@@ -294,7 +294,7 @@ supplement the information you give. On the other side, it may makes sense to
 use more text on the slides if you just share the slides with others and don’t
 present them yourself.
 
-![a row of slides from a presentation on wiki use for teaching at university
+![A row of slides from a presentation on wiki use for teaching at university.
 ](images/slidesExample.png)
 
 ### Posters
