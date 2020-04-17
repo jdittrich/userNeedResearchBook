@@ -84,8 +84,6 @@ Sometimes, user need research is also confused with usability testing. In usabil
 Paradoxically, we need to *let go* of our focus on *products* to be able to understand the users and to develop products that users need.
 
 <!-- 
-------------------------------
-	
 
 
 PROBABLY REMOVE; IT IS HARD TO UNDERSTAND THAT THIS BELONGS TO THE MAIN  CHAPTER

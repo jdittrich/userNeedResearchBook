@@ -165,7 +165,7 @@ blockquote small, .example small {
 }
 
 .figure, figure{
-  background-color: rgb(255, 255, 255);;
+  background-color: rgb(255, 255, 255);
   margin: 1em 0 1em 0px;
   box-sizing: border-box;
 }
