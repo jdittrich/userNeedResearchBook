@@ -17,7 +17,7 @@ body{
   width:100%; /*important for responsive display,  breakpoint switches this for :auto*/
 }
 
-#main, section.level1 { /*main for html, section.level1 for epub*/
+#main, section.level1, section.titlepage { /*main for html, section.level1 for epub*/
   font-family:sans-serif;
   font-size:110%;
   line-height:1.6em;
