@@ -1,6 +1,50 @@
+/*START HTML:responsive*/
+#layoutWrapper {
+	padding: 0;
+	margin: 0;
+	width: 100%;
+	/*important for responsive display,  breakpoint switches this for :auto*/
+}
+
+@media (min-width: 60rem) {
+
+	/*calculated breakpoint: text width= 40rem + 2*1rem padding + 18rem menu width; */
+	#layoutWrapper {
+		width: auto;
+		/*if viewport is wider than 60rem: auto, otherwise 100% (see above)*/
+	}
+}
+/*END: HTML:responsive*/
+
+/* 
+START link to self feature
+Description: link on headline to make the headlines anchor appear in the addressbar
+*/
+
+
+
+a.link-to-self {
+	font-size: 0.8em;
+	margin-left: 1em;
+	color: rgb(57, 107, 165);
+	opacity: 0.0;
+	text-decoration: none;
+}
+
+*:hover>a.link-to-self {
+	opacity: 0.5;
+}
+
+a.link-to-self:hover {
+	opacity: 0.7;
+	text-decoration: none;
+}
+
+/*END link to self feature*/
+
 @media screen {
 
-	/*enables hiding pandoc auto-generated TOC*/
+/*enables hiding pandoc auto-generated TOC*/
 #TOC.hidden{
 	display:none;
 }
