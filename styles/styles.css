@@ -140,7 +140,7 @@ h1+h2, h2+h3, h3+h4{
 
 p + ul, p + ol, p + dl {margin-bottom:1.5em;}
 
-blockquote, .example {
+blockquote{
   border-left:2px solid #eee;
   padding-left:1.5em;
   margin:1em 0;
@@ -149,30 +149,30 @@ blockquote, .example {
   font-style: italic
 }
 
-blockquote small, .example small {
+blockquote small{
   display:block;
   line-height:1.7em;
 }
 
-.example p+p, blockquote p+p{
+blockquote p+p{
   margin-top: 1em;
   text-indent:0em;
 }
 
-.figure, figure{
+figure{
   background-color: rgb(255, 255, 255);
   margin: 1em 0 1em 0px;
   box-sizing: border-box;
 }
 
-.figure>img, figure>img {
+figure>img {
   width: 100%;
   display: block;
   border-bottom: 1px solid rgb(222, 222, 222);
 
 }
 
-.figure>.caption, figure>figcaption {
+figure>figcaption {
   color: #5b5b5b;
   font-size: 80%;
   margin: 0.33em 0 0 0;
@@ -222,14 +222,9 @@ hr {
   border-bottom: 1px solid rgb(207, 207, 207);
 }
 
-.footnotes hr{ /*soo footnotes are seperate by a larger seperator*/
+.footnotes hr{ /*soo footnotes are separated by a larger separator*/
   width: 100%;
 }
-
-.normal {font-weight:normal;}
-.quiet {color:#999;}
-.pull-left {float:left; margin:0.5em 2em 1em 0;}
-.pull-right {float:right; margin:0.5em 0 1em 2em;}
 
 @media (min-width: 60rem) {  /*calculated breakpoint: text width= 40rem + 2*1rem padding + 18rem menu width; */
   #layoutWrapper{
