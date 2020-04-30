@@ -30,11 +30,6 @@ body{
   color:rgb(20, 20, 20);
 }
 
-body>h1, body>h2, body>h3, body>p{/*epub titlepage*/
-  padding-left:20px;
-  padding-right:20px;
-}
-
 
 #main h1,h2,h3,h4, p, figure, img{
   max-width:100%;
