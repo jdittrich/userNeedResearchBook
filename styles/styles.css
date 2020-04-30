@@ -177,7 +177,7 @@ blockquote small, .example small {
 
 }
 
-.figure>.caption, figure>figcaption, .gallery>.caption {
+.figure>.caption, figure>figcaption {
   color: #5b5b5b;
   font-size: 80%;
   margin: 0.33em 0 0 0;
@@ -186,34 +186,6 @@ blockquote small, .example small {
   line-height: 1.45em;
   font-family:sans-serif;
   font-style:normal
-}
-
-.gallery{
-  margin: 1em 0 1em 0px;
-  width:100%;
-}
-
-.gallery > img, .gallery > figure{
-  border-right: solid 0.25em transparent;
-  margin-bottom:0.25em;
-  display: inline-block;
-  vertical-align: top;
-}
-
-.gallery > figure> figcaption{
-  padding-right: 1em;
-}
-
-.gallery.two > img, .gallery.two > figure{
-  width: 49%;
-}
-
-.gallery.three > img, .gallery.three > figure{
-  width:32%;
-}
-
-.gallery.four > img, .gallery.four > figure{
-  width:24%;
 }
 
 ul, ol, dl {
