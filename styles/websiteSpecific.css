@@ -1,3 +1,11 @@
+@media (min-width: 60rem) {
+	/*calculated breakpoint: text width= 40rem + 2*1rem padding + 18rem menu width; */
+	#layoutWrapper {
+		width: auto;
+		/*if viewport is wider than 60rem: auto, otherwise 100% (see above)*/
+	}
+}
+
 @media screen {
 
 	/*enables hiding pandoc auto-generated TOC*/
