@@ -1,0 +1,57 @@
+section.level1, section.titlepage{
+	color:black;
+}
+
+figure>figcaption{
+	color:black;
+}
+
+blockquote{
+  color:black;
+}
+
+body{font-family:'Fira Sans'}
+blockquote{font-family:'Charis SIL'}
+
+@font-face {
+    font-family: 'Charis SIL';
+    src: url('../fonts/CharisSIL-B.ttf');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Charis SIL';
+    src: url('../fonts/CharisSIL-I.ttf');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Charis SIL';
+    src: url('../fonts/CharisSIL-R.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Fira Sans';
+    src: url('../fonts/FiraSans-Regular.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Fira Sans';
+    src: url('../fonts/FiraSans-Italic.otf');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Fira Sans';
+    src: url('../fonts/FiraSans-Bold.otf');
+    font-weight: bold;
+    font-style: normal;
+}
+

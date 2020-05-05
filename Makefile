@@ -39,7 +39,7 @@ html:
 	pandoc --toc -V lang=en -H $(TEMPLATEDIR)/includeHeader.pandoc -B $(TEMPLATEDIR)/includeBefore.pandoc -A $(TEMPLATEDIR)/includeAfter.pandoc -A $(TEMPLATEDIR)/includeAfterScripts.pandoc -c $(STYLESDIR)/normalize.css -c $(STYLESDIR)/styles.css -c $(STYLESDIR)/print.css -c $(STYLESDIR)/websiteSpecific.css -t html5 -o index.html $(YAMLMETA) $(TEXTSOURCES)
 
 epub: 
-	pandoc -s --css=$(STYLESDIR)/styles.css -t epub -o urbook.epub $(YAMLMETA) $(TEXTSOURCES)
+	pandoc -s --css=$(STYLESDIR)/styles.css --css=$(STYLESDIR)/epubSpecific.css -t epub -o urbook.epub $(YAMLMETA) $(TEXTSOURCES) --epub-embed-font=./fonts/*.otf --epub-embed-font=./fonts/*.ttf
 
 pdf:
 	pandoc --filter=pandoc-svg.py --template $(TEMPLATEDIR)/eisvogel --pdf-engine=xelatex --metadata=abstract:" " --table-of-contents -V footnotes-pretty --number-sections --top-level-division=chapter -V secnumdepth=1 -V book -V titlepage -V titlepage-text-color=476885 -V titlepage-color=FFFFFF -V titlepage-rule-color=000000 -V titlepage-rule-height=1  -o urbook.pdf $(YAMLMETA) $(TEXTSOURCES)

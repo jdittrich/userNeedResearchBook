@@ -11,6 +11,7 @@ body{
   width:100%;
   margin:0;
   padding:0;
+  font-family:sans-serif;
 }
 
 /*layout HTML*/
@@ -24,7 +25,6 @@ body{
 /*general */
 /*the normal main container for the content*/
 #main, section.level1, section.titlepage { /*main for html, section.level1 for epub*/
-  font-family:sans-serif;
   font-size:110%;
   line-height:1.6em;
   margin:0;
@@ -155,7 +155,6 @@ blockquote{
   margin:1em 0;
   color:#5a5a5a;
   font-family:serif;
-  font-style: italic
 }
 
 blockquote small{
@@ -234,8 +233,6 @@ hr {
 .footnotes hr{ /*soo footnotes are separated by a larger separator*/
   width: 100%;
 }
-
-
 
 
 
