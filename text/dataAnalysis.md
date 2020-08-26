@@ -208,7 +208,7 @@ You can summarize the findings in a diagram itself. It will look similar to the 
 > 
 > I created this diagram to summarize the workflows for editing Wikidata:
 > 
-> ![summary diagram Wikidata edit workflow](images/Wikidata_Workflow_summary.svg)
+> ![Summary diagram Wikidata edit workflow](images/Wikidata_Workflow_summary.svg)
 > 
 > * In the first (“Adding instanceOf…”) and in the third (“Adding Wikidata items…”) workflow was a setup step. I included this—also because I knew from other research that tool use is widespread.
 > * All four editors worked from a list. I tried to specify what that list could be. Different kinds of lists served different purposes: A list of existing items can serve for supplementing these; a list of Wikipedia articles without corresponding Wikidata-items enables the creation of needed items.
@@ -405,17 +405,16 @@ After you added your participant codes, you can start to review and to annotate 
 This will help you to get familiar with the data and to derive meaningful themes and insights later.
 
 Annotations  can be full sentences, as well as short list of words.
-Usually, they concern a line in the transcript but naturally you can
+Usually, they concern a line in the transcript but you can
 comment on whole sections or just at words, too.
 
 > - It is hard to know what exactly the client wants, because I don’t talk directly to the client— P2 **ANNOTATION: indirectness, division of tasks, friction, “I need to know the client”.**
 > - The document is divided in sections, separated by blank pages. — P2 **ANNOTATION: Keeping/imposing order**
-> - The current ideas/prototypes are in the first section. All discarded or “paused” ones are in later sections (“the archive”)— P2 **ANNOTATION: Keeps old ideas. Why? Possible: Later reuse, Inspiration, replication**
 
 
 I suggest annotating each line, but this is not a must.
 
-The annotations should be clearly distinguishable from data you got directly from observation or the participant’s answers—just like other things you did add yourself (e.g. design ideas).
+The annotations should be distinguishable from data you got directly from observation or the participant’s answers—just like other things you did add yourself (e.g. design ideas).
 
 You can print out your transcript with a wide margin and write your comments
 in the margin. With pen and paper, you can write down your thoughts quickly,
@@ -514,10 +513,10 @@ You don't use all your data yet. You can start with what you find useful, when s
 
 ![Setting up a basic structure.](images/lego_housefirstStructure.jpg)
 
-#### Move in Approximation
+#### Move in proximity
 
 The easiest way to start a structure, is moving similar data in
-approximation. If you do you analysis on paper, cluster the notes you
+proximity. If you do you analysis on paper, cluster the notes you
 assume to follow a common theme in one place, and notes for other
 themes in other places. If you analyze using a word processor, move similar
 notes in adjacent lines. Create different groups, each containing similar notes,
@@ -530,8 +529,8 @@ creating a list for each assumed theme.
 >
 > *These themes have in common that they are about aesthetics
 and requirements. I did not have a good idea about a possible
-group title or even an insight I can draw from them, so I just moved them in
-approximation.*
+group title or even an insight I can draw from them, 
+so I just moved them closer to each other.*
 
 
 #### Name Commonalities
@@ -620,7 +619,7 @@ If the previous step was building a (data-based) scaffold, now we try to build t
 Aim for 3 to 10 pieces of data per theme. While
 it is temporarily OK to have very small groups, at the end each
 theme should be derived from several data points and not on a single
-utterance. On the other hand, if a theme encompasses more than 10
+utterance. In contrast, if a theme encompasses more than 10
 utterances or observations, consider if it makes sense to split the group in
 “sub-themes”.
 

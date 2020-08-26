@@ -183,8 +183,7 @@ case keep the signed form, but hand the participant a copy of the form.
 Thus, the agreement is clear for both sides. See in the Appendix for an
 [example of such a form](#consentForm).
 
-After the participant has given their consent, you can start the research
-session.
+It goes without saying that it is essential that you follow the agreement. This might be obvious in many cases, but there can be situations in which e.g. the participant is hesistant to answer or looks uncomfortable, possibly because of a question or a request of yours. Prevent such situations. Do not push them if they seem uncomfortable, even if you like to hear their answer. Offer them a way out of such situations, if you unintentionally caused them. You can, for example suggest an alternative task, or say that it is fine not to answer and go to the next question. The wellbeing of the participant is your primary concern. 
 
 ### Start simple
 
@@ -277,8 +276,8 @@ getting answers in a user needs research session look like this:
 
 The questions we want to ask should encourage answers which describe
 experiences and give some insight into the “why” and “how” of the user’s
-activities and motivations. This type of question is called “open
-question” since these questions don’t have a determined (“closed”) set of answers.
+activities and motivations. Such questions are called “open questions” 
+since they don’t have a determined (“closed”) set of answers.
 
 
 > Open questions would be: *“Describe how you started your work today”*
@@ -567,7 +566,7 @@ If possible, you can end the block by rephrasing what you learned before moving 
 
 Referring to the previous topic can also help to give a sense of closure for the previous topic.
 
-> Thanks for telling me about specifying the task together with the client. What is also of interest for me: How do you agree on payment for your design work?
+> Thanks for telling me about specifying the task together with the client. What is also interesting for me: How do you agree on payment for your design work with the client?
 
 This can be particularly useful if a participant is carried away by a topic that is not relevant for you.
 
@@ -587,7 +586,7 @@ By altering the topic, you can cover the issues you need to know about and, if n
 
 <!-- MAYBE: add context to the examples like "switching from… to… while saying on topic" -->
 
-Every method has its strength and weaknesses. So it makes sense to transition between methods in your research.
+Every method has will highlight different aspects of the participant’s motivations, activities and problems. So it makes sense to transition between methods in your research.
 
 By using different methods on the same topic, you can gain new perspectives on it.
 
@@ -642,8 +641,8 @@ When I take notes in research, I often write about 1 A4 page each 15min., someti
 ![Example for a sheet with research notes, written ca. over 20min.](images/notesheet.png)
 
 \
-<!-- SECTION: CONTENT -->
-You will supplement, transcribe and analyze your notes after the data gathering. Thus you need to be able to make sense of them later. Between collecting the data and reviewing your notes, the *context* is easily forgotten: If you observe that someone starts working on an empty page and you just write “empty page” it may make totally sense at the moment you write it since you are watching what is happening and  knowing what happened before and after. But without this implicit knowledge of context the line “empty page” does not make much sense.
+
+You will supplement, transcribe and analyze your notes after the data gathering. Thus you need to be able to make sense of them later. Between collecting the data and reviewing your notes, the *context* is easily forgotten: If you observe that someone starts working on an empty page and you just write “empty page” it may make totally sense _at the moment you write it_ since you are watching what is happening and  knowing what happened before and after. But without this implicit knowledge of context the line “empty page” does not make much sense.
 
 > Rather than “creates empty page” write
 > “creates empty pages to organize drafts”

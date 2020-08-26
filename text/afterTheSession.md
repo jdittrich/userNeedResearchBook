@@ -2,12 +2,12 @@
 
 After gathering data, we need to take care that we can use the rich data in our later analysis.
 
-When collecting the data with the participant you will be very busy listening and thinking of following questions, so may not be able to keep up with writing notes and drawing sketches. To make the most of your data, you should supplement our notes, sketches and diagrams and add some information about the context of the data gathering to close gaps and to help us to keep all the data ordered.
+When collecting the data with the participant you will be very busy listening and thinking of following questions, so may not be able to keep up with writing notes and drawing sketches. To make the most of your data, you should supplement our notes, sketches and diagrams and add some information about the context of the data gathering to close gaps and to help us to keep all the data organized.
 
 
 There are two ways to supplement your data: From memory and from additional recordings, like an audio recording.
 
-Supplementing your data should be done as soon as possible after the research session. I recommend to scheduling the data gathering in a way that you have some time directly after the session to supplement and order your data.
+Supplementing your data should be done as soon as possible after the research session. I recommend to scheduling the data gathering in a way that you have some time directly after the session to supplement your data.
 
 ## Supplement data from memory
 
@@ -87,7 +87,7 @@ Since they are often written quickly, your notes will usually be rather incohere
 
 ![After transcription: Notes in a digital document. ](images/exampleNotesTranscript.png)
 
-In your digital transcript, put one statement (or whatever you consider to make sense on its own) in each line. Avoid tying together two separate statements on one line and, on the other hand, make sure that the data you put into one line is meaningful on its own and is not just a single word or a description which is free of any context and thus hard to set in relation to other data. This is a simple way of ensuring that we chunk our data in a way we can later use for the analysis.
+In your digital transcript, put one statement (or whatever you consider to make sense on its own) in each line. Avoid tying together two separate statements on one line. This needs to be balanced with another need: Makeing sure that the data you put into one line is meaningful on its own and is not just a single word or a description free of any context and thus hard to set in relation to other data.
 
 To make this reasoning more clear, here are some examples:
 
@@ -103,7 +103,7 @@ know why are objects are duplicated and for which purpose is the space is made.
 
 > **Too many statements in one line (means as well: too long):**
 >
-> - Duplicating pages to save old ideas is common. Later she goes back to the duplicates and looks at them when she needs inspiration
+> - Duplicating pages to save old ideas is common. Later she goes back to the duplicates and looks at them when she needs inspiration.
 > - She tries to have enough space for the margins to write comments in; to do so, she shrinks the main text area. She says, she could as well try to make space at the bottom of the page, and use footnotes for the comments.
 
 
@@ -136,7 +136,17 @@ other document, and see…”
 If you need to save time, go through your notes and see where they lack information and jump
 to the parts of the audio that might complement these sections.
 
-## Order and archive your data{#AfterSessionArchiveData}
+## Pseudonymize your notes
+
+When transcribing your notes, it is also a good point to pseudonymize them. 
+
+Pseudonymization means that you replace identifying information like names, places or job titles with placeholders. So the second user you talked to, “Jane Doe”, might become P2 (a user code) or ‘Anna’ (a pseudonym). This also depends on the participants’ wishes – some might want to choose a pseudonym or actually be appear with the name they usually use. If there is nothing else specified, I use codes. 
+
+Aside of names, there might be other data that could identify the participant, for example names of places, institutions or job titles. If they can identify the participant, replace them with more general placeholders: “Hannover” might become “A city in the north of Germany” ^[If you want to know more about pseudonymization read “Anonymising interview data: challenges and compromise in practice” by Saunders,Kitzinger, and Kitzinger,  [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4582834/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4582834/)  ]. 
+
+You can't make pseudonymization absolutely safe. If your research involves people who need particular protection against identification, you also might want to use a more elaborate way of pseudonymization and data protection – explaining that is beyond the aims of the book and research with vulnurable people is not a good setting to get started with user need research in the first place, anyway. 
+
+## Organize and archive your data{#AfterSessionArchiveData}
 
 It should be easy to find out later which data was from which participant and how notes, sketches, diagrams and possible audio recordings fit together.
 
