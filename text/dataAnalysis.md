@@ -88,7 +88,7 @@ To prepare the analysis, you write annotations on the diagrams. For this, you ca
 > * Enabling the gadget (a little helper tool) seems to be a prerequisite, so I wrote “setup”
 > * In 2), a series of points concerned with list creation seems to start: “create a list”
 > * I added a link to the used tool, so I can see how it works (“see: https//pet…”)
-> * The participant wrote they add P31. This is a computer readable identifier for the data property "instanceOf"
+> * The participant wrote they add P31. This is a computer readable identifier for the data property “instanceOf”
 > * For each entry on the list, they seem to open a Wikidata item (“Opens one…”)
 > * Wikipedia is a source for data and opened in parallel (“Uses Wikip…”)
 > * Point 5)  seems to be less a workflow step but more a list of problems.
@@ -196,7 +196,7 @@ You can summarize the findings in a diagram itself. It will look similar to the 
 >
 > * In all but one (P1) diagram the onset of a project seems to be a good experience.
 > * In three (P2, P4, P5) of the five diagrams there is a significant decline after the projects first, motivated phase. The reasons are: Seemingly unsolvable problems, project not going according to the plan and unhappy clients. A commonality is that the named reasons for the bad mood are seemingly out of the control of the participants (Except for P4, where the reason was seen in the “boring” design).
-> * for all participants the project ends good (excluding P5, where the project has not ended yet). Three (P2, P3,P4) seem to be very happy at the end: Finishing seems to be a good experience.
+> * For all participants the project ends good (excluding P5, where the project has not ended yet). Three (P2, P3,P4) seem to be very happy at the end: Finishing seems to be a good experience.
 > 
 > This can also be shown in a summarizing diagram which I drew:
 > 
@@ -848,7 +848,7 @@ design. I created two sub-groups which were more meaningful.
 >     -   A friend told her that concrete is visualized dashed
 >     -   Puts sketches on the wall: Others will see it and talk with me.
 >     -   […]
->-   making decisions with others
+>-   Making decisions with others
 >     -   Which design do we take? Talks with fellow designer
 >     -   feedback-rounds with other designers
 >
@@ -866,7 +866,7 @@ design. I created two sub-groups which were more meaningful.
 >     -   \[Sub-group\]: Finishing is good
 >     -   \[Sub-group\]: Waiting for feedback is bad
 >     -   \[Sub-group\]: being afraid of the client’s rejection of the design
-
+> 
 > Sometimes you first sort the data under the overarching title or
 > principle and then move it to an already existing sub-group later:
 >
@@ -885,7 +885,7 @@ tasks, there will be a lot of going back and forth between steps of
 creating groups, assigning data to them and revising these groups.
 
 These iterations may also happen just in parts of the structure you create.
- or example, after you revised your overall structure, you find, that a grouping
+ For example, after you revised your overall structure, you find, that a grouping
 should undergo a major change and you put all its data out. Then, you are
 back to developing a structure for a part of your analysis. Or, you
 notice, that some notes which you moved in proximity, can be summarized by
@@ -912,7 +912,7 @@ time to communicate your results.
 > -   Working visually
 > -   Social
 >      -   Exchange Knowledge
->      -   Collaborative decision making
+>      -   Collaborative decision-making
 > -   Motivation
 >      -   Highly motivated at the beginning; then the problems start
 >      -   Finishing is good
