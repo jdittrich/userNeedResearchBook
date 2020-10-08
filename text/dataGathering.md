@@ -11,9 +11,9 @@ Check for visual research being covered in an actionable way. A college tried th
 
 -->
 
-In this chapter, I will show how to gather data on the activities, motivations and problems of your  participants. The data is gathered by listening to descriptions and explanations of our participants and by observing them working. The resulting data will be text, photos and diagrams.
+In this chapter, I will show how to gather data on the activities, motivations and problems of your participants. The data is gathered by listening to descriptions and explanations of our participants and by observing them working. The resulting data will be text, photos and diagrams.
 
-Contrary to a common misconception of user need research, your inquiry will not be (directly) about future ideas and design—you are not going to ask “do you think that a \[gadget\] would help you?”. It is hard to  guess if an imagined thing  would  be great to have in the future. Instead of working with product ideas, you will find out about the *how* and *why* of our participant’s activities. This will allow to evaluate your ideas (“do my ideas match what participants consider essential for them?”) and to get inspiration for new ideas (“how can I support this activity?”)
+Contrary to a common misconception of user need research, your inquiry will not be (directly) about future ideas and design—you are not going to ask “do you think that a \[gadget\] would help you?”. It is hard to guess if an imagined thing would be great to have in the future. Instead of working with product ideas, you will find out about the *how* and *why* of our participant’s activities. This will allow to evaluate your ideas (“do my ideas match what participants consider essential for them?”) and to get inspiration for new ideas (“how can I support this activity?”)
 
 See your participants as competent in what they do: they are experts in their fields and in their daily work. This is contrary to the idea that people “don’t get it” and need to be helped by designers and programmers. Assume that the participants have a reason of doing their work the way they do it and if you wonder about participant’s activities, try to find out what their reasons for these activities are. 
 
@@ -27,7 +27,7 @@ e.g. The gathering the data will be followed by analyzing it. However, it makes 
 
 ### Listening and asking questions
 
-A common way to gather data is asking questions and listening to the participant’s answers. Asking questions may seem familiar from questionnaires. However, the use of questions and answers in user needfinding is different. Questionnaires often aimed for short, definitive answers which need to be selected from of a set of possibilities (“on a 4-point-scale: how much do you agree with…”). In user needfinding, you aim for longer answers which are not from a determined set of possible answers. Thus, you are more likely to get rich, story-like  descriptions, telling about  the user’s  motivations, activities and their context. To encourage the participant to give such story-like answers, you often need to ask for descriptions of activities and the reasons for doing them.
+A common way to gather data is asking questions and listening to the participant’s answers. Asking questions may seem familiar from questionnaires. However, the use of questions and answers in user needfinding is different. Questionnaires often aimed for short, definitive answers which need to be selected from of a set of possibilities (“on a 4-point-scale: how much do you agree with…”). In user needfinding, you aim for longer answers which are not from a determined set of possible answers. Thus, you are more likely to get rich, story-like descriptions, telling about the user’s motivations, activities and their context. To encourage the participant to give such story-like answers, you often need to ask for descriptions of activities and the reasons for doing them.
 
 > “Can you describe me how you decided to use this layout?”
 >
@@ -97,7 +97,7 @@ Who does the recording—drawing and/or writing—depends on what is more practi
 
 For some participants, documenting their work by drawing and writing can be a bit unusual. It can help to show a simple example of what the result of a co-documentation can look like. It can also reduce anxiety in drawing related tasks—some people assume they need to produce an artwork. Showing that a rough sketch is fine helps them to get started.
 
-It can be easier for the participant if you provide a template instead of a blank page: This gives a basic structure. Provide fields for name, date, title and  space for the participant’s diagram. I also sometimes print a small example in a corner of the template. Templates work very well for chart-like types of diagrams, since the participant can draw on top of elements that are already there, like the diagrams’ axis.
+It can be easier for the participant if you provide a template instead of a blank page: This gives a basic structure. Provide fields for name, date, title and space for the participant’s diagram. I also sometimes print a small example in a corner of the template. Templates work very well for chart-like types of diagrams, since the participant can draw on top of elements that are already there, like the diagrams’ axis.
 
 ![Example template for mood-timeline-diagrams.](images/GoodBadTime_Diagramm.svg)
 
@@ -187,7 +187,7 @@ It goes without saying that it is essential that you follow the agreement. This 
 
 ### Start simple
 
-Start with some easy-to-answer questions—like: “Let’s start with some simple questions about your job”. You can ask “What is your job title” and follow up with “How do you describe your  job to people who do not know what it is about?”. As well, it might be interesting how experienced the person is: “How long have you been working in your current occupation?” These examples are tied to work related studies—for doing research with university students I tie the questions to their particular context and ask, for example, how long they have been studying so far.
+Start with some easy-to-answer questions—like: “Let’s start with some simple questions about your job”. You can ask “What is your job title” and follow up with “How do you describe your job to people who do not know what it is about?”. As well, it might be interesting how experienced the person is: “How long have you been working in your current occupation?” These examples are tied to work related studies—for doing research with university students I tie the questions to their particular context and ask, for example, how long they have been studying so far.
 
 These questions will help you to get to know some context of the participant’s work. But there is another advantage: Such questions are easy to answer. This gets the participants used to answering questions and opening up towards you. After a brief section with these easy-to-answer questions, you can transition to questions that encourage more elaborate answers.
 
@@ -216,7 +216,7 @@ Probably, you would not make a bad impression anyway, but let’s go through it 
 
 ![Much better posture.](images/bodyPostureGood.jpg){.portrait}
 
-<!--  TODO: could get a "expose you non-knowledge" or so (Like in spreadley p61)
+<!-- TODO: could get a "expose you non-knowledge" or so (Like in spreadley p61)
 
 * Show your non-knowledge
 * Show that you want to know more
@@ -227,7 +227,7 @@ Probably, you would not make a bad impression anyway, but let’s go through it 
 
 <!-- 
 TODO possibly: The framing of "skewing" assumes that there is one true answer 
-Thus, something like: Be open to new experiences?;  It's not about you!; listening and  ???…
+Thus, something like: Be open to new experiences?; It's not about you!; listening and ???…
 
 -->
 
@@ -250,7 +250,7 @@ These questions demand very specific answers from a determined
 set: Yes or no, marks from A-F, a list of nouns. They would be useful if
 you would want to do statistics, for analysis that allows us to give results
 like “56.3% agreed strongly on Question X”. However, we want to find out
-about the *why* and *how* of the participant’s work here ^[Research  concerned
+about the *why* and *how* of the participant’s work here ^[Research concerned
 with finding out about “how” and “why” using methods like interviews and
 observations is also called “qualitative” research. In contrast, “quantitative research”
 usually tests hypothesis (like “an orange ›buy‹ button generates more
@@ -330,9 +330,9 @@ Contrast this with questions like
 >
 > Participant: “yes!”
 
-“Is…” -questions will be answered with “yes” or “no”—but we don't get to know *why* the participant approves or disapproves. In addition, “Is…”-Questions are a subtle form or influence ^[Also called a “leading question”] : In case of doubt, it is  likely that are participant just agrees to the suggestion you give by asking “Is…”
+“Is…” -questions will be answered with “yes” or “no”—but we don't get to know *why* the participant approves or disapproves. In addition, “Is…”-Questions are a subtle form or influence ^[Also called a “leading question”] : In case of doubt, it is likely that are participant just agrees to the suggestion you give by asking “Is…”
 
-Sometimes,  “Is”-Questions will  come in a disguised
+Sometimes, “Is”-Questions will come in a disguised
 form—as an addition, which is made to an open question:
 
 > You: “Can you tell me how you solve this problem? *…Do you do it by just calling the client and resolving the issue?*”
@@ -356,7 +356,7 @@ One way to minimize our influence on the participant would be
 making all research sessions alike—just like you would do when using a
 standardized questionnaire. But by doing this, you would lose the very strengths of the methods
 described here: Being able to find out about new and unexpected things, reacting to them
-and gaining  understanding of the “how” and “why” by reacting on the situation.
+and gaining understanding of the “how” and “why” by reacting on the situation.
 
 Each participant and their context is different. You can accommodate this by
 adjusting the research session to the context and the activities of the participant.
@@ -393,29 +393,29 @@ say: “No, you can change it!”
 
 Remember, that you want to find out what your participant does and why. To
 correct the participant is not very useful. If the participant would clearly benefit from knowing some
-technical detail, just give the crucial information after the session. But for now, use  the possibility to further explore the topic without correcting the user.
+technical detail, just give the crucial information after the session. But for now, use the possibility to further explore the topic without correcting the user.
 
 > You can just ask “what's the reason for you doing it this way?”, or,
-if talking about the function itself is really  important to you, you can
+if talking about the function itself is really important to you, you can
 ask “How did you expect to do the color change if there would be such a function?”
 
 You may also be surprised or even annoyed by steps or actions 
 in a workflow of the user which seem outright superfluous.
 
-> “When I write a text I write a draft and then send it to my colleague via mail as an attached .doc file. My colleague comments on  it and returns the mail to me”
+> “When I write a text I write a draft and then send it to my colleague via mail as an attached .doc file. My colleague comments on it and returns the mail to me”
 >
 > You may think that this is rather inefficient and be tempted to say “Why don't you paste the text in the mail and comment directly? Or write it live on Etherpad? This would be far quicker!”
 
 Remember that nobody does inefficient things by purpose. Assume that the
 user has a reason. Try to find out what this reason may be.
 
-> Again, you could ask: “what's the reason for you to do  it this way”—and remember to ask follow-up questions to further explore
+> Again, you could ask: “what's the reason for you to do it this way”—and remember to ask follow-up questions to further explore
 the issue. In the example of the attached file it may be the case that
 the rich formatting functions of a word processor are needed or that such documents<!-- TODO check if it should be merged with probing -->
 are used for just everything in this office, so that switching to a “better”
 solution would impose mental costs of switching to and operating in an unusual context.
 
-Your influence could be non-verbal as well: you may shrug or frown if you do not like  an
+Your influence could be non-verbal as well: you may shrug or frown if you do not like an
 utterance or an action. Even if you don’t say “this is wrong”, frowning
 or shaking your head may have the same results. 
 
@@ -510,7 +510,7 @@ There are several advantages of checking:
 * Show that you care for the participant’s expertise.
 * Encourage participants to continue and tell you more.
 
-For checking, you  always need  to refer to something that you want to check. You often need to describe it to the participant:
+For checking, you always need to refer to something that you want to check. You often need to describe it to the participant:
 
 > [Researcher] “So: If I want to print something first, I need to ask for their color profile, when I have this, I load it in InDesign, choose the profile in the pdf dialog and then export it?” [Participant] “Yes. I usually to a test afterwards by opening the pdf in addition”
 
@@ -642,7 +642,7 @@ When I take notes in research, I often write about 1 A4 page each 15min., someti
 
 \
 
-You will supplement, transcribe and analyze your notes after the data gathering. Thus you need to be able to make sense of them later. Between collecting the data and reviewing your notes, the *context* is easily forgotten: If you observe that someone starts working on an empty page and you just write “empty page” it may make totally sense _at the moment you write it_ since you are watching what is happening and  knowing what happened before and after. But without this implicit knowledge of context the line “empty page” does not make much sense.
+You will supplement, transcribe and analyze your notes after the data gathering. Thus, you need to be able to make sense of them later. Between collecting the data and reviewing your notes, the *context* is easily forgotten: If you observe that someone starts working on an empty page and you just write “empty page” it may make totally sense _at the moment you write it_ since you are watching what is happening and  knowing what happened before and after. But without this implicit knowledge of context the line “empty page” does not make much sense.
 
 > Rather than “creates empty page” write
 > “creates empty pages to organize drafts”
