@@ -125,7 +125,7 @@ You may sprinkle in a bit of small talk:
 
 Participants should at least roughly know what the research is
 about. You don’t need to tell about all your questions and topics,
- but the general topic should be described.
+but the general topic should be described.
 
 > This research helps us to improve the workflow in the design process to design solutions for people who do graphic design.
 
@@ -183,7 +183,7 @@ case keep the signed form, but hand the participant a copy of the form.
 Thus, the agreement is clear for both sides. See in the Appendix for an
 [example of such a form](#consentForm).
 
-It goes without saying that it is essential that you follow the agreement. This might be obvious in many cases, but there can be situations in which e.g. the participant is hesistant to answer or looks uncomfortable, possibly because of a question or a request of yours. Prevent such situations. Do not push them if they seem uncomfortable, even if you like to hear their answer. Offer them a way out of such situations, if you unintentionally caused them. You can, for example suggest an alternative task, or say that it is fine not to answer and go to the next question. The wellbeing of the participant is your primary concern. 
+It goes without saying that it is essential that you follow the agreement. This might be obvious in many cases, but there can be situations in which e.g. the participant is hesitant to answer or looks uncomfortable, possibly because of a question or a request of yours. Prevent such situations. Do not push them if they seem uncomfortable, even if you like to hear their answer. Offer them a way out of such situations, if you unintentionally caused them. You can, for example suggest an alternative task, or say that it is fine not to answer and go to the next question. The wellbeing of the participant is your primary concern. 
 
 ### Start simple
 
@@ -238,7 +238,7 @@ section are not aiming for specific, short answers, unlike typical
 survey-like questions like these: 
 
 * “Are you a graphic designer?” — “No, I am a programmer” 
-* “How much do you like your Job? Give a mark” — “B!” 
+* “How much do you like your job? Give a mark” — “B!” 
 *  “Please name your Tools” — “I use InDesign, Photoshop and Sketch”.
 
 If you would diagram who speaks for how long when we ask for such questions, it would
@@ -267,7 +267,7 @@ this:
 ![Giving longer answers, equal share.](images/talkDiagram_friend.svg)
 
 In contrast to a conversation, our main goal is to collect data; we
-don’t want to tell about our Job as a user researcher, but
+don’t want to tell about our job as a user researcher, but
 hear answers from the participant. Thus, asking questions and
 getting answers in a user needs research session look like this:
 

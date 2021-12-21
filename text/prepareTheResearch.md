@@ -5,7 +5,7 @@
 
 It can help a lot to have a guiding question when you start your research. This question should relate to how and why your (potential) users do what they do. You might already have an idea for a future service, product or feature. You can use such ideas as a starting point for creating a useful, user-focused research question. Here is how you do this: 
 
-1. Take your inital ideas for a future market, product or features
+1. Take your initial ideas for a future market, product or features
 2. Ask yourself why the product idea would be good for an activity people do. 
 3. Take the activity from 2. and Ask, _how_ and _why_ people do this. The outcome can be used as research question.
 

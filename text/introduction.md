@@ -86,7 +86,7 @@ Paradoxically, we need to *let go* of our focus on *products* to be able to unde
 ## Should you do it?
 
 Before you get started with a reserach project there is a 
- first and very important choice to make: Should you actually work do the research? 
+ first and very important choice to make: Should you actually do the research? 
  
  There might be good reasons not to, actually. The products of the tech industry to their fair share of harm be it undermining democratic processes, using limited ressources to build more and more devices that need to be replaced all too soon and drive poor people into badly paid gig work while amassing profits for their shareholders. 
  
