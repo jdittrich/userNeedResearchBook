@@ -394,7 +394,7 @@ When you create groups of data, it is good to know if the theme of the group is 
 > […]
 
 
-You just add the participant code at the end or beginning of each line. It is not the most exiting work, but it can be done quickly—Copy the current code (like “P1”) in the computer's clipboard (STRG+C), place the cursor with the [arrow keys](http://en.wikipedia.org/wiki/Arrow_keys) and the [end](http://en.wikipedia.org/wiki/End_key)/ [home](http://en.wikipedia.org/wiki/Home_key) keys and paste the code (STRG+V).
+You just add the participant code at the end or beginning of each line. It is not the most exiting work, but it can be done quickly—Copy the current code (like “P1”) in the computer's clipboard (CTRL+C), place the cursor with the [arrow keys](http://en.wikipedia.org/wiki/Arrow_keys) and the [end](http://en.wikipedia.org/wiki/End_key)/ [home](http://en.wikipedia.org/wiki/Home_key) keys and paste the code (CTRL+V).
 
 ![Annotating data in a word processor.](images/commentsAnalysis.png)
 
@@ -700,7 +700,7 @@ Have a look at structures that need improvement: Groups, which  have a title whi
 does not express an actual insight yet, and data, for which you did not find a good place.
 This data might now be helpful to create new themes or can add to some themes.
 
-Take a critical look at the themes in relation to the data they encompass: Is there a fit or
+Take a look at the themes in relation to the data they encompass: Is there a fit or
 did you fall prey to wishful thinking? Possibly, there is actually only a weak match between
 the stated theme and the data. In this case, revise your structure.
 

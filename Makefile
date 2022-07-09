@@ -30,7 +30,7 @@ help:
 	@echo 'texlive: -base,-extra,-recommended, and'
 	@echo 'texlive-fonts: -extra, -extra-links,'
 	@echo '-recommended'  
-	@echo 'pdf needs additionally for adding the cover image
+	@echo 'pdf needs additionally for adding the cover image'
 	@echo 'to the pdf: pdftk, inkscape'
 
 	
