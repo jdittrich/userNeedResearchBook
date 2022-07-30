@@ -1,259 +1,90 @@
-# Communicate Results
+# Sharing research results
 
-If you work with others, the results of your research need to be communicated, so
-they can act upon your research results.
+_This chapter covers:_
 
-Aside from getting the results of your research across, communicating your
-results has some positive side effects: collecting, organizing and summarizing
-your findings will make it easier for yourself to remember your findings and you
-may be even able to improve your analysis further.
+* _Understanding how research gets used_
+* _Putting the most important information first_
+* _Writing an easy-to-read style_
+* _Creating helpful photos and _diagrams 
+* _Designing posters for quick and visual research summaries_
+* _Creating slide decks to give an overview of your results_
+* _Writing text-focused reports to give in-depth information_
 
-This chapter is different from the others. In the chapters before, the focus was on the 
-research itself. But what works well is highly dependent on what your audience is 
-familiar with—and this is something that I can't know. So I could give advice on how to 
-create a _persona_, but if your colleges base their work mainly on another framework, like
-_Jobs-To-Be-Done_ the persona would not help. 
 
-Because of this, the chapter gives some general advice, shows standard representations (like 
-diagrams and scenarios) and the formats is mentions are conventional (like slide decks and reports).
+After the analysis, your work is almost done. However, for people who did not participate in the research, you have not actually started yet with what matters most for them: Sharing your results, so they can learn about the motivations, activities, and problems of potential users. While you and your collaborators have learned a lot, the most visible result for others will be the report or slide deck you create. 
 
+> _Note:_ Sometimes the documents that are created in user research are called _deliverables_—since these are the tangible results that you can deliver to a client after the research. 
 
-## Consider the audiences needs
+Documenting your research has also other uses beyond sharing the results or having an artifact clients pay for. Creating the documentation continues the sensemaking that is mainly done when analyzing the data. Now, the focus shifts away from themes to priorities and expression: What are the most important results? How can you phrase this insight succinctly? These questions can also be worked on collaboratively and thus can help to deepen your understanding of the results and that of your collaborators.
 
-Who will receive the research results and what interests do they have? There may
-be different stakeholders with different needs, e.g.
+<!-- You could even say that the interpretation goes on even after you reported the results, since people will re-interpret what the research results mean for them, in their situation. This also means that much like our analysis in the previous chapter there is not one right way to read a research report, only plausible and less plausible ones. -->
 
-* Management
-* Programmers
-* Designers
-* …
 
-Some of their needs align, some may differ. Before you start, you should ask yourself
-who will receive the results and what specific interests they have. Also inquire
-if there is any preferred format. Some may prefer text-based reports, others may
-be used to slidedecks.
+<!-- TODO: 1) What needs to be in place to engage with the report 2) What do people use the report for? -->
 
-## First things first
+For people to engage with your research results, they must assume that your research is helpful for them. There are three areas where engaging with research can be helpful:
 
-Structure documentation in a way that puts the essential information
-first. A simple rule of thumb is this: If
-a reader stops early at some point, they should already know the most crucial
-information. Otherwise, it can happen that after reading half of it, the most 
-crucial information has not delivered.
-Also, it is motivating to deal with documents that put important matters first.
-One can read e.g. the summary in the beginning and then decide that this is the
-needed information and continue—or discard the document and don't waste time.
+* Finding new directions for product development.
+* Choosing between directions according to what is most promising in the light of the research results.
+* Smaller, tactical decisions that need to be taken in everyday design- and product management-work: Which of these features matches existing users needs best? What should be emphasized in a blog post advertising the update? 
 
-## Don't make it hard to understand
-<!-- TODO: Translator-Metaphor: User to audience? -->
-You create the documentation for people who are not user researchers and who
-often have not taken part in the research. They won't understand any jargon of
-your profession and maybe also not the vocabulary the users use. Thus, avoid
-language that is hard to grasp or uses words unknown to your readers. Instead,
-“translate” for them: Describe the research in terms they know and help them to
-make sense of the participants’ language and actions.
+Your research should allow your audience to quickly understand and use the parts that are relevant for them. This will help them to use your research both for strategical and everyday decisions and to spread the word about the usefulness of research.
 
-As a rule of thumb, rather assume too little knowledge than too much. 
-A person knowing something will just overhear or overlook an explanation 
-while a person who lacks some background information is lost without it.
+## Reports should be easy and quick to understand
 
-## Sections of a research documentation
+There are basic principles that ease the communication of your research results:  A clear structure, an easy-to-read style and well-used visualizations help to create reports that people like to read, use, and share.
 
-There are some typical sections of a research documentation:
+### Putting first things first
 
-Executive Summary
-: Summarize the research and its results in a few paragraphs.
+Journalists put the most crucial information first and end on background information that is useful, but not essential. This is known as the _inverted pyramid style_. You should try to do the same in your research reports. There are two reasons why this is useful for the readers: 
 
-Aim
+* When readers are time-pressed, they get the most important information quickly.
+* When readers have time, it makes them curious to read the rest: You showed that there are interesting insights, now they want to learn more.
 
-: Summarize the research question you aim to answer with your research
+Keeping this principle in mind also helps you and your collaborators to think about priorities: There might be many findings, but which are the core ones? How can they be expressed in a way that is concise and useful?
 
-Research Methods
+A visible expression of these principles are headlines that give the most relevant points of the section. A similar function have summaries at the beginning of a section, like at the start of the chapters in this book. Putting first things first also gets its own section in many research reports: An “executive summary”, a short overview of the most relevant points of the report.
 
-: Describe how you gathered and analyzed the data. The research
-in this guide uses  “interviewing and observation” for gathering the data and
-“thematic analysis” or “qualitative clustering” as analysis methods (The terms
-for the analysis are not 100% scientifically correct though since analysis
-followed no “official” method)
+After you set the priorities of _what_ you want to communicate, we should look at _how_ you communicate, this is, the writing style.
 
-Participants/Sample
+### Easy-to-read style
 
-: Describe how you got your participants and why you did
-so. Show that you did not just got somebody, but people who were relevant to the
-research needs.
+Writing simple and vivid sentences helps your readers to enjoy and understand your insights. A good text has actors and action like a scene you can  imagine; a bad text feels static, describing gray concepts, arrayed in lines of text. In your research, you observed participants in their activities and listened to them describing their motivations and problems. This is a great foundation to write a text that is interesting to read.
 
-Results
+One way to convey activity in your research is using “active” sentences. Active sentences are clear about who acts: “Joe searched for a recipe”. You could also write “The recipe retrieval process is initiated by the participant”—that puts the action in abstract, passive concepts and makes it hard to imagine what is going on. If you need an abstract principle, try to still frame it in terms of activities. You could write something like “Existing skills are the foundation of the cooking process and are utilized as long as the situation makes sense for participants. Recipes are utilized when the local sensemaking process breaks down.” A long sentence with a lot of abstract words. However, the content could be interesting and much easier to read: “Participants use their existing skills. They fall back to recipes when they don’t know what to do next”. 
 
-: The themes and consolidated diagrams belong here. They are the core of
-your documentation. While most other content follows a pattern, the results will
-be different each time. So be extra careful that the results can be understood
-by the audience and use illustrations, photos and quotes to get your message
-across.
+As a researcher, you translate experiences of your research participants so that your client or team members can understand them better. “Translate” is not only metaphorical: Participants, clients and team members often use different words. Terms that your participants use might be very specific to their context and need to be introduced first. Many people are familiar with cooking, but even in our research, we might need to provide some explanation when we quote a participant talking about _sautéeing_. In written reports, I sometimes explain words directly in the text or in footnotes and have also used small glossaries at the end of the reports. In slidedecks I put such information in the speaker notes and included them in my talk.
 
-Recommendations
+Your research reports will be more enjoyable to read when you use action-focused sentences and think about how to best translate the experience of your participants for your audiences. However, not all content comes as text: Creating good visual elements is important as well.
 
-: Sometimes you may give some advice for possible further
-research or or designs.
+### Clear and helpful graphics
 
-Appendix
+Not all findings are best expressed in text, just as not all data is best collected via conversations. Graphics can be very helpful to both show examples (like a photo of a participant cooking) and to convey abstractions (like showing the workflow steps in a diagram).
 
-: If your audience is interested in digging deep your documentation you
-can provide additional information here, e.g. an in-depth breakdown of your
-themes or additional photos and sketches. If you provide material that is less
-abstract, take extra care to check if the privacy of the participants is
-maintained.
+Like text, graphics should focus on what is most important: Too many flourishes and elements will distract. You can often improve graphics by cropping them to the most important parts: If you focus on how people pick recipes, visualize the recipe selection and don't show how they choose ingredients or cook. If your photo illustrates how people knead dough, show the dough and the kneading hands filling almost the hole picture rather than a wide-angle shot of the  kitchen with a small single person somewhere kneading a tiny lump of dough.
 
-In a longer, written report you may have all of these sections. However, often
-you will only provide a subset according to the needs of the audience e.g.  only
-the executive summary and the recommendations in an email.
+Even if your graphic focuses on the most important content, it can still look unpleasant. This is often the case when elements do not line up and colors differ: There are variations, but it is not clear if they have purpose or are accidental, like in the next image.
 
-## Components of deliverables and reports
+![Visualization of data processing steps. The diagram looks messy due to the inconsistent choice of distances, alignment, and fonts. In addition, there are icons at each step, that do not add much meaning.](images/05_communication_graphicExample_Worse.svg){#GraphicExample_Worse alt="A not-great-looking diagram showing steps for data processing: System Catalog → (Export)→CSV Files (Modeling)→Open Refine (Reconciliation)→Quick Statements (Import)" }
 
-Let me give a brief overview of typical building blocks for communicating your
-research. They are all useful on their own and you can combine them to use their
-strengths together.
+Try to limit the different colors and fonts you use and pick ones that are obviously different. When you arrange elements, align them to each other and take care that repeated elements have the same distance from each other. Following these hints will already lead to better looking diagrams:
 
-### Text
+![Visualization of data processing steps. The diagram looks more clear: distances, alignment and font-use are consistent, the icons are removed.](images/05_communication_graphicExample_Better.svg){#GraphicExample_Better alt="A better-looking diagram showing steps for data processing: System Catalog → (Export)→CSV Files (Modeling)→Open Refine (Reconciliation)→Quick Statements (Import)"}
 
-Text is as very versatile way to convey information. On the downside, text may
-seem not as quickly accessible as a diagram or a sketch. To lower the barriers,
-make sure that people know why they are reading your text. Give essential
-information at the beginning (What is this text about? Why was the work done?)
-and make sure that it is easy to get a quick overview:  Structure your text
-using headings, lists and italics to guide the reader.
+Many tools like PowerPoint, slides or Illustrator have distribution and alignment function that save you the work to manually move all elements.
 
-![A page spread from a report.](images/exampleWrittenReport.png)
+> _Tip:_ Designs, diagrams and picking photos needs expertise. When you can work with a visual designer, you can save yourself a lot of work and get high quality results. 
 
-There are lots of books which explain how to write concise and easy-to-get text.
-The most efficient guide I know was given by George Orwell in “Politics and the
-English Language”—I quote:
+Visual elements like diagrams and photos should, like text, be focused on a clear purpose and avoid elements that detract from this purpose. Avoiding flourishes, cropping images to their most important point and using few fonts and colors in diagrams helps readers to make sense of the content.
 
-> 1. Never use a metaphor, simile or other figure of speech which you are used
-to seeing in print.
-> 2. Never use a long word where a short one will do.
-> 3. If it is possible to cut a word out, always cut it out.
-> 4. Never use the passive where you can use the active.
-> 5. Never use a foreign phrase, a scientific word or a jargon word if you can think of an everyday English equivalent.
-> 6. Break any of these rules sooner than say anything barbarous.
 
-^[[Orwell’s Rules for
-writers.](http://wikilivres.ca/wiki/Politics_and_the_English_Language)]
+## Common forms of documentation
 
-In addition, read the text aloud—in particular, if you already noticed that
-you have had difficulties finding the right word or to express a complicated
-concept. If you need to re-read sentences to make sense of them or to stress the
-right words, you should go for a rewrite.
+I will introduce you to three ways to summarize your research: Posters, slide decks and reports. These formats have different strengths, and they supplement each other. For a large project you might create all three, while for a smaller project you might only deliver a slide deck or a report.
 
-### Quotes
+<!-- TODO:  Tip or sidebar: send an early version of your deliverables to collaborators/close stakeholders. 
 
-Quotes convey the participant’s motivations and feelings. This is important to
-help others to have empathy with the users.
-
-> **Rather abstract:** Users like the alignment function
->
-> **Combined with Quote**: Users like the alignment function. Sandy: “It is like doing work by magic—click! And it’s there!”
-
-Remember to protect the participant's identity if they did not give you the
-permission to share their quotes or names. If they did not give you the
-permission, only share a plausible, but faked “quote” and don't use real names
-but pseudonyms (made-up names) ones as well. Don’t deceive your audience either: mention that the
-names and quotes are not real but are only corresponding to their actual
-counterparts.
-
-### Scenarios
-<!-- TODO: Explain why scenarios are great: 1) Communication 2) Current use 3) Future use 4) Allowing What if and it-is in one format. Also: Usability tests -->
-
-
-Activities don’t happen in isolation from each other: They depend on previous
-activities and (possible changing) motivations. One way to communicate a
-sequence of interrelated activities is a scenario. Simply put, a scenario is a
-short story written as text or given as a sequence of images (like a comic)
-
-A good framework for writing scenarios is asking yourself these questions:
-
-- **Person**: Who is the main person in the scenario?
-- **Motivations**: Why does this person what he/she does? What is the motivation?
-- **Activities**: What are the actions of the person and how are they done?
-- **Context**: Where and When does the scenario take place?
-
-Answer them in your scenario:
-
-> Annika studies media culture and needs to finish her homework on “Cultural
-subconceptualist theory in the works of Koons” in order to hand the homework in
-on time. She goes to the library to see if the book on “Capitalism in the works
-of Rushdie” by Andreas Geoffrey contains arguments supporting her view on the
-structuralist paradigm.
->
-> She enters the library and walks up to one of the
-computers standing in the corners of the library's halls.
-> She wants to look
-up the name of the author, but she notes that she forgot the copy of the book
-that referenced the work. She still knows that “Rusdie” or “Rushdie” was in the
-title of the book she needs. After several trials she finds the right spelling
-of the name and, after scanning through a list, she finds the book she wants to
-read. The detail page of the search application gives the address of the library
-building she is in already and a code: “X0-3R52”… \[scenario may continue\]
-
-You could as well create a scenario as a series of sketches, like a comic strip:
-
-
-![ **1** the search interface of the library's
-computer **2** remembering the code. Is this character a zero or the letter
-›O‹? **3** I can’t find the right shelf! **4** I'd better ask somebody… …now I know where I need to go!](images/Scenario-Bibliothek-all.svg)
-
-
-### Diagrams
-
-![A diagram showing the sources and flow of files used by university
-students.](images/exampleDiagram_fileFlow.png)
-
-![A diagram showing the workflow in creating a software.](images/flowDiagram.svg)
-
-Diagrams are useful to show high-level concepts, relations and dependencies –
-for example showing which activities need to be done to create a page of a
-magazine or the ways a group of students shares files when working together on a
-joint project.
-
-You may use the summary diagrams you created in the analysis or create new
-diagrams for this step.
-
-### Photos and Illustrations
-
-Which one is easier to understand and less ambiguous:
-
-This:
-
-> The participant’s desk is rather tidy. In front of the keyboard is a book and
-on the book a calculator. Left hand are additional utilities, like…
-
-Or that:
-
-![](images/ObservationDesignU4Workplace.jpg)
-
-I suppose the image wins.
-
-While the above example just shows a setting, we could as well combine the
-strengths of text and images in an annotated photo.
-
-Or you could show your general findings about how people organize their desktops
-by sketching a prototypical arrangement of items.
-
-Illustrations and photos in particular have another function aside of getting
-information across: They make the research and its findings more graspable,
-intuitive and “real” for your audience. Just like scenarios and quotes they
-enable to imagine how your research participants acted which in turn helps to
-develop empathy for them. Consider again our example from above in which an
-image and a text were compared. The photo does not only give some abstract
-information. It shows that you have been with actual participant or—in this
-case—did research on actual tools they use.
-
-When using photos, remember to protect the privacy of your participants. Only
-show photos of their workplaces or of themselves if they agreed to it.
-
-## Typical documents for reporting results (“Deliverables”)
-
-You can combine text, images diagrams and scenarios in several ways to
-communicate your message. Let’s look at some possibilities.
+From previous version: 
 
 ### Quick findings
 
@@ -268,42 +99,107 @@ Quick findings are very useful if your audience:
 -   already know about your research and want to have a look at your progress
 -   have very little time, and need efficient access to your  results
 
-### Written Reports
 
-Written reports are roughly four to a several dozen pages long. Nevertheless,
-only deliver what the audience needs and wants to know—be concise. It is easy
-to get sidetracked and to write length and complex sentences.
+ -->
 
-Written reports consist mainly of text, but you should use images, quotes and
-diagrams too when they make sense.
-
-![Page spread from a report on wiki use for teaching at
-university.](images/exampleWrittenReport2.png)
-
-### Slides
-
-<!-- TODO: slides with you talking or as a container for information without you being there in person? -->
-
-Slides can deliver the same content as written reports or quick findings. They
-convey the information in a more visual way—so they have fewer text and more
-images, diagrams, and storyboards.
-
-If you give the presentation yourself try to deliver as few as possible of the
-information by text on the slides. You can do the talking and the slides
-supplement the information you give. On the other side, it may makes sense to
-use more text on the slides if you just share the slides with others and don’t
-present them yourself.
-
-![A row of slides from a presentation on wiki use for teaching at university.
-](images/slidesExample.png)
 
 ### Posters
 
-A poster is a great way to show the results in a way that is easy to grasp and
-will be consumed too by people who do not take specific interest in user
-research. They can be put up in a hallway for everyone who walks by.
+The great thing about posters is that they can become part of the environment the design team works in. The poster can be a reminder of the most important results, and team members can refer and point  to it in conversations.
 
-Focus on a few important findings and show them using  graphical elements and text.
-You also can create a big version of diagrams you created or summarized.
+Posters are the most compact way to summarize your research: Only the most important results get on a poster. Text should be short and structured with headlines. You can use graphics to their full potential on a poster. Complex processes or diagrams often suffer from the limited space they get in other media. Here they shine.
 
-![A poster showing three core findings from research with editors of the free online dictionary Wiktionary – By Wikimedia Deutschland, Licensed under CC-BY-SA 4.0, [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/) ](images/Poster_WiktionaryUsers_WMDE.png){ height=70% }
+c
+
+![Poster summarizing the research on improving cooking skills](images/Communication_PosterExample.png){#posterExample1 alt="A poster showing a research summary and several research findings on how people learn to improve their cooking skills using recipes and videos"}
+
+Other formats of posters might focus on a particular result  and visualize in depth. I did not do this for the research on using cooking instructions. The following image is an example from research I did on  cleaning and transforming  data before importing it in a public database, using multiple tools and skills from different domains:
+
+![Visualization of data processing steps.](images/05_communication_graphicExample_Better.svg){#GraphicExample_Better alt="Visualization of data processing steps."}
+
+> _Tip:_ Professional designers create posters in a desktop-publishing application like Adobe InDesign—but in many cases, a presentation application like PowerPoint works fine as well.
+
+> _Tip:_ If you have an office printer that prints A3, you can use it for a small poster; Large format printers in print shops make nicer and bigger posters.
+
+Posters can provide only limited information. This is a strength, as it helps you to focus, but for providing background and results beyond the essential findings, research is often documented in slide decks.
+
+### Slide decks
+
+Slide decks are versatile: They can both serve as a medium for documentation as well as delivering key points and visuals when presenting in person. The limited space on each slide helps to stay focused and write concisely. The slide format affords trying out different sequences and compiling longer or shorter decks depending on the information needs.
+
+I often structure my slide decks like this:
+
+* Title
+* Research project question
+* Executive summary: One slide with the most important results
+* Brief research method description
+* Result 1
+* Result 2
+* …
+* Takeaways (Similar to executive summary)
+
+
+Slides can come in different formats. A lot of research insights can be presented in lists:
+
+![Slide with a list](images/05_communication_SlideList.png){#slidesList alt="A slide showing requirements for cooking with recipes and instructions that become obvious only when they are not met"}
+
+Research results can feel rather abstract. One way to convey what you saw and heard when doing the research is sharing quotes and image examples: 
+
+![Giving a better impression of the research participants: Slide with quote.](images/05_communication_SlideQuote.png){#slidesQuote alt="A slide showing a participant quote (I thought it can’t be this hard, right?! But then I tried and it went quite badly) and an explanation of the context"}
+
+![Giving a better impression of what you observed: Slide with photo.](image/05_communication_SlidePhoto.png)
+
+You can use the slides to show diagrams and other forms of visualization. In the following slide, I visualize that recipes see straightforward, almost like algorithms, but that the actions that people do based on the recipe are far more complex: 
+
+![Giving helpful abstractions: Slide with a diagram](images/05_communication_SlideDiagram.png){#slidesVisualization alt="two diagrams, one a simple progression, the other a rather convoluted process"}
+
+A format that I did not use to present the results of the recipe-use-research, but which can be useful is a comparison, for example which factors support the use of a tool and which hinder it.
+
+![Proving a perspective for decisions: Slide with pro/contra list.](images/05_communication_SlideComparison.png){#slidesComparison alt="a slide with a list for pro and a list of contra points"}
+
+Such a summary is useful for evaluating (product) decisions and often you can place it after the executive summary.
+
+> _Note:_ There is some conflict between what should be on slides for _documentation_ and what should be on slides for actually _presenting in person_. For presenting, slides should ideally avoid repeating points you talk about—slide decks of professional speakers are often only illustrations and examples! If you want to deliver a top-notch presentation, consider creating a separate deck.
+
+Slide decks are a standard format for documenting research results and are used beyond their original purpose of providing images and graphics for talks. The format affords highly structured text and use of illustrations and thus matches the needs of ad-hoc use and quick understanding. However, it can be difficult to discuss complex issues and to give background information for people who want to dig deeper. For these needs, you best provide a written report. 
+
+### Reports
+
+Written reports allow you to discuss results and methods in depth. They demand focused reading. Depending on the research, a report can be about 15-50 pages long and can include a description of the methods, recruiting process and research session questions in an appendix. This makes them a good format for readers who need to deeply engage with the topic, but also for archiving and later reusing research results. The written report allows to spell out relevant context, motivations, and reasoning. This helps readers to make sense of the research results even  years later.
+
+The basic structure of a report can be the same as that of a slide deck. In a written report it can make sense to include an appendix with method description and a deeper discussion of the findings.
+
+* Title
+* Executive summary listing results, research question and brief method description (see [the following image](#writtenReportExecutive))
+* Results
+  * Result 1
+  * Result 2
+  * …
+* Result summary
+* Appendix
+  * In-depth description of research methods
+  * Recruiting method and sample
+  * Research session questions (“interview guide”)
+  * …
+
+![Executive summary page from a written report](images/05_communication_ExecutiveSummary.png){#writtenReportExecutive alt="Executive summary page from a written report"}
+
+
+While written reports demand focused reading, they should still be easy to understand and deliver essential information quickly. They should have an executive summary, and you can also summarize key points of their sections, much like in the chapters of this book. 
+
+In reports, you can describe your findings in-depth and deliver background information for readers who want a deep dive into the research and its methods. They are not the ideal medium for a quick overview. Your reports, no matter how extensive, will be build upon by their readers when they move beyond the immediate research results towards decisions and designs.
+
+### Beyond reporting research results
+
+For you, the research project usually ends with documenting your research and presenting it to the team or other stakeholders. But the use of the research results has just begun: If all goes well, team members and other colleagues will read it and  pass it on to colleagues. They might also use the research to create documents slightly removed from the research and more geared to design or business decisions: Personas, empathy maps, scenarios, or story boards.
+
+If your research reports can be easily understood and deliver interesting information, product managers, designers, developers, and writers will use them to learn about your participants and thus create products that match your user motivations, activities, and problems.
+
+## Summary
+* Research results can be used for strategic decisions as well as for smaller tactical ones.
+* Structure the information inverted-pyramid-style: The most important information comes first.
+* Use an active, concrete style.
+* Focus your graphics on their core message and avoid elements that do not contribute to it.
+* Posters give quick and visual research summaries.
+* Slides give an overview of your results that is easy to consume.
+* Written reports give in-depth information.

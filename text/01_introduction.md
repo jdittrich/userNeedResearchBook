@@ -1,103 +1,91 @@
-# Introduction
+# Research focused on understanding
 
-<!-- 
-Maybe I should connect these paragraphs better
--->
+_This chapter covers:_
 
-<!-- 
-"Finding" suggests passive/"view from nowhere" researcher. What are alternatives to the "finding" titel?
+* _What qualitative research is about_
+* _In which projects you can use qualitative research methods_
+* _Why research is not a linear process_
 
-…to research for useful products?
-…to the how and why of user’s work?
--->
+Although I am a user researcher since a while, every research project still brings a lot of surprises. What me and my colleagues want to know seems rather simple in the beginning, yet often turns out to be complex. When chatting about an ongoing research project with my peers, I often find myself telling about something that is surprising to me. Usually it is not the kind of surprise that makes the project more erratic, like stakeholders changing requirements without warning. It is the surprise of “Oh, I did not see it this way, but it makes a lot of sense now”, a better understanding of why (potential) users of a product do what they do.
 
-*Products should not only be usable but also useful. This means they satisfy a need of the people using them. But how do you know what is useful for users of future products? It helps to get to know users’  motivations, activities, and problems by gathering data and finding patterns. This text teaches methods for doing this.*
+This book is about  methods for understanding people you design for and about communicating what you learned. The methods used for this are interviews, observation and structuring the data into meaningful patterns. Such methods used are also called _qualitative methods_.
 
-\
+There are also research methods that do not focus on directly engaging with people but rather on testing and hypothesis using measurements and statistical analysis. These are often called _quantitative methods_. A typical example for quantitative research might be A/B testing: In AB testing,  two versions of an interface are compared by measuring which of the versions might, for example, generate more clicks.
 
- I found it hard to start with doing research on user needs because some approaches demanded a lot of  theoretical knowledge, while others assumed a large budget for research.
- I try to keep the barriers to doing research low by prioritizing methods that…
+>_Note:_ Other research methods
+>
+> Maybe this book is not what you are interested in. Maybe you rather want to learn about quantitative research using measurements and statistics. In this case, I recommend getting Jeff Sauro and James R. Lewis’ book [“Quantifying the User Experience”]( http://www.worldcat.org/oclc/957731269). If you then crave yet more math and complex methods, try Andy Field’s [“Discovering Statistics”](http://www.worldcat.org/oclc/1290244477) and his [“How to Design and Report Experiments”](http://www.worldcat.org/oclc/961100072).
+>
+> In case you are undecided whether you want to use qualitative or quantitative methods or just wonder what research methods there are, you can get an excellent overview and introduction to several methods with Erica Hall’s brief [“Just Enough Research”](http://www.worldcat.org/oclc/1256408019) or Goodman, Kuniavsky and Moed’s [“Observing the User Experience”](http://www.worldcat.org/oclc/1194531136)
 
-* are useful for design projects in business as well as in academia
-* work with a small  budget
-* are understandable and applicable without a specific (academic) background
- 
- I provide examples to make it easy to see how methods are used. More useful than an abstract  definition of methods like “asking open questions” or “clustering themes” is to see how these are put into action when doing research.
+Qualitative research is very helpful to get a holistic understanding of how a future product could be used. It is good to find out how motivations, activities, and problems lead to people doing what they do. For example, when people cook, it might be plausible to assume that:
 
-This text describes methods and tricks of the trade. They worked for me and I saw them work for others, too. However, they are not a list of rules that guarantee success if followed. Indeed, doing research by always following a prescribed way, no matter what, will lead to useless results since you could not react to whatever new things you find out. See this book as a travel guide ^[This idea, that a book on methods should be treated like a travel guide, is inspired by _Reassembling the Social_ by Bruno Latour, a book on so-called _Actor-Network-Theory_, describing a perspective that  is frequently taken in sociology of science], written by a person who has already traveled a bit. As in a travel guide, it can be helpful to follow the suggestions. But if the path I suggest can’t be walked, just  go around the obstacle. If people give you strange looks, maybe your current situation is one I have yet to experience and where my advice is not helpful. Feel free to adapt to what makes sense in your situation.
+* They decide what to eat
+* Get a recipe for the meal
+* Buy ingredients
+* Cook following the recipe
+* Eat
 
-Talking about adapting to your needs: This book is open source, which means it is both free-as-in-freedom and free-as-in-free-beer. This means you can not only read it for free, but also change and adapt it (Details are in [the license](#license)) I hope this helps to spread the knowledge and to improve this book together. Let me know of errors you find in it and tell me and others how the book is useful to you. 
+But in everyday life, people often don't follow this clear script: It will influence their actions that their kid or spouse prefer another food than them; They might wish for variety; they might see something that they fancy even more than what they initially decided for; they might not trust their cooking skills… If you want to build product that supports people when cooking or shopping groceries, it makes sense to understand how people actually do it. This does not mean that initial ideas or existing knowledge are wrong: Knowledge like “Programming is typing text that makes computers do stuff” or “Cooking is combining different groceries to get a meal” are not _wrong_. Such knowledge is just often not rich enough to develop products based on it.
 
-## User need research helps you to create more useful products
-
-Without research, assumptions about the user’s activities with current and to-be-created products are often shallow and do not involve the user’s context. They focus on some features being used, but not much more.
-
- > Let’s say I want to design an app that eases collecting and organizing knowledge snippets and their references to books and websites. The app should be targeted at PhD students. This is surely a great thing to work on—but without research, I would just have some disjointed ideas in my head: It should be more visual than other, similar software and have an efficient add-new-reference function, based on scanning the books barcode, because typing is not much fun… My assumptions about the context of use are very vague: The PhD students would use the application because they need to manage references.
-
- Instead, when you researched users’ needs, you can easily think of what is important to users in rich and detailed ways, considering intertwined activities, motivations and problems of users. This will be based on data. Furthermore, it will be structured by common patterns of the users’ behavior. Analyzing these patterns makes it easier to see where your research has gaps or potential. It also helps to communicate what you learned to others: You can talk about the patterns and give concrete examples.
-
-> In my research on collecting and organizing references with some students and professors I found several patterns which can guide my ideas for future design. I might consider that disciplines have very different ways of working. Thus, it could make sense to focus to natural scientists, whose literature is mostly digital, or on liberal arts, who are more paper based. Deciding this would give the project focus. It might need more research, though. Nevertheless, even the mathematicians or physicists do not work only digitally: Paper still plays a large role in their knowledge work. Users from every discipline used paper and computer at the same time. They scribbled things down in front of the screen and alternated between printouts and digital representations. Should my product try to get rid of paper by simulating the paper-based parts digitally? Or assume strength in the differences and just bridge the gap between screen and physical world? 
-> And we have not even touched finding and using review works, writing a publication, collaborating with other researchers… all this leading to more ideas that can be discarded, build upon or fed back in further research. 
-
-User research will help you to get a data-based, rich and conveyable image of the users motivations, activities and problems. This does help to tackle the right problems and to get new ideas of what could help the users. Without user research, you may also have assumptions about the user, but they can easily be wrong and will often be simplistic. 
-
-## User need research is an iterative process, not a linear one
-
-The process that I describe in this book may seem to be divided into clear steps, each step its own chapter: First you prepare your research, then you gather data, you analyze it, and, at the end, you communicate the results. 
-
-But in contrast to what the linear structure of this book suggests, it is very useful to switch between steps and also go back to previous ones:
-
-* If I talk to three students about eLearning (Step: *Data Gathering*), and two of them mention they use Facebook discussion groups for exchanging on learning tasks with peers, I could specifically recruit additional people (Back to step *Prepare your research*) who could walk me through a few of such groups.
-* If I notice in *data analysis*, that I can't make much sense of how students use different media together, I could  schedule a few sessions of listening and observing and focus on how a piece of information (like “the deadline got extended”) travels though different types of media (social networks, chat) and is transformed (maybe to “lets re-schedule the writing session”) in its use (and by that go back to *prepare research*, *data gathering* and *analyzing data*).
-
-User need research is an iterative process. Instead of doing all steps once, one after another, you can go back and forth. This allows using insights from later steps (like analysis) to shape earlier steps (like data gathering).
-
-## User need research is most useful before the product is being built
-
-User needs should be researched in *early* project stages. It is less useful when a lot of time and money has been spent already on building a particular product.
-
-Here are some scenarios in which user need research makes sense:
-
-**There is a broad topic or problem space, but very little is known yet.**  Not being focused on a particular product gives you a lot of freedom. Such projects are not very common, though. A possible task would be to _“find out about people using libraries”_ or even doing research on _“finding and working with information in media”_
-
-**There is an idea for a product or a service.** You want to find out user motivations, activities and problems that are important to consider when building a product or service. This is the scenario in which I use user need research most often. An example task is  _“The library wants to create an app for creating bibliographies. They want to find out what they need to consider for making it a useful product”_
-
-**A product is to be improved or changed.** If a substantial overhaul is planned, it makes sense to observe how the product is used to find out where user needs are unmet. A task could be:  _“The library already provides an app for creating bibliographies since several years. But students complain about it being useless and hard to use. Now, you should find out about the users to help the library to see how version 2.0 should be different.”_
-
-In all these examples, the outcome is not set yet: Your findings could make a difference and shape the outcome. But if the decisions are already made and your results won’t make a difference, don’t do the research: It will be a frustrating experience if even the most interesting results won’t change the project’s determined course.
+There are different ways in which such understanding can be helpful for a project. In the following section, I show several typical setups in which qualitative research can help you to develop a product.
 
 
+## Types of projects you can use qualitative research in {#projectTypes}
 
-## Our inquiry concerns the user, not our (future) product
+It makes sense to understand motivations, activities, and problems of potential users _before_ a lot of time and money has gone into product development. You can do research to understand potential users without having a working product at all and find out what their motivations, activities, and problems are now.
 
-You may be very motivated to start designing your future product now and research based on the product features you have in mind, asking for preferences and evaluate your product ideas with the users. But if you focus on the *product* now, your research findings will be tied that specific product—which may or may not be useful for your users. If you instead focus on the *user*, your findings will be independent of a particular product implementation.
+Still, understanding-focused research can also make sense when product development is already on its way, as long as this research can still influence the products further development. Depending on what is already set or not, there are different project types you can use understanding-focused research in.
 
-This idea can to be hard to grasp. One reason is that people assume that we ask questions like:
+### Research for open topic exploration
 
-* What do you want?
-* How should I design a product for you?
+Putting research at the very beginning of a project and having it as the primary driver puts the user needs first and gives you much freedom in your research, allowing you to focus on the user directly. An example would be to explore “Sharing recipes on the web” or “the future of cooking”. If you read case studies about design research led by famous agencies you will read about this type of research. Such projects are not common: Often there are more constraints.
 
-However, I don’t do this: It would not tell me much about the *how* and *why* of their actions—only that they want *something*. 
+### Research based on an idea for a new product or feature
 
-Sometimes, user need research is also confused with usability testing. In usability testing, you test a product to improve it. Usability testing is not about finding user needs that exists independent of that product.
+You want to find out user motivations, activities, and problems that are important to consider when building a product or service. This is the scenario in which I use user need research most often, for example in tasks like “We would like to build an app that allows people to curate recipes and use recipes when cooking”. The research is shaped by the initial idea, but what will be created in the end is not set yet.
 
-Paradoxically, we need to *let go* of our focus on *products* to be able to understand the users and to develop products that users need.
+### Research based on an overhaul of a product or feature
 
-## Should you do it?
+If a team plans a substantial overhaul of a product, it makes sense to observe how users use the product to find out where needs are not met. A task could be “We provide an app for curating and reading recipes. It has not been updated in several years and we want to increase its use among a younger target group by providing features attractive for them.” The research tasks is rather focussed: What is to be done is already mostly set, but research shall shape the way it is done.
 
-Before you get started with a reserach project there is a 
- first and very important choice to make: Should you actually do the research? 
- 
- There might be good reasons not to, actually. The products of the tech industry to their fair share of harm be it undermining democratic processes, using limited ressources to build more and more devices that need to be replaced all too soon and drive poor people into badly paid gig work while amassing profits for their shareholders. 
- 
- But even if you do not work for a big tech company you should be aware that the results of your reseach can have real consequences for real people. Here, it is important to be aware who will be affected when people act upon your research. Some  people might not match your or the clients idea of ‘users’ and thus are often excluded and not heard. Or the research would extract information from them, but the outcome of the research will be worsen their situation. 
+In all of these settings, understanding users can help to shape new products and features. But what the research focuses on, is shaped by the initial  goals. These constraints are one important influence on your research project. Another important factor is how you collaborate with others in the research project.
 
-These would all be good reasons to  **not** work on a research project.
+## Researching alone and together
 
-<!-- 
+Researchers can collaborate with others in different ways: Researching as a contractor is different from the research as a member of a product team.
 
+All methods in this book work fine if you need to run the research on your own. But researching alone is not a requirement: Research can and should be done collaboratively, distributing both work load and gained knowledge.
 
-PROBABLY REMOVE; IT IS HARD TO UNDERSTAND THAT THIS BELONGS TO THE MAIN  CHAPTER
-In this book, you can expect to learn easy, approachable, easy-to-learn ways to find user needs. Nevertheless, this text is not a collection of recipes and more like a travel guide through your first projects. 
+The way of collaboration depends on your mode of work. The following are three prototypical models for using the methods taught in this book: Research for _you_, research _for_ a team, and research _with_ a team.
 
-User need research should be done in early project stages. This way, your research can focus on the and your research can have an impact on the project’s outcome. -->
+### Research for you
+
+You can research even as a one-person-team—for example, if you are an entrepreneurial developer who wants to create a product yourself. Most entrepreneurial developers talk to others about the challenges they try to solve for their users and using the methods described in this book is similar, yet more rigorous.
+
+Researching by-you, for-you gives a lot of freedom but often has only tight resources and can easily lack structure.
+
+### Research for a team
+
+Research for a team is a typical situation for many research contractors. You develop a research question, usually together with some key representatives of client; do the research; and deliver the results back to your client. Often, people hire contractors because they do not have a researcher in their team, because the workload is too high, or because they want an outsider to bring knowledge into the team. While there is some collaboration, particularly when creating a research question and when delivering the results, you will do a large part of the work by yourself.
+
+### Research with a team
+
+Product development often involves several people and different roles. At least you have a product manager and developers, but you might also have UX designers, UI designers, market analysts, tech writers and many more roles.
+
+Having a common direction and making sense together is important. This is partly provided by communicating what you find out in your research. But even the best reports can fail to give the rich impressions that one has when researching. It can help a lot to involve people directly as co-researchers: You can set them up with some simple tasks and as they learn, give them more responsibilities and help them to bring in their individual skills.  The most common way of collaboration for me is people being co-researchers in interviews. They help with taking notes but also get time to ask their own questions depending on their skill and confidence.
+
+## Understanding is a messy process
+
+In qualitative research, you deal with new people and new situations constantly. This means uncertainty and surprises are part of all projects. I experienced that dealing with these uncertainties is one of the biggest challenges for beginners.
+
+University teachers, conference speakers, and agencies often present research as finding clear facts with rigorous methods and execution of research in clear subsequent steps. Such models are very helpful for giving your plans and actions structure, but they are idealized. It is helpful to keep this in mind.
+
+When you do an actual research project, it won’t always follow a clear and linear structure. It will need iterations and adjustments. Don’t think of it as failures to do “good research” when something does not go as planned. It is actually often a good sign to feel the need to adjust plans: It shows that you learned something new and are aware of it. Plan in time for such adjustments. If your research project is only possible if everything runs very smooth, it might be at the risk of going over time and budget. Also, you and the team might not learn a lot of new things as you can only do what you have expected anyway.
+
+## Summary
+
+* The methods discussed in this book focus on understanding and documenting the activities of people to design better products for them
+* Research projects can vary in their constraints they put on research: They can be very open and explorative or suggest a solution already
+* Research projects can vary in how you collaborate with other roles (or not): You can research for yourself, you can be part of a team you do research for or your can be brought in
+* Understanding-focused research methods can be challenging: Be prepared to learn new, surprising things and to adjust your plans
