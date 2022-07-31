@@ -5,7 +5,14 @@ STYLESDIR = styles
 TEMPLATEDIR=templates
 TEXTDIR=text
 YAMLMETA = $(TEXTDIR)/URBookMetadata.yaml
-TEXTSOURCES=$(TEXTDIR)/license.md $(TEXTDIR)/introduction.md $(TEXTDIR)/prepareTheResearch.md $(TEXTDIR)/dataGathering.md $(TEXTDIR)/afterTheSession.md $(TEXTDIR)/dataAnalysis.md $(TEXTDIR)/communicateResults.md $(TEXTDIR)/appendix.md
+TEXTSOURCES=\
+$(TEXTDIR)/license.md\
+$(TEXTDIR)/01_introduction.md\
+$(TEXTDIR)/02_prepareTheResearch.md\
+$(TEXTDIR)/03_dataGathering.md\
+$(TEXTDIR)/04_dataAnalysis.md\
+$(TEXTDIR)/05_communicateResults.md\
+$(TEXTDIR)/06_appendix.md
  
 help:	
 	@echo ' '
@@ -32,8 +39,6 @@ help:
 	@echo '-recommended'  
 	@echo 'pdf needs additionally for adding the cover image
 	@echo 'to the pdf: pdftk, inkscape'
-
-	
 
 html:
 	pandoc --toc -V lang=en -H $(TEMPLATEDIR)/includeHeader.pandoc -B $(TEMPLATEDIR)/includeBefore.pandoc -A $(TEMPLATEDIR)/includeAfter.pandoc -A $(TEMPLATEDIR)/includeAfterScripts.pandoc -c $(STYLESDIR)/normalize.css -c $(STYLESDIR)/styles.css -c $(STYLESDIR)/print.css -c $(STYLESDIR)/websiteSpecific.css -t html5 -o index.html $(YAMLMETA) $(TEXTSOURCES)
