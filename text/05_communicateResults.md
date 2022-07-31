@@ -109,9 +109,7 @@ The great thing about posters is that they can become part of the environment th
 
 Posters are the most compact way to summarize your research: Only the most important results get on a poster. Text should be short and structured with headlines. You can use graphics to their full potential on a poster. Complex processes or diagrams often suffer from the limited space they get in other media. Here they shine.
 
-c
-
-![Poster summarizing the research on improving cooking skills](images/Communication_PosterExample.png){#posterExample1 alt="A poster showing a research summary and several research findings on how people learn to improve their cooking skills using recipes and videos"}
+![Poster summarizing the research on improving cooking skills](images/05_communication_PosterExample.png){#posterExample1 alt="A poster showing a research summary and several research findings on how people learn to improve their cooking skills using recipes and videos"}
 
 Other formats of posters might focus on a particular result  and visualize in depth. I did not do this for the research on using cooking instructions. The following image is an example from research I did on  cleaning and transforming  data before importing it in a public database, using multiple tools and skills from different domains:
 
@@ -147,7 +145,7 @@ Research results can feel rather abstract. One way to convey what you saw and he
 
 ![Giving a better impression of the research participants: Slide with quote.](images/05_communication_SlideQuote.png){#slidesQuote alt="A slide showing a participant quote (I thought it can’t be this hard, right?! But then I tried and it went quite badly) and an explanation of the context"}
 
-![Giving a better impression of what you observed: Slide with photo.](image/05_communication_SlidePhoto.png)
+![Giving a better impression of what you observed: Slide with photo.](images/05_communication_SlidePhoto.png){#slidesPhoto alt="A slide showing a photo of a bowl with cake dough. The slide’s headline reads:“The food is at the center, not the instructions”"}
 
 You can use the slides to show diagrams and other forms of visualization. In the following slide, I visualize that recipes see straightforward, almost like algorithms, but that the actions that people do based on the recipe are far more complex: 
 
