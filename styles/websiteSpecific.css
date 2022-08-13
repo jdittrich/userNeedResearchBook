@@ -6,6 +6,8 @@
 	}
 }
 
+body{font-family: Georgia, 'Charis SIL', Palatino, serif}
+
 @media screen {
 
 	/*enables hiding pandoc auto-generated TOC*/
@@ -26,12 +28,12 @@
 
 
 #layoutWrapper #autoToc{
-	font-family:sans-serif;
+	font-family:Calibri, "Trebuchet MS", sans-serif;
 	color:black;
 	background:rgb(245,245,245);
 	top: 0px;
 	left: 0px;
-	font-size:0.8rem;
+	font-size:0.9rem;
 	box-sizing: border-box;
 	min-width:auto;
 	height:auto;

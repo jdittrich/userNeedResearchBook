@@ -19,7 +19,7 @@ These are books written for academic researchers. Why should you bother with aca
 
 * **Shane, the Lone Ethnographer: A Beginner's Guide to Ethnography** by Galman, Sally Campbell. Lanham: Rowman Altamira. ISBN 978-0-759-10344-3 <br /> *Lots of the methods I described originated in ethnography. This book gives an hands-on and thoughtful introduction to ethnography. Comes as a comic and is fun to read. Minor flaw: The lettering is a bit obscure*
 * **The Good, the Bad, and the Data** by Galman, Sally Campbell.  Walnut Creek, California: Routledge, 2017. ISBN 978-1598746327 <br /> *Shane is back and now she focuses on data analysis. Great overview of established paradigms. Like the “Lone Ethnographer” it is a comic and easy to understand. I think the lettering’s readability was improved a bit.*
-* **Successful Qualitative Research : A Practical Guide for Beginners** by Clarke, Victoria; Braun, Virginia. London: SAGE, 2013. ISBN 978-1-847-87581-5 <br /> *This book is aimed at  aspiring academic researchers. Hands-on, but covers the underlying (social science) theory as well. It inspired much of the analysis section in this book. Interesting for those who want to know more about doing thorough analysis of data (using the method of “Thematic Analysis”)*
+* **Successful Qualitative Research : A Practical Guide for Beginners** by Clarke, Victoria; Braun, Virginia. London: SAGE, 2013. ISBN 978-1-847-87581-5 <br /> *This book is aimed at aspiring academic researchers. Hands-on, but covers the underlying (social science) theory as well. It inspired much of the analysis section in this book. Interesting for those who want to know more about doing thorough analysis of data (using the method of “Thematic Analysis”)*
 * **The Ethnographic Interview** by  James P. Spradley. Waveland Press. ISBN-13: 978-1478632078 <br /> *Focuses on understanding the participants’ language and jargon and consequently less on participants’ activities. Nevertheless a great intro, particularly the annotated examples.* <!-- thanks to Jonathan Morgan, Wikimedia, for suggesting this book -->
 
 
@@ -40,72 +40,3 @@ If you read this on a computer, you  can download the templates via right-click 
 ![ Co-Documentation Template for diagramming the context of a participant’s work](images/CoDocument_Template_PeopleCollaboration_eng.svg)
 
 ![Co-Documentation Template for documenting a workflow](images/CoDocument_Template_Process_eng.svg)
-
-### Consent and Release Form {#consentForm}
-
-(based on a form from
-[http://www.usability.gov](http://www.usability.gov/), [downloadable here](http://www.usability.gov/how-to-and-tools/resources/templates/consent-recording-release-form-adult.html),
-released as public domain)
-
-\
-
-\
-
-**Consent & Recording Release Form - Adult**
-
-
-\
-\
-
-I agree to participate in the study conducted and recorded by the
-[Agency/Organization].
-
-\
-
-I understand and consent to the use and release of the recording by
-[Agency/Organization]. I understand that the information and recording
-is for research purposes only and that my name and image will not be
-used for any other purpose. I relinquish any rights to the recording and
-understand the recording may be copied and used by [Agency/Organization]
-without further permission.
-
-\
-
-I understand that participation in this study is voluntary and I agree
-to immediately raise any concerns or areas of discomfort during the
-session with the study administrator.
-
-\
-
-Please sign below to indicate that you have read and you understand the
-information on this form.
-
-\
-
-Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-\
-
-Please print your name: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-\
-
-Please sign your name: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
-
-\
-
-Thank you!
-
-
-\
-
-We appreciate your participation.
-
-\
-\
-
-\
-\
-
-\
-\
