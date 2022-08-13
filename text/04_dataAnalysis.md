@@ -157,13 +157,13 @@ Here is a part of an analysis showing data, organized in themes and sub-themes:
 
 * Overarching theme: Finding inspiration/New Recipes
   * Sub-theme: Stumble on content
-    *  Data: Sometimes something baking-related pops up on YouTube
-    *  Data: Online news sites sometimes have recipes
-    *  …
+    * Data: Sometimes something baking-related pops up on YouTube
+    * Data: Online news sites sometimes have recipes
+    * …
   * Sub-theme: Direct search, when there is a specific reason
-    *  Data: “I wanted to bring a cake for a party of a friend, so I looked for something with chocolate (they like it)
-    *  Data: “After switching to vegan, I searched for variants of non-vegan food I like”
-    *  …
+    * Data: “I wanted to bring a cake for a party of a friend, so I looked for something with chocolate (they like it)
+    * Data: “After switching to vegan, I searched for variants of non-vegan food I like”
+    * …
   * Sub-Theme: Recommendations by friends
   * …
 
@@ -180,7 +180,7 @@ Themes might grow over time when you add notes to the theme. Consider this alrea
   * Data: Sometimes something baking-related pops up on YouTube
   * Data: Online news sites sometimes have recipes
 
-When I have this note:  _“I wanted to look up how much lentils go in the soup and doing so, I saw a great photo of a chocolate-nut cake”_, it makes sense to group it under the “Coming across content”-theme, too.
+When I have this note: _“I wanted to look up how much lentils go in the soup and doing so, I saw a great photo of a chocolate-nut cake”_, it makes sense to group it under the “Coming across content”-theme, too.
 
 This is only a rather simplified overview of the process. In practice, you will also spend time searching through data, rewriting theme titles and may need to step back or just sleep over it to find a good new way to make sense of your data.
 
@@ -222,7 +222,7 @@ If we use the same notes again but organize them based on insights, this could l
 
 * Theme : Avoid active organization
   * Data: I just search recipes again online
-  * Data:  My recipes are in this stack of paper.
+  * Data: My recipes are in this stack of paper.
 * Theme: Active organization
   * Data: I bookmark recipes in my browser
   * Data: When I find a good recipe, I print it and put in a section in this folder.
@@ -249,7 +249,7 @@ Annotations can be full sentences, as well as short list of words. Usually, they
 As an example, here are annotations I added to two lines in my notes:
 
 * “I don’t know how to make a sponge mixture” (she thus buys it ready-made) _Note: Use of prepared/buy-able ingredients; possible group: “Externalization”_
-*   I rather add some more oil, here, this is too few. _Note: Expanding original recipe; expression of taste?; correction?_
+* I rather add some more oil, here, this is too few. _Note: Expanding original recipe; expression of taste?; correction?_
 
 <!-- EXAMPLE-END -->
 
@@ -270,7 +270,7 @@ After annotating your data, you should take the decision in which media you want
 
 The analysis methods described here can be used in both media. Nevertheless, each way has different strengths.
 
-Analysis in a word processor is lightweight: Any word processor will do the job. However, it does not lend itself very well to collaboration: Even when your software allows editing collaboratively, the process is a bit awkward.  Collaboration is where using sticky notes shines: It is a very direct and intuitive process to move data. This applies particularly for actually using physical rather than digital sticky notes, as adding, moving or pointing at notes happen intuitively visible in a shared space.
+Analysis in a word processor is lightweight: Any word processor will do the job. However, it does not lend itself very well to collaboration: Even when your software allows editing collaboratively, the process is a bit awkward. Collaboration is where using sticky notes shines: It is a very direct and intuitive process to move data. This applies particularly for actually using physical rather than digital sticky notes, as adding, moving or pointing at notes happen intuitively visible in a shared space.
 
 
 ![Data organized as indented lists in a word processor](images/04_analysis_analysisInWordProcessor.png){#analysisInWordProcessor}
@@ -282,7 +282,8 @@ Analysis in a word processor is lightweight: Any word processor will do the job.
 > 
 > Their approach to analysis is slightly different to what I suggest here. The approach I discuss is based on moving and clustering notes under themes by talking your data and reorganizing it. Most qualitative data analysis applications do not reorganize data and move it around, but tag sections in the original data.
 > 
-> The advantage is that you can more easily consider the data in its original context and that the data based-retrieval allows you to do data retrieval based on complex criteria. > However, this also means that tagging and retrieval and separate actions which can make it hard for beginners to develop their skills.
+> The advantage is that you can more easily consider the data in its original context and that the data based-retrieval allows you to do data retrieval based on complex criteria. 
+> However, this also means that tagging and retrieval and separate actions which can make it hard for beginners to develop their skills.
 > 
 > My suggestion is starting with the grouping approach I discuss here. After you gained some experience, have a look at some qualitative analysis applications and test if their approach suits you.
 
@@ -298,7 +299,7 @@ For getting your data in a suitable format, I suggest the following steps:
 
 In a word processor, you cluster your data by moving lines close to each other, so you can put them in a bulleted list. You can rearrange lines using copy-and-paste or drag-and-drop.
 
-To name groups of notes, put a headline above the list of notes that represents your group.  Create a hierarchy by using different paragraph styles—bigger headlines for overarching themes-of-themes, smaller headlines for themes. If you use paragraph styles to format your headlines, you can use the navigation tool of the word processor navigate through your structure, which is very useful.
+To name groups of notes, put a headline above the list of notes that represents your group. Create a hierarchy by using different paragraph styles—bigger headlines for overarching themes-of-themes, smaller headlines for themes. If you use paragraph styles to format your headlines, you can use the navigation tool of the word processor navigate through your structure, which is very useful.
 
 #### Analysis via sticky notes
 
@@ -306,13 +307,13 @@ For getting your data in a suitable format, you need to print your notes. I desc
 
 For creating groups of notes, you simply move sticky notes closer together. This is great for expressing varying degrees of certainty. When you are confident in a group you can order the notes in clear rows or lines, while sticky notes you are not sure about yet might just be close, but not yet in the cluster.
 
-For group titles, use sticky notes in a different color—write your group titles on sticky notes and add them to the group.  Color-coding by hierarchy can be helpful: If you print your data points on white paper, you can use yellow sticky notes for group titles and pink ones for titles of a group of groups.
+For group titles, use sticky notes in a different color—write your group titles on sticky notes and add them to the group. Color-coding by hierarchy can be helpful: If you print your data points on white paper, you can use yellow sticky notes for group titles and pink ones for titles of a group of groups.
 
 > _Tip:_ Printing data for analyzing on sticky notes
 > 
 > When you want to do your analysis on analog printed notes, you need to print them. Here is the setup I use:
 > 
-> 1.  Create table in a word processor with 2 columns and many rows. Each table cell will be a note.
+> 1. Create table in a word processor with 2 columns and many rows. Each table cell will be a note.
 > 2. In the table settings…
 >   * …switch off “Allow row to break across pages”, so that one note/table cell will not be split between pages.
 >   * … choose a decent padding around each cell, like 0.5 cm
@@ -403,7 +404,7 @@ For example, a group that I could create early from my data was “customizing r
 
 This is a good start, but I need to test the structure and improve it. There are some points that should be tackled. From the participant codes, I could see that the notes in “not following recipes” were just from one person for now. To see if the group holds up beyond my initial intuition, I need to see if there are other notes from other research sessions.
 
-When reading more notes, I find that there are not many notes that match “customizing recipes” in the sense of deliberately adding or swapping ingredients: These were mostly from just one participant.  But there are quite some notes on research with other participants that are on customizing recipes in the sense of not doing exactly what is written in the recipes, like:
+When reading more notes, I find that there are not many notes that match “customizing recipes” in the sense of deliberately adding or swapping ingredients: These were mostly from just one participant. But there are quite some notes on research with other participants that are on customizing recipes in the sense of not doing exactly what is written in the recipes, like:
 
 * I did not have shallots, but I used onions.
 * It also tastes well when I do not wait for two hours.
@@ -448,7 +449,7 @@ This new group title did not match all notes anymore, though. I removed “Readi
 
 Renaming groups usually requires moving some data between groups in order to accommodate the data to the improved structure, which I discuss in the next section.
 
-####  Move data to other groups
+#### Move data to other groups
 
 When improving your structure, it might be necessary to remove pieces of data from groups, either moving the data to a temporary “misc” group or to another, more suitable group.
 
@@ -465,9 +466,9 @@ For example, I reviewed a group that I called “Problems”. Initially, I put n
 * Recipes are hard to use with dirty hands—in books as well as on the phone.
 * …
 
-The group has served its purpose well and provided me order early in the process. However, it had a rather broad topic and the data was only related by being about any kind of problem. I could have structured the problems in different sub-groups, but I decided to  dissolve the group and see if the data fits somewhere else or helps me to create new groups.
+The group has served its purpose well and provided me order early in the process. However, it had a rather broad topic and the data was only related by being about any kind of problem. I could have structured the problems in different sub-groups, but I decided to dissolve the group and see if the data fits somewhere else or helps me to create new groups.
 
-I could place the note on not having risotto rice in a group on altering recipes and the reasons for that. It turned out that missing ingredients and their replacement were really common and the note made sense there.  The problematic pizza dough got moved to a group that was called “improving ” (Not an ideal title, either!). I was unsure what to do with the note on forgetting the salt. I put this note in a misc section where I placed the notes I was unsure about. It later became part of a group on accidental diversions from recipes. Recipes being hard to read with dirty hands made a lot of sense, particularly if one of the initial product ideas was to provide recipes and instructions. There were two similar notes by other participants in the “Problems” group. For now, I created a new group called “Recipe handling problems”.
+I could place the note on not having risotto rice in a group on altering recipes and the reasons for that. It turned out that missing ingredients and their replacement were really common and the note made sense there. The problematic pizza dough got moved to a group that was called “improving ” (Not an ideal title, either!). I was unsure what to do with the note on forgetting the salt. I put this note in a misc section where I placed the notes I was unsure about. It later became part of a group on accidental diversions from recipes. Recipes being hard to read with dirty hands made a lot of sense, particularly if one of the initial product ideas was to provide recipes and instructions. There were two similar notes by other participants in the “Problems” group. For now, I created a new group called “Recipe handling problems”.
 <!-- EXAMPLE-END -->
 
 By moving notes to other groups you can put notes where they make the most sense. In many cases this means dissolving old groups and creating new ones. But moving data can also happen without larger restructuring just by moving one or two notes from one group to another because they make more sense there. Another case is not moving data between groups, but getting better structures within groups, which is the topic of the next section.
@@ -489,9 +490,9 @@ As the group grew and grew, it became obvious that it lacked structure.
 
 Going through the notes, I extracted two sub-groups. Notes like “I want to be able to make mousse au chocolate myself” and “The pizza dough is a bit too cookie-like; I try to improve that” went into a sub-group that I called “self-directed improvement”. I later renamed it to “Getting skills to cook a certain dish”, as almost all notes in the group mentioned that participants wanted to create a specific dish themselves.
 
-I created another sub-group  with notes like “A friend suggested I stir fry the vegetables, so I tried to learn about that.” and “I looked up how to glaze onions after a recipe mentioned it and I did not know how”. I named these “cooking words” initially, as learning skills was triggered by reading or hearing a term referring to something they could or should do (“Stir fry”, “Glaze”)—but they did not know how. “Cooking word”, however is only understandable in context and to make the group title be understandable on its own, I renamed it to “Learning skill triggered by learning about a special term”
+I created another sub-group with notes like “A friend suggested I stir fry the vegetables, so I tried to learn about that.” and “I looked up how to glaze onions after a recipe mentioned it and I did not know how”. I named these “cooking words” initially, as learning skills was triggered by reading or hearing a term referring to something they could or should do (“Stir fry”, “Glaze”)—but they did not know how. “Cooking word”, however is only understandable in context and to make the group title be understandable on its own, I renamed it to “Learning skill triggered by learning about a special term”
 
-Drawing notes in these sub-groups made the  “reasons to improve skills”- group’s content far less unwieldy. Not all notes did fit in the sub-themes, so I kept quite some under the  “reasons to improve skills”-group directly, but still, it was far easier to understand now.
+Drawing notes in these sub-groups made the “reasons to improve skills”- group’s content far less unwieldy. Not all notes did fit in the sub-themes, so I kept quite some under the “reasons to improve skills”-group directly, but still, it was far easier to understand now.
 <!-- EXAMPLE-END -->
 
 When the structure of your analysis gets more and more stable, it is time to wrap up your analysis and give it the final touch.

@@ -548,7 +548,7 @@ Supplementing your notes, sketches, and diagrams is important: Some data may mak
 > “Needs recipes with _No milk_
 > because: milk = stomachache. Dairy free recipes: Vegan blogs as go-to-source”.
 
-Similarly, if my writing is rather messy, I rewrite some words to ensure that I can later decipher what I wrote (See figure <<correctingWritingNotes>>).
+Similarly, if my writing is rather messy, I rewrite some words to ensure that I can later decipher what I wrote (See the [following figure](#correctingWritingNotes)).
 I write and draw my supplements in another color than the color of the original notes. When I wrote my notes during the interview with a blue pen, I use black for the supplements or vice versa, since I like to keep track of what I did in which step of the process.
 
 <!-- TODO -->

@@ -191,7 +191,7 @@ Reasons for the such unsatisfactory results could include the following:
 
 * Your research encompasses different groups of people with different needs—For example, for cooking it might matter if participants are parents who cook for their kids or if they just cook for themselves.
 * The topic of your research is too broad—for example, “How and why do people cook” would be very, very broad.
-*  Even if your research is focused and there is only one group of people involved, the actual patterns just vary.
+* Even if your research is focused and there is only one group of people involved, the actual patterns just vary.
 
 In all these cases you can involve more participants—but before you do, try to check if you…
 
