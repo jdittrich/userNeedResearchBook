@@ -612,13 +612,13 @@ Pseudonymization means that you replace identifying information like names, plac
 
 Aside from names, there might be other data that could identify the participant, for example names of places, institutions, or job titles. If they can identify the participant, replace them with more general placeholders: “Hannover” might become “A city in the north of Germany.”
 
-> _Note:_ If you want to know more about pseudonymization, read “Anonymising interview data: challenges and compromise in practice” (2014) by Saunders, Kitzinger, and Kitzinger, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4582834/).
+> _Note:_ If you want to know more about pseudonymization, read [“Anonymising interview data: challenges and compromise in practice”](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4582834/) (2014) by Saunders, Kitzinger, and Kitzinger).
 
 You can’t make pseudonymization absolutely safe. If your research involves people who need particular protection against identification, you also might want to use a more elaborate way of pseudonymization and data protection—explaining that is beyond the aims of the book and research with vulnerable people is not a good setting to get started with user need research in the first place, anyway.
 
 ### Organize and archive your data
 
-It should be easy to find out later which data was from which participant and how notes, sketches, diagrams and possible audio recordings fit together.
+It should be easy to find out later which data was from which participant and how notes, sketches, diagrams, and possible audio recordings fit together.
 
 Take care that all sheets of paper and files have the following:
 

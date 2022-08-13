@@ -35,7 +35,7 @@ Understanding your data by interpreting commonalities and contrasts is a basic a
 
 ## Doing the “right” analysis
 
-In [“Learning from Research Participants”](#rightAnswers) I wrote about the question of influence in interviews and observations. I said that the researchers can’t take themselves out of the research and that their approach has an impact on the results—but also that this is a strength of the method and nothing we can and should avoid.
+In [“Learning from Research Participants”](#rightAnswers), I wrote about the question of influence in interviews and observations. I said that the researchers can’t take themselves out of the research and that their approach has an impact on the results—but also that this is a strength of the method and nothing we can and should avoid.
 
 Your impact on the results of the analysis is similar. Even if the same data is used, different people will come to different conclusions. This is because the result of the analysis depends on the reasonable, but still individual and debatable, interpretation of the data: You might think that an utterance like, “I add some sugar here, even thought the recipe does not say so,” should be best interpreted as “loves sweetness.” But it could be that this should be seen rather as an expression of “personal creativity” or “need to improve the recipe.” There is no right or wrong interpretation. Most important is that your analysis is plausible and based on the data you collected.
 
@@ -66,19 +66,19 @@ Now, we focus on how to analyze them and bring them bring it into an easy-to-gra
 2. Finding commonalities and contrasts
 3. Summarizing the diagrams in a diagram of your own.
 
-> _Note:_ You can intertwine both analyzing diagrams and you notes. Although I described the methods of analysis in different sections of this book, you can use knowledge from one to better make sense of the other.
+> _Note:_ You can intertwine both analyzing diagrams and your notes. Although I described the methods of analysis in different sections of this book, you can use knowledge from one to better make sense of the other.
 
 ### Preparing diagrams
 
 To prepare the analysis, you write annotations on the diagrams. For this, you can photocopy the diagrams and write on the copies.
 
-> _Note:_ If you like to keep it digital, you can use any application that can add text over images, for example Inkscape (https://inkscape.org/).
+> _Note:_ If you like to keep it digital, you can use any application that can add text over images, for example [Inkscape](https://inkscape.org/).
 
 If you collaborate with others, it makes sense to distribute the initial annotations among the group. After that, everyone shares their annotations and others can ask questions or suggest additions or changes. This way, you get both diverse input and a shared understanding.
 
 My example in this section are diagrams in which people drew their process of cooking or baking and what made them feel good or bad when doing so.
 
-![Example for an annotated diagram](04_analysis_cookingGoodBad1.png){#cookingGoodBad1 alt="A diagram showing a graph that indicates the mood of the participant during the process of cooking a meal, including its preparation. There are annotations drawn on top in different colors."}
+![Example for an annotated diagram](images/04_analysis_cookingGoodBad1.png){#cookingGoodBad1 alt="A diagram showing a graph that indicates the mood of the participant during the process of cooking a meal, including its preparation. There are annotations drawn on top in different colors."}
 
 In this diagram, I made the following annotations:
 
@@ -423,7 +423,7 @@ If you analyze collaboratively, block some time for a review and collect a list 
 
 If you recently dealt with just a particular part of the analysis (like working on two particular themes), your view might be too narrow: Glance over the whole range of clustered data, and rediscover themes, which might be a better fit for some data.
 
-Take a look at the themes in relation to the data they encompass: Is there a fit or did you fall prey to wishful thinking? Possibly, there is actually only a weak match between the stated theme and the data. In this case, revise your structure.
+Take a look at the themes in relation to the data they encompass: Is there a fit or did you fall prey to wishful thinking? Possibly, there is actually only a weak match between the stated theme and the data. If this is the case, revise your structure.
 
 > _Tip:_ While you create the structure of your analysis, you will look at your notes, images, and diagrams again and again. Sometimes, you have data that is very helpful and expressive; a quote that expresses an insight very well or a photo that illustrates a problem. This data is not only useful for analysis, but also later when presenting your results. You can use it to illustrate how your insight are grounded in concrete observations. When you come across such data, it is useful later to store copies in a separate location for later use when preparing the research report.
 
@@ -452,9 +452,9 @@ Renaming groups usually requires moving some data between groups in order to acc
 
 When improving your structure, it might be necessary to remove pieces of data from groups, either moving the data to a temporary “misc” group or to another, more suitable group.
 
-While you should try to use  the data you have, it is most important to create sound and helpful themes based on the data—instead of just putting everything under a label.
+While you should try to use the data you have, it is most important to create sound and helpful themes based on the data—instead of just putting everything under a label.
 
-It is possible, that you can state an insight more clearly by rewriting the group’s title, but as a result, the clearer title may no longer encompass all data in the group. In this case, go for clarity of the groups title, even if it means that the theme does not encompass all the data currently subsumed in the group. Take out the data which does not fit the improved title and see if it might fit better to another group. If not, place it in a “not yet grouped” or “misc”-Group. Revise that “misc” group, when you made changes to your structure and see, if you can use the data from that group to enhance other groups.
+It is possible, that you can state an insight more clearly by rewriting the group’s title, but as a result, the clearer title may no longer encompass all data in the group. if this happens, go for clarity of the groups title, even if it means that the theme does not encompass all the data currently subsumed in the group. Take out the data which does not fit the improved title and see if it might fit better to another group. If not, place it in a “not yet grouped” or “misc”-Group. Revise that “misc” group, when you made changes to your structure and see, if you can use the data from that group to enhance other groups.
 
 <!-- EXAMPLE-START -->
 For example, I reviewed a group that I called “Problems”. Initially, I put notes here in which participants described problems as well as fixes to these problems.

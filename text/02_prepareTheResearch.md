@@ -3,7 +3,6 @@
 <!-- 
 TODOs/NOTEs
 —   https://docs.google.com/document/d/1107r9r6d-2-4MwRZX6eiZbMi1LuClOB2sZ88KcQP9ME/edit# (Alba researcher checklist)
-
 ---> 
 
 _This chapter covers:_
@@ -13,9 +12,8 @@ _This chapter covers:_
 * _Learning about your research field before going there_
 * _Recruiting participants for your research_
 * _Preparing research sessions_
-* _Preventing to harm  participants or yourself_
+* _Preventing to harm participants or yourself_
 * _Writing a cheat-sheet_
-
 
 It would be awesome if you could start with learning from people immediately. But before you meet your research participants, there is some preparation you need to do. It might not be the most glamorous part of being a researcher, but it is crucial to be well-prepared. Planning the research is important for you and your collaborators to get a common understanding of the research goals. The preparation is also useful for learning a bit about the field you are going to do research in. This prepares you for the next step: Finding potential participants and asking them if they would like to participate. As a researcher, you have responsibility for the effects of your research—on society, on participants and on you. Considering these beforehand avoids harm.
 
@@ -72,7 +70,7 @@ Here is an example of how it can be done:
 3. Asking how and why I come to “How do people learn new cooking skills when they cook with recipes?”
 4.  We can then refine the question a bit. The people we work with might want to focus not on enthusiasts but on people who have less cooking skills yet, assuming that enthusiasts are a more saturated market. So we can refine the research question to: “How do people with low to intermediate existing cooking skills learn new skills when they cook with recipes?”
 
-> _Tip:_  If you work as an embedded researcher in a team or with a client who emphasizes shared responsibilities and participation, you might not just have one person to involve in shaping the  research project question but several. In this case, a Research planning workshop might be helpful to gather input and to help the team to gain mutual understanding of their interests.
+> _Tip:_  If you work as an embedded researcher in a team or with a client who emphasizes shared responsibilities and participation, you might not just have one person to involve in shaping the research project question, but several. In this case, a research planning workshop might be helpful to gather input and to help the team to gain mutual understanding of their interests.
 
  The research project question is for aligning, communicating and planning the research project. It is relevant for you and the people you work with, but it is not relevant for your direct work with participants in research sessions. What matters in research sessions are the research session questions.
 
@@ -138,15 +136,15 @@ In my example project, the research project question is “How do people with lo
 
 Recruiting your potential research participants based on activities does not mean that you should ignore criteria that are not activities. Age, gender, ethnicity and other criteria have a large influence on how people act. It will make your research more interesting and potentially more equitable if you include potential participants from a wide range of such criteria. You can set criteria for the diversity of the participants your involve in your research.
 
-Concerning my example project, I know that cooking, as a domestic activity, is usually associated with women. I could say that I want at least a quarter of our group to not be woman. Similarly, if I would do research with programmers, it is a reasonable guess that many programmers are young, male, and white. Again, I can set criteria to have some participants older than 35, not to be male and not to be white.
+Concerning my example project, I know that cooking, as a domestic activity, is usually associated with women. I could say, that I want at least a quarter of the participants to not be woman. Similarly, if I would do research with programmers, it is a reasonable guess that many programmers are young, male, and white. Again, I can set criteria to have some participants older than 35, not to be male and not to be white.
 
 Defining your recruiting criteria along activities that are interesting for you ensures that you recruit participants who actually do what you are interested in. While the activities are the primary criterion, demographics are not be ignored: Having a demographically diverse group of people makes it more likely to observe a wider range of ways people go about their activities.
 
 ### Where does the research happen?
 
-Research should happen where the participants do the activity you want to learn about. In the example project, I am interested in how participants cook with recipes, so their kitchen would be the place to do the research: There, they can talk about the context and show me what they do. I can experience the context and see how much space they have in their kitchen, how they use space when cooking and where they keep their recipes. Researching where participants do the activities you are interested in is called a _site visit_.
+Research should happen where the participants do the activity you want to learn about. In the example project, I am interested in how participants cook with recipes, so their kitchen would be the place to do the research: There, they can talk about the context and show me what they do. I can experience the context and see how much space they have in their kitchen, how they use space when cooking and where they keep their recipes. Researching at the place where participants do the activities you are interested in, is called a _site visit_.
 
-However, it is not always feasible to do the research at the site of the activity. For example, some workplaces have a strict no-visitors policy. Some audiences might be globally distributed and long flights to each single participant would be very resource-intensive.  In-person site visits also not always the best way to gather data. For example, if almost all relevant interaction happens on a screen, talking and observing via video chat and screen-sharing might give you better opportunities to observe than looking over somebodies shoulder in their office.
+However, it is not always feasible to do the research at the site of the activity. For example, some workplaces have a strict no-visitors policy. Some audiences are be globally distributed and long flights to each single participant would be very resource-intensive.  In-person site visits also not always the best way to gather data. For example, if almost all relevant interaction happens on a screen, talking and observing via video chat and screen-sharing might give you better opportunities to observe than looking over somebodies shoulder in their office.
 
 Knowing what your research project will be like and where the research is going to happen is helpful when trying to find your participants for the research. You might also learn more about the field and the participants in the process of finding people and adjust the planned setup accordingly.
 
@@ -169,7 +167,7 @@ Ideally, you should pay your participants in cash as it poses the least restrict
 
 However, paying in cash is infeasible for many organizations. It might not be allowed or only be permitted for small amounts. Gift cards or vouchers are a common alternative. Sometimes, pre-paid VISA cards can also be a good choice. If your participants already use a product of yours, you could also reduce their monthly service fees for it or gift them a free upgrade.
 
-People might reject your compensation. In this case, explain to them that they spend time on your questions and that they are experts in what you want to learn about and that it is only fair for them to be paid. Also, participants might not be allowed to take any compensation, for example because they work for the government. If people reject the compensation or are not allowed to take it, it can be a nice alternative to offer to donate the money instead and let them pick from a list of 5 or so well known charities to choose where the money should go.
+People might reject your compensation. In this situation, explain to them that they spend time on your questions and that they are experts in what you want to learn about and that it is only fair for them to be paid. Also, participants might not be allowed to take any compensation, for example because they work for the government. If people reject the compensation or are not allowed to take it, it can be a nice alternative to offer to donate the money instead and let them pick from a list of 5 or so well known charities to choose where the money should go.
 
 If your work is commercial, pay your participants. However, if you do research as a student or for a small NGO you might only have a shoestring budget and people might be supportive of your cause already. If this is the case, I've had good experiences with giving a small gift to people—some premium chocolate bars or the like. The costs are relatively small and participants enjoyed the gift a lot.
 
@@ -181,7 +179,7 @@ If you have done quantitative research in the past, this will seem like a very s
 
 Nevertheless, doing research on only a very few users restricts the range of behavior and opinions that will be reflected in your research. For example, you might not notice that different people have different preferred ways to do an activity. As well, you might not see which patterns are consistent among several people and which vary. 
 
- My rule-of-thumb is having 3 to 7 participants in each user group. Our user group in our example project would be people who have low to intermediate existing cooking skills and cook with recipes. This means if you want to learn about many different groups of people, you also need more participants to cover these different groups. In our example project we focus on people who have low to intermediate existing cooking skills and cook with recipes. This is a rather focused research question. We would need to recruit more people if we would _also_ be interested in people who consider themselves cooking enthusiasts.
+ My rule-of-thumb is having 3 to 7 participants in each user group. Our user group in our example project would be people who have low to intermediate existing cooking skills and cook with recipes. This means if you want to learn about many groups of people, you also need more participants to cover these different groups. In our example project we focus on people who have low to intermediate existing cooking skills and cook with recipes. This is a rather focused research question. We would need to recruit more people if we would _also_ be interested in people who consider themselves cooking enthusiasts.
 
 When estimating how many participants you need, consider how much time or money you can spend on doing the research. Each additional participant gives you additional data and a broader view on your possible users. However, each research session needs time and adds to the amount of data to be analyzed.
 
@@ -269,7 +267,7 @@ When you have found people who would like to participate, you can schedule the r
 
 To allow participant’s to decide whether they want to be part of the research session is sharing information about what should expect and what you do with what you learn. This, in many cases is the _informed consent form._ However, treating it as just a form-to-be-signed  hides that consent and the information given for it are a vital part of researcher-participant communication.
 
-You should share relevant information and ask for consent early on. You can send these documents about a week ahead of the research session. This is better than presenting the  information and consent form the first time at the beginning of the research session, with the clock ticking and the researcher expecting a “yes” gives the participant little autonomy, although it might suffice legally.
+You should share relevant information and ask for consent early on. You can send these documents about a week ahead of the research session. This is better than presenting the information and consent form the first time at the beginning of the research session, with the clock ticking and the researcher expecting a “yes” gives the participant little autonomy, although it might suffice legally.
 
 When preparing the document, I try to include the following information:
 
@@ -337,7 +335,7 @@ In many cases it can be helpful to check for basic demographic variables too, li
 
 If you recruit via an agency, they will usually do the coordination for you. If not, it is up to you to ensure that participants remember the time and place to meet. The following are some relevant aspects to keep in mind:
 
-* _Being clear about time and date_: Even if it is a bit cumbersome I try to be very clear about time and date—particularly when doing research internationally. I use the day of the week, day, month and time in my mails or phone calls. If I research internationally, I also mention the time zone I talk about. In a mail, that might look like: _I could meet you on Monday, the 8th of November, 1pm (“Berlin time”/CET)_. Sending a calendar invite is also helpful as the calendar apps usually convert times and it makes it easy for participants to set a notification.
+* _Being clear about time and date_: Even if it is a bit cumbersome I try to be very clear about time and date—particularly when doing research internationally. I use the day of the week, day, month, and time in my mails or phone calls. If I research internationally, I also mention the time zone I talk about. In a mail, that might look like: _I could meet you on Monday, the 8th of November, 1pm (“Berlin time”/CET)_. Sending a calendar invite is also helpful as the calendar apps usually convert times, and it makes it easy for participants to set a notification.
 * _For remote meetings, be clear about the technology used_: Most video chat software runs also in any modern browser, so people do not need to install a special software. Let participants know how they can join the call. If you use a software you are not familiar with, give it a test run first.
 * _For real-life-meetings, find out if there are any special requirements_: Places have their own rules in many cases. I usually share what I expect with participants, so they can fill me in if the expectations would not match: “I will come to Big Street 6 and ring the bell for ‘Miller’” and maybe they tell you: “Oh, right, the bell has the name of my flatmate, Nguyen. So ring there.”
 
@@ -400,7 +398,7 @@ No matter the topic of the research, it is important to take time to process wha
 
  Research can be a lot of fun and earn you money. It also can be immensely motivating to be part of creating a new product. Tech industry’s culture is fueled by the idea of being a force for good by creating more efficiency, information, and connections with the technologies it introduces. User research is often part of creating these technologies—and what we enable with our research is also a question of ethics.
 
-The technologies we help to create also might do unjust things more efficiently, they might foster the spread of false and inflammatory information or destroy existing social structures. User research can fuel such developments, too: Researching work of low-paid delivery workers to create a more efficient app for a service platform? Research people’s ideas of good social relationships to make them spend more time on social media? Such research can be done perfectly ethical by itself, but its outcomes might not be ethical at all.
+The technologies we help to create also might do unjust things more efficiently, they might foster the spread of false and inflammatory information or destroy existing social structures. User research can advance such developments, too: Researching work of low-paid delivery workers to create a more efficient app for a service platform? Research people’s ideas of good social relationships to make them spend more time on social media? Such research can be done perfectly ethical by itself, but its outcomes might not be ethical at all.
 
  You, too, need to pay your bills and in many cases it won't be possible to do research only and always on projects with which you align 100%. But be aware that technology has social consequences and that your research can be part of building that technology.
 
