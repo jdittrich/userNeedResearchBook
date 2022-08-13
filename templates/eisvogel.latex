@@ -1,36 +1,36 @@
 %%
-% Copyright (c) 2017 - 2019, Pascal Wagler;  
-% Copyright (c) 2014 - 2019, John MacFarlane
-% Copyright (c) 2019, Jan Dittrich (Minor changes) 
-% 
+% Copyright (c) 2017 - 2020, Pascal Wagler;
+% Copyright (c) 2014 - 2020, John MacFarlane
+% Copyright (c) 2019, Jan Dittrich (Minor changes)
+%
 % All rights reserved.
-% 
-% Redistribution and use in source and binary forms, with or without 
-% modification, are permitted provided that the following conditions 
+%
+% Redistribution and use in source and binary forms, with or without
+% modification, are permitted provided that the following conditions
 % are met:
-% 
-% - Redistributions of source code must retain the above copyright 
+%
+% - Redistributions of source code must retain the above copyright
 % notice, this list of conditions and the following disclaimer.
-% 
-% - Redistributions in binary form must reproduce the above copyright 
-% notice, this list of conditions and the following disclaimer in the 
+%
+% - Redistributions in binary form must reproduce the above copyright
+% notice, this list of conditions and the following disclaimer in the
 % documentation and/or other materials provided with the distribution.
-% 
-% - Neither the name of John MacFarlane nor the names of other 
-% contributors may be used to endorse or promote products derived 
+%
+% - Neither the name of John MacFarlane nor the names of other
+% contributors may be used to endorse or promote products derived
 % from this software without specific prior written permission.
-% 
-% THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS 
-% "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT 
-% LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS 
-% FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE 
-% COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, 
+%
+% THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+% "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+% LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS
+% FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE
+% COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT,
 % INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING,
-% BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; 
-% LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER 
-% CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT 
-% LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN 
-% ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE 
+% BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+% LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+% CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT
+% LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN
+% ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 % POSSIBILITY OF SUCH DAMAGE.
 %%
 
@@ -61,7 +61,7 @@ $endif$
 $if(papersize)$
   $papersize$paper,
 $else$
-  a4paper,
+  paper=a4,
 $endif$
 $if(beamer)$
   ignorenonframetext,
@@ -75,8 +75,8 @@ $endif$
 $for(classoption)$
   $classoption$$sep$,
 $endfor$
-,tablecaptionabove
-]{$if(book)$scrbook$else$scrartcl$endif$}
+,captions=tableheading
+]{$if(beamer)$$documentclass$$else$$if(book)$scrbook$else$scrartcl$endif$$endif$}
 $if(beamer)$
 $if(background-image)$
 \usebackgroundtemplate{%
@@ -249,6 +249,14 @@ $endif$
 \definecolor{default-citecolor}{HTML}{4077C0}
 \definecolor{default-urlcolor}{HTML}{4077C0}
 \IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+$if(footnotes-pretty)$
+% load footmisc in order to customize footnotes (footmisc has to be loaded before hyperref, cf. https://tex.stackexchange.com/a/169124/144087)
+\usepackage[hang,flushmargin,bottom,multiple]{footmisc}
+\setlength{\footnotemargin}{0.8em} % set space between footnote nr and text
+\setlength{\footnotesep}{\baselineskip} % set space between multiple footnotes
+\setlength{\skip\footins}{0.3cm} % set space between page content and footnote
+\setlength{\footskip}{0.9cm} % set space between footnote and page bottom
+$endif$
 \IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
 \hypersetup{
 $if(title-meta)$
@@ -256,6 +264,9 @@ $if(title-meta)$
 $endif$
 $if(author-meta)$
   pdfauthor={$author-meta$},
+$endif$
+$if(lang)$
+  pdflang={$lang$},
 $endif$
 $if(subject)$
   pdfsubject={$subject$},
@@ -279,9 +290,16 @@ $if(verbatim-in-note)$
 \VerbatimFootnotes % allow verbatim text in footnotes
 $endif$
 $if(geometry)$
-\usepackage[margin=2.5cm,includehead=true,includefoot=true,centering,$for(geometry)$$geometry$$sep$,$endfor$]{geometry}
+$if(beamer)$
+\geometry{$for(geometry)$$geometry$$sep$,$endfor$}
 $else$
-\usepackage[margin=2.5cm,includehead=true,includefoot=true,centering]{geometry}
+\usepackage[$for(geometry)$$geometry$$sep$,$endfor$]{geometry}
+$endif$
+$else$
+$if(beamer)$
+$else$
+\usepackage[margin=2.5cm,includehead=true,includefoot=true,centering,$for(geometry)$$geometry$$sep$,$endfor$]{geometry}
+$endif$
 $endif$
 $if(logo)$
 \usepackage[export]{adjustbox}
@@ -306,6 +324,17 @@ $if(lhs)$
 $endif$
 $if(highlighting-macros)$
 $highlighting-macros$
+
+% Workaround/bugfix from jannick0.
+% See https://github.com/jgm/pandoc/issues/4302#issuecomment-360669013)
+% or https://github.com/Wandmalfarbe/pandoc-latex-template/issues/2
+%
+% Redefine the verbatim environment 'Highlighting' to break long lines (with
+% the help of fvextra). Redefinition is necessary because it is unlikely that
+% pandoc includes fvextra in the default template.
+\usepackage{fvextra}
+\DefineVerbatimEnvironment{Highlighting}{Verbatim}{breaklines,fontsize=$if(code-block-font-size)$$code-block-font-size$$else$\small$endif$,commandchars=\\\{\}}
+
 $endif$
 $if(tables)$
 \usepackage{longtable,booktabs}
@@ -326,8 +355,13 @@ $else$
 \makesavenoteenv{longtable}
 $endif$
 $endif$
+% add backlinks to footnote references, cf. https://tex.stackexchange.com/questions/302266/make-footnote-clickable-both-ways
+$if(footnotes-disable-backlinks)$
+$else$
+\usepackage{footnotebackref}
+$endif$
 $if(graphics)$
-\usepackage{graphicx,grffile}
+\usepackage{graphicx}
 \makeatletter
 \def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
 \def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
@@ -372,9 +406,10 @@ $if(pagestyle)$
 \pagestyle{$pagestyle$}
 $endif$
 
-% Make use of float-package and set default placement for figures to H
+% Make use of float-package and set default placement for figures to H.
+% The option H means 'PUT IT HERE' (as  opposed to the standard h option which means 'You may put it here if you like').
 \usepackage{float}
-\floatplacement{figure}{H}
+\floatplacement{figure}{$if(float-placement-figure)$$float-placement-figure$$else$H$endif$}
 
 $for(header-includes)$
 $header-includes$
@@ -386,7 +421,7 @@ $if(lang)$
   % See issue https://github.com/reutenauer/polyglossia/issues/127
   \renewcommand*\familydefault{\sfdefault}
   $endif$
-% Load polyglossia as late as possible: uses bidi with RTL langages (e.g. Hebrew, Arabic)
+  % Load polyglossia as late as possible: uses bidi with RTL langages (e.g. Hebrew, Arabic)
   \usepackage{polyglossia}
   \setmainlanguage[$polyglossia-lang.options$]{$polyglossia-lang.name$}
 $for(polyglossia-otherlangs)$
@@ -422,6 +457,14 @@ $for(bibliography)$
 \addbibresource{$bibliography$}
 $endfor$
 $endif$
+$if(csl-refs)$
+\newlength{\cslhangindent}
+\setlength{\cslhangindent}{1.5em}
+\newenvironment{cslreferences}%
+  {$if(csl-hanging-indent)$\setlength{\parindent}{0pt}%
+  \everypar{\setlength{\hangindent}{\cslhangindent}}\ignorespaces$endif$}%
+  {\par}
+$endif$
 
 $if(title)$
 \title{$title$$if(thanks)$\thanks{$thanks$}$endif$}
@@ -453,8 +496,6 @@ $if(logo)$
 \logo{\includegraphics{$logo$}}
 $endif$
 $endif$
-
-
 
 
 
@@ -491,12 +532,23 @@ $endfor$
 \fi
 $endif$
 
+$if(page-background)$
+\usepackage[pages=all]{background}
+$endif$
+
 %
 % for the background color of the title page
 %
 $if(titlepage)$
 \usepackage{pagecolor}
 \usepackage{afterpage}
+$if(titlepage-background)$
+\usepackage{tikz}
+$endif$
+$if(geometry)$
+$else$
+\usepackage[margin=2.5cm,includehead=true,includefoot=true,centering]{geometry}
+$endif$
 $endif$
 
 %
@@ -505,7 +557,7 @@ $endif$
 \PassOptionsToPackage{hyphens}{url}
 
 %
-% When using babel or polyglossia with biblatex, loading csquotes is recommended 
+% When using babel or polyglossia with biblatex, loading csquotes is recommended
 % to ensure that quoted texts are typeset according to the rules of your main language.
 %
 \usepackage{csquotes}
@@ -513,15 +565,18 @@ $endif$
 %
 % captions
 %
-\definecolor{caption-color}{HTML}{202020}
+\definecolor{caption-color}{HTML}{777777}
+$if(beamer)$
+$else$
 \usepackage[font={stretch=1.2}, textfont={color=caption-color}, position=top, skip=4mm, labelfont=bf, singlelinecheck=false, justification=$if(caption-justification)$$caption-justification$$else$raggedright$endif$]{caption}
 \setcapindent{0em}
+$endif$
 
 %
 % blockquote
 %
 \definecolor{blockquote-border}{RGB}{221,221,221}
-\definecolor{blockquote-text}{RGB}{12,12,12}
+\definecolor{blockquote-text}{RGB}{119,119,119}
 \usepackage{mdframed}
 \newmdenv[rightline=false,bottomline=false,topline=false,linewidth=3pt,linecolor=blockquote-border,skipabove=\parskip]{customblockquote}
 \renewenvironment{quote}{\begin{customblockquote}\list{}{\rightmargin=0em\leftmargin=0em}%
@@ -531,49 +586,64 @@ $endif$
 % Source Sans Pro as the de­fault font fam­ily
 % Source Code Pro for monospace text
 %
-% 'default' option sets the default 
+% 'default' option sets the default
 % font family to Source Sans Pro, not \sfdefault.
 %
-$if(mainfont)$
-$else$
-\usepackage[default]{sourcesanspro}
-\usepackage{sourcecodepro}
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  $if(fontfamily)$
+  $else$
+  \usepackage[default]{sourcesanspro}
+  \usepackage{sourcecodepro}
+  $endif$
+\else % if not pdftex
+  $if(mainfont)$
+  $else$
+  \usepackage[default]{sourcesanspro}
+  \usepackage{sourcecodepro}
 
-% XeLaTeX specific adjustments for straight quotes: https://tex.stackexchange.com/a/354887
-% This issue is already fixed (see https://github.com/silkeh/latex-sourcecodepro/pull/5) but the 
-% fix is still unreleased.
-% TODO: Remove this workaround when the new version of sourcecodepro is released on CTAN.
-\ifxetex
-\makeatletter
-\defaultfontfeatures[\ttfamily]
-  { Numbers   = \sourcecodepro@figurestyle,
-    Scale     = \SourceCodePro@scale,
-    Extension = .otf }
-\setmonofont
-  [ UprightFont    = *-\sourcecodepro@regstyle,
-    ItalicFont     = *-\sourcecodepro@regstyle It,
-    BoldFont       = *-\sourcecodepro@boldstyle,
-    BoldItalicFont = *-\sourcecodepro@boldstyle It ]
-  {SourceCodePro}
-\makeatother
+  % XeLaTeX specific adjustments for straight quotes: https://tex.stackexchange.com/a/354887
+  % This issue is already fixed (see https://github.com/silkeh/latex-sourcecodepro/pull/5) but the
+  % fix is still unreleased.
+  % TODO: Remove this workaround when the new version of sourcecodepro is released on CTAN.
+  \ifxetex
+    \makeatletter
+    \defaultfontfeatures[\ttfamily]
+      { Numbers   = \sourcecodepro@figurestyle,
+        Scale     = \SourceCodePro@scale,
+        Extension = .otf }
+    \setmonofont
+      [ UprightFont    = *-\sourcecodepro@regstyle,
+        ItalicFont     = *-\sourcecodepro@regstyle It,
+        BoldFont       = *-\sourcecodepro@boldstyle,
+        BoldItalicFont = *-\sourcecodepro@boldstyle It ]
+      {SourceCodePro}
+    \makeatother
+  \fi
+  $endif$
 \fi
-$endif$
 
 %
 % heading color
 %
 \definecolor{heading-color}{RGB}{40,40,40}
+$if(beamer)$
+$else$
 \addtokomafont{section}{\color{heading-color}}
-% When using the classes report, scrreprt, book, 
+$endif$
+% When using the classes report, scrreprt, book,
 % scrbook or memoir, uncomment the following line.
 %\addtokomafont{chapter}{\color{heading-color}}
 
 %
-% variables for title and author
+% variables for title, author and date
 %
+$if(beamer)$
+$else$
 \usepackage{titling}
 \title{$title$}
 \author{$for(author)$$author$$sep$, $endfor$}
+\date{$date$}
+$endif$
 
 %
 % tables
@@ -588,9 +658,19 @@ $if(tables)$
 \setlength\heavyrulewidth{0.3ex}      % thickness of \toprule, \bottomrule
 \renewcommand{\arraystretch}{1.3}     % spacing (padding)
 
+$if(table-use-row-colors)$
+% TODO: This doesn't work anymore. I don't know why.
 % Reset rownum counter so that each table
 % starts with the same row colors.
 % https://tex.stackexchange.com/questions/170637/restarting-rowcolors
+%
+% Unfortunately the colored cells extend beyond the edge of the
+% table because pandoc uses @-expressions (@{}) like so:
+%
+% \begin{longtable}[]{@{}ll@{}}
+% \end{longtable}
+%
+% https://en.wikibooks.org/wiki/LaTeX/Tables#.40-expressions
 \let\oldlongtable\longtable
 \let\endoldlongtable\endlongtable
 \renewenvironment{longtable}{
@@ -598,14 +678,7 @@ $if(tables)$
 \oldlongtable} {
 \endoldlongtable
 \global\rownum=0\relax}
-
-% Unfortunately the colored cells extend beyond the edge of the 
-% table because pandoc uses @-expressions (@{}) like so: 
-%
-% \begin{longtable}[]{@{}ll@{}}
-% \end{longtable}
-%
-% https://en.wikibooks.org/wiki/LaTeX/Tables#.40-expressions
+$endif$
 $endif$
 
 %
@@ -624,17 +697,18 @@ $endif$
 $if(listings)$
 
 %
-% listing colors
+% general listing colors
 %
 \definecolor{listing-background}{HTML}{F7F7F7}
 \definecolor{listing-rule}{HTML}{B3B2B3}
 \definecolor{listing-numbers}{HTML}{B3B2B3}
 \definecolor{listing-text-color}{HTML}{000000}
 \definecolor{listing-keyword}{HTML}{435489}
+\definecolor{listing-keyword-2}{HTML}{1284CA} % additional keywords
+\definecolor{listing-keyword-3}{HTML}{9137CB} % additional keywords
 \definecolor{listing-identifier}{HTML}{435489}
 \definecolor{listing-string}{HTML}{00999A}
 \definecolor{listing-comment}{HTML}{8E8E8E}
-\definecolor{listing-javadoc-comment}{HTML}{006CA9}
 
 \lstdefinestyle{eisvogel_listing_style}{
   language         = java,
@@ -647,7 +721,7 @@ $else$
   framexleftmargin = 2.5em,
 $endif$
   backgroundcolor  = \color{listing-background},
-  basicstyle       = \color{listing-text-color}\small\ttfamily{}\linespread{1.15}, % print whole listing small
+  basicstyle       = \color{listing-text-color}\linespread{1.0}$if(code-block-font-size)$$code-block-font-size$$else$\small$endif$\ttfamily{},
   breaklines       = true,
   frame            = single,
   framesep         = 0.19em,
@@ -655,16 +729,16 @@ $endif$
   frameround       = ffff,
   tabsize          = 4,
   numberstyle      = \color{listing-numbers},
-  aboveskip        = -0.7em,
+  aboveskip        = 1.0em,
   belowskip        = 0.1em,
   abovecaptionskip = 0em,
-  belowcaptionskip = 1em,
-  keywordstyle     = \color{listing-keyword}\bfseries,
-  classoffset      = 0,
+  belowcaptionskip = 1.0em,
+  keywordstyle     = {\color{listing-keyword}\bfseries},
+  keywordstyle     = {[2]\color{listing-keyword-2}\bfseries},
+  keywordstyle     = {[3]\color{listing-keyword-3}\bfseries\itshape},
   sensitive        = true,
   identifierstyle  = \color{listing-identifier},
   commentstyle     = \color{listing-comment},
-  morecomment      = [s][\color{listing-javadoc-comment}]{/**}{*/},
   stringstyle      = \color{listing-string},
   showstringspaces = false,
   escapeinside     = {/*@}{@*/}, % Allow LaTeX inside these special comments
@@ -686,6 +760,44 @@ $endif$
 }
 \lstset{style=eisvogel_listing_style}
 
+%
+% Java (Java SE 12, 2019-06-22)
+%
+\lstdefinelanguage{Java}{
+  morekeywords={
+    % normal keywords (without data types)
+    abstract,assert,break,case,catch,class,continue,default,
+    do,else,enum,exports,extends,final,finally,for,if,implements,
+    import,instanceof,interface,module,native,new,package,private,
+    protected,public,requires,return,static,strictfp,super,switch,
+    synchronized,this,throw,throws,transient,try,volatile,while,
+    % var is an identifier
+    var
+  },
+  morekeywords={[2] % data types
+    % primitive data types
+    boolean,byte,char,double,float,int,long,short,
+    % String
+    String,
+    % primitive wrapper types
+    Boolean,Byte,Character,Double,Float,Integer,Long,Short
+    % number types
+    Number,AtomicInteger,AtomicLong,BigDecimal,BigInteger,DoubleAccumulator,DoubleAdder,LongAccumulator,LongAdder,Short,
+    % other
+    Object,Void,void
+  },
+  morekeywords={[3] % literals
+    % reserved words for literal values
+    null,true,false,
+  },
+  sensitive,
+  morecomment  = [l]//,
+  morecomment  = [s]{/*}{*/},
+  morecomment  = [s]{/**}{*/},
+  morestring   = [b]",
+  morestring   = [b]',
+}
+
 \lstdefinelanguage{XML}{
   morestring      = [b]",
   moredelim       = [s][\bfseries\color{listing-keyword}]{<}{\ },
@@ -703,6 +815,8 @@ $endif$
 %
 % header and footer
 %
+$if(beamer)$
+$else$
 $if(disable-header-and-footer)$
 $else$
 \usepackage{fancyhdr}
@@ -720,6 +834,18 @@ $else$
   \renewcommand{\footrulewidth}{0.4pt}
 }
 \pagestyle{eisvogel-header-footer}
+$if(page-background)$
+\backgroundsetup{
+scale=1,
+color=black,
+opacity=$if(page-background-opacity)$$page-background-opacity$$else$0.2$endif$,
+angle=0,
+contents={%
+  \includegraphics[width=\paperwidth,height=\paperheight]{$page-background$}
+  }%
+}
+$endif$
+$endif$
 $endif$
 
 %%
@@ -731,13 +857,21 @@ $endif$
 %%
 %% begin titlepage
 %%
-
+$if(beamer)$
+$else$
 $if(titlepage)$
 \begin{titlepage}
+$if(titlepage-background)$
+\newgeometry{top=2cm, right=4cm, bottom=3cm, left=4cm}
+$else$
 \newgeometry{left=6cm}
+$endif$
 $if(titlepage-color)$
 \definecolor{titlepage-color}{HTML}{$titlepage-color$}
 \newpagecolor{titlepage-color}\afterpage{\restorepagecolor}
+$endif$
+$if(titlepage-background)$
+\tikz[remember picture,overlay] \node[inner sep=0pt] at (current page.center){\includegraphics[width=\paperwidth,height=\paperheight]{$titlepage-background$}};
 $endif$
 \newcommand{\colorRule}[3][black]{\textcolor[HTML]{#1}{\rule{#2}{#3}}}
 \begin{flushleft}
@@ -748,28 +882,49 @@ $endif$
 \par
 \noindent
 
-{ \setstretch{1.4}
-\vfill
-\noindent {\huge \textbf{\textsf{$title$}}}
-$if(subtitle)$
-\vskip 1em
-{\Large \textsf{$subtitle$}}
-$endif$
-\vskip 2em
-\noindent
-{\Large \textsf{$for(author)$$author$$sep$, $endfor$}
-\vfill
+$if(titlepage-background)$
+% The titlepage with a background image has other text spacing and text size
+{
+  \setstretch{2}
+  \vfill
+  \vskip -8em
+  \noindent {\huge \textbf{\textsf{$title$}}}
+  $if(subtitle)$
+  \vskip 1em
+  {\Large \textsf{$subtitle$}}
+  $endif$
+  \vskip 2em
+  \noindent {\Large \textsf{$for(author)$$author$$sep$, $endfor$} \vskip 0.6em \textsf{$date$}}
+  \vfill
 }
+$else$
+{
+  \setstretch{1.4}
+  \vfill
+  \noindent {\huge \textbf{\textsf{$title$}}}
+  $if(subtitle)$
+  \vskip 1em
+  {\Large \textsf{$subtitle$}}
+  $endif$
+  \vskip 2em
+  \noindent {\Large \textsf{$for(author)$$author$$sep$, $endfor$}}
+  \vfill
+}
+$endif$
 
 $if(logo)$
 \noindent
 \includegraphics[width=$if(logo-width)$$logo-width$$else$100$endif$pt, left]{$logo$}
 $endif$
 
-\textsf{$date$}}
+$if(titlepage-background)$
+$else$
+\textsf{$date$}
+$endif$
 \end{flushleft}
 \end{titlepage}
 \restoregeometry
+$endif$
 $endif$
 
 %%
@@ -843,7 +998,6 @@ $abstract$
 
 $body$
 
-
 $if(has-frontmatter)$
 \backmatter
 $endif$
@@ -883,4 +1037,3 @@ $include-after$
 
 $endfor$
 \end{document}
-
