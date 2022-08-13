@@ -1,6 +1,6 @@
 
 
-<!-- TODO: Add the " How to do a research interview " by   Graham R Gibbs:
+<!-- TODO: Add the " How to do a research interview " by Graham R Gibbs:
  https://www.youtube.com/watch?v=9t-_hYjAKww -->
 
 
@@ -22,7 +22,7 @@ It is a common misconception of user research that it is about asking what peopl
 
 It is hard to guess whether an imagined thing would be great to have in the future. Instead of working with product ideas, you find out about the how and why of our participant’s activities. This allows you to evaluate your ideas (“do my ideas match what participants consider essential for them?”) and to get inspiration for new ideas (“how can I support this activity?”).
 
-See your participants as competent in what they do: they are experts in their fields and in their daily work. This is contrary to the idea that people “don’t get it” and need to be helped by designers and programmers. Assume that the participants have a reason of doing their work the way they do it.  If you wonder about participant’s actions, try to find out their motivation for acting the way they do.
+See your participants as competent in what they do: they are experts in their fields and in their daily work. This is contrary to the idea that people “don’t get it” and need to be helped by designers and programmers. Assume that the participants have a reason of doing their work the way they do it. If you wonder about participant’s actions, try to find out their motivation for acting the way they do.
 
 Before you learn from the participant, let's go over what you need to prepare.
 
@@ -42,7 +42,7 @@ It can be helpful for you and your participants to send a short reminder mail to
 > Jan
 
 
-In case you come along with a colleague who acts as a research partner, tell the participant about it, so they are not surprised to have a second person coming.  Also tell the participant what your  research partner’s name and pronouns are, so participants can address them properly.
+In case you come along with a colleague who acts as a research partner, tell the participant about it, so they are not surprised to have a second person coming. Also tell the participant what your  research partner’s name and pronouns are, so participants can address them properly.
 
 ### Prepare your note-taking and recording equipment
 
@@ -65,7 +65,7 @@ If you meet online, the tools are different. In this situation, you should have 
 
 If you research together with a research partner, you should have a conversation about what you are going to do in the research session, how you want to share tasks, and what you both should be aware of. Your research partner should also know when and where you are going to meet for the research session itself and whether they should bring equipment along.
 
-It is  common for research partners to be new to user research but curious about it. When your research partner does not have experience with user research, it is best for them to start with supporting tasks like taking notes. In a [later section](#captureData) I explain how to take notes, sketch, and make photos and audio recordings. It is also good to show an example of notes from previous research to your research partner. It might be unusual for them to make detailed notes rather than summarizing strongly. For example, they will only write “Likes the software” when the participant talks for a couple of minutes how they like to use a software. An example easily shows what you think the notes should be like.
+It is common for research partners to be new to user research but curious about it. When your research partner does not have experience with user research, it is best for them to start with supporting tasks like taking notes. In a [later section](#captureData) I explain how to take notes, sketch, and make photos and audio recordings. It is also good to show an example of notes from previous research to your research partner. It might be unusual for them to make detailed notes rather than summarizing strongly. For example, they will only write “Likes the software” when the participant talks for a couple of minutes how they like to use a software. An example easily shows what you think the notes should be like.
 
 When your research partner gathers more experience, they might take a more active role from time to time. If you think that your research partner can and should ask questions to the participant, tell your research partner—otherwise they might not do it. When the research partner takes an active role, you need to take the notes.
 
@@ -113,7 +113,7 @@ Now you and the participant are ready to move into the conversation on the topic
 
 ## Ways to learn from participants
 
-You can engage with participants in different ways like listening, observing and co-documenting their activities. Each way  has its own strengths, and provides insight into different aspects, so it's common to combine multiple ways.
+You can engage with participants in different ways like listening, observing and co-documenting their activities. Each way has its own strengths, and provides insight into different aspects, so it's common to combine multiple ways.
 
 ### Listening and asking questions
 
@@ -221,7 +221,7 @@ For example, if you observe that someone tastes a bit and then adds a small amou
 
 The observations you make are visual and concerned with processes. A good way to support your memory of observations is creating sketches or small process diagrams.
 
-![A small sketch from my notes, showing where a participant did what](images/03_dataGathering_sketchExample1.png){#sketchExample1 alt="Sketch of  washing, chopping, cooking at their respective places"}
+![A small sketch from my notes, showing where a participant did what](images/03_dataGathering_sketchExample1.png){#sketchExample1 alt="Sketch of washing, chopping, cooking at their respective places"}
 
 It is not important that your sketches look realistic. Realism is better done by cameras. Use it to your advantage that sketches are different from photos: Draw important things bigger, leave out what is irrelevant and make annotations with arrows and notes to understand what was going on.
 
@@ -237,7 +237,7 @@ You should be able to take photos with your camera or phone quickly and reliably
 
 I recommend using audio recordings—it is a useful supplement to your notes. Using audio recording, you can listen to what was said in the research session. Note, that it is not a perfect capture of all that happened: If the participant points to an ingredient or utensil and refers to “this”, the recording is not much of help. People use such expressions a lot when they talk about activities, so you need your notes to supplement the audio.
 
-Photography and audio recording supplement note-taking and sketching well. They are, however, not superior to  manual recordings: They are different, and these difference can be used by you to combine their strengths.
+Photography and audio recording supplement note-taking and sketching well. They are, however, not superior to manual recordings: They are different, and these difference can be used by you to combine their strengths.
 
 
 ## Assure and encourage
@@ -248,7 +248,7 @@ At the beginning of the research session, the participant might feel insecure. M
 
 You ask questions aiming for descriptions and longer answers. So you _listen_ to the participant most of the time. You probably have some ways to intuitively show that you listen—like nodding with the head or saying “yes” or “mm-mhh.” This is an important way to ensure the participant that you listen to what they say.
 
-Asking follow-up questions also shows that you take interest in what they do. Follow-up questions can concern topics the participant mentioned or workflows that they demonstrated.  You can also summarize what you heard and saw: “So, you said that…”.  Thus, you can check your understanding and show that you listened well—without casting judgment on what was told.
+Asking follow-up questions also shows that you take interest in what they do. Follow-up questions can concern topics the participant mentioned or workflows that they demonstrated. You can also summarize what you heard and saw: “So, you said that…”. Thus, you can check your understanding and show that you listened well—without casting judgment on what was told.
 
 Some participants might assume that you can’t learn anything from them because they assume you to have knowledge about their work already. For example, if you are from the company that created a product they use, they might assume that you know all about it and what possibly could be done with it. Even if you know the product well, you probably don’t know how it is used by people in practice and what its limits are. You can tell them something like this: “Thanks, it can seem this way, but I only create a small part of (Product) and I am not an expert in (whatever the product is used for). I think I can learn a lot about how (product) is actually used in the real world!”
 
@@ -264,7 +264,7 @@ In user need research you want to learn from participants. This is exciting sinc
 
 Open questions are questions that do prompt longer, descriptive answers. You already read about open questions in the [section on writing your research session questions](#prepareResearch): Open questions are questions that invite longer, descriptive answers from participants—in contrast to closed questions, which have only a closed range of meaningful answers. Asking participants open questions will lead to concrete and descriptive answers and potentially lead to insights that you did not expect.
 
-I pick up the topic here again, because only a part of the questions you ask will be questions you wrote down before. You might also come up with questions reacting to  what you hear or see when being with the participant. It often makes sense to ask these questions as open questions, too.
+I pick up the topic here again, because only a part of the questions you ask will be questions you wrote down before. You might also come up with questions reacting to what you hear or see when being with the participant. It often makes sense to ask these questions as open questions, too.
 
 To be able to come up with open questions during the conversation, it can be helpful to have some easy-to-memorize phrases that help to ask open questions:
 
@@ -310,7 +310,7 @@ Remember that nobody does inefficient actions by purpose. Assume that the partic
 
 Again, you could ask: “What’s the reason for you to do it this way?”—and ask follow-up questions to further explore the issue. For example, they might prefer images as they show directly in chats and can easily be tapped to zoom in, whereas the original website would open in another app.
 
-Don’t be afraid to react toward the participant and what they say or do. Adapting to the situation is essential in our research. But don’t judge the actions or answers of a participant. You are interested in the how and why of their work. If you judging  what they do prematurely cuts off questions to be explored.
+Don’t be afraid to react toward the participant and what they say or do. Adapting to the situation is essential in our research. But don’t judge the actions or answers of a participant. You are interested in the how and why of their work. If you judging what they do prematurely cuts off questions to be explored.
 
 ## Silence feels strange, but it’s okay
 
@@ -340,7 +340,7 @@ When I learn something new, I often feel that this is only the beginning of a bi
 You already know one way to do this: Silence. Just as you might intuitively want to fill the silence, the participant may just jump in and fill the silence with further information.
 
 
-> _Participant_: “So I found that recipe and  I tried it once, but it was so-so”\
+> _Participant_: “So I found that recipe and I tried it once, but it was so-so”\
 > (Brief pause, researcher nods)
 > 
 > _Participant_: “I don’t know what the problem was, I guess something about the timing. Everything was just mushy,”
@@ -360,7 +360,7 @@ This way, you can help participants to carry on without changing the course by a
 
 If you would like to know more about something particular, you can also ask directly: “Please tell me what you would do in a situation requiring you to wait?”
 
-Asking directly can be  useful if the participant gave a rather vague answer:
+Asking directly can be useful if the participant gave a rather vague answer:
 
 > _Participant_: “Well, I try to get some more information and try to find out where it got stuck”
 > 
@@ -399,7 +399,7 @@ For checking, you need to refer to something that you want to check. You often n
 > _Participant_: “Yes… I mean, somewhat. It plays a role. I do not want stuff go to waste.”
 
 
-To refer to what you learned some time earlier, you and the participant need to remember. Use your notes as memory aid, and don’t be afraid to just point at things if you do not remember the correct term. The participant tells you what the “thingy” is called by them. For example, you could ask: “Can you tell me more about this does?” (points at a utensil)?  Or when co-documenting: “Here (Points to diagram) your motivation seemed to change quite quickly—can you tell me more about this?”
+To refer to what you learned some time earlier, you and the participant need to remember. Use your notes as memory aid, and don’t be afraid to just point at things if you do not remember the correct term. The participant tells you what the “thingy” is called by them. For example, you could ask: “Can you tell me more about this does?” (points at a utensil)? Or when co-documenting: “Here (Points to diagram) your motivation seemed to change quite quickly—can you tell me more about this?”
 
 By checking your interpretations of the participants descriptions and activities, you can avoid misunderstandings and gain additional insights.
 
@@ -416,7 +416,7 @@ This avoids ambiguity in what they meant by “using.” It is easiest for resea
 
 You can also ask for examples to delve deeper into a topic. The participant might have mentioned a process earlier. You now could ask to learn more about it:
 
->  _Researcher_: “You said you would look up on YouTube how to cut this. Can you show me how you do that?”
+> _Researcher_: “You said you would look up on YouTube how to cut this. Can you show me how you do that?”
 > 
 > Or, without asking for a demonstration:\
 > _Researcher_: “…what would you expect to find?”
@@ -457,7 +457,7 @@ Over the course of your research, you cover different topics. You might set some
 You might want to switch topics when:
 
 * There is (seemingly) nothing more to be found out.
-* You covered enough and need to switch to another topic before time runs out (In this case, plan in more time in the future)
+* You covered enough and need to switch to another topic before time runs out (If this happens, plan in more time in the future)
 * The participant is focusing on a topic that is not in the focus of your research.
 
 To switch topics, you can voice your interest in the next topic: “Could you tell me more about recipes that you use frequently?”
@@ -496,7 +496,7 @@ Research sessions often happen in set time slots. This means you can plan ahead 
 
 Wrapping up the session is like starting the session, but in reverse order. Starting meant going from the formal and predictable to new experiences and learning; finishing a research session means going from the new experiences and learning to a formal end.
 
-When research session is about to end  soon, you want to tie up loose threads: Consider what you could not yet make sense of. Ask the participant for what you still don’t know. Don’t be afraid to voice your lack of understanding.
+When research session is about to end soon, you want to tie up loose threads: Consider what you could not yet make sense of. Ask the participant for what you still don’t know. Don’t be afraid to voice your lack of understanding.
 
 
 > Researcher: “There is one thing that I do not understand yet: You mentioned you collect online recipes, but we did not talk about how you store them so you can get back to ones that you liked. How does that work?”
@@ -523,7 +523,7 @@ There are two ways to supplement your data: From memory and from audio recording
 
 Supplementing your data should be done as soon as possible after the research session. I recommend scheduling the data gathering in a way that you have some time directly after the session to supplement your data.
 
-###  Debrief with your research partner—or alone
+### Debrief with your research partner—or alone
 
 In the debriefing you mentally go through the research session again and note important insights or new questions. This is easier and more interesting when you researched together with a partner as you can both tell each other your impressions.
 
@@ -538,7 +538,7 @@ There is no fixed structure for a debriefing, but there are some points that are
 
 Debriefs are helpful to get an initial structure to what you learned. They also provide closure and are a first preparation to both future research sessions with participants and analyzing the data. They have their strongest effects when done with a research partner. Aside from the advantages of exchanging and combining your experiences, they are also a great social experience that gives a sense of mutual achievement.
 
-###  Supplement data from memory
+### Supplement data from memory
 
 Supplementing your notes, sketches, and diagrams is important: Some data may make perfect sense to you now, but since memory fades, it does not make sense anymore later. Supplement and clarify your data, so you can still comprehend them after your memories of the experience are not fresh anymore.
 
@@ -608,7 +608,7 @@ If you need to save time, don't listen to the full recording but go through your
 
 When transcribing your notes, it is also a good point in time to pseudonymize them.
 
-Pseudonymization means that you replace identifying information like names, places or job titles with placeholders. So the second user you talked to, “Abigail  Miller”, might become P2 (a user code) or “Anna” (a pseudonym). This also depends on the participants’ wishes—some might want to choose a pseudonym or actually appear with the name they usually use. If there is nothing else specified, I use codes.
+Pseudonymization means that you replace identifying information like names, places or job titles with placeholders. So the second user you talked to, “Abigail Miller”, might become P2 (a user code) or “Anna” (a pseudonym). This also depends on the participants’ wishes—some might want to choose a pseudonym or actually appear with the name they usually use. If there is nothing else specified, I use codes.
 
 Aside from names, there might be other data that could identify the participant, for example names of places, institutions, or job titles. If they can identify the participant, replace them with more general placeholders: “Hannover” might become “A city in the north of Germany.”
 

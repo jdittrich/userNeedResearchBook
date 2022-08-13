@@ -8,9 +8,9 @@ _This chapter covers:_
 
 Although I am a user researcher since a while, every research project still brings a lot of surprises. What me and my colleagues want to know seems rather simple in the beginning, yet often turns out to be complex. When chatting about an ongoing research project with my peers, I often find myself telling about something that is surprising to me. Usually it is not the kind of surprise that makes the project more erratic, like stakeholders changing requirements without warning. It is the surprise of “Oh, I did not see it this way, but it makes a lot of sense now”, a better understanding of why (potential) users of a product do what they do.
 
-This book is about  methods for understanding people you design for and about communicating what you learned. The methods used for this are interviews, observation and structuring the data into meaningful patterns. Such methods used are also called _qualitative methods_.
+This book is about methods for understanding people you design for and about communicating what you learned. The methods used for this are interviews, observation and structuring the data into meaningful patterns. Such methods used are also called _qualitative methods_.
 
-There are also research methods that do not focus on directly engaging with people but rather on testing and hypothesis using measurements and statistical analysis. These are often called _quantitative methods_. A typical example for quantitative research might be A/B testing: In AB testing,  two versions of an interface are compared by measuring which of the versions might, for example, generate more clicks.
+There are also research methods that do not focus on directly engaging with people but rather on testing and hypothesis using measurements and statistical analysis. These are often called _quantitative methods_. A typical example for quantitative research might be A/B testing: In AB testing, two versions of an interface are compared by measuring which of the versions might, for example, generate more clicks.
 
 >_Note:_ Other research methods
 >
@@ -49,7 +49,7 @@ You want to find out user motivations, activities, and problems that are importa
 
 If a team plans a substantial overhaul of a product, it makes sense to observe how users use the product to find out where needs are not met. A task could be “We provide an app for curating and reading recipes. It has not been updated in several years and we want to increase its use among a younger target group by providing features attractive for them.” The research tasks is rather focussed: What is to be done is already mostly set, but research shall shape the way it is done.
 
-In all of these settings, understanding users can help to shape new products and features. But what the research focuses on, is shaped by the initial  goals. These constraints are one important influence on your research project. Another important factor is how you collaborate with others in the research project.
+In all of these settings, understanding users can help to shape new products and features. But what the research focuses on, is shaped by the initial goals. These constraints are one important influence on your research project. Another important factor is how you collaborate with others in the research project.
 
 ## Researching alone and together
 
@@ -73,7 +73,7 @@ Research for a team is a typical situation for many research contractors. You de
 
 Product development often involves several people and different roles. At least you have a product manager and developers, but you might also have UX designers, UI designers, market analysts, tech writers and many more roles.
 
-Having a common direction and making sense together is important. This is partly provided by communicating what you find out in your research. But even the best reports can fail to give the rich impressions that one has when researching. It can help a lot to involve people directly as co-researchers: You can set them up with some simple tasks and as they learn, give them more responsibilities and help them to bring in their individual skills.  The most common way of collaboration for me is people being co-researchers in interviews. They help with taking notes but also get time to ask their own questions depending on their skill and confidence.
+Having a common direction and making sense together is important. This is partly provided by communicating what you find out in your research. But even the best reports can fail to give the rich impressions that one has when researching. It can help a lot to involve people directly as co-researchers: You can set them up with some simple tasks and as they learn, give them more responsibilities and help them to bring in their individual skills. The most common way of collaboration for me is people being co-researchers in interviews. They help with taking notes but also get time to ask their own questions depending on their skill and confidence.
 
 ## Understanding is a messy process
 
