@@ -30,7 +30,7 @@ Qualitative research helps getting a holistic understanding of how a future prod
 
 But in everyday life, people often don't follow this clear script: It will influence their actions that their kid or spouse prefer another food than they do; They might wish for variety; they might see something that they fancy even more than what they initially decided for; they might not trust their cooking skills… If you want to build product that supports people when cooking or shopping groceries, it makes sense to understand how people actually do it. This does not mean that initial ideas or existing knowledge are wrong: Knowledge like “Programming is typing text that makes computers do stuff” or “Cooking is combining different groceries to get a meal” are not _wrong_. Such knowledge is just often not rich enough to develop products based on it.
 
-There are different ways in which such understanding can be helpful for a project. In the following section, I show several typical setups in which qualitative research can help you to develop a product.
+There are different ways in which such understanding can be helpful for a project. In the following sections, I show several typical setups in which qualitative research can help you to develop a product.
 
 
 ## Types of projects you can use qualitative research in {#projectTypes}
@@ -77,14 +77,13 @@ Product development often involves several people and different roles. At least 
 
 It is important to have a common direction. This is partly provided by communicating what you find out in your research. But even the best reports can not convey the rich impressions that one has when researching. Involving people directly as co-researchers can be very helpful: You can set them up with some simple tasks and as they learn, give them more responsibilities and help them to bring in their individual skills. For me, the most common way of collaboration is people being co-researchers in interviews. They help with taking notes, but depending on their skill and confidence, they also can shape the research themselves and, for example, ask questions.
 
-<!-- second review until here -->
 ## Understanding is a messy process
 
-In qualitative research, you deal with new people and new situations constantly. This means uncertainty and surprises are part of all projects. I experienced that dealing with these uncertainties is one of the biggest challenges for beginners.
+In qualitative research, you are constantly dealing with new people and new situations. Uncertainty and surprises are therefore part of all projects. It has been my experience that dealing with these uncertainties is one of the biggest challenges for beginners.
 
-University teachers, conference speakers, and agencies often present research as finding clear facts with rigorous methods and execution of research in clear subsequent steps. Such models are very helpful for giving your plans and actions structure, but they are idealized. It is helpful to keep this in mind.
+University teachers, conference speakers, and agencies often present research as finding clear facts with rigorous methods and execution of research in clear subsequent steps. Such models are very helpful for giving structure to your plans and actions, but they are idealized. It is helpful to keep this in mind.
 
-When you do an actual research project, it won’t always follow a clear and linear structure. It will need iterations and adjustments. Don’t think of it as failures to do “good research” when something does not go as planned. It is actually often a good sign to feel the need to adjust plans: It shows that you learned something new and are aware of it. Plan in time for such adjustments. If your research project is only possible if everything runs very smooth, it might be at the risk of going over time and budget. Also, you and the team might not learn a lot of new things as you can only do what you have expected anyway.
+When you do an actual research project, it won’t always follow a clear and linear structure. It will need iterations and adjustments. Don’t think of it failing to do “good research” when something does not go as planned. In fact, It is often a good sign if you feel that you need to adjust plans: It shows that you have learned something new and are aware of it. Plan in time for such adjustments. If your research project is only possible if everything runs very smooth, it might be at the risk of going over time and budget. Also, you and the team might not learn a lot of new things as you can only do what you have expected anyway.
 
 ## Summary
 

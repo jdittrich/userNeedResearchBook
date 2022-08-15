@@ -15,64 +15,66 @@ _This chapter covers:_
 * _Preventing to harm participants or yourself_
 * _Writing a cheat-sheet_
 
-It would be awesome if you could start with learning from people immediately. But before you meet your research participants, there is some preparation you need to do. It might not be the most glamorous part of being a researcher, but it is crucial to be well-prepared. Planning the research is important for you and your collaborators to get a common understanding of the research goals. The preparation is also useful for learning a bit about the field you are going to do research in. This prepares you for the next step: Finding potential participants and asking them if they would like to participate. As a researcher, you have responsibility for the effects of your research—on society, on participants and on you. Considering these beforehand avoids harm.
+It would be awesome if you could start with learning from people immediately. But before you meet your research participants, you need to do some preparation.  It might not be the most glamorous part of being a researcher, but it is crucial to be well-prepared. Planning the research is important for you and your collaborators to get a common understanding of the research goals. The preparation is also useful for learning about the field you are going to do research in. This prepares you for the next step: finding potential participants and asking them if they would like to participate. As a researcher, you are responsible for the impact of your research—on society, on participants and on you. Anticipating this in advance prevents harm.
 
-A good preparation will enable you to focus on learning from participants when the time comes, because you, your team and your participants will be well set up for the research. A good way to start with your research preparation is getting a clear understanding of what you and stakeholder of the project want to learn.
+A good preparation will enable you to focus on learning from participants when the time comes, as you, your team and your participants will be well-prepared for the research. A good way to start with your research preparation is to get a clear understanding of what you and stakeholders of the project want to learn.
 
 ## What do you want to learn?
 
-The question of what you want to learn has two levels: First, there is the question of what the goal of the research project itself is, _the research project question_. This is the large overarching goal. You will work towards that goal by learning from participants in your research. You will ask them questions. These questions are not overarching, project oriented questions, but questions focused on what the participants do or feel. These are the _research session questions_. Before you work on the questions you ask the participants in the research sessions, you should clarify the overall goal of the research project.
+The question of what you want to learn leads to two kind of questions:  _reserach project questions_ and _research session questions_.  _Research project questions_ are about what the goal of the research project itself is. You will work towards that goal by learning from participants in your research. For this, you will ask your participants questions. These are the _research session questions_. They are questions focused on what the participants do or feel. 
+
+Before you work on the _research session questions_ that you ask the participants in the research sessions, you should clarify the overall goal of the research project with your _research project question_ .
 
 <!-- EXAMPLE: -->
 Imagine, you are asked to support a company in finding out more about a business area they potentially want to move in: They currently publish content and recipes for cooking enthusiasts online and in a paper magazine. They would like to explore improving their offers to younger people who might not be cooking enthusiasts yet. You were brought in by their product manager. While your contract outlines the topic you should research, it is not yet clear what exactly you will work on in practice. For this, you create a research project question.
 
 ### Writing a research project question
 
-A research project question briefly outlines the question you want to explore in the research project. It is helpful to start your research project with writing a research project question because it helps you to think about your research and communicate it. 
+A research project question briefly outlines the question you want to explore in the research project. It is helpful to start your research project by writing a research project question as it will help you to think about your research and communicate it. 
 
 > _Research project question examples_
 > 
-> * “How and why do students use digital media to learn better for university?”
-> * “How and why do people start being Wikipedia editors”
-> * “How and why do Developers use Docker images in collaborative software development”
+> * “How and why do students use digital media to learn better?”
+> * “How and why do people become Wikipedia editors?”
+> * “How and why do developers use Docker images in collaborative software development?”
 
-There will be many situations in which your research touches concerns of other people. At least they will be interested in the purpose of your research: Curious colleagues and research participants will like to know what it's about. Telling them your research project question is an efficient way to describe why you do the research. Some people have a stake in your research. They will not only be curious, but want to ensure that your research helps them. This is most obviously the case if you do research for a client but also when you do research as part of a product team in your organization. A clear research project question helps to communicate the project’s goal. It also ensures that everyone understands what the research will be about. 
+There will be many situations in which your research touches on other people's concerns. At least they will be interested in the purpose of your research: Curious colleagues and research participants will be happy to know what it's about. Telling them your research project question is an efficient way to describe why you do the research. Some people have a stake in your research. They will not only be curious, but want to ensure that your research helps them. This is most obvious when you're researching for a client, but also when you are researching as part of a product team in your organization. A clear research project question helps to communicate the project’s goal. It also ensures that everyone understands what the research will be about. 
 
-In the example I use throughout the book, I do research for a client and I have at least one person I should have a shared understanding of the research project question with: The product manager.
+In the example I use throughout the book, I'm researching for a client and I have at least one person with whom I should have a shared understanding of the research project question: The product manager.
 
-The initial task proposal you are approached with might be vague or overly broad. It might be that the initial question is, for example, “We want to find out how to get in younger people” or “Explore, if an app for recipes is right for us”. While these are questions that the client has, they are still focussed on a future product—but a product that does not exist yet, can't be researched, so it makes sense to focus on (potential) users and how and why they do their tasks.
+The initial task proposal you are approached with might be vague or very broad. For example, the initial question could be “We want to find out how to appeal to younger people” or “Explore, if an app for recipes is right for us”. While these are questions that the client has, they are still focussed on a future product—but a product that does not exist yet, can't be researched, so it makes sense to focus on (potential) users and how and why they do.
 
 
-Here are the questions that you should be able to answer before going forward: 
+Here are the questions you should be able to answer before proceeding: 
 
-* What are the goals of the research project? What should you help with to learn more about? For example, you might be told the following:
+* What are the goals of the research project? What do you need to  learn more about? For example, you might be told the following:
   * “I think we do this to learn how people actually cook in practice”
-  * “We thought about using videos in our app since quite some time, but it seemed too costly. I wonder if we find out that we should actually do this”
+  * “We have been thinking about using videos in our app since quite some time, but it seemed too expensive. I wonder if we will find out that we actually should be doing that.”
 * What is the context and history of the research project in the organization? For example, you might get the following responses:
   * “There was a discussion if we actually want to move in this field and be more ‘tech’ and have this app.”
   * “According to research we had done so far, a lot of younger people seem to have an interest in learning to cook better. However, most people we cater to are in their 40s to 50s, so I am unsure if it works for us.”
 
-Even in case you do the research for your own project, without a team, it can help to ask these questions yourself and write down the answers.
+Even if you are researching for your own project, without a team, it can be helpful to ask yourself these questions  and write down the answers.
 
-The research project question should be focused. This can be difficult to archive if many people with different interests are involved. It can alleviate the problem to keep a visible “research interest backlog”, a table of smaller, specific questions and who asked them. This helps to prevent turning the research question in a mere list of interests while showing your appreciation for the input and your intent to get back to them if you learn more.
+The research project question should be focused. This can be difficult to archive when many people with different interests are involved. It can alleviate the problem to keep a visible “research interest backlog”, a table of smaller, specific questions and who asked them. This prevents the research question from becoming a long list of individual questions while showing your appreciation for the contributions as well as your intention answer such questions in case you get answers to them in your research. 
 
-I already mentioned that initial questions for a research project might be product-focussed rather than focussed on (potential) users. Instead of rejecting the initial product-focus, you transform these initial ideas and used them as a starting point to create a user- and activity-focused research project question:
+I have already mentioned that initial questions for a research project might be focussed on product rather than on (potential) users. Instead of dismissing the initial product-focus, you transform these initial ideas and use them as a starting point to create a user- and activity-focused research project question:
 
-1. Take your initial ideas for a future market, product, or features.
-2. Ask yourself why the product idea would be good for an activity people do.
+1. Take the initial idea for a future product (or market, or feature)
+2. Ask yourself why the product would be good for an activity people do.
 3. Take the activity from 2. and ask yourself how and why people do this activity.
 4. Refine the question.
 
-Here is an example of how it can be done:
+Here is an example:
 
-1. The initial idea the team wants to explore is “creating an app that offers recipes and, when cooking, teaches cooking skills.”
-2. The meaningful activities connected to it can be “Learning new cooking skills when cooking with recipes”
-3. Asking how and why I come to “How do people learn new cooking skills when they cook with recipes?”
-4.  We can then refine the question a bit. The people we work with might want to focus not on enthusiasts but on people who have less cooking skills yet, assuming that enthusiasts are a more saturated market. So we can refine the research question to: “How do people with low to intermediate existing cooking skills learn new skills when they cook with recipes?”
+1. The initial idea the team wants to explore is “creating an app that offers recipes and teaches cooking skills.”
+2. The related meaningful activity can be “Learning new cooking skills when cooking with recipes”
+3. Asking how and why I got to “How do people learn new cooking skills when cooking from recipes?”
+4.  We can then refine the question a bit. The people we work with may not want to focus on enthusiasts but on people who have less cooking skills yet, given that enthusiasts are probably a more saturated market. So we can refine the research question to: “How do people with low to intermediate existing cooking skills learn new skills when cooking from recipes?”
 
-> _Tip:_  If you work as an embedded researcher in a team or with a client who emphasizes shared responsibilities and participation, you might not just have one person to involve in shaping the research project question, but several. In this case, a research planning workshop might be helpful to gather input and to help the team to gain mutual understanding of their interests.
+> _Tip:_  In many research projects, you might not just have several people who need to be involved in shaping the research project question. In this case, a research planning workshop might be helpful to gather input and to help the team to gain mutual understanding of their interests.
 
- The research project question is for aligning, communicating and planning the research project. It is relevant for you and the people you work with, but it is not relevant for your direct work with participants in research sessions. What matters in research sessions are the research session questions.
+ The research project question serves to align, communicate and plan the research project. It is relevant to you and the people you work with, but it is not relevant to your direct work with participants in research sessions. What matters in research sessions are the research session questions.
 
 ### Writing research session questions {#researchSessionQuestions}
 
