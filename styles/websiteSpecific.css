@@ -8,6 +8,32 @@
 
 body{font-family: Georgia, 'Charis SIL', Palatino, serif}
 
+#title-block-header{
+	margin: 0 0 6rem 0;
+	font-family:Calibri, "Trebuchet MS", sans-serif;
+}
+
+#title-block-header h1.title{
+	font-size: 360%;
+	text-transform: uppercase;
+	color: #396ba5;
+	font-weight: normal;
+	margin-bottom: 0.4rem;
+  }
+
+ #title-block-header p{ 
+	font-size:1.6rem;
+	text-indent: 0;
+	margin: 1em 0 1em 0; 
+}
+
+#title-block-header p.subtitle{ 
+	color:#585858;
+	margin-top:0.4rem;
+}
+
+
+
 @media screen {
 
 	/*enables hiding pandoc auto-generated TOC*/
