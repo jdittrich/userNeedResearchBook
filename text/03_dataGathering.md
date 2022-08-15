@@ -71,6 +71,8 @@ When your research partner gathers more experience, they might take a more activ
 
 ## How to begin the research session
 
+<!-- this section is fairly long and should probably be broken up into several parts -->
+
 When you arrive at the site you do the research at, greet the participant and take care the both you and your co-researcher (if present) are introduced to the participant. Usually, a short bit of small talk will follow. This is pretty normal and it usually happens intuitively. It helps to build trust and gets used to the research situation. But after a brief time both you and your participant will want to get started with your research session proper: _“So… I’m happy that we can do this and that you could free some time for showing and telling me about your experiences with cooking and using online recipes.”_
 
 Give some context of why that is interesting to you: _“We think about improving the usefulness of the recipes we present to people. We have some enthusiasts in our community, but also many people who do not consider themselves super skilled in cooking and we wonder what we could do for them.”_
@@ -125,29 +127,36 @@ But because of this, it can happen that you hardly focus on actual experiences a
 
 ### Observing
 
+<!-- this section is fairly long and should probably be broken up into several parts -->
+
 Listening to what people say might not be the best way to understand what they do. Just like a picture can be worth a thousand words, it makes often sense to ask participants to show what they mean and to demonstrate how they work. It can also be easier than describing the activitiy.
 
 When you observe, you can notice things your participants would never consider mentioning: It may have gotten second nature for them which tools they use, how they apply these tools to their work and which problems they meet. But you can observe it. You also can learn about the context of their work, like means of communicating with co-workers or cues in the environment that point out problems—for example quick fixes on devices using tape and cardboard, or added instructions on machines.
 
 ![A coffee machine with added instructions on a yellow note, telling that the buttons are for “Full Cup”, “Half Cup”, “Espresso”](images/03_dataGathering_coffeeMachineUserChanges.jpg)
 
-It is not necessary to have observation as a separate step in the research process. It is best to interweave observation with asking questions and listening. For example, you can ask for a demonstration instead of a description:\
-_Participant_: _“So, as I have the recipe opened here, and read through the list of things I need, I would now start getting out the ingredients”_\
-_Researcher_: “Great—if it’s fine with you, let’s actually do that!”
+It is not necessary to have observation as a separate step in the research process. It is best to interweave observation with asking questions and listening. For example, you can ask for a demonstration instead of a description:
 
-Think of yourself as an apprentice of the participant. The participant is the expert who can teach you some of their skills. This means that understanding the user by observing is not a passive process. Like an apprentice, you can and should ask questions. You can, for example, _ask about reasons_: “You did measure the weight of the flour on the scale, but the for the water you just used the cup. Why?” +
-Or you can _ask about things you notice in the environment_: “You have much space here in the kitchen, are there certain things you do at specific places?”
+> _Participant_: “So, as I have the recipe opened here, and read through the list of things I need, I would now start getting out the ingredients”\
+> _Researcher_: “Great—if it’s fine with you, let’s actually do that!”
 
-Teaching an apprentice is not a theoretical or artificially set up process: The tasks you observe should be tasks that the participant is actually doing (and not something set up for you). Imagine you are asked:\
-_Participant_: “What should I do now?”, you reply with \
-_Researcher_: “What would you do if I would not be here?”
+Think of yourself as an apprentice of the participant. The participant is the expert who can teach you some of their skills. This means that understanding the user by observing is not a passive process. Like an apprentice, you can and should ask questions. You can, for example, _ask about reasons_, for example “You did measure the weight of the flour on the scale, but the for the water you just used the cup. Why?”
+Or  _ask about things you notice in the environment_, for example “You have much space here in the kitchen, are there certain things you do at specific places?”
 
-Of course, what you observe should be relevant to _your_ interests as well. The conversation could continue in this way:\
- _Participant_:“I would either start to make this stir-fry vegetables, or actually, only heat something up for lunch and rather make some apple crumble for dessert”\
- _Researcher_: “If you have no preferences, I would be curious to see you making the apple crumble—I have not seen how people make dessert in our research!”
+Teaching an apprentice is not a theoretical or artificially set up process: The tasks you observe should be tasks that the participant is actually doing (and not something set up for you). Imagine you are asked:
+
+> _Participant_: “What should I do now?”, you reply with \
+> _Researcher_: “What would you do if I would not be here?”
+
+Of course, what you observe should be relevant to _your_ interests as well. The conversation could continue in this way:
+
+>  _Participant_:“I would either start to make this stir-fry vegetables, or actually, only heat something up for lunch and rather make some apple crumble for dessert”\
+>  _Researcher_: “If you have no preferences, I would be curious to see you making the apple crumble—I have not seen how people make dessert in our research!”
 
 
-From time to time, you might observe actions that seem to be wrong or at least not optimal: People might seem to ignore a feature that could make them a lot more efficient or they just never use a product on which you focus your research interests. In such situations, it’s important to stay curious rather than being judgmental. If you start judging and even possibly “correcting” their practices, you close your mind to the reasons for the participant’s actions. Also, your participant would stop being open about showing you how they work. Participants are experts in their work and  have a reason for doing what they do. Maybe they do not want to be more effective because it would mean that their superiors would increase expectations, leaving no wiggle room for everyday contingencies. Maybe they don’t use a product because it’s indeed important in a work process but people have found ways to prevent a situation from happening that triggers this process.
+From time to time, you might observe actions that seem to be wrong or at least not optimal: People might seem to ignore a feature that could make them a lot more efficient or they just never use a product on which you focus your research interests. In such situations, it’s important to stay curious rather than being judgmental. If you start judging and even possibly “correcting” their practices, you close your mind to the reasons for the participant’s actions. Also, your participant would stop being open about showing you how they work. 
+
+Participants are experts in their work and  have a reason for doing what they do. Maybe they do not want to be more effective because it would mean that their superiors would increase expectations, leaving no wiggle room for everyday contingencies. Maybe they don’t use a product because it’s indeed important in a work process but people have found ways to prevent a situation from happening that triggers this process.
 
 ### Co-documenting {#coDocumenting}
 
@@ -172,11 +181,12 @@ Having the documentation in front of you and the participant makes it easy to im
 
 The fact that researcher and participant both need to understand the documentation is a check against unclear terms, vague references, and sloppy handwriting. This makes the results accessible and useful.
 
-A situation in which this is relevant could happen like this:\
-_Researcher_: “The line here seems to indicate that you were very happy at the beginning…”\
-_Participant_: “Yes, the recipe just looked awesome, I really wanted to try it”\
-_Researcher_: “Can you write this in the diagram, so I can understand it later?” \
-_Participant_: [Writes as comment in the diagram] “Recipe looks awesome!” \
+A situation in which this is relevant could happen like this:
+
+> _Researcher_: “The line here seems to indicate that you were very happy at the beginning…”\
+> _Participant_: “Yes, the recipe just looked awesome, I really wanted to try it”\
+> _Researcher_: “Can you write this in the diagram, so I can understand it later?” \
+> _Participant_: [Writes as comment in the diagram] “Recipe looks awesome!” \
 
 Whether researcher or participant does the drawing, writing, or both depends on what is more practical and gives more interesting data. When researching workflows, _I_ write the documentation as a researcher, because participants should be able to demonstrate their tasks directly, which is hard when you need to switch between demonstrating and writing all the time. When the participants document a project on a timeline, _they_ draw it directly, and I only ask questions.
 
