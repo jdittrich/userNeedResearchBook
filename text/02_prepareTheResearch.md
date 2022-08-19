@@ -76,106 +76,112 @@ Here is an example:
 
  The research project question serves to align, communicate and plan the research project. It is relevant to you and the people you work with, but it is not relevant to your direct work with participants in research sessions. What matters in research sessions are the research session questions.
 
+
 ### Writing research session questions {#researchSessionQuestions}
 
-The research session questions are the questions you want to ask participants, for example “Can you tell me a bit about how you cook?” They can also be invitations you want to give, like “Can you show me some recipes you like to use?” or “can you walk me through your kitchen?” Some of your questions are not voiced at all, you ask them to _yourself_ to guide your attention for example “Are there annotations in the recipes?”
+The research session questions are the questions you want to ask participants, for example “Can you tell me about how you cook?” They can also be invitations you want to give, like “Can you show me some recipes you like to use?” or “can you show me around your kitchen?” Some of your questions are not voiced at all, you ask them _yourself_ to guide your attention, for example “Are there annotations in their recipes?”
 
-You may have noticed that such questions are not aiming for specific, short answers which are typical for surveys like “How much do you like your Job on a scale from 1(I hate it) to 5 (I love it)?” or “Please name your most frequently used app”. Such surveys are usually analyzed quantitatively. In this book, I focus on understanding how and why people do what they do—qualitative research. This is I show how to ask questions to which you can get in longer and descriptive answers that can teach you new things that you did not know before. Such questions are called _open questions_ because they don’t have a determined (closed) set of answers. Open questions are, for example, “Describe how you started your work today” or “Why did you add sugar to the dough?”
+You may have noticed that such questions such questions don't target specific, short answers typical of surveys, like “How much do you like your Job on a scale from 1(I hate it) to 5 (I love it)?” or “Please name your most frequently used app”. Such surveys are usually analyzed quantitatively. In this book, I focus on understanding how and why people do what they do—qualitative research. I show you how to ask questions to which you can get in longer and descriptive answers. By this, you will learn what you did not know before. Such questions are called _open questions_ because they don’t have a pre-determined (closed) set of answers. Open questions are, for example, “Describe how you started your work today” or “Why did you add sugar to the dough?”
 
-It makes sense to write down your research session questions. This helps you to remember what you want to ask and enables you to review and improve your questions. Writing down the session questions is also useful for collaboration with co-researchers: They might have good ideas what could be asked and collaborating on the questions will help you to better understand the motivations and strengths of your co-researchers.
+It makes sense to write down your research session questions. This helps you to remember what to ask and allows you to review and improve your questions. Writing down the session questions is also useful for collaborating with with co-researchers: They might have good ideas what could be asked and collaborating on the questions will help you to understand the motivations and strengths of your co-researchers.
 
-When I start writing my research session questions, I often structure them along three topics: _Motivations_, _Activities_ and _Problems_. They are relevant for design, and they can be easily remembered with the mnemonic _M-A-P_.
+When I start writing my research session questions, I often structure them around three themes: _Motivations_, _Activities_ and _Problems_. They are relevant for design, and easy to remember with the mnemonic _M-A-P_.
 
-Questions about _motivations_ are concerned with what the participant wants to achieve and what is important for them. Motivations can give you context to what the participants do.
 
-* “What is most annoying about cooking?”
-* “Can you tell me why you choose this recipe?”
-* “What is a meal that you have not cooked yourself but would be curious about trying?”
+Questions about _motivations_ are concerned with what the participant wants to achieve and what is important to them. Motivations can give you context to what the participants do.
 
-Questions about _activities_ are about what the participant dos and how they do it. Activities are the core part of research, it’s where the action is.
+* “What is the most annoying thing about cooking?”
+* “Can you tell me why you chose this recipe?”
+* “What is a meal that you have not cooked yourself but would like to try?”
 
-* [Invitation] “Shall we start with cooking?”
-* [when observing]“How did you decide that the pan is hot enough?”
-* “You said you will replace that ingredient—can you tell me more about this?”
+Questions about _activities_ are about what the participant is doing and how they are doing it. Activities are the core of research, this is  where the action takes place.
 
-Questions about _problems_ are about what gets in the way of what the participant wants to do. They can show opportunities to improve existing design as well as surface activities that are so familiar, that participants don’t think about them—until something gets in the way.
+* \[Invitation\] “Shall we start with cooking?”
+* \[while observing\] “How did you know the pan was hot enough?”
+* “You said you are going to  replace that ingredient—can you tell me more about that?”
 
-* [question] “What gets in your way when you cook?”
-* [observation] Watch out for people abandoning plans and finding new ways."
+Questions about _problems_ are about what is getting in the way of what the participant wants to do. They can show opportunities to improve existing designs and can surface activities that are so familiar that participants don’t think about them—until something gets in the way.
+
+* [question] “What is getting in your way when you cook?”
+* [observation] Watch out for participants abandoning plans and finding new ways.
 * [question] “What makes a ‘bad’ recipe?”
 
-The research session questions are flexible and should be treated as a tool for thinking and preparation. Usually, there are more questions than you will be able to get answers on in each single research session.
+The research session questions are flexible and should be treated as a tool for reflection and preparation. There are usually more questions than can get answers to in any single research session.
 
-Your session questions are not static. You should revise them while you learn more about the field. This can happen even before you talk with participants: By talking to experts and doing desk research, you can learn about the field before you go there.
+Your session questions are not static. You should revise them as you learn more about the field. This can be done even before you speak to participants: By speaking with experts and doing desk research, you can learn about the field before you go there.
 
 ## Get to know the field without going there, yet
 
-Having a basic understanding of the field helps you to interpret what is going on. Otherwise, what you hear and observe can easily seem like an overwhelming amount of new terms, puzzling behaviors, and unspoken expectations. I show you two ways to learn about a field before you go there: Desk research and talking to experts.
+A basic understanding of the field will help you to interpret what is going on. Otherwise, what you hear and observe can easily seem like an overwhelming amount of new terms, puzzling behaviors, and unspoken expectations. I’ll show you two ways to learn about a field before you go there: desk research and talking to experts.
 
 ### Desk research
 
-_Desk research_ means you can do it from your desk by reading and summarizing reports, books, websites, and so forth. Ideally, you can start with easy-to-grasp introductions. For our example project, you could get some cookbooks for beginners and see how they teach cooking. It might also make sense to watch some videos where people explain cooking techniques to get a feel for how observation might feel like.
+_Desk research_ means you can do it from your desk by reading and summarizing reports, books, websites, and so forth. Ideally, you can start with easy-to-grasp introductions. For our example project, you could get some cookbooks for beginners and see how they teach cooking. It may also be worth watching some videos of people explaining cooking techniques to get a feel for how participant observation might be like.
 
-Some areas have a lot of “onboarding material” like books, tutorials and brochures—for example parenting or web development. Other areas might lack documentation, for example because the field is strongly professionalized (like being a pilot or a doctor), because some ways of doing things are considered bad practice (like shortcuts to get work done quickly), or because the topic is considered not actually part of the discipline (like managing your finances as a freelance designer).  Particularly for information on what actually happens aside of what is documented, experts might be a good source of information.
+Some areas have a lot of “onboarding material” like books, tutorials, and brochures—for example parenting or web development. In other areas, documentation might be lacking, for example because the field is highly professionalized (like being a pilot or a medical doctor), because some procedures are considered bad practice (like shortcuts to get work done quickly), or because the topic is considered not actually part of the discipline (like managing your finances as a freelance designer).  Particularly for information on what actually happens aside of what is documented, experts might be a good source of information.
 
 ### Talk to experts
 
-Although searching the web for information is often quick and easy, talking to an expert can help you to answer specific questions and get tips on what to consider in practice. The difficult part is usually finding an expert one. 
+Although searching the web for information is often quick and easy, talking to an expert can help you answer specific questions and get tips on what to consider in practice.
 
 Very often the team you work with already has some connections to experts: A company creating digital design tools will have close contact to some designers, a company producing medial devices will have contact to doctors. Very often you can use these existing connections to reach out to experts who already have an established connection to your team or organization.
 
-If you need to contact the expert without knowing them before, you might be lucky and they talk with you for free. Otherwise, you pay them for their time. What you need to pay varies and some experts are really expensive. But in general, talking to an expert is an efficient way to get an overview of a field and the relevant questions for practitioners.
+If you need to contact the expert without knowing them beforehand, you might get lucky and they’ll talk with you for free. Otherwise, you’ll pay them for their time. What you have to pay varies and some experts are really expensive. But in general, talking to an expert is an efficient way to get an overview of a field and the relevant issues for practitioners.
 
 ## Find people who participate in your research
 
-When you have your research questions written and learned about the field you want to research in, it is time to find people who participate in the research sessions. To be able to do this, you need to get in contact with them, ask if they could participate and organize that participation. This is often also called “Recruiting.” You do this by defining criteria that potential participants should meet and by reaching out to them. You also need to set what you can pay participants for their participation. Payment makes finding people easier and your research more fair.
+Once you have written your research questions and learned about the field you want to research in, it is time to find people who participate in the research sessions. To be able to do this, you need to get in contact with them, ask if they could participate and organize that participation. This is often referred to as “recruiting” research participants. You do this by defining criteria that potential participants should meet and by reaching out to them. You also need to set what you can pay participants for their work. Paying makes it easier to find people and makes your research more fair.
 
 ### Define recruiting criteria
 
-You are probably familiar with demographic recruiting criteria like “30-40-year-old male, making more than $60k/year and being interested in technology.” However, your interest is in what people _do_ and the problems they encounter. Demographic criteria are only spuriously related to that. This is why you should describe the potential research participants based on the _activity_ that is part of our research project question.
+You are probably familiar with demographic recruiting criteria like “30-40-year-old male, earning more than $60k/year and being interested in technology.” However, your interest is in what people _do_ and the problems they encounter. Demographic criteria are only spuriously related to that. This is why you should describe the potential research participants based on the _activity_ that is part of our research project question.
 
 In my example project, the research project question is “How do people with low to intermediate existing cooking skills learn new skills when they cook with recipes?”, so the activity is “Learning new cooking skills when cooking with recipes.” This is a good start, it could be a bit easier to understand though: “People who want to improve their cooking skills and use recipes” is probably better, since potential participants could more easily relate to it and think: “Seems they are looking for people like me!”
 
 Recruiting your potential research participants based on activities does not mean that you should ignore criteria that are not activities. Age, gender, ethnicity and other criteria have a large influence on how people act. It will make your research more interesting and potentially more equitable if you include potential participants from a wide range of such criteria. You can set criteria for the diversity of the participants your involve in your research.
 
-Concerning my example project, I know that cooking, as a domestic activity, is usually associated with women. I could say, that I want at least a quarter of the participants to not be woman. Similarly, if I would do research with programmers, it is a reasonable guess that many programmers are young, male, and white. Again, I can set criteria to have some participants older than 35, not to be male and not to be white.
+In my example project, I know that cooking, as a domestic activity, is usually associated with women. I could say, that I want at least a quarter of the participants to not be woman. Similarly, if I would do research with programmers, it is a reasonable guess that many programmers are young, male, and white. Again, I can set criteria to have some participants older than 35, some non-male, and some non-white.
 
-Defining your recruiting criteria along activities that are interesting for you ensures that you recruit participants who actually do what you are interested in. While the activities are the primary criterion, demographics are not be ignored: Having a demographically diverse group of people makes it more likely to observe a wider range of ways people go about their activities.
+By defining your recruitment criteria along the activities that are interesting for you ensures that you recruit participants who actually do what you are interested in. While activities are the primary criterion, demographics should not be ignored: Having a demographically diverse group of people makes it more likely to observe a wider range of ways people go about their activities.
 
 ### Where does the research happen?
 
-Research should happen where the participants do the activity you want to learn about. In the example project, I am interested in how participants cook with recipes, so their kitchen would be the place to do the research: There, they can talk about the context and show me what they do. I can experience the context and see how much space they have in their kitchen, how they use space when cooking and where they keep their recipes. Researching at the place where participants do the activities you are interested in, is called a _site visit_.
+Research should take place where the participants are doing the activity you want to learn about. In the example project, I’m interested in how the participants cook with recipes, so their kitchen would be the place to do the research: There, they can talk about the context and show me what they do. I can experience the context and see how much space they have in their kitchen, how they use the space when cooking and where they keep their recipes. Researching at the place where participants do the activities you are interested in, is called a _site visit_.
 
-However, it is not always feasible to do the research at the site of the activity. For example, some workplaces have a strict no-visitors policy. Some audiences are be globally distributed and long flights to each single participant would be very resource-intensive.  In-person site visits also not always the best way to gather data. For example, if almost all relevant interaction happens on a screen, talking and observing via video chat and screen-sharing might give you better opportunities to observe than looking over somebodies shoulder in their office.
+However, it is not always feasible to do the research at the site of the activity. For example, some workplaces have a strict no-visitors policy. Some audiences are distributed globally and long flights to each single participant would be very resource-intensive.  In-person site visits also not always the best way to gather data. For example, if almost all relevant interaction happens on a screen, talking and observing via video chat and screen-sharing might give you better opportunities to observe than looking over somebodies shoulder in their office.
 
-Knowing what your research project will be like and where the research is going to happen is helpful when trying to find your participants for the research. You might also learn more about the field and the participants in the process of finding people and adjust the planned setup accordingly.
+Knowing what your research project will be like and where the research is going take place is helpful when trying to find your participants for the research. You may also learn more about the field and the participants in the process of finding people and adjust the planned setup accordingly.
 
 
 ### Payment and incentives
 
 <!-- Potentially include a section on the assumptions that it is "ethical" to pay nothing or very few. In this case, cite Largent, Emily A, und Holly Fernandez Lynch. 2017. „Paying Research Participants: Regulatory Uncertainty, Conceptual Confusion, and a Path Forward“. Yale journal of health policy, law, and ethics 17 (1): 61–141. --> 
 
-Payment for research (also called _compensation_ or _incentive_) is important for two reasons: It makes participating more attractive to participants and it allows some participants to participate at all, for example if they could not afford to interrupt their usual job for talking to you.
+Payment for research (also called _compensation_ or _incentive_) is important for two reasons: It makes participating more attractive to participants and allows some participants to participate at all, for example if they could not afford to interrupt their usual job for talking to you.
 
-There are several factors influencing what a fair payment is, among them
+There are several factors that influence what a fair payment is:
 
 * Time spent with you, time spent with organizing, time spent traveling.
-* Costs of living for the participants: A compensation that is considered barely okay in Swedish city might be considered big in rural India.
+*Living expenses  for the participants: A compensation that is considered just about okay in Swedish city might be considered high in rural India.
 * People who are hard to recruit might be swayed by a larger compensation.
 
-To get a starting point, you can use an online calculator, like this one by [ethnio](https://ethn.io/incentives/calculator), that gives you a suggestion for a sum to pay.
+As a starting point, you can use an online calculator, like this one by [ethnio](https://ethn.io/incentives/calculator), that gives you a suggestion for a sum to pay.
 
-Ideally, you should pay your participants in cash as it poses the least restrictions on participants and does not require to be user of a particular service (like using PayPal or having a bank account). It might not be very relevant for research with middle-class people in a western country, but not everyone in the world has a bank account.
+Ideally, you should pay your participants in cash as this poses the fewest restrictions on participants and does not require being user of a specific service (like using PayPal or having a bank account). It may not be very relevant to research involving middle-class people in a western country, but not everyone in the world has a bank account.
 
-However, paying in cash is infeasible for many organizations. It might not be allowed or only be permitted for small amounts. Gift cards or vouchers are a common alternative. Sometimes, pre-paid VISA cards can also be a good choice. If your participants already use a product of yours, you could also reduce their monthly service fees for it or gift them a free upgrade.
+However, paying in cash is infeasible for many organizations. It may not be allowed or only be permitted for very small sums. Gift cards or vouchers are a common alternative. Sometimes, pre-paid VISA cards can also be a good choice. If your participants already use a product of yours, you can also reduce their monthly service fees for it or give them a free upgrade of their plan.
 
-People might reject your compensation. In this situation, explain to them that they spend time on your questions and that they are experts in what you want to learn about and that it is only fair for them to be paid. Also, participants might not be allowed to take any compensation, for example because they work for the government. If people reject the compensation or are not allowed to take it, it can be a nice alternative to offer to donate the money instead and let them pick from a list of 5 or so well known charities to choose where the money should go.
+People might reject your compensation. In this situation, explain to them that they spend time on your questions and that they are experts in what you want to learn about and that it is only fair for them to be paid. Participants may not be _allowed_ to take any compensation, for example because they work for the government. If people reject the compensation or are not allowed to take it, it can be a nice alternative to instead offer to donate the money instead and let them choose from a list of well-known charities to choose where the money should go.
 
-If your work is commercial, pay your participants. However, if you do research as a student or for a small NGO you might only have a shoestring budget and people might be supportive of your cause already. If this is the case, I've had good experiences with giving a small gift to people—some premium chocolate bars or the like. The costs are relatively small and participants enjoyed the gift a lot.
+> Tip: Sarah Fathallah’s article [“Why Design Researchers Should Compensate Participants”](https://medium.com/notes-off-the-grid/why-design-researchers-should-compensate-participants-a65252352f67) discusses not only the “why” of compensation but also typically raised objections to compensation.
+
+If your work is commercial, pay your participants. However, if you do research as a student or for a small NGO you might only have a very tight budget and people might be supportive of your cause already. If this is the case, I've had good experiences with giving a small gift to people—some premium chocolate bars or the like. The costs are relatively small and participants enjoyed the gift a lot.
 
 ### Plan how many participants you need
 
-There are no clear-cut rules about how many participants you need. However, most of my projects have had more than three and less than twenty participants.
+There are no clear rules as to how many participants you need. However, most of my projects  had more than three and fewer than twenty participants.
+
+<!-- roundtrip until here -->
 
 If you have done quantitative research in the past, this will seem like a very small number of people. And it is indeed plausible to assume that conducting user research with more participants is generally better in qualitative research, too. However, as long as you do not invest more resources, having more participants would mean you need to shorten each research session, ask fewer questions and skip observing the participants. But you need time with each participant if you want to understand how and why they work the way the do. And for this goal, several sessions in a hurry lead to less useful results than research with one participant done right.
 
@@ -411,7 +417,7 @@ What goes into such a sheet? The biggest part will be topics you want to explore
 
 > _Recipe use research cheat sheet_
 >
-> User Code:_______ , Date: ________*
+> User Code:_______ , Date: ________
 >
 > * Tell the reason for research: Learn about how people use their smartphones and tablets when cooking.
 > * Tell how the research session will be (asking, listening, observing; 60-90min)
