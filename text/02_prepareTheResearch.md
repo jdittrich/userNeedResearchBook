@@ -3,7 +3,7 @@
 <!-- 
 TODOs/NOTEs
 —   https://docs.google.com/document/d/1107r9r6d-2-4MwRZX6eiZbMi1LuClOB2sZ88KcQP9ME/edit# (Alba researcher checklist)
----> 
+--> 
 
 _This chapter covers:_
 
@@ -355,67 +355,65 @@ Research should yield helpful results, but even more importantly, it should not 
 
 ### Preventing harm to participants
 
-<!-- roundtrip until here -->
+As a researcher, have experience in doing research and you can determine how you carry out the research. Participants have no experience in being participants nor can they easily control how the research is conducted. This makes it important for you to plan ahead to prevent harm and make the research a good experience for your participants.
 
-As the researcher, you will have experience in doing research and you determine how the research happens. Participants do not have experience in being participants nor can they easily control how the research happens. This makes it important to plan ahead to prevent harm and make the research a good experience for your participants.
-
-Participants should be well-informed and feel prepared before the research, they should have a good experience when they are in the research session with you and there should be a positive outcome for them hereafter. 
+Participants should be well-informed and feel prepared before the research, they should have a good experience when they are in the research session with you and there should be a positive outcome for them afterwards. 
 
 #### Fairness
 
-The participant does actual work to help you learn. Not only do they take the time to participate in your research session, keep the time free of other commitments, and take care that they are there in time, they also do share knowledge and skills that often take a long time to acquire and that can not easily be read up on. This work they do should be honored. Paying them is one important aspect of this. Another is to actually use the data well and not do research for research’s sake or because someone said that “more participants are better”. To enable participants to assess whether your research is fair, you need to share with them what the intent of the study is and how you will reimburse them.
+The participant does actual work to help you learn. They take time to participate in your research, keep that time free of other commitments, take care that they are there on time and last, but not least, they also do share knowledge and skills that often take a long time to acquire. This work they do should be honored. Paying them is one important aspect of this. Another is to use the data well and not do research for research’s sake or because someone said that “more participants are better”. In order for participants to judge whether your research is fair for them, you need to share what the purpose of the study is and how you will reimburse them.
 
 #### Participant autonomy
 
-People should freely decide whether they want to be participants in your research and also what they want to share with you and how. This means that you might not get answers to all of your questions or be able to observe everything you like to observe. This is something you need to accept.
+People should be free to choose to participate in your research and also what to share with you and how. This means that you may not get answers to all of your questions or may not observe everything you like to observe. You have to accept that.
 
 #### Participant safety
 
-Much of user need research is not particularly dangerous for body or soul. But there can be research that can cause physical harm indirectly (imagine researching how people navigate in traffic—distractions could lead to accidents) or research topics that are particularly sensitive (for example researching with victims of crime). The concerns for participant autonomy are particularly important here, as people often know when something will cause them harm. However, they might not act on it, to be a “proper research participant.” If you research in fields where there is a likelihood for physical or psychological harm, it makes sense to speak with domain experts, particularly those from the group of potential research participants to get an assessment of your plans.
+Much of user need research is not particularly dangerous for body or soul. But there may be research that can cause physical harm indirectly (imagine researching how people navigate in traffic—distractions could lead to accidents) or research topics that are particularly sensitive (for example, researching with victims of crime). The concerns for participant autonomy are particularly important here, as people often know when something will cause them harm. However, they might not act on it in order to be a “proper research participant.” If you research in fields where  physical or psychological harm is a possibility, it makes sense to speak with domain experts, particularly those from the group of potential research participants to get an assessment of your plans.
 
 #### Protection of identity {#protectionIdentity}
 
-There are many reasons why participants do not want to be identifiable. It can be that they just do not want others to know that they are “bad with computers.” It also could be that you observe real workflows that are not exactly like their bosses prescribe them. And for vulnerable populations it might be the case that they have a stigmatized cognition (for example people having schizophrenia) or target of law enforcement (such as illegal immigrants). Thus, the identity of your participants should be protected. This can be archived by not using their usual name but a made up one and by describing your observations in a way that does not give the identity away by context clues.
+There are many reasons why participants do not want to be identifiable. They may just do not want others to know that they are “bad at computers.” It also could be that you observe real work processes that are not exactly like their bosses dictate. And for vulnerable populations it might be the case that they have a stigmatized cognition (for example people having schizophrenia) or target of law enforcement (such as illegal immigrants). Thus, the identity of your participants should be protected. This can be archived by not using their usual name but a made-up one and by describing your observations in a way that context clues do not reveal their identity.
 
-For example, pseudonymizing research is often a standard procedure: You replace names of the participants with other names to protect their identity. However, being credited and being shown with one’s own name can also be important and a matter of pride for the skilled participants. In many research projects, I thus give people the opportunity to self-define how they want to be referred to in the research reports.
+For example, pseudonymizing research is a standard procedure: You replace names of the participants with other names to protect their identity. However, being credited and being shown with one’s own name can also be important and a matter of pride for the skilled participants. In many research projects, I thus give people the opportunity to self-define how they want to be referred to in the research reports.
 
 > _Note:_ Laws to protect personal data: GDPR and CCPA
 >
-> Protection of personal data of participants is regulated by law in many jurisdictions. The most relevant laws are probably the _California Consumer Privacy Act_ (CCPA) and the EU’s _General Data Protection Regulation_.
+> There are laws that protect participants’ personal data in many jurisdictions. The most relevant regulations are probably the _California Consumer Privacy Act_ (CCPA) and the EU’s _General Data Protection Regulation_.
 >
-> There are differences between them, but their basic idea is giving people control over their personal data and what can be done with it by others.
+> There are differences between them, but their basic idea is to give people control over their personal data and what can be done with.
 >
-> This means that data can’t just be collected, stored and used for whatever a company likes, but that it that shall only be collected for a specific purpose and only the data that is relevant for that purpose. In addition, the personal data needs to be deleted again if it is not needed anymore or if people request it to be deleted.
+> This means that data can’t just be collected, stored and used for whatever a company likes. Data needs to be collected for a specific purpose and then used for this purpose only. In addition, the personal data needs to be deleted again if it is not needed anymore or if former participants request it to be deleted.
 >
-> Personal data can be the person’s name, but also their email-address, their age and their gender. You use such data to get in contact with participants and to process incentive payments. Before you collect such data, you should have a plan how to delete it after you do not need it anymore or when a participant requests it to be deleted.
+> Personal data can be the person’s name, but also their email-address, their age and their gender. You use such data to get in contact with participants and to process incentive payments. Before you collect such data, you should have a plan how to delete it.
 >
 > The organization you work with might also have faced similar questions before and a concept for handling personal data is already in place.
 
 
-The safety of participants should be your priority. However, do not forget: Research might also carry risks for you as researcher.
+The safety of participants is essential. However, do not forget: Research might also carry risks for you as researcher.
 
 ### Preventing harm to yourself
 
-Just like the participants, you should not feel uncomfortable during the research. It is fine and professional to avoid research situations that are dangerous or just _feel_ dangerous. Err on the side of caution.
+Just like the participants, you should not feel uncomfortable during the research. It is okay and professional to avoid research situations that are dangerous or just _feel_ dangerous. Err on the side of caution.
 
-In some situations, it can be safer to research together with another researcher or a colleague who likes to assist you. This way, you so can look out for each other. It is very common to have a main researcher and a note taker, anyway, so it is no unusual setup. It is also fine to arrange to meet at places where you feel safer or to shift a meeting online so that both sides can call from whatever place they feel fine at.
+In some situations, it may be safer to research together with another researcher or a colleague who likes to assist you. This way, you so can look out for each other. It is very common to have a main researcher and a note taker, anyway. It is also fine to arrange to meet at places where you feel safer or to shift a meeting online so that both sides can call from whatever place they feel fine at.
 
-Only a fraction of research touches on topics that are inherently debilitating, but in some projects you might hear sad or shocking stories from participants. For example, if you do research for a hospital you might hear about shocking diagnoses from participants. If you take on such a project, consider whether you are ready for it. It is professional to know one’s limits and pass on it. If you read this book you are probably a beginner and might want to gather research experiences before researching inherently difficult topics. I personally would only take on such projects if I could collaborate with subject-matter-experts, since there would be high risks for me and for participants.
+Only a fraction of research topics are inherently debilitating, but in some projects you might hear sad or shocking stories from participants. For example, if you are researching for a hospital you might hear about shocking diagnoses from participants. If you take on such a project, consider whether you are ready for it. It is professional to know your limits to refuse the job. If you are reading this book, you are probably a beginner in user research and may want to gather research experiences before researching inherently difficult topics. Personally, I would only take on such projects if I could collaborate with subject-matter-experts, since there would be high risks for me and the participants.
 
-No matter the topic of the research, it is important to take time to process what one learned. If you do the research together with other people, debrief together after the research session and talk about what you learned. Hearing something sad or irritating can happen even around very mundane topics and talking about it helps you to put it into context. Debriefs are also important to simply jog one’s memory and supplement notes without being in a hurry.
+Regardless of the topic of the research, it is important to take the time to process what you have learned. If you are conducting the research with other people, do a joint  debrief after the research session and talk about what you learned. Hearing something sad or irritating can happen even with very mundane topics. Talking about it helps you to put it into context. Debriefs are also important to simply jog one’s memory and supplement notes without haste.
 
 ### Beyond individual harm: Ethics of project outcome
 
- Research can be a lot of fun and earn you money. It also can be immensely motivating to be part of creating a new product. Tech industry’s culture is fueled by the idea of being a force for good by creating more efficiency, information, and connections with the technologies it introduces. User research is often part of creating these technologies—and what we enable with our research is also a question of ethics.
+ Research can be a lot of fun and make you money. It can also be immensely motivating to be involved in the development of a new product. The culture of the tech industry is driven by the idea of being a force for good by creating greater efficiency, information, and connections with the technologies it introduces. User research is often part of creating these technologies—and what we enable with our research is also a question of ethics.
 
-The technologies we help to create also might do unjust things more efficiently, they might foster the spread of false and inflammatory information or destroy existing social structures. User research can advance such developments, too: Researching work of low-paid delivery workers to create a more efficient app for a service platform? Research people’s ideas of good social relationships to make them spend more time on social media? Such research can be done perfectly ethical by itself, but its outcomes might not be ethical at all.
+The technologies we help to develop also might do unjust things more efficiently, they might encourage the spread of false and inflammatory information or destroy existing social fabrics. User research can advance such developments, too: Researching work of low-paid delivery workers to create a more efficient app for a service platform? Research people’s ideas of good social relationships to make them spend more time on social media? Such research can be done perfectly ethical by itself, but its outcomes might not be ethical at all.
 
- You, too, need to pay your bills and in many cases it won't be possible to do research only and always on projects with which you align 100%. But be aware that technology has social consequences and that your research can be part of building that technology.
+ You too have to pay your bills and in many cases it will not be possible only and always research on projects you are 100% aligned with. But be aware that technology has social consequences and that your research can be part of building that technology.
 
-## Writing your cheat sheet {#cheatsheet}
+## Write your cheat sheet {#cheatsheet}
 
 A cheat sheet is a little memory aid that you can take with you when you collect data.
-What goes into such a sheet? The biggest part will be topics you want to explore and the questions that you want to ask.
+Most of the cheat sheet will be topics you want to explore and the questions that you want to ask.
 
 > _Recipe use research cheat sheet_
 >
@@ -434,21 +432,21 @@ What goes into such a sheet? The biggest part will be topics you want to explore
 > * …
 
 
-When you write the questions on the cheat sheet, start with the general topics and progress towards more specific ones. This is the order that makes sense in the course of a research session. Nevertheless, that order is only a helpful guess. You will usually deviate a bit (or a lot) from your cheat sheet.
+When writing the questions, start with the general topics and progress towards more specific ones. This is the order that makes sense over the course of a research session. Nevertheless, the sequence of questions is just  a helpful guess. You will usually deviate a little (or a lot) from your cheat sheet.
 
-Often, I include some kind of checklist on the top, especially if there are legal matters involved, such as signing a consent form. Thus, I can tick off what we already dealt with and immediately see if I forgot something.
+I often include a checklist on the top, especially when it comes to legal matters, such as signing a consent form. That way, I can check off what I have already done see immediately if I have forgotten anything.
 
-You may wonder about the “User Code” in the preceding example. When I do research, every participant gets an identification code that can be used instead of their name (like “User2”). Later when you publish the research, you want to retract all names and other identifying information. Using such code, you can identify participants without their names. This is useful to keep the participant’s privacy, particularly if you share or discuss preliminary results. If you need to retain the names, you can keep a _separate_ list, matching participant codes and legal names, so you can revert the codes if you need to. An alternative to codes is to ask participants how they want to appear in the (published) research.
+You may be wondering about the “User Code” in the previous example. When I do research, I give every participant an identification code that can be used in place of their name (like “User2”). Later, when you publish the research, you want to retract all names and other identifying information. Such code allows you to identify participants without their names. This is useful for maintaining participant privacy. If you need to keep the names, you can keep a _separate_ list that matches participant codes and legal names. This way, you can revert the codes if necessary. An alternative to codes is to ask participants how they would like to appear in the (published) research.
 
-The cheat sheet is a tool to support you during the interview and help you along when your mind goes blank for a moment. It is not for ensuring that you ask all questions in the same way and in the same order. Instead of _controlling_ the situation, qualitative research emphasizes _exploring_ the situation. If the participant does or tells something that is new to you, use it to learn and feel free to come up with new questions that are not on the cheat sheet.
+The cheat sheet is a tool that will support you during the interview and help you when your mind goes blank for a moment. It is not intended to ensure that you ask all questions in the same manner and in the same order. Rather than _controlling_ the situation, qualitative research emphasizes _exploring_ the situation. If the participant does or says something that is new to you, use it to learn and feel free to come up with new questions that are not on the cheat sheet.
 
 ## Summary
 
-* Define what you want to learn in the research project by writing your _research project question_.
+* Define what you want to learn in the research project by formulating your _research project question_.
 * Define what you want to learn from participants by writing your _research session questions_.
-* Get to know the field before going there by desk research and asking experts.
-* Write a cheat-sheet with the questions you want to research, what you want to observe and ask.
+* Get to know the field before you go there by desk research and asking experts.
 * Recruit based on activities, not demographics.
-* User need research is in-depth with few participants.
+* User need research is in-depth, with few participants.
 * Pay users for helping you.
-* Prevent harm by assessing the risks that the research itself could pose to you and participants as well as the harm a product could do which creation you support with your research.
+* Prevent harm by assessing the risks the research itself could pose to you and participants as well as the harm a product your research is helping to create could do.
+* Write a cheat-sheet with the questions you want to research, what you want to observe and ask.
