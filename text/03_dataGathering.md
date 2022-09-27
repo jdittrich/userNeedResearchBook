@@ -63,7 +63,6 @@ When you meet online, the tools are different. In this situation, you should hav
 * *Writing on paper or computer*: Both writing in a text file or writing on paper is fine. If you can touch-type, you can write notes and look at the camera.
 * *Whiteboarding-app*: Whiteboarding apps like  miro, mural, or tldraw are a remote equivalent to pens and sheets for collaborative activities.. They've improved a lot in recent years, but ease of using  pen and paper is still unmatched—your mileage may vary, especially for people who are not familiar with such tools. 
 
-<!-- roundtrip until here-->
 ### Brief your research partner
 
 If you are conducting research with a research partner, you should have a conversation about what you are going to do in the research session, how you want to divide tasks, and what you both should be aware of. Your research partner should also know when and where you are going to meet for the research session itself and if they should bring equipment.
@@ -118,7 +117,6 @@ It goes without saying that it is important that you accommodate the participant
 
 Now you and the participant are ready to move into the conversation about the topics you want to learn about. To do this it’s helpful to consider how you can learn from the participant.
 
-<!--roundtrip-->
 ## Methods to learn from participants
 
 You can engage with participants in several ways: listening, observing, and co-documenting their activities. Each method has its own strengths, and provides insight into different aspects, so it's common to combine several approaches.
@@ -167,6 +165,7 @@ Of course, what you observe should also be relevant to _your_ interests. The con
 From time to time, you might observe actions that seem wrong or at least not optimal: People might seem to ignore a feature that could make their work much more efficient or they just never use a product that you focus your research interests on. In such situations, it’s important to remain curious rather than being judgmental. If you start judging and even possibly “correcting” their practices, you close yourself off to the reasons for the participant's actions. Also, your participant would stop being open about showing you how they work. 
 
 Participants are experts in their work and have a reason for what they do. Maybe they do not want to be more effective because it would mean that their superiors would increase expectations, leaving no wiggle room for everyday contingencies. They may not use a product because it’s indeed important in a work process but people have found ways to prevent a situation that triggers that process from occurring. 
+
 ### Co-documenting {#coDocumenting}
 
 You can also document the work with the participant directly. I call this _co-documenting_ because both you and the participant document some aspect of the participant’s life directly through drawing and writing. This can be as simple as asking the participant: _“Draw a floor plan of your kitchen. Please highlight what is important for your work and write why!”_
@@ -275,291 +274,286 @@ Asking follow-up questions also shows that you care about in what participants s
 
 Some participants may  assume that you can not learn anything from them assuming you already know about their work. For example, if you are from the company that developed a product they use, they might assume that you know about everything they possibly could be do with it. Even if you know the product well, you probably do not know how people use it in practice and what its limitations are in such situations. You can tell them: “Thanks, it can seem this way, but I only create a small part of (Product) development and I am not an expert on (whatever the product is used for). I think I can learn a lot about how (product) is actually used in the real world!”
 
-<!-- roundtrip -->
+### Make a friendly impression through  body language.
 
-### Make a friendly impression by using body language.
-
-Probably, you would not make a bad impression anyway, but let’s go through it nevertheless: Don’t give an angry or stern impression by frowning and crossing arms and legs. Don’t look careless by leaning back and looking to the ceiling. During the interview, show reactions to what the participant says or does. If you take notes, maintaining eye contact is not possible all the time—but keep eye contact when you can.
+Probably, you would not make a bad impression anyway, but let’s go through it nevertheless: Don’t appear angry or stern by frowning and crossing arms and legs. Don’t look careless by leaning back and looking to the ceiling. During the interview, show reactions to what the participant says or does. If you take notes, looking at the participant is not possible all the time—but try to show that you are attentive when you can. 
 
 ## Be open to how the participant works and thinks
 
-In user need research you want to learn from participants. This is exciting since you can’t know what you will learn. The things you learn unexpectedly are often crucial to further developing your understanding of the participants and to recognize potential risks and opportunities. However, being open to these experiences is not easy. Not knowing what you learn is unsettling. In our everyday life, we often trade the openness for efficiency and known outcomes. To stay open to how the participant works and thinks is a skill that must be learned—but there are some basic principles that can be of great help: Asking open questions, not suggesting answers, and embracing the value of silence.
+In user need research, you want to learn from participants. This is exciting as you have no way of knowing what you will learn. What you learn unexpectedly is often critical to developing your understanding of the participants and to recognizing potential risks and opportunities. However, it is not easy to be open to these experiences.  Not knowing what you learn is unsettling. In our everyday lives, we often trade the openness for efficiency and predictable outcomes. To stay open to how the participant works and thinks is a skill that must be learned—but there are some basic principles that can be of great help: Asking open questions, not suggesting answers, and embracing the value of silence.
 
 ### Ask open questions
 
-Open questions are questions that do prompt longer, descriptive answers. You already read about open questions in the [section on writing your research session questions](#prepareResearch): Open questions are questions that invite longer, descriptive answers from participants—in contrast to closed questions, which have only a closed range of meaningful answers. Asking participants open questions will lead to concrete and descriptive answers and potentially lead to insights that you did not expect.
+Open questions are questions that do prompt longer, descriptive answers. You already read about open questions in the [section on writing your research session questions](#prepareResearch). Open questions can be contrasted with closed questions, which have only a closed range of meaningful answers. Asking participants open questions will lead to concrete and descriptive answers and potentially lead to insights that you did not expect.
 
-I pick up the topic here again, because only a part of the questions you ask will be questions you wrote down before. You might also come up with questions reacting to what you hear or see when being with the participant. It often makes sense to ask these questions as open questions, too.
+I'll revisit the subject here because only a part of the questions you ask will be questions you wrote down previously. You will also come up with questions that are responding to what you hear or see when being with the participant. It often makes sense to ask these questions as open questions, too.
 
-To be able to come up with open questions during the conversation, it can be helpful to have some easy-to-memorize phrases that help to ask open questions:
+In order to be able to come up with open questions during the conversation, it can be helpful to have some easy-to-remember phrases that help to ask open questions:
 
-* Starting your questions with “Can you tell me more about…” invites descriptive, longer answers: “Can you tell me more about why it is difficult to cook for a large family?”
-* Asking “How”-Questions invite the description or demonstration of activities: “How do you go about choosing recipes” or “How did you learn what ‘glacing’ meant?”
+* Starting your questions with “Can you tell me more about…” invites descriptive, longer answers: “Can you tell me more how cooking for a large family is like?”
+* Asking “How”-Questions invites  description or demonstration of activities: “How do you go about choosing recipes” or “How did you learn what ‘sautéing’ meant?”
 
-These phrases are useful for asking open questions. There are also phrases you might want to avoid as they usually start closed questions.
+These phrases are useful for asking open questions. There are also phrases you might want to avoid as they usually begin closed questions.
 
-When being concerned with developing products it is rather tempting to ask “would you…” questions, like “Would you like to bookmark recipes?” Such questions are problematic for two reasons:
+When it comes to product development, it's quite tempting to ask “would you…” questions, like “Would you like to bookmark recipes?” Such questions are problematic for two reasons:
 
-* They ask the participant to make guesses about their future decisions, which is not very reliable.
-* They often invite only short answers like “yes” or “No”, like “Yes, bookmarks sound good.”
+* They ask the participant to make assumptions about their future, which is not very reliable.
+* They often invite short answers like “yes” or “No”, like “Yes, bookmarks sound good.”
 
 “Is” is another word that often leads to closed questions that are answered with “yes” or “no”: “Is it difficult to cook a risotto?”—“No, not really.”
 
-> _Tip:_ Sometimes closed questions can be a springboard to open questions. “Would you like to bookmark recipes?” points to a relevant activity: About re-finding and organizing recipes. An open question based on this could be “How do you look up recipes again which you liked in the past?”
+> _Tip:_ Sometimes closed questions can be a stepping stone to asking open questions. “Would you like to bookmark recipes?” points to a relevant activity: About re-finding and organizing recipes. An open question based on this could be “How do you look up recipes again which you liked in the past?”
 
-By using phrases like “Can you tell me more” or “How do you…” you can ask open questions in reaction to what participants say or do. While sometimes, closed questions are helpful, often they are not. Rephrasing closed “Would you” and “Is…” questions can help you to get more interesting answers.
-
+By using phrases like “Can you tell me more” or “How do you…” you can ask open questions in response to what participant says or does. While closed-ended questions are sometimes helpful, more often they are not. Rephrasing closed “Would you” and “Is…” questions can help you to get more interesting answers.
 
 
 ### Do not suggest “right” or “wrong” answers or processes {#rightAnswers}
 
-A frequent concern of researchers is influencing the participants. One way to deal with this concern is defining how questions should be asked by following a strict script.
+A common concern of researchers is influencing the participants. One way to deal with this concern is to define how questions should be asked by giving a strict script.
 
-But creating artificially constant conditions would make you lose the very strengths of the methods described here: Being able to find out about new and unexpected things, reacting to them and gaining understanding of the how-and-why by reacting on the situation. Each participant and their context is different. You can accommodate this by adjusting the research session to the context and the activities of the participant. This would not be possible when asking the same questions each time. Being flexible and able to react to situations is essential and a strength of the research method.
+But creating artificially constant conditions would cause you to lose the strengths of the methods described here: Being able to find out about new and unexpected things and gaining understanding of the how-and-why by reacting on the situation. Each participant and their context are different. You can accommodate this by adjusting the research to the context. This would not be possible if you would ask the same questions every time. Being able to react to situations is essential and a strength of the research method.
 
-What I think is relevant though, is considering how your own assumptions and wishes can lead to suggesting favorable answers. Such influence in research comes in different shapes: “This is good, isn’t it?!” Is a very obvious influence, since it blatantly states what you think the answer should be: A “yes.”
+However, what I think is relevant, is to  consider how your own assumptions and wishes can lead to suggesting favorable answers. Such influence in research takes different forms: “This is good, isn’t it?!” Is a very obvious influence, since it as it bluntly expresses what you think the answer should be: a “yes.”
 
-There are less obvious influences as well, for example suggesting via saying “Would you like a better version of this?”—who would not like something better, so again, the answer the participant is going to give is “yes”.
+There are also less obvious influences, for example by asking  “Would you like a better version of this?”—who doesn't want something better?! Again, the answer the participant is going to give is “yes”.
 
-Aside from your questions, you could also suggest “right” ways of doing something with direct feedback. For example, when a participant says “I can’t read the recipes on the website, and there is no mobile view that makes them readable”, it may be tempting to say: “No, there is!” if that function is actually there, but the participant did not notice it.
+In addition to your questions, you could also suggest “right” ways of doing something with direct reactions. For example, if a participant says “I can’t read the recipes on the website, and there is no mobile view to make them readable”, it may be tempting to say: “No, there is!” if the participant did not notice the feature.
 
-Remember, that you want to find out what your participant does and why. To correct the participant immediately rarely leads to new insights.  Instead, you can just ask “what do you do then?”, or, if talking about the function itself is important to you, you can ask “What is an example for a website that does it better?”
+Remember, you want to find out what your participant is doing and why. Correcting the participant immediately rarely leads to new insights. Instead, you can simply ask “what do you do then?”, or, if talking about the function itself is important to you, you can ask “What is an example for a website that does it better?”
 
-This being said, if you can clearly help the participant with a simple bit of information, explore the topic and share your knowledge immediately after —while not “correcting” the participant: “This was very helpful for me to learn! The team that build the website will appreciate learning about the problems. What they have assumed is that people trigger the mobile view by…”
+That being said, if you can clearly help the participant with a simple bit of information, explore the topic and share your knowledge immediately afterwards —while not “correcting” the participant: “That was very helpful for me to learn! The team building the website will appreciate learning about such problems. What they  assumed is that people trigger mobile view by…”
 
 You may also be surprised or even annoyed by steps or actions in a workflow of the user that seem outright superfluous.\
- _Participant_: “When I want to share a recipe, I make a photo of the screen like this… and then I can forward the image in a chat” \
-You may think that this is rather inefficient and be tempted to say “Why don’t you use the share-function or copy the web address?—that would be far more efficient!”
+ _Participant_: “When I want to share a recipe, I take a photo of the screen like this… and then I can forward the image in a chat” \
+You may think that this is pretty inefficient and be tempted to say “Why don’t you use the share-function or copy the web address?—that would be far more efficient!”
 
-Remember that nobody does inefficient actions by purpose. Assume that the participant has a reason. Try to find out what this reason may be.
+No one does inefficient actions because they are inefficient. Assume that the participant has a reason. Try to figure out what that reason might be.
 
-Again, you could ask: “What’s the reason for you to do it this way?”—and ask follow-up questions to further explore the issue. For example, they might prefer images as they show directly in chats and can easily be tapped to zoom in, whereas the original website would open in another app.
+Again, you could ask: “What’s the reason for you are doing it this way?”—and ask follow-up questions to further explore the issue. For example, they may prefer images because they show directly in chats and can easily be tapped to zoom in, whereas the original website would open in another app.
 
-Don’t be afraid to react toward the participant and what they say or do. Adapting to the situation is essential in our research. But don’t judge the actions or answers of a participant. You are interested in the how and why of their work. If you judging what they do prematurely cuts off questions to be explored.
+Don’t be afraid to react toward the participant and what they say or do. Adapting to the situation is essential in our research. But don’t judge the actions or answers of a participant. You are interested in the how and why of their work. When you judge what they are doing as right or wrong, questions that you could explore are cut off prematurely.
 
 ## Silence feels strange, but it’s okay
 
-Sometimes, the participant takes time to think before answering. Intuitively, you may want to fill the silence to help the participant along.
+Sometimes, the participant takes time to think before answering. Intuitively you might want to fill the silence to help the participant.
 
-> _Researcher_: “Can you tell me what happened after you added the pepper to the dish?”\
-> (pause) “…was it fine?”
+> _Researcher_: “Can you tell me what happened after you put the pepper in the dish?”\
+> (pause) “…was it okay?”
 > 
-> _Participant_: “Yeah, I think”
+> _Participant_: “Yeah, I think- ”
 
 It is tempting to fill the silence with suggestions for the answer. But it can turn an open question (“can you describe…?”) into a closed question (“can you describe… was it…?”) or prevent the participant coming up with their answer on their own.
 
-Try to tolerate the silence. Usually, the participant answers within a few seconds. If you notice silence which you want to fill, count to three or five before probing further. Then, ask about the question rather than giving suggestions, like “What makes the question hard to answer?” or “Can you tell me what you are thinking about?”
+Try to tolerate the silence. Usually the participant answers within a few seconds. If you notice silence which you want to fill, count to three or five before probing further. Then, ask about the question rather than giving suggestions: “What makes the question hard to answer?” or “Can you tell me what you are thinking about?”
 
-This way, you can help the participant to continue with elaborating on the question you asked, even if they need some thinking to answer it.
+This way, you can help the participant to continue with elaborating on the question you are asking, even if it takes them some though to answer it.
+
 
 ## Take a closer look
 
-Initially, you gain some familiarity with the participant and what they do. Previously, you knew some terms and what they describe. Now you want to get to learning how it all connects, understand what the participant deems to be relevant and why, and to see and experience easily glossed-over tacit knowledge of activities and skills. 
+Early in the reserach session, you only have some basic knowledge about what the participants do. You know some terms and what they describe. Later, you try to learn how it all connects, understand what the participant thinks is relevant and why, and see and experience easily glossed-over implicit knowledge about activities and skills. 
 
-When that topic seems relevant for your research, you should try to get to learn more: You can probe with follow-up-questions, check your understanding, and ask for demonstrations.
+To learn more, you can probe with follow-up-questions, check your understanding, and ask for demonstrations.
 
 ### Probing
 
-When I learn something new, I often feel that this is only the beginning of a bigger topic. In this case I can “probe” for further information.
+When I learn something new, I often have the feeling that this is just the beginning of a larger topic. In this case, I can “probe” for further information.
 
-You already know one way to do this: Silence. Just as you might intuitively want to fill the silence, the participant may just jump in and fill the silence with further information.
+You already know one way to do this: silence. Just as you might intuitively want to fill  the silence, the participant may just step  in and fill the silence with further information.
 
-
-> _Participant_: “So I found that recipe and I tried it once, but it was so-so”\
-> (Brief pause, researcher nods)
+> _Participant_: “Well, I found that recipe and I tried it once, but it was so-so”\
+> (Short pause, researcher nods)
 > 
-> _Participant_: “I don’t know what the problem was, I guess something about the timing. Everything was just mushy,”
+> _Participant_: “I don’t know what the problem was, I guess something about the timing. Everything was just mushy”
 
 
+Alternatively,  you can also repeat the most recent statement or words the participant has said.
 
-If leaving a pause does not make sense, you can achieve a similar outcome by repeating the most recent statement or words the participant has said.
-
-
-> _Participant_: “So I found that recipe and I tried it once, but it was so-so”
+> _Participant_: “Well, I found that recipe and I tried it once, but it was so-so”
 > 
 > _Researcher_: “So-so?”
 > 
-> _Participant_:“I don’t know what the problem was, I guess something about the timing. Everything was just mushy,”
+> _Participant_:“I don’t know what the problem was, I guess something about the timing. Everything was just mushy”
 
-This way, you can help participants to carry on without changing the course by asking new questions.
+That way, you can help participants  keep going without changing course by asking new questions.
 
-If you would like to know more about something particular, you can also ask directly: “Please tell me what you would do in a situation requiring you to wait?”
+If you want  to know more about something specific, you can also ask directly: “Please tell me— What  would you do if you had to wait?”
 
-Asking directly can be useful if the participant gave a rather vague answer:
+Asking directly can be useful if the participant has answered rather vaguely:
 
 > _Participant_: “Well, I try to get some more information and try to find out where it got stuck”
 > 
-> _Researcher_: “Could you describe me how you would do that?”
+> _Researcher_: “Could you describe to me how you would do that?”
 
 
-When you gather your data by observing or drawing diagrams with the participant, direct questions are very useful to explore the work.
+If you  gather your data by observing or drawing diagrams with the participant, direct questions are very useful for exploring the work.
 
-> _Researcher_: “You added pepper without tasting before or checking the recipe—how did you know it needed pepper?”
+> _Researcher_: “You added pepper without first tasting or checking the recipe—how did you know it was needed?”
 > 
 > Or, when co-documenting with the participant in a diagram:
 > 
-> _Researcher_: “This graph seems to indicate you were in quite a good mood here. Could you explain me a bit why you seem to be less happy here [Points]?”
+> _Researcher_: “This graph seems to indicate that you were in a pretty good mood here. Could you explain  a little bit why you seem  less happy here [Points]?”
 
-By using these methods, you can get additional information and show the participant that you are carefully listening and observing. Following up on observations and information is important to learn new things. However, sometimes you rather need to check your understanding. Even if it all makes sense to you, let’s ask the participant if your understanding makes sense to them.
+These methods allow you to gain additional information and show the participant that you are  listening  and observing carefully. Following up on observations and information is important for learning. However, sometimes you want to check your understanding. Even if everything makes sense to you, it is often good to check if your understanding makes sense to them.
+
 
 ### Check your understanding
 
-To check my understanding I often refer back to what the participant talked about earlier or what they demonstrated to me. I tell them how I interpret a situation based on what I learned from them and ask them if it makes sense to them. In this case, even closed (yes/no) questions are okay.
+To check my understanding, I often go back to what the participant talked about or showed me before. I tell them how I interpret a situation based on what I have  learned from them and ask them if it makes sense to them. In this case, even closed (yes/no) questions are fine.
 
-> _Researcher_: “You said that it looks good, now. Did you mean the pasta is done now…?”
+> _Researcher_: “You said  it looks good, now. Did you think  the pasta is ready now…?”
 > 
-> _Participant_: “No, the sauce. It looks good, just like on the picture at the recipe.”
+> _Participant_: “No, I meant the sauce. It looks good, just like on the picture in  the recipe.”
 
-There are several advantages of checking:
+There are several benefits of checking your understanding:
 
-* Avoid confusions and misinterpreted research due to misunderstandings.
-* Show that you care for the participant’s expertise.
+* Avoid confusion and misinterpreted research due to misunderstandings.
+* Show that you care about the participant’s expertise.
 * Encourage participants to continue and tell you more.
 
-For checking, you need to refer to something that you want to check. You often need to describe it to the participant:
+For checking, you need to refer to something that you want to verify. You often need to describe it to the participant:
 
-
-> _Researcher_: “So: If I want to cook something you would first see which ingredients you have and then try to match a recipe?”
+> _Researcher_: “So: If I wanted to cook something, would you first see what ingredients you have and then try to match a recipe?”
 > 
-> _Participant_: “Yes… I mean, somewhat. It plays a role. I do not want stuff go to waste.”
+> _Participant_: “Yes… I mean, somewhat. It matters. I don’t want things to go to waste.”
 
 
-To refer to what you learned some time earlier, you and the participant need to remember. Use your notes as memory aid, and don’t be afraid to just point at things if you do not remember the correct term. The participant tells you what the “thingy” is called by them. For example, you could ask: “Can you tell me more about this does?” (points at a utensil)? Or when co-documenting: “Here (Points to diagram) your motivation seemed to change quite quickly—can you tell me more about this?”
+To refer to what you learned, use your notes as memory aid, and don’t be afraid to just point at things if you do not remember the correct term. The participant will tell you what the thing is called. For example, you could ask: “Can you tell me more about this does?” (points at a utensil)? Or when co-documenting: “Here (points to diagram) your motivation seemed to change quite quickly—can you tell me more about that?”
 
-By checking your interpretations of the participants descriptions and activities, you can avoid misunderstandings and gain additional insights.
+By checking your interpretations of the participant’s descriptions and activities, you can avoid misunderstandings and gain additional insights.
 
 ### Ask for examples
 
-When participants mention activities or tools they use, ask them if you could observe the activity or tool in action. Seeing an example avoids misunderstandings and gives rich opportunities for further insights:
+When participants mention an activity or tool they use, ask them if you could observe the activity or tool in action. Seeing an example avoids misunderstandings and offers rich  opportunities for further insights:
 
-> _Participant_: “…so I would just use the food processor to do it.”
+> _Participant_: “…so I would just use the food processor for that.”
 > 
-> _Researcher_: “Can you show me how you do that?”
+> _Researcher_: “Can you show me how you do this?”
 
 
-This avoids ambiguity in what they meant by “using.” It is easiest for researcher and participant to look at it together.
+This avoids ambiguity as to what they meant by “use.” It is easiest for researcher and participant to look at it together.
 
-You can also ask for examples to delve deeper into a topic. The participant might have mentioned a process earlier. You now could ask to learn more about it:
+You can also ask for examples to dig deeper into a topic. The participant may have mentioned a process before and you can build upon this and ask to learn more about it:
 
-> _Researcher_: “You said you would look up on YouTube how to cut this. Can you show me how you do that?”
+> _Researcher_: “You said you would look on YouTube how to cut this. Can you show me how you do that?”
 > 
 > Or, without asking for a demonstration:\
 > _Researcher_: “…what would you expect to find?”
 
 
-Asking for examples provides a natural way to show your interest, expand topics and to switch from a conversation to observation. Switching methods and topics in your research is important to get to know what is relevant for you, and this is what we are looking at in the next section.
+Asking for examples provides a natural way to show your interest, expand on topics, and to move from a conversation to an observation. Switching methods and topics in your research is important to figuring out what is relevant to you, and that what I will cover in the  next section.
 
-> #### We have already build something, why don’t we use it?!
+> #### We have already build something, why not use it?!
 > 
+> When discussing [project types in the first chapter](#projectTypes), I wrote that user need research should be done early in projects. Often, however, people have already started designing something, such as a prototype or a concept document, and they will ask you if you can’t make this part of your research. You can, but some caveats apply.
 > 
-> When discussing [project types in the first chapter](#projectTypes), I wrote that user need research should be done early in projects. Often, however, people have already started designing something, for example a prototype or concept document, and they will ask you if you can’t make this part of your research. You can, but some caveats apply.
+> When you bring up  an idea or prototype,  steer the conversation towards the effects on the participant’s work . Do not focus on whether they like it or whether they find it useful.
 > 
-> When bringing in an idea or prototype, you should steer the conversation towards how the participant assumes it will affect them. Do not focus on whether they like it or if they find it useful. Focus on what it makes them think about.
+> I introduce such ideas or prototypes by saying something like: “There are always a lot of ideas floating around. A colleague said they think about…” This reduces the risk of the participant assuming  I am excited about the idea and  wanting validation instead of  learning from them.
 > 
-> I introduce such ideas or prototypes by saying something like: “There are always many ideas floating around. A colleague said they think about…” This way, I lower the risk that the participant assumes that I am sold on the idea and that I want a confirmation rather than learning from them.
+> Then, I  show them the prototype or the idea. Sometimes it is working user interface, sometimes a competitor’s tool, sometimes just a few sketches or diagrams. But keep it simple—the gist of it should fit on one screen or printout, otherwise you will only create confusion.
 > 
-> Then I will show them the prototype or the idea. Sometimes it is working interface, sometimes a competitor’s tool, sometimes just some sketches or diagrams. But keep it simple—the core of it should fit on one screen or printout, otherwise you just create confusion.
+> After presenting  the prototype or idea, focus your questions on how the participant expects it to affecttheir daily lives. You could ask: “How do you think would this fit into your work?” or “We do not know enough about your field of work, so we were wondering what the impact of such a product would be.” If the participant hesistates, it can be helpful to ask what  _other people_ might think: “What would your [peers/team/family…] think about using this?” This is sometimes easier to answer and an can yield insights into the participant’s social environment.
 > 
-> After having introduced the prototype or idea, focus your questions on what the participant assumes its effects would have on their daily life. You could say: “How do you think would this fit into your work?” or “We do not know enough about your field of work, so we wondered what the effect of such a product would be.” In case participants are hesitant, it can also help to ask what they think _other people_ would think: “What would your [peers/team/family…] think about using this?”
+> The participant’s response will  help you to learn about their motivations, activities, and problems. For example, they might tell you: “Yeah, this idea keeps coming up. But it will not be used. Just doing it by browsing takes time but it is fun. I do not want to make recipe selection more efficient!” or they tell you “I currently use google docs for this and only mention people there. But I’m having a hard time keeping track  of all the feedback I got and I sometimes wish it would be more orderly” You can then explore the topics deeper and ask: “Can you show me how your process works in google docs?”
 > 
-> The participant’s answer helps you to learn about their motivations, activities, and problems. For example, they might tell you: “Yeah, this idea comes up again and again, but such products I know were not used. Just doing it by browsing takes time but it is fun. I do not want to make recipe selection more efficient!” or they tell you “I currently use google docs for this and just mention people there. But I struggle with getting an overview of all the feedback I got and I sometimes wish for more organization there.” You can then explore the topics deeper and ask: “Can you show me how your process works in google docs?”
+> I also had people who directly dismissed or were indifferent to what I was showing. They could easily tell why. This is actually great, as it avoids wasting more time and money on an idea.
 > 
-> I also had people outright dismissing or being indifferent to what I showed. They could easily tell why. This is actually great, as it prevents wasting more time and money on an idea.
+> If  you use prototypes or ideas in your research, it should be clear to your colleagues that you do this to learn more about the _participant’s work_. When people ask you to “evaluate the concept” or “test the prototype” they want to learn about the _concept_ or _prototype_ and should do a usability test instead.
 > 
-> When you use prototypes or ideas in your research, it should be clear to your colleagues that you do this to learn more about the _participant’s work_. When people ask you to “evaluate the concept” or “test the prototype” they do want to learn about the _concept_ or _prototype_ and should rather do a usability test.
-> 
-> Introducing existing ideas and prototypes can help you to learn more about participants and the context that affect possible plans for the future. This can only work successfully if you and your colleagues are on the same side and know that the focus is learning about the participant, not about the idea or prototype itself.
-
+> Introducing existing ideas and prototypes can help you  learn more about the participant and the context they work in. The results can inform you next steps in working on the prototype or idea. This can only work successfully when you and your colleagues agree that the focus is on learning about the participant, not  the idea or the prototype itself.
 
 ## Steer the course of research
 
-A research session follows a structure: Like in a movie, you get to know the world and the protagonists before you delve deeper into core issues. At the end you try to wrap up loose ends and summarize what you learned. To navigate you and the participant smoothly from start to end of the interview you need to provide guidance by switching topics and switching methods.
+A research session follows a structure: like in a film, you get to know the world and the protagonists before  delving deeper into core issues. At the end you tie up loose ends and summarize what you learned. In order to navigate you and the participant smoothly from the beginning  to the end of the research session, you need to provide guide topics and methods of the reserach session.
 
-### Switch topics
+### Changing between topics
 
-Over the course of your research, you cover different topics. You might set some topics beforehand because you think they are important. To use the time efficiently and learn about the topics relevant to you, you sometimes need to nudge the participant in the direction that is interesting for you.
+During the research session, you cover different topics. You can set some topics in advance because you think they are important. In order to use your time efficiently and to learn about the topics that are relevant to you, you sometimes have to nudge the participant in the direction that is interests you.
 
-You might want to switch topics when:
+You may want to switch between topics if:
 
-* There is (seemingly) nothing more to be found out.
-* You covered enough and need to switch to another topic before time runs out (If this happens, plan in more time in the future)
+* There is probably nothing more to be found out.
+* You have covered enough and need to move  to another topic before time runs out (If this happens, plan in more time in the future)
 * The participant is focusing on a topic that is not in the focus of your research.
 
-To switch topics, you can voice your interest in the next topic: “Could you tell me more about recipes that you use frequently?”
+To switch between topics, you can express your interest in the next topic: “Can you tell me more about recipes that you use frequently?”
 
-If possible, you can end the block by rephrasing what you learned before moving to the next topic: “Let me briefly summarize: […]. So, what would be interesting for me as well: You said you have recipes that you go back to again and again—can you tell me about this?”
+Before moving to the next topic, you can end the section by restating what you learned previously: “Let me briefly summarize: […]. So, what would also be interesting for me: You said you have recipes that you go back to again and again—can you tell me about this?”
 
-This can be particularly useful if a participant is carried away by a topic that is not relevant for you.: “…there is another topic is important to me: You said you have recipes that you go back to again and again—can you tell me about this?”
+Switching topics can be particularly useful when a participant gets carried away with a topic that is not relevant for you.: “…there is another topic is important to me: You said you have recipes that you go back to again and again—can you tell me about this?”
 
-To make the topic changes less abrupt, and to show that you listened carefully, you can refer to a topic which was mentioned, but not yet explored : “In the diagram you mentioned that you would ask your mom about cooking—what is it you ask her?” or “You mentioned that you sometimes prefer printed recipes on paper. What is useful about them?”
+To make the change of topics less abrupt, and to show that you have been listening  carefully, you can refer to a topic that has been  mentioned, but not yet explored: “When drawing the diagram, you mentioned that you would ask your mom about cooking—what is it you ask her?” or “You mentioned that you sometimes prefer printed recipes on paper. What is useful about them?”
 
-By altering the topic, you can cover the issues you need to know about and, if needed, bring your research back on course. But sometimes, you do not want to switch topics, but change the way you engage with the topic.
+By switching the topic, you can cover the topics you need to know about and get your research back on track. But sometimes you do not want to switch the topic, but change the way you approach the topic.
 
 ### Switch methods
 
-Every method highlights different aspects of the participant’s motivations, activities, and problems. So it makes sense to transition between methods in your research. By using different methods on the same topic, you can gain new perspectives on it.
+Each method highlights different aspects of the participant’s motivations, activities, and problems. Therefore, it makes sense to transition between methods in your research. By using different methods on the same topic, you can gain new perspectives on it.
 
 
 > (Here is a possible switch from interview to observation)\
 > _Researcher_: “You told me your general process of cooking a meal. Do you think we could cook something now, so I get to see it in practice?”
 > 
-> In this case, you already have a description of the activity. By observing the process, you can gain a less abstract, more specific and contextual view on it.
+> In this case, you already have a description of the activity. By observing the process, you can gain a less abstract, more specific, and contextual look at it.
 
-The methods you use on the same topic can be intertwined: During the demonstration of the activity, the participant may add to their description. For example, the participant explains while demonstrating: “I did not mention this before—I add some annotations to the recipes, in case I found some variant that I like or which is useful.”
+The methods you use on the same topic can be intertwined. For example,  during the demonstration of the activity, the participant may add to their description: “[During cooking]I did not mention this before—I add some annotations to the recipes, in case I found some variant that I like or which is useful.”
 
-Often, a new topic also brings a different method. You may have heard about motivations of the participant and now would like to explore an activity: “You said that collecting inspiration on the web is fun for you. Could you show me how you do that?”
+Often, a new topic also brings with it a different method. Perhaps, you have heard about motivations of the participant and now would like to explore an activity: “You said you enjoy getting inpiration from browsing the web. Could you show me how you do that?”
 
-Or you might want to talk in depth about something that a participant just sketched in a diagram: “In this diagram, you mentioned that it is important to know  which food your kids like. Can you tell me more about what happens when it goes wrong?”
+Or you might want to talk in detail about something  a participant just sketched in a diagram: “In this diagram, you mentioned that it is important to know  what  foods your kids like. Can you tell me more about what happens when it goes wrong?”
 
-Again, the methods can be intertwined, so that information from one kind of method is brought in when using another method: “So, your kid would be cranky if they do not like the food, and that easily messes up the schedule… let me add that to the diagram.” I then would write “kids cranky:bad” here in the diagram, so I can remember it.
+Again, the methods can be intertwined, so that information from one method is brought in when using another method: “Your child would be cranky if they do not like the food, and that easily messes up the schedule… let me add that to the diagram.” I then write “kids cranky:bad” in the diagram, so I can remember it.
 
-Using different methods and switching between them may seem like additional work. However, it can ease your work and, at the same time, improve its outcomes—just like choosing the right tools in manual crafts.
+Using different methods and switching between them may seem like additional work. However, it can make your job easier while improving the outcome —just like choosing the right tools in manual crafts.
 
 ## Wrapping up a research session
 
-Research sessions often happen in set time slots. This means you can plan ahead and start to wrap up when you still have about 20 minutes left, giving you enough time to tie up loose threads, summarize your understanding and then formally close the session.
+Research sessions often take place in scheduled time slots. This means you can plan ahead and start to wrap up when you  have about 20 minutes left, giving you enough time to tie up loose ends, summarize your understanding and then formally close the session.
 
-Wrapping up the session is like starting the session, but in reverse order. Starting meant going from the formal and predictable to new experiences and learning; finishing a research session means going from the new experiences and learning to a formal end.
+Ending the session is like starting the session, but in reverse order. Starting meant moving from the predictable to new experiences; ending a session means moving from the new experiences and learning to a formal end.
 
-When research session is about to end soon, you want to tie up loose threads: Consider what you could not yet make sense of. Ask the participant for what you still don’t know. Don’t be afraid to voice your lack of understanding.
-
-
-> Researcher: “There is one thing that I do not understand yet: You mentioned you collect online recipes, but we did not talk about how you store them so you can get back to ones that you liked. How does that work?”
-
-You might not be able to tie up _all_ loose ends. Focus on what is important to you on one hand and what seems to be interesting about this participant in particular: You might wonder about how the participants organizes recipes in general, but this participant regularly cooks for their family. You did not talk about cooking for others with a lot of participants yet, so you might focus on this aspect, assuming that you can still learn more about recipe organization from other participants.
-
-A good way to guide toward the end of the session is to summarize what you learned. This way, you can account for what you and the participant accomplished together. It also gives the participant the opportunity to correct you in case there are any gross misunderstandings.
-
-> _Researcher_: “I see that we approach the end of our meeting time. Thanks for giving me insight in your work. Let me summarize what I learned from you: …”
+As the research session draws to a close, you will want to tie up loose threads: Consider what you could not yet make sense of. Ask the participant for what you still don’t know. Don’t be afraid to express  your lack of understanding.
 
 
-After listening to what the participant has to say about your summary and making notes of it, thank the participant for their time and for what you learned again. I also let participants know that they can contact me if they have any questions about the research itself or how the data will be used and pass them my email address for reaching out. In my experience, it rarely happens that participants follow up, and in the cases it happens it’s often with helpful hints or an example for something that they could not explain easily in the research session.
+> Researcher: “There is one thing that I still do not understand: You mentioned you collect online recipes, but we have not talked about how you store them so you can come back to the ones you like. How does this work?”
+
+You may not be able to tie up _all_ loose ends. Focus on what is important to you on and what seems to be particularly interesting about this participant: You may be  wondering about how the participants organizes recipes in general, but this participant cooks for their family on a regular basis.You haven't spoken to many participants about cooking for others, so you could focus on that aspect provided you can still learn more about organizing recipes from other participants.
+
+A good way to guide towards the end of the session is to summarize what you have learned. This allows you to demonstrate what you and the participant have achieved together. It also gives the participant the opportunity to correct you if  there are any misunderstandings.
+
+> _Researcher_: “I see that we approach the end of our meeting time. Thank for giving me these insight into your work. Let me summarize what I learned from you: …”
+
+After listening to what the participant has to say about your summary and taking notes of it, thank the participant for their time and for what you learned. I also let participants know that they can contact me if they have any questions about the research itself or the use of the data and give them my email address to contact me if needed. In my experience, it is rare for participants follow up, and when they do it’s often with helpful hints or an example for something that they could not easily explain in the research session.
 
 > _Note:_ Oh, before you go, something very important!
 > 
-> In some cases the participant might start opening up a new and interesting topic just before the end of the research session. I don’t know why that happens. Maybe it is because they consider the topic to be important but were too polite to push for it themselves and hoped that the conversation would touch the topic some point.
-> You could extend the session. It is great to learn more and it seems that the participant would like to let you know about this. However, it might also prolong the time beyond what the participant gets incentivized for or what they actually planned. The best solution is usually to ask the participant openly.
+> In some cases the participant might start opening up a new and interesting topic just before the end of the research session. I don’t know why this happens. Maybe it is because they consided the topic to be important but were too polite to push for it themselves and hoped that the conversation would eventually get to the topic.
+>
+> You could expand the session time. It is great to learn more and it seems that the participant would like to let you know about this. However, it might also expand the time beyond what the participant gets incentivized for or what they actually planned. The best solution is usually to ask the participant openly.
 
 ## After the research session
 
-After gathering data, we need to take care that we can use the rich data in our later analysis. To make the most of your data, you should complement our notes, sketches, and diagrams and add some information about the context of the data gathering to close gaps and to help us to keep all the data organized.
+After gathering data, we need to take care that we can use the rich data in our later analysis. To get the most out of your data, you should complement your notes, sketches, and diagrams and add some information about the context of the data gathering to fill gaps and to help you to  organized the data.
 
 There are two ways to complement your data: From memory and from audio recordings and photos.
 
-Complementing your data should be done as soon as possible after the research session. I recommend scheduling the data gathering in a way that you have some time directly after the session to complement your data.
+Complementing your data should be done as soon as possible after the research session. I recommend scheduling the data gathering so  that you have some time right after the session to complement your data.
 
 ### Debrief with your research partner—or alone
 
-In the debriefing you mentally go through the research session again and note important insights or new questions. This is easier and more interesting when you researched together with a partner as you can both tell each other your impressions.
+In the debriefing you mentally go through the research session again and note important insights or new questions. This is easier and more interesting when you are researching together with a partner since you can share your impressions with each other.
 
-Debriefs can vary in length. I suggest scheduling at least 10 minutes, but for an interesting session, you can usually also fill 20 to 30 minutes.
+Debriefs can vary in length. I suggest scheduling at least 10 minutes, but for an interesting session, you can also fill 20 to 30 minutes.
 
-There is no fixed structure for a debriefing, but there are some points that are helpful to look at:
+There is no set structure for a debrief, but there are some points to pay attention to:
 
-* What was surprising? What led you to change your understanding?
+* What was surprising? What led you to develop your understanding?
 * What was similar to previous research sessions? What matched your expectations?
-* What are questions that you could not answer? What are new questions that you have?
-* What would you do in the next research session building upon these experiences?
+* Which questions could you not answer? What are new questions that you have?
+* What would you do in the next research session that builds upon these experiences?
+
+<!-- roundtrip-->
 
 Debriefs are helpful to get an initial structure to what you learned. They also provide closure and are a first preparation to both future research sessions with participants and analyzing the data. They have their strongest effects when done with a research partner. Aside from the advantages of exchanging and combining your experiences, they are also a great social experience that gives a sense of mutual achievement.
 
