@@ -5,7 +5,7 @@ _This chapter covers:_
 * _Understanding how research gets used_
 * _Putting the most important information first_
 * _Writing an easy-to-read style_
-* _Creating helpful photos and _diagrams 
+* _Creating helpful photos and diagrams_
 * _Designing posters for quick and visual research summaries_
 * _Creating slide decks to give an overview of your results_
 * _Writing text-focused reports to give in-depth information_
@@ -32,7 +32,7 @@ Your research should allow your audience to quickly understand and use the parts
 
 ## Reports should be easy and quick to understand
 
-There are basic principles that ease the communication of your research results:  A clear structure, an easy-to-read style and well-used visualizations help to create reports that people like to read, use, and share.
+There are basic principles that ease the communication of your research results: A clear structure, an easy-to-read style and well-used visualizations help to create reports that people like to read, use, and share.
 
 ### Putting first things first
 
@@ -49,7 +49,7 @@ After you set the priorities of _what_ you want to communicate, we should look a
 
 ### Easy-to-read style
 
-Writing simple and vivid sentences helps your readers to enjoy and understand your insights. A good text has actors and action like a scene you can  imagine; a bad text feels static, describing gray concepts, arrayed in lines of text. In your research, you observed participants in their activities and listened to them describing their motivations and problems. This is a great foundation to write a text that is interesting to read.
+Writing simple and vivid sentences helps your readers to enjoy and understand your insights. A good text has actors and action like a scene you can imagine; a bad text feels static, describing gray concepts, arrayed in lines of text. In your research, you observed participants in their activities and listened to them describing their motivations and problems. This is a great foundation to write a text that is interesting to read.
 
 One way to convey activity in your research is using “active” sentences. Active sentences are clear about who acts: “Joe searched for a recipe”. You could also write “The recipe retrieval process is initiated by the participant”—that puts the action in abstract, passive concepts and makes it hard to imagine what is going on. If you need an abstract principle, try to still frame it in terms of activities. You could write something like “Existing skills are the foundation of the cooking process and are utilized as long as the situation makes sense for participants. Recipes are utilized when the local sensemaking process breaks down.” A long sentence with a lot of abstract words. However, the content could be interesting and much easier to read: “Participants use their existing skills. They fall back to recipes when they don’t know what to do next”. 
 
@@ -105,13 +105,13 @@ Quick findings are very useful if your audience:
 
 ### Posters
 
-The great thing about posters is that they can become part of the environment the design team works in. The poster can be a reminder of the most important results, and team members can refer and point  to it in conversations.
+The great thing about posters is that they can become part of the environment the design team works in. The poster can be a reminder of the most important results, and team members can refer and point to it in conversations.
 
 Posters are the most compact way to summarize your research: Only the most important results get on a poster. Text should be short and structured with headlines. You can use graphics to their full potential on a poster. Complex processes or diagrams often suffer from the limited space they get in other media. Here they shine.
 
 ![Poster summarizing the research on improving cooking skills](images/05_communication_PosterExample.png){#posterExample1 alt="A poster showing a research summary and several research findings on how people learn to improve their cooking skills using recipes and videos"}
 
-Other formats of posters might focus on a particular result  and visualize in depth. I did not do this for the research on using cooking instructions. The following image is an example from research I did on  cleaning and transforming  data before importing it in a public database, using multiple tools and skills from different domains:
+Other formats of posters might focus on a particular result and visualize in depth. I did not do this for the research on using cooking instructions. The following image is an example from research I did on cleaning and transforming data before importing it in a public database, using multiple tools and skills from different domains:
 
 ![Visualization of data processing steps.](images/05_communication_graphicExample_Better.svg){#GraphicExample_Better alt="Visualization of data processing steps."}
 
@@ -163,7 +163,7 @@ Slide decks are a standard format for documenting research results and are used 
 
 ### Reports
 
-Written reports allow you to discuss results and methods in depth. They demand focused reading. Depending on the research, a report can be about 15-50 pages long and can include a description of the methods, recruiting process and research session questions in an appendix. This makes them a good format for readers who need to deeply engage with the topic, but also for archiving and later reusing research results. The written report allows to spell out relevant context, motivations, and reasoning. This helps readers to make sense of the research results even  years later.
+Written reports allow you to discuss results and methods in depth. They demand focused reading. Depending on the research, a report can be about 15-50 pages long and can include a description of the methods, recruiting process and research session questions in an appendix. This makes them a good format for readers who need to deeply engage with the topic, but also for archiving and later reusing research results. The written report allows to spell out relevant context, motivations, and reasoning. This helps readers to make sense of the research results even years later.
 
 The basic structure of a report can be the same as that of a slide deck. In a written report it can make sense to include an appendix with method description and a deeper discussion of the findings.
 
