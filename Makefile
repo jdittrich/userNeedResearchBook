@@ -6,7 +6,7 @@ TEMPLATEDIR=templates
 TEXTDIR=text
 YAMLMETA = $(TEXTDIR)/URBookMetadata.yaml
 TEXTSOURCES=\
-$(TEXTDIR)/license.md\
+$(TEXTDIR)/preface.md\
 $(TEXTDIR)/01_introduction.md\
 $(TEXTDIR)/02_prepareTheResearch.md\
 $(TEXTDIR)/03_dataGathering.md\
