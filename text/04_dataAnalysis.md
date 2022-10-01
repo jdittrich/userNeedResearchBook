@@ -302,75 +302,76 @@ Regardless of how you analyze, you will do similar activities: You need to get y
 
 #### Analysis in a word processor
 
-For getting your data in a suitable format, I suggest the following steps:
+To get your data in a suitable format for analysis using a word processor, I suggest the following steps:
 
 1. Create a new document
-2. Paste your transcript into that document
-3. Add a page break before the transcript to separate not-yet-grouped data from your (upcoming) structure of lines grouped by themes.
+2. Paste your transcript into this document
+3. Insert a page break before the transcript to separate ungrouped data from your (upcoming)  thematically grouped data.
 
-In a word processor, you cluster your data by moving lines close to each other, so you can put them in a bulleted list. You can rearrange lines using copy-and-paste or drag-and-drop.
+In a word processor, you group your data by moving lines close to each other. You can put them in a bulleted list for this. You can rearrange lines using copy-and-paste or drag-and-drop.
 
-To name groups of notes, put a headline above the list of notes that represents your group. Create a hierarchy by using different paragraph styles—bigger headlines for overarching themes-of-themes, smaller headlines for themes. If you use paragraph styles to format your headlines, you can use the navigation tool of the word processor navigate through your structure, which is very useful.
+To name groups of notes, write a heading above the group. Create a hierarchy by using different paragraph styles—bigger headings for overarching themes-of-themes, smaller headings for themes. If you use paragraph styles to format your headings, you can use the word processor’s navigation tool jump to groups.
 
 #### Analysis via sticky notes
 
-For getting your data in a suitable format, you need to print your notes. I describe one way to do this in the tip below.
+For getting your data in a suitable format for sticky notes, you need to print out your notes. I describe one way to do this in the tip below.
 
-For creating groups of notes, you simply move sticky notes closer together. This is great for expressing varying degrees of certainty. When you are confident in a group you can order the notes in clear rows or lines, while sticky notes you are not sure about yet might just be close, but not yet in the cluster.
+To create sticky note groups, you simply move sticky notes closer together. This is great for expressing varying degrees of certainty. When you are confident in a group you can arrange the notes in clear rows or lines, while sticky notes you are not yet sure about might just be nearby, but not yet in the cluster.
 
-For group titles, use sticky notes in a different color—write your group titles on sticky notes and add them to the group. Color-coding by hierarchy can be helpful: If you print your data points on white paper, you can use yellow sticky notes for group titles and pink ones for titles of a group of groups.
+For group titles, use sticky notes of a different color—write your group titles on sticky notes and add them to the group. Color-coding by hierarchy can be helpful: if you print your data points on white paper, you can use yellow sticky notes for group titles and pink ones for titles of a group of groups.
 
-> _Tip:_ Printing data for analyzing on sticky notes
+> _Tip:_ Print data for analyzing on sticky notes
 > 
-> When you want to do your analysis on analog printed notes, you need to print them. Here is the setup I use:
+> If  you want to do your analysis on paper notes, you need to print them. Here is the setup I use:
 > 
-> 1. Create table in a word processor with 2 columns and many rows. Each table cell will be a note.
+> 1. Create a table in a word processor with 2 columns and many rows on an A4 or Letter-sized page. Each table cell will be a note.
 > 2. In the table settings…
 >   * …switch off “Allow row to break across pages”, so that one note/table cell will not be split between pages.
->   * … choose a decent padding around each cell, like 0.5 cm
-> 3. Choose a font size of about 12-14pt: You need to be able to read them easily from an arm’s length distance
+>   * … choose a decent padding around each cell, about 0.5 cm
+> 3. Choose a font size of 12-14pt: It must be legible from an arm’s length.
 > 4. Copy/paste all your data (line by line) from the transcript into the cells.
 
-After this, you print it and cut out the cells. The only thing that is missing is actually being able to stick the notes on the wall. You can use restickable glue or tape, though I mostly use simple masking tape.
+Then, you print it out and cut out the cells. The only thing missing is actually being able to stick the notes on the wall. You can use restickable glue or tape, though most of the time I use plain masking tape.
 
-After annotating your notes and deciding between analysis on sticky notes or in a word processor, you can now start with structuring your data.
+After annotating your notes and deciding between analyzing them on sticky notes or in a word processor, you can now start structuring your data.
 
-### Develop a first structure {#developFirstStructure}
+### Develop an initial structure {#developFirstStructure}
 
-Structuring your notes means grouping similar data together, suggesting themes behind the data, naming these themes and deciding which data falls under which theme.
+Structuring your notes means grouping similar data together, suggesting themes behind the data, naming  those themes and deciding which data falls under which theme.
 
-Structuring your notes is an iterative process and not done all at once. When developing a first structure, you don’t use all your data yet. You can start with what you find useful when skimming through, or you can use the data of two participants for now. The goal is to set up some preliminary structure.
+Structuring your notes is an iterative process and not done all at once. When you develop an initial structure,you don’t use all your data. You can start with what you find useful as you skim your notes, or you can use data from two participants first. The aim is to set up a preliminary structure.
 
-![Developing a first structure is like trying out where you would put walls in your brick-build house: You can and will change them later, but they give your work needed structure](images/04_analysis_houseFirstStructure.jpg){#houseFirstStructure alt="A house made of toy bricks in its early stages; there is just the baseplate and some provisional walls."}
+![Developing an initial structure is like trying out where you would put walls in your brick-build house: You can and will change them later, but they give your work some structure](images/04_analysis_houseFirstStructure.jpg){#houseFirstStructure alt="A house made of toy bricks in its early stages; there is just the baseplate and some provisional walls."}
 
-When you analyze together with others, it usually makes sense for each of the researchers to start to work on a fraction of the notes themselves in parallel. Announce to others when you create a group and consult with co-researchers when you are unsure about the interpretation and grouping of a note.
+If you are analyzing together with others, it usually makes sense for each researcher to start to work on a fraction of the notes themselves in parallel. Let others know when you create a group and consult co-researchers if you are unsure about how to interpret and group a note. 
 
-There are two initial activities when developing a first structure: First you move notes in proximity, then you (preliminary) name groups.
+When developing an initial structure, there are two main activities: First you cluster notes into preliminary groups, then you give the groups provisional titles.
+
 
 #### Move in proximity
 
-The easiest way to start a structure, is moving similar data in proximity. You do not need to commit to a group title yet and you can easily try out different ways to organize your data.
+The easiest way to start a structure, is to move  similar data in proximity. You do not yet need to commit to a group title and you can easily try out different ways to organize your data.
 
-Here is a part the analysis where I only moved notes in proximity. Some notes that seem vaguely related to be able to do something:
+Here is a part the analysis where I just moved notes in proximity. Some notes seem vaguely related to be able to do something:
 
-* I need to find time for cooking and coordinate it with childcare
-* Observation: Has a well-outfitted kitchen, with almost all needed appliances.
-* “I don’t know how to make a sponge mixture” (she thus buys it ready-made)
+* I need to find time to cook and coordinate it with childcare
+* Observation: Has a well-equipped kitchen, with almost all appliances needed.
+* “I don’t know how to make a sponge mixture” (so she  buys it ready-made)
 
-Some notes which are, maybe, related to finding recipes:
+Some notes that may be related to finding recipes:
 
-* Becoming bored by food, trying to find new recipes
-* Kids do not like mushrooms, I need to consider this when planning meals
-* I collect recipes on Pizza dough; this is currently my favorite
+* Becoming with food, trying to find new recipes
+* Kids do not like mushrooms, I have to take this into account when planning meals
+* I collect pizza dough recipes; this is  my favorite at the moment
 * Observation: Has Recipes bookmarked in the cook book.
 
-Moving notes in proximity can help you to experiment with different structures. When you do this, you might get more confident in some of these structures, and you can give them a title by stating the insight related to the group.
+Moving notes in proximity can help you  experiment with different ways of organizing notes. You may gain more confidence in some of these structures, and you can give them a title by stating the insight related to the group.
 
 #### State insights
 
-When you clustered some notes together, you can try to find a title for the group. Again, this can be changed later and mainly serves to organize the data and support your thinking.
+When you clustered some notes together, you can try to find a title for the group. Again, this can be changed later and is there to organize the data and to support your thinking.
 
-Reading your notes and annotations might also spark a possible insight without forming a group first. This is great, too. Just write it down and assign the data to it. Even if you have only one or two pieces of data that fit the insight, don’t worry, just see if you find more data that matches and strengthens the insight. If not, you can still revise the title or just get rid of the group and see where else the data might fit.
+Reading your notes and annotations can also lead to possible insight without forming a group first. This is great, too. Just write it down and assign the data to it. Even if you have only one or two pieces of data that fit the insight, don’t worry, just see if you find more data that strengthens the insight. If not, you can still revise the title or just get rid of the group and see where else the data might fit.
 
 <!-- EXAMPLE-START -->
 For example, these were my first group titles when structuring the data on learning and recipe use:
@@ -388,141 +389,146 @@ For example, these were my first group titles when structuring the data on learn
 * misc (So far I just put all the notes that did not seem to fit well in a large “misc” group)
 <!-- EXAMPLE-END -->
 
-When you analyze together with others, try to review what you have so far. It is important that you have a common understanding of the existing structure. This does ensure that the results do not fall apart into per-person subsections.
+When analyzing  with others, try to review the groups you created until now. It is important that you have a common understanding of the existing structure. This  ensures that the results do not fall apart into per-person subsections.
 
-Now, you will have some preliminary, data-based themes, each created based on a few data points. Next, try if these themes are useful for organizing more than just a few data points.
+Now, you have some preliminary, data-based themes, each created based on a few data points. Next, try whether these themes are useful for organizing more than just a few data points.
 
-### Fill the structure
+### Fill in the structure
 
-Now you need to see if the structure you created is feasible. While you started creating the first structure with only a part of your data, you now use all of it and try sorting it into the themes. You do this the same way you created the initial structure: Move data in proximity, add it to groups, give groups titles or revise existing ones. The titles you write are ideally insights about the underlying data but if that does not work yet, just go with “same-things-mentioned”-group titles.
+Now you have to find out if the structure you created is viable. You created the first structure with only a part of your data. Now you can use all of your data and try to sort it into the themes. You do this just as you created the initial structure: Move data in proximity, add it to groups, give groups titles, or revise existing titles. The titles you write are ideally insights into the underlying data but if that does not work, just choose “same-things-mentioned”-group titles.
 
-If the previous step was building a (data-based) scaffold, now we try to build the actual walls.
+If the previous step was to build a (data-based) scaffold, now we try to build the actual walls.
 
-![Build upon your preliminary structure to see if the idea actually works.](images/04_analysis_houseWalls.jpg){#houseWalls alt="A house made of toy bricks. There are now solid walls, but no roof yet."}
+![Build upon your initial structure to see if the idea actually works.](images/04_analysis_houseWalls.jpg){#houseWalls alt="A house made of toy bricks. There are now solid walls, but no roof yet."}
 
-Aim for 3 to 10 pieces of data per theme. While it is temporarily OK to have very small groups, at the end, each theme should be derived from several data points and not on a single utterance. This does not mean that more is always better: If a theme encompasses more than 10 utterances or observations, consider if it makes sense to split the group in “sub-themes”.
+Aim for 3 to 10 data points per theme. While it is okay to have very small groups temporarily, each theme should be derived from multiple data points rather than a single utterance. This does not mean that more is always better: If a theme has more than about 10 utterances or observations, consider splitting it into “sub-themes”.
 
-Usually, I would go chronologically through all my notes starting with the first participant and ending with the most recent one—though any other scheme will suffice as well. Just be sure that you know with which data you dealt with already and with which you did not.
+Normally, I would go through all my notes chronologically, beginning with the first participant and ending with the most recent one—although any other scheme will do. Just make sure you know which data you have dealt with already.
 
-When filling the data in the structure, you may notice that you need to create additional themes. Some titles of the themes may need to be renamed as well. Just go ahead and make these changes, if you feel they are needed.
+As you add the data to the structure, you may find that you need to create additional themes. Some theme titles may also need to be renamed. Just go ahead and make these changes, if you feel they are necessary.
+
+<!--roundtrip-->
 
 <!-- EXAMPLE-START -->
-For example, a group that I could create early from my data was “customizing recipes”. I started to add some notes:
+For example, a group I created early on was “customizing recipes”. 
 
-* This is too few \[oil\]. I rather add some more oil, here, 
-* I added some lemon zest, as I like the fresh taste
-* It’s fun to change the recipe up a bit!
+* This is too few oil. I rather add some more
+* I added some lemon zest. I like the fresh taste
+* It’s fun to tweak the recipe a bit!
 
-This is a good start, but I need to test the structure and improve it. There are some points that should be tackled. From the participant codes, I could see that the notes in “not following recipes” were just from one person for now. To see if the group holds up beyond my initial intuition, I need to see if there are other notes from other research sessions.
+This is a good start, but I need to test and improve the structure. There a few points that should be addressed. Based on the participant codes, I could see that the notes in “customizing recipes” came from one person. To see if theme works, I need to see if there are other notes from other research sessions.
 
-When reading more notes, I find that there are not many notes that match “customizing recipes” in the sense of deliberately adding or swapping ingredients: These were mostly from just one participant. But there are quite some notes on research with other participants that are on customizing recipes in the sense of not doing exactly what is written in the recipes, like:
+As I read more of the  notes, I realize that there are not many notes that fit “customizing recipes” in the sense of deliberately adding or changing ingredients: These were mostly from just one participant. But there are  notes from research with other participants on not doing exactly what is written in the recipes, like:
 
-* I did not have shallots, but I used onions.
-* It also tastes well when I do not wait for two hours.
+* I didn't have shallots, but I did use onions.
+* It tastes good even if I don't let is simmer for two hours.
 
-I added these notes to the group “customizing recipes”. However, these notes were often more about finding good compromises regarding available ingredients or preferences in diet. I renamed the group to “changing recipes” though, which I found more fitting than “customizing”.
+I added these notes to the group “customizing recipes”. However, these notes were more about finding good compromises in terms of available ingredients or dietary preferences. I renamed the group to “modify recipes”, which I found to reflect the notes’ content better than “customizing recipes”.
 <!-- EXAMPLE-END -->
 
-Now, your groups will be informed by several data points each. But there will be many themes, which are created by the “same things mentioned”-Method; they don’t state insights. In addition, there might be overlapping themes and groups encompassing many data points, while other groups may be only informed by few data points from just one participant. It is time to revise the structure.
+Now your groups will each be informed about several data points. But there will be many themes that are created by the “same things mentioned”-Method, not stating insights. Also, there may be overlapping themes and groups encompassing many data points, while other groups may be informed by only a few data points from just one participant. It is time to revise the structure.
+
 
 ### Revise the structure
 
 After you went through your data and sorted it into themes, take a step back and review your results. 
 
-![Iterate on structures to find a way that works well in practice—this also means removing or rebuilding some parts.](images/04_analysis_houseRevise.jpg){#houseRevise alt="A house made of toy bricks. Some walls are partly removed to rebuild them in a more suitable place."}
+![Improve the structure to find a way that works well in practice—that also means removing or rebuilding some parts.](images/04_analysis_houseRevise.jpg){#houseRevise alt="A house made of toy bricks. Some walls are partly removed to rebuild them in a more suitable place."}
 
-If you analyze collaboratively, block some time for a review and collect a list of what is hard and what works well so far. With this list, you can tackle the problems together.
+If you analyze collaboratively, take time for a review and collect a list of what is difficult and what works well so far. With this list, you can tackle the problems together.
 
-If you recently dealt with just a particular part of the analysis (like working on two particular themes), your view might be too narrow: Glance over the whole range of clustered data, and rediscover themes, which might be a better fit for some data.
+If you have recently been involved with just a particular part of the analysis (like working on two specific themes), your view may be too narrow: Look at the full range of clustered data, and rediscover themes, which may be a better fit for some data.
 
-Take a look at the themes in relation to the data they encompass: Is there a fit or did you fall prey to wishful thinking? Possibly, there is actually only a weak match between the stated theme and the data. If this is the case, revise your structure.
+Look at the themes in relation to the data they contain: Do they match the data? Revise the themes if there is only a weak match between the stated theme and the data.
 
-> _Tip:_ While you create the structure of your analysis, you will look at your notes, images, and diagrams again and again. Sometimes, you have data that is very helpful and expressive; a quote that expresses an insight very well or a photo that illustrates a problem. This data is not only useful for analysis, but also later when presenting your results. You can use it to illustrate how your insight are grounded in concrete observations. When you come across such data, it is useful later to store copies in a separate location for later use when preparing the research report.
+> _Tip:_ As you create the structure of your analysis, you will keep looking at your notes, images, and diagrams again and again. Sometimes, you have data that is very helpful and expressive: a quote that phrases an insight very well or a photo that illustrates a problem. This data is not only useful for analysis, but also later for presenting your results. You can use it to illustrate how your s are based on concrete observations. As you come across such data, it makes sense to store copies in a separate location for later use when preparing the research report.
 
 There are several typical activities when revising the structure of your analysis: Finding better names for groups, moving data to other groups and creating sub-groups.
 
 #### Find better titles for your themes
 
-Groups based on commonalities or vague similarity will hopefully evolve into insights about the participants. To achieve this, try to revise group titles: make them more concise, clear and meaningful. If you named a theme based on mere commonalities of the data in that group, try to state an actual insight for that group.
+Groups based on commonalities or vague similarities will hopefully develop into insights about the participants. To achieve this, try to revise group titles: make them more concise, clear and meaningful. If you named a theme based on mere commonalities of the data in that group, try to state an actual insight for that group.
 
 <!-- EXAMPLE-START -->
-In my analysis, I had a group that I called “recipe reading”, which contained notes like:
+In my analysis, I had a group I called “recipe reading”, which contained notes like:
 
-* Looks up how much flour needs to be added.
-* Does proceed with next step without reading again.
-* Reading recipes before deciding what to cook.
+* Looks up how much flour to add.
+* Proceeds to the next step without reading again.
+* Read recipes before deciding what to cook.
 * Read recipe when needed.
 
-A more precise title might be “Participants read recipes occasionally/only when needed”. It was a bit unwieldy, but it described an interesting point: Instead of following recipes like an algorithm, they served more as an occasionally used prop.
+A more accurate title might be “Participants read recipes occasionally/only when needed”. It was a bit unwieldy, but it made an interesting point: Instead of following recipes like an algorithm, they served more as an occasionally used tool.
 
-This new group title did not match all notes anymore, though. I removed “Reading recipes before deciding what to cook” and put it into a temporary “misc” group. Later, I added this note to the “picking recipes” theme.
+However, this new group title no longer fitted all notes anymore, though. I removed “Read recipes before deciding what to cook.” and put it into a temporary group called “misc”. Later, I added this note to the “picking recipes” theme.
 <!-- EXAMPLE-END -->
 
-Renaming groups usually requires moving some data between groups in order to accommodate the data to the improved structure, which I discuss in the next section.
+Renaming groups usually requires moving some data between groups to accommodate the data to the improved structure, which I discuss in the next section.
 
 #### Move data to other groups
 
-When improving your structure, it might be necessary to remove pieces of data from groups, either moving the data to a temporary “misc” group or to another, more suitable group.
+As you improve your data’s organization, it may be necessary to remove data from groups, either by moving the data to a temporary “misc” group or to another, more appropriate group.
 
-While you should try to use the data you have, it is most important to create sound and helpful themes based on the data—instead of just putting everything under a label.
+While you should try to use the data you have, the most important thing is to create helpful themes based on the data rather than putting everything in a group, no matter what.
 
-It is possible, that you can state an insight more clearly by rewriting the group’s title, but as a result, the clearer title may no longer encompass all data in the group. if this happens, go for clarity of the groups title, even if it means that the theme does not encompass all the data currently subsumed in the group. Take out the data which does not fit the improved title and see if it might fit better to another group. If not, place it in a “not yet grouped” or “misc”-Group. Revise that “misc” group, when you made changes to your structure and see, if you can use the data from that group to enhance other groups.
+It is possible that you can state an insight more clearly by rewriting the group’s title, but as a result, the clearer title may no longer encompass all data in the group. Make sure the group title is clear, even if it means that the theme does not describe all the data currently grouped under the title. Take out the data that does not fit the improved title and see if it might fit  to another group better. If not, place it in a “not yet grouped” or “misc”-Group. Revise this “misc” group, when you made changes to your structure and see, if you can use the data to enhance other groups.
 
 <!-- EXAMPLE-START -->
-For example, I reviewed a group that I called “Problems”. Initially, I put notes here in which participants described problems as well as fixes to these problems.
+For example, I reviewed a group  I called “Problems”. Initially, I put notes here where participants described problems as well as solutions:
 
 * I thought risotto would be nice, but I did not have risotto rice.
 * The pizza dough is a bit too cookie-like; I try to improve that.
-* I forgot to add the salt (when making yeast-dough), it obviously did not taste great in the end
-* Recipes are hard to use with dirty hands—in books as well as on the phone.
+* I forgot to add the salt (when making the yeast-dough), it obviously did not taste great in the end
+* Recipes are difficult to use with dirty hands—in books as well as on the phone.
 * …
 
-The group has served its purpose well and provided me order early in the process. However, it had a rather broad topic and the data was only related by being about any kind of problem. I could have structured the problems in different sub-groups, but I decided to dissolve the group and see if the data fits somewhere else or helps me to create new groups.
+The group  served its purpose well and provided me with structure early in the process. However, it had a fairly broad subject and the data was only related by addressing some sort of problem. I could have structured the problems in different sub-groups, but I decided to dissolve the group and see if the data fits somewhere else or helps me to create new groups.
 
-I could place the note on not having risotto rice in a group on altering recipes and the reasons for that. It turned out that missing ingredients and their replacement were really common and the note made sense there. The problematic pizza dough got moved to a group that was called “improving ” (Not an ideal title, either!). I was unsure what to do with the note on forgetting the salt. I put this note in a misc section where I placed the notes I was unsure about. It later became part of a group on accidental diversions from recipes. Recipes being hard to read with dirty hands made a lot of sense, particularly if one of the initial product ideas was to provide recipes and instructions. There were two similar notes by other participants in the “Problems” group. For now, I created a new group called “Recipe handling problems”.
+I might put the note on not having risotto rice in a group on altering recipes and the reasons for that. It turned out that missing ingredients and substituting them were really common and the note made sense there. The problematic pizza dough got moved to a group that was called “improving ” (Also not an ideal title!). I was unsure what to do with the note on forgetting the salt. I put this note in a misc section where I placed the notes I was unsure about. It later became part of a group on accidental deviations from recipes. The note on recipes being hard to read with dirty hands made a lot of sense, particularly as one of the initial product ideas was to provide recipes and instructions. There were two similar notes by other participants in the “Problems” group. For now, I created a new group called “Recipe handling problems”.
 <!-- EXAMPLE-END -->
 
-By moving notes to other groups you can put notes where they make the most sense. In many cases this means dissolving old groups and creating new ones. But moving data can also happen without larger restructuring just by moving one or two notes from one group to another because they make more sense there. Another case is not moving data between groups, but getting better structures within groups, which is the topic of the next section.
+By moving notes to other groups you can place notes where they make the most sense. In many cases, this means dissolving old groups and creating new ones. But moving data can also be done without major restructuring , simply by moving one or two notes from one group to another because they make more sense there. Another case is not moving data between groups, but creating better structures within groups, which is the topic of the next section.
+
+<!-- roundtrip -->
 
 #### Create sub-groups
 
-Creating sub-groups means bringing structure to notes from within one group by organizing them in sub-groups. The process of developing sub-groups is like in [“Develop a first structure”](#developFirstStructure) but it happens just inside the group: Move similar data in proximity and try to create clear-cut insights, if possible. In this process, you might find a more suitable way to state the theme of the main group, too.
+When a theme contains a lot of notes, you can create subgroups within a theme. The process of developing sub-groups is like in [“Develop a first structure”](#developFirstStructure) but it only takes place within the group: Move similar data in proximity and try to create clear insight. In this process, you may also find a more appropriate way of framing the main group topic.
 
 <!-- EXAMPLE-START -->
-Here are the steps I used to break up a large group in my analysis that was called “reasons to improve skills”. It contained notes like grouped notes like these:
+Here are the steps I used to break up a large group in my analysis that was called “Reasons to improve skills”. It contained notes like these:
 
 * I looked up how to glaze onions after a recipe mentioned it and I did not know how
 * The pizza dough is a bit too cookie-like; I try to improve that.
-* A friend suggested I stir-fry the vegetables, so I searched for a video explaining it.
+* A friend suggested I stir-fry the veggies, so I searched for a video explaining it.
 * I want to be able to make a mousse au chocolate myself.
 * …
 
-As the group grew and grew, it became obvious that it lacked structure.
+As the group grew and grew, it became apparent that it lacked structure.
 
-Going through the notes, I extracted two sub-groups. Notes like “I want to be able to make mousse au chocolate myself” and “The pizza dough is a bit too cookie-like; I try to improve that” went into a sub-group that I called “self-directed improvement”. I later renamed it to “Getting skills to cook a certain dish”, as almost all notes in the group mentioned that participants wanted to create a specific dish themselves.
+Going through the notes, I extracted two subgroups. Notes like “I want to be able to make mousse au chocolate myself” and “The pizza dough is a bit too cookie-like; I try to improve that” went into a subgroup that I called “self-directed improvement”. I later renamed it to “Getting skills to cook a certain dish”, as almost all notes in the group mentioned that the participants wanted to create a specific dish themselves.
 
-I created another sub-group with notes like “A friend suggested I stir fry the vegetables, so I tried to learn about that.” and “I looked up how to glaze onions after a recipe mentioned it and I did not know how”. I named these “cooking words” initially, as learning skills was triggered by reading or hearing a term referring to something they could or should do (“Stir fry”, “Glaze”)—but they did not know how. “Cooking word”, however is only understandable in context and to make the group title be understandable on its own, I renamed it to “Learning skill triggered by learning about a special term”
+I created another subgroup with notes like “A friend suggested I stir fry the vegetables, so I tried to learn about that.” and “I looked up how to glaze onions after a recipe mentioned it and I did not know how”. I originally named these “cooking words”, because learning skills was triggered by reading or hearing a term referring to something they could or should do (“Stir fry”, “Glaze”)—but they did not know how. However, “Cooking word” is only understandable in context and to make the group title self-explanatory, I renamed it to “Learning skill triggered by learning about a special term.”
 
-Drawing notes in these sub-groups made the “reasons to improve skills”- group’s content far less unwieldy. Not all notes did fit in the sub-themes, so I kept quite some under the “reasons to improve skills”-group directly, but still, it was far easier to understand now.
+Moving notes in these subgroups made the “reasons to improve skills”- group’s content much less unwieldy. Not all notes fit into the subtopics, so I kept some right under the “reasons to improve skills”-group directly, but it was far easier to understand now.
 <!-- EXAMPLE-END -->
 
-When the structure of your analysis gets more and more stable, it is time to wrap up your analysis and give it the final touch.
+When the structure of your analysis becomes more and more stable, it is time to wrap up your analysis.
 
-### Wrapping up your analysis
+### Completing your analysis
 
-The steps described above build on each other. But like in other creative tasks, there will be a lot of going back and forth between steps of creating groups, assigning data to them and revising these groups.
+The steps described above build on each other. But as with other creative tasks, there will be a lot of back and forth between the steps of creating groups, assigning data to them and revising those groups.
 
-This process can take up some time. The analysis may never come to an actual halt, but it will slow down at some point. Continuing to move data may still do minor improvements, but there are no big changes anymore.
+This process can take  some time. The analysis may never come to an actual halt, but it will eventually slow down. Continuing to move data can still bring minor improvements, but there are no longer major changes.
 
-![In data analysis, just as in any other creative task, there is no perfect final structure—but one that is useful and up to the task.](images/04_analysis_houseFinished.jpg){#houseFinished alt="A house build from toy bricks. It has a roof terrace with a mini figure on it and a small garden in front with flowers, a tree and a postbox"}
+![In data analysis, like any other creative task, there is no perfect final structure—but one that is useful and up to the task.](images/04_analysis_houseFinished.jpg){#houseFinished alt="A house build from toy bricks. It has a roof terrace with a mini figure on it and a small garden in front with flowers, a tree and a postbox"}
 
-If you research collaboratively, it is good if you explicitly point out that it might make sense to bring the analysis to an end. Co-researchers might intervene and point out problems that need to be fixed before moving on or just point out minor problems for which suggestions would be helpful. When you decide that your analysis work is done, take a moment to pause and to celebrate. This is a huge achievement after a lot of work.
+If you research collaboratively, it is good if you explicitly point out that it might make sense to bring the analysis to an end. Co-researchers may step in and point out issues that need to be fixed before proceeding or just point out minor problems for which suggestions would be helpful. When you decide that your analysis work is complete, take a moment to pause and to celebrate. This is a great achievement after a lot of work.
 
-If you used analog sticky notes, don't forget to take photographs of the wall(s) you did your analysis on. Sticky notes might fall down or colleagues might need the space and remove parts of your analysis, so it is good to make a backup, just in case.
+If you used analog sticky notes, don't forget to take photos of the wall(s) you did your analysis on. Sticky notes might fall off or colleagues might need the space and remove parts of your analysis, so it is good to make a backup, just in case.
 
 <!-- EXAMPLE-START -->
 
-Here is the state of my analysis when I decided to wrap it up:
+Here is my analysis when I decided that it is complete:
 
 * People do not stick to recipes
   * Deliberate adjustments (like cooking a vegan version)
@@ -550,20 +556,20 @@ Here is the state of my analysis when I decided to wrap it up:
   * Printing out
   * Just remember/re-search
 
-These are all the groups I created in my analysis. The results could be more concise, having fewer groups concentrating on fewer themes. However, this would probably lead to more abstract insights which would be harder to use in design.
+These are all the groups I created in my analysis. The results could be more concise and have fewer groups focussing on fewer themes. However, this would probably lead to more abstract insights which would be more difficult to use in design.
 
-The groups of groups are partly not insights themselves, but titles for collections, like “Reasons to improve skills”. Others are direct insights, like “People do use recipes only occasionally in the process”.
+The groups of groups are partly not insights themselves, but titles for collections, such as “Reasons to improve skills”. Others are direct insights such as “People do use recipes only occasionally in the process”.
 
 <!-- EXAMPLE-END -->
 
-By analyzing your data, you structure what you learned in diagrams, notes, and sketches. This makes the data easier to browse but also helps to construct insights from the data. It builds upon the knowledge that you acquired when interviewing, observing and co-diagramming, yet goes beyond it: Analysis helps you to find non-obvious insights and corroborate or discard initial assumptions. You and your co-researchers now have an in-depth understanding of the data. However, not everyone can participate in the research, so the next step is summarizing and communicating your insights to people who were not part of the research, so they can benefit from your insights, too.
+By analyzing your data, you structure what you learned in diagrams, notes, and sketches. This makes browsing the data easier, but also helps to gain insights from the data. It builds on the knowledge that you acquired through interviewing, observing and co-diagramming, but goes beyond that: The analysis helps you to find non-obvious insights and to corroborate or discard initial assumptions. You and your co-researchers now have an in-depth understanding of the data. However,  not everyone can participate in the research. The next step is to summarize your findings and share them with people who weren't involved in the research, so they can benefit from your findings as well.
 
 ## Summary
 
 * Making sense of your data and analyzing it helps you to learn more than the obvious insights and to critically reflect your initial ideas.
 * Finding commonalities and contrasts in data is a basic principle of analysis.
 * There is no one correct result of analysis, but your analysis can be plausible or implausible.
-* In the beginning, you organize data by surface features of the notes, but over time, you focus on the meaning for the user.
+* In the beginning, you organize data by surface similarities of the notes, but over time, you focus on the meaning for the user.
 * Prepare your data: Annotate your notes and diagrams by writing down possible interpretations.
 * Make sense of diagrams by finding commonalities and summarizing the results in a diagram of your own.
 * Make sense of notes by finding possible interpretations, filling and testing your structure and revising it until you find a stable structure.
