@@ -1,5 +1,4 @@
 
-
 <!-- TODO: Add the " How to do a research interview " by Graham R Gibbs:
  https://www.youtube.com/watch?v=9t-_hYjAKww -->
 
@@ -137,7 +136,7 @@ Only listening to people might not be the best way to understand what they are d
 
 As you observe, you can notice things your participants would never consider to mentioning, because they're second nature to them: The tools they use,  how they apply these tools, and which problems they meet. But you can observe it. You also can learn about the context of their work, like means of communicating with colleagues or cues in the environment that point out problems—for example quick fixes on devices using tape and cardboard, or added instructions on machines.
 
-![A coffee machine with added instructions on a orange note, telling that the buttons are for “Full Cup”, “Half Cup”, “Espresso”](images/03_dataGathering_coffeeMachineUserChanges.jpg){#coffeeMachineUserChanges alt="Button panel of an automatic coffee machine which is labeled with icons; above the buttons is an orange note, telling that the buttons are for “Full Cup”, “Half Cup”, “Espresso”}
+![A coffee machine with added instructions on a orange note, telling that the buttons are for “Full Cup”, “Half Cup”, “Espresso”.](images/03_dataGathering_coffeeMachineUserChanges.jpg){#coffeeMachineUserChanges alt="Button panel of an automatic coffee machine which is labeled with icons; above the buttons is an orange note, telling that the buttons are for “Full Cup”, “Half Cup”, “Espresso”"}
 
 It is not necessary to have observation as a separate step in the research process. It is best to interweave observation with asking questions and listening. For example, you can ask for a demonstration instead of a description. 
 

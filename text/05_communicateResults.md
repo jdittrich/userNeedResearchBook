@@ -1,3 +1,4 @@
+
 # Sharing research results
 
 _This chapter covers:_
@@ -108,7 +109,7 @@ Quick findings are very useful if your audience:
 
 The great thing about posters is that they can become part of the environment the design team works in. The poster can be a reminder of the most important results, and team members can refer and point to it in conversations.
 
-Posters are the most compact way to summarize your research: Only the most important results get on a poster. Text should be short and structured with headlines. You can use graphics to their full potential on a poster. Complex processes or diagrams often suffer from the limited space they get in other media. Here they shine.
+Posters are the most compact way to summarize your research: Only the most important results get on a poster. Text should be short and structured with headings. You can use graphics to their full potential on a poster. Complex processes or diagrams often suffer from the limited space they get in other media. Here they shine.
 
 ![Poster summarizing the research into improving cooking skills](images/05_communication_PosterExample.png){#posterExample1 alt="A poster showing a research summary and several research findings on how people learn to improve their cooking skills using recipes and videos"}
 
@@ -146,7 +147,7 @@ Research results can feel quite abstract. One way to convey what you saw and hea
 
 ![Giving a better impression of the research participants: Slide with quote.](images/05_communication_SlideQuote.png){#slidesQuote alt="A slide showing a participant quote (I thought it can’t be this hard, right?! But then I tried and it went quite badly) and an explanation of the context"}
 
-![Giving a better impression of what you observed: Slide with photo.](images/05_communication_SlidePhoto.png){#slidesPhoto alt="A slide showing a photo of a bowl with cake dough. The slide’s headline reads:“The food is at the center, not the instructions”"}
+![Giving a better impression of what you observed: Slide with photo.](images/05_communication_SlidePhoto.png){#slidesPhoto alt="A slide showing a photo of a bowl with cake dough. The slide’s heading reads:“The food is at the center, not the instructions”"}
 
 You can use the slides to show diagrams and other forms of visualization. In the following slide, I visualize that recipes see straightforward, almost like algorithms, but that the actions that people do based on the recipe are far more complex: 
 
