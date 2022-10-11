@@ -9,14 +9,14 @@ _This chapter covers:_
 * _Creating helpful photos and diagrams_
 * _Designing posters for quick and visual research summaries_
 * _Creating slide decks to give an overview of your results_
-* _Writing text-based reports to provide detaile information_
+* _Writing text-based reports to provide detailed information_
 
 
-After the analysis, your work is almost done. However,  people who have not participated in the research do not know anything about the research yet. You need to share your results, so they can learn about potential user’s motivations, activities, and problems. The most visible result for others will be the report or slide deck you create. 
+After the analysis, your work is almost done. However, people who have not participated in the research do not know anything about the research yet. You need to share your results, so they can learn about potential user’s motivations, activities, and problems. The most visible result for others will be the report or slide deck you create. 
 
-> _Note:_ Sometimes the documents that are produced in user research are called _deliverables_—since these are the tangible results  you can provide  to a client after research. 
+> _Note:_ Sometimes the documents that are produced in user research are called _deliverables_—since these are the tangible results you can provide to a client after research. 
 
-Documenting your research  also has other uses than sharing the results or having an artifact that clients pay for. Creating the documentation continues your sensemaking from data. Now the focus shifts away from themes to priorities and expression: what are the key results? How can you formulate insights succinctly? These questions can also be worked on collaboratively, helping to deepen you and your collaborators’ understanding of the results.
+Documenting your research also has other uses than sharing the results or having an artifact that clients pay for. Creating the documentation continues your sensemaking from data. Now the focus shifts away from themes to priorities and expression: what are the key results? How can you formulate insights succinctly? These questions can also be worked on collaboratively, helping to deepen you and your collaborators’ understanding of the results.
 
 <!-- You could even say that the interpretation goes on even after you reported the results, since people will re-interpret what the research results mean for them, in their situation. This also means that much like our analysis in the previous chapter there is not one right way to read a research report, only plausible and less plausible ones. -->
 
@@ -26,7 +26,7 @@ Documenting your research  also has other uses than sharing the results or havin
 In order for people to engage with your research, they must assume that your research is useful for them. There are three areas where engaging in research can be helpful:
 
 * Finding new directions for product development.
-* Choosing between the directions, depending to what is most promising in the light of the research results.
+* Choosing between the directions, depending upon what is most promising in the light of the research results.
 * Smaller, tactical decisions to be made in everyday design- and product management-work: Which of these features best fits the needs of existing users? What should be emphasized in a blog post promoting the update?
 
 Your research should allow your audience to quickly understand and use the parts that are relevant to them. This will help them to use your research for both strategic and day-to-day decisions and to spread the word about the usefulness of research.
@@ -37,7 +37,7 @@ There are key principles that make communicating your research easier: a clear s
 
 ### Putting first things first
 
-Journalists put the most important information first and end with background information that is useful but not essential.  This is known as the _inverted pyramid style_. You should try to do the same in your research reports. There are two reasons why this is useful to the readers: 
+Journalists put the most important information first and end with background information that is useful but not essential. This is known as the _inverted pyramid style_. You should try to do the same in your research reports. There are two reasons why this is useful to the readers: 
 
 * When readers are pressed for time, they get the most important information quickly.
 * If the readers have time, it makes them curious to read the rest: you have shown that there are interesting insights, now they want to know more.
@@ -62,7 +62,7 @@ Your research reports will be more enjoyable to read when you use action-oriente
 
 Not all findings are best expressed in text, just as not all data is best collected via conversations. Graphics can be very useful for both showing examples (like a photo of a participant cooking) and conveying abstractions (like showing the workflow steps in a diagram).
 
-Like text, graphics should focus on what is most important: Too many flourishes and elements are distracting. You can often improve graphics by cropping them to the most important parts: If you focus on how people choose recipes, visualize recipe selection, not something else. If your photo illustrates how people knead dough, show the dough and kneading hands almost filling the whole picture rather than a wide-angle shot of the kitchen with a small single person  kneading a tiny lump of dough somewhere.
+Like text, graphics should focus on what is most important: Too many flourishes and elements are distracting. You can often improve graphics by cropping them to the most important parts: If you focus on how people choose recipes, visualize recipe selection, not something else. If your photo illustrates how people knead dough, show the dough and kneading hands almost filling the whole picture rather than a wide-angle shot of the kitchen with a small single person kneading a tiny lump of dough somewhere.
 
 Even if your graphic focuses on the most important content, it can still look unpleasant. This is often the case when elements do not line up and colors differ: There are variations, but it is not clear if they have a purpose or are accidental, like in the next image.
 
@@ -72,7 +72,7 @@ Try to limit the different colors and fonts you use and pick ones that are obvio
 
 ![Visualization of data processing steps. The diagram looks clearer: spacing, alignment and fonts are consistent, the icons have been removed.](images/05_communication_graphicExample_Better.svg){#GraphicExample_Better alt="A better-looking diagram showing steps for data processing: System Catalog → (Export)→CSV Files (Modeling)→Open Refine (Reconciliation)→Quick Statements (Import)"}
 
-Many tools like PowerPoint, Slides or Illustrator have distribution and alignment features that save you the work of moveign all elements manually.
+Many tools like PowerPoint, Slides or Illustrator have distribution and alignment features that save you the work of moving all elements manually.
 
 > _Tip:_ Designs, diagrams and picking photos needs expertise. If you can work with a visual designer, you can save yourself a lot of work and get high quality results. 
 
@@ -81,7 +81,7 @@ Visual elements like diagrams and photos should, like text, be focused on a clea
 
 ## Common forms of documentation
 
-I will introduce you to three ways to summarize your research: Posters, slide decks and reports. These formats have different strengths, and compement each other. For a large project, you might create all three, while for a smaller project you might only deliver a slide deck or report.
+I will introduce you to three ways to summarize your research: Posters, slide decks and reports. These formats have different strengths, and complement each other. For a large project, you might create all three, while for a smaller project you might only deliver a slide deck or report.
 
 <!-- TODO:  Tip or sidebar: send an early version of your deliverables to collaborators/close stakeholders. 
 
@@ -121,11 +121,11 @@ Other formats of posters may focus on a specific finding and visualize in depth.
 
 > _Tip:_ If you have an office printer that prints A3, you can use it for a small poster; Large format printers in print shops can print larger posters.
 
-Posters can  only provide limited information. This is a strength, as it helps you focus, but to provide background information and results that go beyond the essential findings, you can document your research in a slide deck. 
+Posters can only provide limited information. This is a strength, as it helps you focus, but to provide background information and results that go beyond the essential findings, you can document your research in a slide deck. 
 
 ### Slide decks
 
-Slide decks are versatile: they can serve both as a medium for documentation and provide important points and visualizations in a personal presentation. The limited space on each slide helps you to stay focused and write concisely. The slide format makes it possible to try different sequences and  to put together longer or shorter decks depending on the information needs.
+Slide decks are versatile: they can serve both as a medium for documentation and provide important points and visualizations in a personal presentation. The limited space on each slide helps you to stay focused and write concisely. The slide format makes it possible to try different sequences and to put together longer or shorter decks depending on the information needs.
 
 I often structure my slide decks like this:
 
@@ -159,15 +159,15 @@ One format I haven't used to present the results of recipe usage research, but t
 
 Such a summary is useful for evaluating (product) decisions and you can place it after the executive summary.
 
-> _Note:_ There is some contradiction between what should be on slides for _documentation_ and what should be on slides for  _presenting in person_. For presenting, slides should ideally avoid repeating points you are talking about—slide decks by professional speakers are often just illustrations and examples! If you want to deliver a top-notch presentation, consider creating a separate deck.
+> _Note:_ There is some contradiction between what should be on slides for _documentation_ and what should be on slides for _presenting in person_. For presenting, slides should ideally avoid repeating points you are talking about—slide decks by professional speakers are often just illustrations and examples! If you want to deliver a top-notch presentation, consider creating a separate deck.
 
-Slide decks are a standard format for documenting research results and are used beyond their original purpose of providing images and graphics for presentations. The format affords highly structured text and the use of illustrations and thus matches the needs of ad-hoc use and quick comprehension. However, it can be difficult to discuss complex issues and to provide background information for those who want to dig deeper.  It is best to create a written report for these needs. 
+Slide decks are a standard format for documenting research results and are used beyond their original purpose of providing images and graphics for presentations. The format affords highly structured text and the use of illustrations and thus matches the needs of ad-hoc use and quick comprehension. However, it can be difficult to discuss complex issues and to provide background information for those who want to dig deeper. It is best to create a written report for these needs. 
 
 ### Reports
 
-Written reports enable you to discuss results and methods in detail. They require concentrated reading. Depending on the research, a report can be about 15-50 pages long and can include a description of the methods, recruiting process and research session questions in an appendix. This makes them a good format for readers who need to deeply engage with the topic, but also for archiving and later reusing research results. The written report allows to present the  relevant context, motivations, and reasoning. This helps readers understand research results even years later.
+Written reports enable you to discuss results and methods in detail. They require concentrated reading. Depending on the research, a report can be about 15-50 pages long and can include a description of the methods, recruiting process and research session questions in an appendix. This makes them a good format for readers who need to deeply engage with the topic, but also for archiving and later reusing research results. The written report allows to present the relevant context, motivations, and reasoning. This helps readers understand research results even years later.
 
-The basic structure of a report can be the same as that of a slide deck.  In the case of a written report, it can be useful to include an appendix with a description of the method and a more detailed discussion of the results.
+The basic structure of a report can be the same as that of a slide deck. In the case of a written report, it can be useful to include an appendix with a description of the method and a more detailed discussion of the results.
 
 * Title
 * Executive summary listing results, research question and brief method description (see [the following image](#writtenReportExecutive))
@@ -184,13 +184,13 @@ The basic structure of a report can be the same as that of a slide deck.  In the
 
 ![Executive summary page from a written report](images/05_communication_ExecutiveSummary.png){#writtenReportExecutive alt="Executive summary page from a written report"}
 
-Even if  written reports demand focused reading, they should still be easy to understand and provide important information quickly. They should have an executive summary, and you can also summarize key points of their sections, much like in the chapters of this book. 
+Even if written reports demand focused reading, they should still be easy to understand and provide important information quickly. They should have an executive summary, and you can also summarize key points of their sections, much like in the chapters of this book. 
 
 Reports allow you to detail your findings and provide background information for readers who want to delve deeply into the research and its methods. They are not the ideal medium for a quick overview. Your reports, no matter how extensive, will be build upon by their readers when they move beyond the immediate research results towards decisions and designs.
 
 ### Beyond reporting research results
 
-For you, the research project usually ends with you documenting your research and presenting it to the team or other stakeholders. But the use of the research results has only just begun: If all goes well, team members and other colleagues will read use your posters, slidedecks and reports  and share them with colleagues. They will also use the research to create documents slightly removed from  research and more focussed on design or business decisions: Personas, empathy maps, scenarios, or story boards.
+For you, the research project usually ends with you documenting your research and presenting it to the team or other stakeholders. But the use of the research results has only just begun: If all goes well, team members and other colleagues will read use your posters, slidedecks and reports and share them with colleagues. They will also use the research to create documents slightly removed from research and more focussed on design or business decisions: Personas, empathy maps, scenarios, or story boards.
 
 When your research reports are easy to understand and provide interesting information, product managers, designers, developers, and writers will use them to learn more about your participants and thereby creating products that match your user motivations, activities, and problems.
 
