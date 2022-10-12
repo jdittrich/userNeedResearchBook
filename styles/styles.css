@@ -11,6 +11,7 @@ body{
   width:100%;
   margin:0;
   padding:0;
+  background-color: white;
 }
 
 /*layout HTML*/
@@ -41,10 +42,10 @@ body{
 }
 
 a {font-weight:normal; text-decoration:underline;}
-a:link {color:#51739a;}
+a:link {color:#395a7e;}
 a:visited {color:#606;}
-a:hover {color:#606;}
-a:active {color:#900; outline:none;}
+a:hover {color:#4975a4;}
+a:active {color:#4975a4; outline:none; text-decoration:none;}
 
 
 h1 a:hover,h2 a:hover,h3 a:hover,h4 a:hover,h5 a:hover{
@@ -58,7 +59,7 @@ h1,h2,h3,h4,h5,h6{
 h1.title{
   font-size: 400%;
   text-transform: uppercase;
-  color: #396ba5;
+  color: #395a7e;
   font-weight: normal;
   margin-top:0em;
 }
@@ -84,14 +85,14 @@ h3 {
   text-transform:normal;
   font-size:150%;
   margin:2em 0 0.4em;
-  color:#5f5e5e;
+  color:#555;
 }
 
 h4 {
   font-weight:normal;
   font-size:120%;
   margin:1.5em 0 0.4em;
-  color:#5f5e5e;
+  color:#555;
 }
 
 h5 {
@@ -99,7 +100,7 @@ h5 {
   font-style:italic;
   font-size:100%;
   margin:1.5em 0 0.4em;
-  color:#5f5e5e;
+  color:#555;
 }
 
 h6 {
@@ -148,10 +149,10 @@ p + ul, p + ol, p + dl {
 }
 
 blockquote{
-  border-left:2px solid #eee;
+  border-left:2px solid #ccc;
   padding-left:1.5em;
   margin:1em 0;
-  color:#5a5a5a;
+  color:#555;
 }
 
 blockquote small{
@@ -178,7 +179,7 @@ figure>img {
 }
 
 figure>figcaption {
-  color: #5b5b5b;
+  color: #555;
   font-size: 80%;
   margin: 0.33em 0 0 0;
   width: 100%;
