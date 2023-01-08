@@ -9,7 +9,7 @@ _This chapter covers:_
 
 <!-- TODO rewrite a bit more direct, it the surprise-stuff feels side-tracking-->
 
-Although I am a user researcher since a while, every research project still brings a lot of surprises. What me and my colleagues want to know seems rather simple in the beginning, yet often turns out to be complex and surprising:  “Oh, I did not see it this way, but it makes a lot of sense now”. These surprises and complexities lead to a better understanding of why (potential) users of a product do what they do.
+Although I am a user researcher since a while, every research project still brings a lot of surprises. What me and my colleagues want to know seems rather simple in the beginning, yet often turns out to be complex and surprising: “Oh, I did not see it this way, but it makes a lot of sense now”. These surprises and complexities lead to a better understanding of why (potential) users of a product do what they do.
 
 This book is about methods for understanding people you design for and about communicating what you learned. The methods used for this are interviews, observation and structuring the data into meaningful patterns. Such methods used are also referred to as _qualitative methods_.
 
@@ -50,7 +50,7 @@ You want to find out user motivations, activities, and problems that are importa
 
 ### Research based on an overhaul of a product or feature
 
-If a team plans a substantial overhaul of a product, it makes sense to observe how users are using the product to find out where needs are not being met. A task could be “We provide an app for curating and reading recipes. It has not been updated in several years and we want to increase its use among a younger target group by providing features that are attractive for them.” The research tasks is rather focussed: What is to be done is already mostly set, but research shall shape the way it is done.
+If a team plans a substantial overhaul of a product, it makes sense to observe how users are using the product to find out where needs are not being met. A task could be “We provide an app for curating and reading recipes. It has not been updated in several years and we want to increase its use among a younger target group by providing features that are attractive for them.” The research task is rather focussed: What is to be done is already mostly set, but research shall shape the way it is done.
 
 In all of these situations, understanding users can help to shape new products and features. But what the research focuses on, is shaped by the initial goals. These constraints are an important influence on your research project. Another important factor is the collaboration with others in the research project.
 
