@@ -21,7 +21,7 @@ There are also research methods that do not focus on directly engaging with peop
 >
 > If you are undecided whether you want to use qualitative or quantitative methods or just wonder what research methods exist, you can get an excellent overview and introduction to several methods with Erica Hall’s brief [“Just Enough Research”](http://www.worldcat.org/oclc/1256408019) or Goodman, Kuniavsky and Moed’s [“Observing the User Experience”](http://www.worldcat.org/oclc/1194531136)
 
-Qualitative research helps getting a holistic understanding of how a future product could be used. It is good to find out how motivations, activities, and problems lead to people doing what they do. For example, when people cook, it might be plausible to assume that:
+Qualitative research helps you to get a holistic understanding of how a future product could be used. It is good to find out how motivations, activities, and problems lead to people doing what they do. For example, when people cook, it might be plausible to assume that:
 
 * They decide what to eat
 * Get a recipe for the meal
@@ -29,7 +29,7 @@ Qualitative research helps getting a holistic understanding of how a future prod
 * Cook following the recipe
 * Eat
 
-But in everyday life, people often don't follow this clear script: It will influence their actions that their kid or spouse prefer another food than they do; They might wish for variety; they might see something that they fancy even more than what they initially decided for; they might not trust their cooking skills… If you want to build product that supports people when cooking or shopping groceries, it makes sense to understand how people actually do it. This does not mean that initial ideas or existing knowledge are wrong: Knowledge like “Programming is typing text that makes computers do stuff” or “Cooking is combining different groceries to get a meal” are not _wrong_. Such knowledge is just often not rich enough to develop products based on it.
+But in everyday life, people often don't follow this clear script: It will influence their actions that their kid or spouse prefer another food than they do; They might wish for variety; they might see something that they fancy even more than what they initially decided for; they might not trust their cooking skills… If you want to build a product that supports people when cooking or shopping groceries, it makes sense to understand how people actually do it. This does not mean that initial ideas or existing knowledge should be discarded: Concepts like “Programming is typing text that makes computers do stuff” or “Cooking is combining different groceries to get a meal” are not _wrong_. Such knowledge is just not rich enough to develop products based on it.
 
 There are different ways in which such understanding can be helpful for a project. In the following sections, I show several typical setups in which qualitative research can help you to develop a product.
 
