@@ -163,7 +163,7 @@ Payment for research (also called _compensation_ or _incentive_) is important fo
 There are several factors that influence what a fair payment is:
 
 * Time spent with you, time spent with organizing, time spent traveling.
-*Living expenses for the participants: A compensation that is considered just about okay in Swedish city might be considered high in rural India.
+* Living expenses for the participants: A compensation that is considered just about okay in Swedish city might be considered high in rural India.
 * People who are hard to recruit might be swayed by a larger compensation.
 
 As a starting point, you can use an online calculator, like this one by [ethnio](https://ethn.io/incentives/calculator), that gives you a suggestion for a sum to pay.
@@ -182,13 +182,11 @@ If your work is commercial, pay your participants. However, if you do research a
 
 There are no clear rules as to how many participants you need. However, most of my projects had more than three and fewer than twenty participants.
 
-
-
 If you have done quantitative research in the past, this will seem like a very small number of people. And indeed, it is plausible to assume that user research with more participants is generally better in qualitative research as well. However, unless you invest more resources, more participants would mean shortening each research session, asking fewer questions and skipping participant observation. But you need time with each participant if you want to understand how and why they work the way they do. And to this end, several sessions in a hurry yield less useful results than research with one participant done right.
 
 Nevertheless, doing research on only a very few users restricts the range of behaviors and opinions that will be reflected in your research. For example, you may not notice that different people have different preferred ways of doing activity. Also, you may not see which patterns are consistent across several people and which vary. 
 
- My rule-of-thumb is having 3 to 7 participants in each user group. Our user group in our example project would be people who have low to medium cooking skills and who cook with recipes. This means that if you want to learn about many groups of people, you also need more participants to cover these different groups. Our research question is currently focused on beginners, but we would need to recruit more people if we would _also_ be interested in people who consider themselves cooking enthusiasts.
+My rule-of-thumb is having 3 to 7 participants in each user group. Our user group in our example project would be people who have low to medium cooking skills and who cook with recipes. This means that if you want to learn about many groups of people, you also need more participants to cover these different groups. Our research question is currently focused on beginners, but we would need to recruit more people if we would _also_ be interested in people who consider themselves cooking enthusiasts.
 
 When estimating how many participants you need, consider how much time or money you can spend on doing the research. Each additional participant gives you additional data and a broader view on your potential users. However, each research session needs time and adds to the amount of data to be analyzed.
 
