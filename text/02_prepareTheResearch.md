@@ -424,7 +424,7 @@ Most of the cheat sheet will be topics you want to explore and the questions tha
 >
 > _Intro_
 >
-> [mutual Introduction]
+> [mutual introduction]
 >
 > * “Can you tell me a bit about how and when you cook?”
 > * “Can you tell me about your use of recipes?”
