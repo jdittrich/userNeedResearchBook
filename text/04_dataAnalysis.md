@@ -43,7 +43,7 @@ Understanding your data by interpreting commonalities and contrasts is a fundame
 
 In [“Learning from Research Participants”](#rightAnswers), I wrote about the issue of influence in interviews and observations. I have said that researchers can’t take themselves out of the research and that their approach has an impact on the results—but also that this is a strength of the method and not something we can and should avoid.
 
-Your impact on the results of the analysis is similar. Even if the same data is analyzed, different people will come to different conclusions. This is because the result of the analysis depends on the reasonable, but still individual and debatable, interpretation of the data: You might think that an utterance like, “I add some sugar here, even thought the recipe does not say so,” should be best interpreted as “loves sweetness.” But it could be that this should be seen rather as an expression of “personal creativity” or “need to improve the recipe.” There is no right or wrong interpretation; but your analysis needs to be plausible, comprehensible and based on the data you collected.
+Your impact on the results of the analysis is similar. Even if the same data is analyzed, different people will come to different conclusions. This is because the result of the analysis depends on the reasonable, but still individual and debatable, interpretation of the data: You might think that an utterance like, “I add some sugar here, even though the recipe does not say so,” should be best interpreted as “loves sweetness.” But it could be that this should be seen rather as an expression of “personal creativity” or “need to improve the recipe.” There is no right or wrong interpretation; but your analysis needs to be plausible, comprehensible and based on the data you collected.
 
 Imagine, as a kid, you had a pile of bricks you wanted to build a house with. These bricks were like the not-yet-analyzed data you start with. When you did build a house from these bricks, there is no single “right” building. But neither was it an arbitrary process of connecting bricks randomly.
 
@@ -89,7 +89,7 @@ My example in this section are diagrams where people have drawn their process of
 In this diagram, I made the following annotations:
 
 * I highlight sections of the process with rectangles of different colors. In later steps I can see if these make sense in diagrams by other participants
-* Early on, the participant were looking for recipes, which caused them ups and downs in quick succession. This is similar to what the participant experiences while cooking.
+* Early on, the participant was looking for recipes, which caused them ups and downs in quick succession. This is similar to what the participant experiences while cooking.
 * Shopping is fun for our participant.
 * There is an explicit gap between finding recipes and getting ingredients (I wonder if other participants will highlight something similar?).
 * There is a setup phase before they started cooking (Again, will others have this, too?).
@@ -139,13 +139,13 @@ Based on the diagrams used in the previous steps as well as diagrams from more p
 * The participants often drew the cooking process with a slightly wiggly line: There were usually little problems or uncertainties that participants needed to solve.
 * One participant spoke about a case that went wrong. Although it was only mentioned by one participant, I found it interesting for two reasons: the inclusion showed that processes are not predetermined, and it also showed that errors are not a general error, but are fixed.
 
-By creating a summary diagram you can present your findings in a form that is quick to grasp and maintains a link to the original diagrams that our participants drew.
+By creating a summary diagram, you can present your findings in a form that is quick to grasp and maintains a link to the original diagrams that our participants drew.
 
 I mentioned previously, that you can intertwine analysis of diagrams and notes. In this section I covered diagrams; next I show how to make sense of research notes.
 
 ## A process for making sense of notes
 
-Your notes are data in written form, maybe with some occasional sketches. I will demonstrate a method to analyze your notes in depth. In contrast to the methods for analyzing diagrams, this is more complex. However, it is a very powerful method that allows going beyond the data to create meaningful interpretations that can guide future design work.
+Your notes are data in written form, maybe with some occasional sketches. I will demonstrate a method to analyze your notes in-depth. In contrast to the methods for analyzing diagrams, this is more complex. However, it is a very powerful method that allows going beyond the data to create meaningful interpretations that can guide future design work.
 
 ### Organize notes hierarchically
 
@@ -225,7 +225,7 @@ The names of themes created by organizing by the same things mentioned-method ar
 <!-- EXAMPLE-START -->
 If you use the same notes but organize them based on insights, it might look like this:
 
-* Theme : Avoid active organization
+* Theme: Avoid active organization
   * Data: I just search recipes again online
   * Data: My recipes are in this stack of paper.
 * Theme: Active organization
@@ -339,7 +339,7 @@ After annotating your notes and deciding between analyzing them on sticky notes 
 
 Structuring your notes means grouping similar data together, suggesting themes behind the data, naming those themes and deciding which data falls under which theme.
 
-Structuring your notes is an iterative process and not done all at once. When you develop an initial structure,you don’t use all your data. You can start with what you find useful as you skim your notes, or you can use data from two participants first. The aim is to set up a preliminary structure.
+Structuring your notes is an iterative process and not done all at once. When you develop an initial structure, you don’t use all your data. You can start with what you find useful as you skim your notes, or you can use data from two participants first. The aim is to set up a preliminary structure.
 
 ![Developing an initial structure is like trying out where you would put walls in your brick-build house: You can and will change them later, but they give your work some structure](images/04_analysis_houseFirstStructure.jpg){#houseFirstStructure alt="A house made of toy bricks in its early stages; there is just the baseplate and some provisional walls."}
 
@@ -486,7 +486,7 @@ The group served its purpose well and provided me with structure early in the pr
 I might put the note on not having risotto rice in a group on altering recipes and the reasons for that. It turned out that missing ingredients and substituting them were really common and the note made sense there. The problematic pizza dough got moved to a group that was called “improving ” (Also not an ideal title!). I was unsure what to do with the note on forgetting the salt. I put this note in a misc section where I placed the notes I was unsure about. It later became part of a group on accidental deviations from recipes. The note on recipes being hard to read with dirty hands made a lot of sense, particularly as one of the initial product ideas was to provide recipes and instructions. There were two similar notes by other participants in the “Problems” group. For now, I created a new group called “Recipe handling problems”.
 <!-- EXAMPLE-END -->
 
-By moving notes to other groups you can place notes where they make the most sense. In many cases, this means dissolving old groups and creating new ones. But moving data can also be done without major restructuring , simply by moving one or two notes from one group to another because they make more sense there. Another case is not moving data between groups, but creating better structures within groups, which is the topic of the next section.
+By moving notes to other groups, you can place notes where they make the most sense. In many cases, this means dissolving old groups and creating new ones. But moving data can also be done without major restructuring, simply by moving one or two notes from one group to another because they make more sense there. Another case is not moving data between groups, but creating better structures within groups, which is the topic of the next section.
 
 <!-- roundtrip -->
 

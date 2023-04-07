@@ -50,7 +50,7 @@ You want to find out user motivations, activities, and problems that are importa
 
 ### Research based on an overhaul of a product or feature
 
-If a team plans a substantial overhaul of a product, it makes sense to observe how users are using the product to find out where needs are not being met. A task could be “We provide an app for curating and reading recipes. It has not been updated in several years and we want to increase its use among a younger target group by providing features that are attractive for them.” The research task is rather focussed: What is to be done is already mostly set, but research shall shape the way it is done.
+If a team plans a substantial overhaul of a product, it makes sense to observe how users are using the product to find out where needs are not being met. A task could be “We provide an app for curating and reading recipes. It has not been updated in several years and we want to increase its use among a younger target group by providing features that are attractive for them.” The research task is rather focused: What is to be done is already mostly set, but research shall shape the way it is done.
 
 In all of these situations, understanding users can help to shape new products and features. But what the research focuses on, is shaped by the initial goals. These constraints are an important influence on your research project. Another important factor is the collaboration with others in the research project.
 
@@ -84,11 +84,11 @@ In qualitative research, you are constantly dealing with new people and new situ
 
 University teachers, conference speakers, and agencies often present research as finding clear facts with rigorous methods and execution of research in clear subsequent steps. Such models are very helpful for giving structure to your plans and actions, but they are idealized. It is helpful to keep this in mind.
 
-When you do an actual research project, it won’t always follow a clear and linear structure. It will need iterations and adjustments. Don’t think of it failing to do “good research” when something does not go as planned. In fact, It is often a good sign if you feel that you need to adjust plans: It shows that you have learned something new and are aware of it. Plan in time for such adjustments. If your research project is only possible if everything runs very smooth, it might be at the risk of going over time and budget. Also, you and the team might not learn a lot of new things as you can only do what you have expected anyway.
+When you do an actual research project, it won’t always follow a clear and linear structure. It will need iterations and adjustments. Don’t think of it failing to do “good research” when something does not go as planned. In fact, it is often a good sign if you feel that you need to adjust plans: It shows that you have learned something new and are aware of it. Plan in time for such adjustments. If your research project is only possible if everything runs very smooth, it might be at the risk of going over time and budget. Also, you and the team might not learn a lot of new things as you can only do what you have expected anyway.
 
 ## Summary
 
 * The methods discussed in this book focus on understanding and documenting the activities of people to design better products for them
 * Research projects can vary in their constraints they put on research: They can be very open and explorative or suggest a solution already
-* Research projects can vary in how you collaborate with other roles (or not): You can research for yourself, you can be part of a team you do research for or your can be brought in
+* Research projects can vary in how you collaborate with other roles (or not): You can research for yourself, you can be part of a team you do research for or you can be brought in
 * Understanding-focused research methods can be challenging: Be prepared to learn new, surprising things and to adjust your plans

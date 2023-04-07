@@ -56,7 +56,7 @@ One way to convey activity in your research is using “active” sentences. Act
 
 As a researcher, you translate experiences of your research participants so that your clients or team members can understand them. “Translate” is not just a metaphor: Participants, clients and team members often use different words. Terms your participants use may be very specific to their context and need to be introduced first. Many people are familiar with cooking, but even in our research, we may need to provide an explanation when quoting a participant speaking about _sauséeing_. In written reports, I sometimes explain words directly in the text or in footnotes and have also used small glossaries at the end of the reports. In slidedecks, I put such information in the speaker notes and included them in my talk.
 
-Your research reports will be more enjoyable to read when you use action-oriented sentences and think about how to best translate the experience of your participants for your audiences. However, not all content comes as text: : it is also important to create good visuals
+Your research reports will be more enjoyable to read when you use action-oriented sentences and think about how to best translate the experience of your participants for your audiences. However, not all content comes as text: it is also important to create good visuals
 
 ### Clear and helpful graphics
 
@@ -113,7 +113,7 @@ Posters are the most compact way to summarize your research: Only the most impor
 
 ![Poster summarizing the research into improving cooking skills](images/05_communication_PosterExample.png){#posterExample1 alt="A poster showing a research summary and several research findings on how people learn to improve their cooking skills using recipes and videos"}
 
-Other formats of posters may focus on a specific finding and visualize in depth. I did not do this for the research on using cooking instructions. The following image is an example from research I did on cleaning and transforming data before importing it into a public database, using multiple tools and skills from different domains:
+Other formats of posters may focus on a specific finding and visualize in-depth. I did not do this for the research on using cooking instructions. The following image is an example from research I did on cleaning and transforming data before importing it into a public database, using multiple tools and skills from different domains:
 
 ![Visualization of data processing steps.](images/05_communication_graphicExample_Better.svg){#GraphicExample_Better alt="Visualization of data processing steps."}
 
@@ -149,7 +149,7 @@ Research results can feel quite abstract. One way to convey what you saw and hea
 
 ![Giving a better impression of what you observed: Slide with photo.](images/05_communication_SlidePhoto.png){#slidesPhoto alt="A slide showing a photo of a bowl with cake dough. The slide’s heading reads:“The food is at the center, not the instructions”"}
 
-You can use the slides to show diagrams and other forms of visualization. In the following slide, I visualize that recipes see straightforward, almost like algorithms, but that the actions that people do based on the recipe are far more complex: 
+You can use the slides to show diagrams and other forms of visualization. In the following slide, I visualize that recipes _seem_ straightforward, almost like algorithms, but that the actions that people do based on the recipe are far more complex: 
 
 ![Giving helpful abstractions: Slide with a diagram](images/05_communication_SlideDiagram.png){#slidesVisualization alt="two diagrams, one a simple progression, the other a rather convoluted process"}
 
@@ -186,11 +186,11 @@ The basic structure of a report can be the same as that of a slide deck. In the 
 
 Even if written reports demand focused reading, they should still be easy to understand and provide important information quickly. They should have an executive summary, and you can also summarize key points of their sections, much like in the chapters of this book. 
 
-Reports allow you to detail your findings and provide background information for readers who want to delve deeply into the research and its methods. They are not the ideal medium for a quick overview. Your reports, no matter how extensive, will be build upon by their readers when they move beyond the immediate research results towards decisions and designs.
+Reports allow you to detail your findings and provide background information for readers who want to delve deeply into the research and its methods. They are not the ideal medium for a quick overview. Your reports, no matter how extensive, will be built upon by their readers when they move beyond the immediate research results towards decisions and designs.
 
 ### Beyond reporting research results
 
-For you, the research project usually ends with you documenting your research and presenting it to the team or other stakeholders. But the use of the research results has only just begun: If all goes well, team members and other colleagues will read use your posters, slidedecks and reports and share them with colleagues. They will also use the research to create documents slightly removed from research and more focussed on design or business decisions: Personas, empathy maps, scenarios, or story boards.
+For you, the research project usually ends with you documenting your research and presenting it to the team or other stakeholders. But the use of the research results has only just begun: If all goes well, team members and other colleagues will read use your posters, slidedecks and reports and share them with colleagues. They will also use the research to create documents slightly removed from research and more focused on design or business decisions: Personas, empathy maps, scenarios, or story boards.
 
 When your research reports are easy to understand and provide interesting information, product managers, designers, developers, and writers will use them to learn more about your participants and thereby creating products that match your user motivations, activities, and problems.
 

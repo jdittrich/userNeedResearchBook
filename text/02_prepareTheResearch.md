@@ -24,7 +24,7 @@ A good preparation will enable you to focus on learning from participants when t
 
 The question of what you want to learn leads to two kinds of questions: _research project questions_ and _research session questions_. _Research project questions_ are about what the goal of the research project itself is. You will work towards that goal by learning from participants in your research. For this, you will ask your participants questions. These are the _research session questions_. They are questions focused on what the participants do or feel. 
 
-Before you work on the _research session questions_ that you ask the participants in the research sessions, you should clarify the overall goal of the research project with your _research project question_ .
+Before you work on the _research session questions_ that you ask the participants in the research sessions, you should clarify the overall goal of the research project with your _research project question_.
 
 <!-- EXAMPLE: -->
 Imagine, you are asked to support a company in finding out more about a business area they potentially want to move in: They currently publish content and recipes for cooking enthusiasts online and in a paper magazine. They would like to explore improving their offers to younger people who might not be cooking enthusiasts yet. You were brought in by their product manager. While your contract outlines the topic you should research, it is not yet clear what exactly you will work on in practice. For this, you create a research project question.
@@ -59,7 +59,7 @@ Even if you are researching for your own project, without a team, it can be help
 
 The research project question should be focused. This can be difficult to archive when many people with different interests are involved. It can alleviate the problem to keep a visible “research interest backlog”, a table of smaller, specific questions and who asked them. This prevents the research question from becoming a long list of individual questions while showing your appreciation for the contributions as well as your intention answer such questions in case you get answers to them in your research. 
 
-I have already mentioned that initial questions for a research project might be focussed on product rather than on (potential) users. Instead of dismissing the initial product-focus, you transform these initial ideas and use them as a starting point to create a user- and activity-focused research project question:
+I have already mentioned that initial questions for a research project might be focused on product rather than on (potential) users. Instead of dismissing the initial product-focus, you transform these initial ideas and use them as a starting point to create a user- and activity-focused research project question:
 
 1. Take the initial idea for a future product (or market, or feature)
 2. Ask yourself why the product would be good for an activity people do.
@@ -71,7 +71,7 @@ Here is an example:
 1. The initial idea the team wants to explore is “creating an app that offers recipes and teaches cooking skills.”
 2. The related meaningful activity can be “Learning new cooking skills when cooking with recipes”
 3. Asking how and why I got to “How do people learn new cooking skills when cooking from recipes?”
-4. We can then refine the question a bit. The people we work with may not want to focus on enthusiasts but on people who have less cooking skills yet, given that enthusiasts are probably a more saturated market. So we can refine the research question to: “How do people with low to intermediate existing cooking skills learn new skills when cooking from recipes?”
+4. We can then refine the question a bit. The people we work with may not want to focus on enthusiasts but on people who have less cooking skills yet, given that enthusiasts are probably a more saturated market. So, we can refine the research question to: “How do people with low to intermediate existing cooking skills learn new skills when cooking from recipes?”
 
 > _Tip:_ In many research projects, you might not just have several people who need to be involved in shaping the research project question. In this case, a research planning workshop might be helpful to gather input and to help the team to gain mutual understanding of their interests.
 
@@ -95,7 +95,7 @@ Questions about _motivations_ are concerned with what the participant wants to a
 * “Can you tell me why you chose this recipe?”
 * “What is a meal that you have not cooked yourself but would like to try?”
 
-Questions about _activities_ are about what the participant is doing and how they are doing it. Activities are the core of research, this is where the action takes place.
+Questions about _activities_ are about what the participant is doing and how they are doing it. Activities are the core of research; this is where the action takes place.
 
 * \[Invitation\] “Shall we start with cooking?”
 * \[while observing\] “How did you know the pan was hot enough?”
@@ -139,7 +139,7 @@ You are probably familiar with demographic recruiting criteria like “30-40-yea
 
 In my example project, the research project question is “How do people with low to intermediate existing cooking skills learn new skills when they cook with recipes?”, so the activity is “Learning new cooking skills when cooking with recipes.” This is a good start, it could be a bit easier to understand though: “People who want to improve their cooking skills and use recipes” is probably better, since potential participants could more easily relate to it and think: “Seems they are looking for people like me!”
 
-Recruiting your potential research participants based on activities does not mean that you should ignore criteria that are not activities. Age, gender, ethnicity and other criteria have a large influence on how people act. It will make your research more interesting and potentially more equitable if you include potential participants from a wide range of such criteria. You can set criteria for the diversity of the participants your involve in your research.
+Recruiting your potential research participants based on activities does not mean that you should ignore criteria that are not activities. Age, gender, ethnicity and other criteria have a large influence on how people act. It will make your research more interesting and potentially more equitable if you include potential participants from a wide range of such criteria. You can set criteria for the diversity of the participants you involve in your research.
 
 In my example project, I know that cooking, as a domestic activity, is usually associated with women. I could say, that I want at least a quarter of the participants to not be woman. Similarly, if I would do research with programmers, it is a reasonable guess that many programmers are young, male, and white. Again, I can set criteria to have some participants older than 35, some non-male, and some non-white.
 
@@ -309,11 +309,11 @@ You can ask the researcher questions during and before the research session. You
 > 
 > I have attached our consent form to this email. Please fill in the date and sign it with your name and send it back to me.
 
-If signing a paper is not possible—for example because you are doing the research remotely—you can also ask the participant to send you a email with the text, “I have read the forms attached” or by having them write their name in a shared document or something like that.
+If signing a paper is not possible—for example because you are doing the research remotely—you can also ask the participant to send you an email with the text, “I have read the forms attached” or by having them write their name in a shared document or something like that.
 
 With the consent information and form, I also send out a short survey.
 
-At the beginning I usually ask which pronouns they prefer. This helps in the research session to address people properly and to represent them faithfully in the research results. You may think that you can guess people’s pronouns correctly from the name they used in a contact mail or from their appearance. But guessing by looks and getting it wrong can be embarrassing for you and hurtful for the participant, and guessing from name has its limits, too. Some names are not clearly gendered, particularly if you research across different languages and cultures. For example, Andrea might signify female gender to you, but people from Italy would expect it to signify male gender. So it is easier to just ask.
+At the beginning I usually ask which pronouns they prefer. This helps in the research session to address people properly and to represent them faithfully in the research results. You may think that you can guess people’s pronouns correctly from the name they used in a contact mail or from their appearance. But guessing by looks and getting it wrong can be embarrassing for you and hurtful for the participant, and guessing from name has its limits, too. Some names are not clearly gendered, particularly if you research across different languages and cultures. For example, Andrea might signify female gender to you, but people from Italy would expect it to signify male gender. So, it is easier to just ask.
 
 > _Asking for pronouns_
 > 
@@ -342,9 +342,9 @@ In many cases, it can be helpful to check for basic demographic variables too, l
 
 If you recruit through an agency, they will usually take care of the coordination for you. If not, it is up to you to ensure that participants remember the time and place to meet. The following are some relevant aspects to keep in mind:
 
-* _Be clear about time and date_: Even if it is a bit awkward I try to be very clear about time and date. I mention the day of the week, day, month, and time in my mails or phone calls. If I research internationally, I also mention the time zone I talk about. In an email, that might look like: _I could meet you on Monday, the 8th of November, 1pm (“Berlin time”/CET)_. Sending a calendar invite is also helpful as the calendar apps usually convert times, and it makes it easy for participants to set a notification.
+* _Be clear about time and date_: Even if it is a bit awkward, I try to be very clear about time and date. I mention the day of the week, day, month, and time in my mails or phone calls. If I research internationally, I also mention the time zone I talk about. In an email, that might look like: _I could meet you on Monday, the 8th of November, 1pm (“Berlin time”/CET)_. Sending a calendar invite is also helpful as the calendar apps usually convert times, and it makes it easy for participants to set a notification.
 * _For remote meetings, be clear about the technology used_: Most video chat software runs also in any modern browser, so people do not need to install a special software. Let participants know how they can join the call. If you use a software you are not familiar with, give it a test run first.
-* _For real-life-meetings, find out if there are any special requirements_: Places have their own rules in many cases. I usually share what I expect with participants, so they can fill me in if the expectations would not match: “I will come to Big Street 6 and ring the bell for ‘Miller’” and maybe they tell you: “Oh, right, the bell has the name of my flatmate, Nguyen. So ring there.”
+* _For real-life-meetings, find out if there are any special requirements_: Places have their own rules in many cases. I usually share what I expect with participants, so they can fill me in if the expectations would not match: “I will come to Big Street 6 and ring the bell for ‘Miller’” and maybe they tell you: “Oh, right, the bell has the name of my flat mate, Nguyen. So, ring there.”
 
 Getting clarity on date, time, technology, and place helps you start the research session without problems when time comes. In the next section, I want to cover some less obvious problems. However, they can have dire consequences and it is important to consider them.
 
@@ -397,7 +397,7 @@ Just like the participants, you should not feel uncomfortable during the researc
 
 In some situations, it may be safer to research together with another researcher or a colleague who likes to assist you. This way, you so can look out for each other. It is very common to have a main researcher and a note taker, anyway. It is also fine to arrange to meet at places where you feel safer or to shift a meeting online so that both sides can call from whatever place they feel fine at.
 
-Only a fraction of research topics are inherently debilitating, but in some projects you might hear sad or shocking stories from participants. For example, if you are researching for a hospital you might hear about shocking diagnoses from participants. If you take on such a project, consider whether you are ready for it. It is professional to know your limits to refuse the job. If you are reading this book, you are probably a beginner in user research and may want to gather research experiences before researching inherently difficult topics. Personally, I would only take on such projects if I could collaborate with subject-matter-experts, since there would be high risks for me and the participants.
+Only a fraction of research topics are inherently debilitating, but in some projects, you might hear sad or shocking stories from participants. For example, if you are researching for a hospital you might hear about shocking diagnoses from participants. If you take on such a project, consider whether you are ready for it. It is professional to know your limits to refuse the job. If you are reading this book, you are probably a beginner in user research and may want to gather research experiences before researching inherently difficult topics. Personally, I would only take on such projects if I could collaborate with subject-matter-experts, since there would be high risks for me and the participants.
 
 Regardless of the topic of the research, it is important to take the time to process what you have learned. If you are conducting the research with other people, do a joint debrief after the research session and talk about what you learned. Hearing something sad or irritating can happen even with very mundane topics. Talking about it helps you to put it into context. Debriefs are also important to simply jog one’s memory and supplement notes without haste.
 
@@ -433,7 +433,7 @@ Most of the cheat sheet will be topics you want to explore and the questions tha
 
 When writing the questions, start with the general topics and progress towards more specific ones. This is the order that makes sense over the course of a research session. Nevertheless, the sequence of questions is just a helpful guess. You will usually deviate a little (or a lot) from your cheat sheet.
 
-I often include a checklist on the top, especially when it comes to legal matters, such as signing a consent form. That way, I can check off what I have already done see immediately if I have forgotten anything.
+I often include a checklist on the top, especially when it comes to legal matters, such as signing a consent form. That way, I can check off what I have already done and immediately see if I have forgotten anything.
 
 You may be wondering about the “User Code” in the previous example. When I do research, I give every participant an identification code that can be used in place of their name (like “User2”). Later, when you publish the research, you want to retract all names and other identifying information. Such code allows you to identify participants without their names. This is useful for maintaining participant privacy. If you need to keep the names, you can keep a _separate_ list that matches participant codes and legal names. This way, you can revert the codes if necessary. An alternative to codes is to ask participants how they would like to appear in the (published) research.
 
