@@ -81,7 +81,7 @@ Visual elements like diagrams and photos should, like text, be focused on a clea
 
 ## Common forms of documentation
 
-I will introduce you to three ways to summarize your research: Posters, slide decks and reports. These formats have different strengths, and complement each other. For a large project, you might create all three, while for a smaller project you might only deliver a slide deck or report.
+I will introduce you to three ways to summarize your research: Posters, slide decks and reports. These formats have different strengths, and complement each other. For a large project, you might create all three, while for a smaller project you might deliver only a slide deck or report.
 
 <!-- TODO:  Tip or sidebar: send an early version of your deliverables to collaborators/close stakeholders. 
 

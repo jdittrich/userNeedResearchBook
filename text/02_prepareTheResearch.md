@@ -33,6 +33,8 @@ Imagine, you are asked to support a company in finding out more about a business
 
 A research project question briefly outlines the question you want to explore in the research project. It is helpful to start your research project by writing a research project question as it will help you to think about your research and communicate it. 
 
+<!-- TODO: write more cooking-related examples, less development --> 
+
 > _Research project question examples_
 > 
 > * “How and why do students use digital media to learn better?”
@@ -43,7 +45,7 @@ There will be many situations in which your research touches on other people's c
 
 In the example I use throughout the book, I'm researching for a client and I have at least one person with whom I should have a shared understanding of the research project question: The product manager.
 
-The initial task proposal you are approached with might be vague or very broad. For example, the initial question could be “We want to find out how to appeal to younger people” or “Explore, if an app for recipes is right for us”. While these are questions that the client has, they are still focussed on a future product—but a product that does not exist yet, can't be researched, so it makes sense to focus on (potential) users and how and why they do.
+The initial task proposal you are approached with might be vague or very broad. For example, the initial question could be “We want to find out how to appeal to younger people” or “Explore, if an app for recipes is right for us”. While these are questions that the client has, they are still focused on a future product—but a product that does not exist yet, can't be researched, so it makes sense to focus on (potential) users and how and why they do.
 
 
 Here are the questions you should be able to answer before proceeding: 
@@ -160,7 +162,7 @@ Knowing what your research project will be like and where the research is going 
 
 Payment for research (also called _compensation_ or _incentive_) is important for two reasons: It makes participating more attractive to participants and allows some participants to participate at all, for example if they could not afford to interrupt their usual job for talking to you.
 
-There are several factors that influence what a fair payment is:
+There are several factors that influence the amount you should pay participants:
 
 * Time spent with you, time spent with organizing, time spent traveling.
 * Living expenses for the participants: A compensation that is considered just about okay in Swedish city might be considered high in rural India.
