@@ -48,7 +48,7 @@ epub:
 
 pdf:
 	pandoc --filter=pandoc-svg.py --template $(TEMPLATEDIR)/eisvogel --pdf-engine=xelatex --metadata=abstract:" " --table-of-contents -V footnotes-pretty --number-sections --top-level-division=chapter -V secnumdepth=1 -V book -V titlepage -V titlepage-text-color=476885 -V titlepage-color=FFFFFF -V titlepage-rule-color=000000 -V titlepage-rule-height=1  -o urbook.pdf $(YAMLMETA) $(TEXTSOURCES)
-	inkscape --file=images/urBookCover.svg --export-area-page --without-gui --export-pdf=urBookCover.pdf	
+	inkscape images/urBookCover.svg --export-area-page --export-filename=urBookCover.pdf	
 	pdftk urBookCover.pdf urbook.pdf cat output urbook_withCover.pdf
 # 
 # NOTES on PDF generation: 
