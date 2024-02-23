@@ -20,7 +20,7 @@ Additional information and co-documentation templates can be found at [urbook.fo
 
 This book is free/libre, if you help to improve it, it helps all other fellow readers. To point out mistakes you can:
 
-* [file an issue](https://github.com/jdittrich/userNeedResearchBook/issues) (If you are on Github)
+* [file an issue](https://github.com/jdittrich/userNeedResearchBook/issues) (If you are on GitHub)
 * write me a mail: dittrich.c.jan AT gmail DOT com
 
 #### Payed and free versions of this book{-}

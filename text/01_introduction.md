@@ -13,11 +13,11 @@ Although I am a user researcher since a while, every research project still brin
 
 This book is about methods for understanding people you design for and about communicating what you learned. The methods used for this are interviews, observation and structuring the data into meaningful patterns. This is sometimes called _design ethnography_. In such research, you directly engage with people and data you analyze is language- or image-based. This means you use _qualitative methods_.
 
-There are also research methods that use number-based data and focus on testing hypothesis using measurements and statistical analysis. These are often referred to as _quantitative methods_. A typical example for quantitative research is A/B testing:  A/B testing compares two versions of an interface by measuring which of the versions performs better in a certain metrics, e.g. how many people clicked the “buy”-button.
+There are also research methods that use number-based data and focus on testing hypothesis using measurements and statistical analysis. These are often referred to as _quantitative methods_. A typical example for quantitative research is A/B testing:  A/B testing compares two versions of an interface by measuring which of the versions performs better in a certain metrics e.g., how many people clicked the “buy”-button.
 
 >_Note:_ Other research methods
 >
-> Maybe this book is not what you are interested in. Maybe you rather want to learn about quantitative research using measurements and statistics. In this case, I recommend getting Jeff Sauro and James R. Lewis’ book [“Quantifying the User Experience”]( http://www.worldcat.org/oclc/957731269). If you then crave yet more math and complex methods, try Andy Field’s [“Discovering Statistics”](http://www.worldcat.org/oclc/1290244477) and his [“How to Design and Report Experiments”](http://www.worldcat.org/oclc/961100072).
+> Maybe this book is not what you are interested in. Perhaps you rather want to learn about quantitative research using measurements and statistics. In this case, I recommend getting Jeff Sauro and James R. Lewis’ book [“Quantifying the User Experience”]( http://www.worldcat.org/oclc/957731269). If you then crave yet more math and complex methods, try Andy Field’s [“Discovering Statistics”](http://www.worldcat.org/oclc/1290244477) and his [“How to Design and Report Experiments”](http://www.worldcat.org/oclc/961100072).
 >
 > If you are undecided whether you want to use qualitative or quantitative methods or just wonder what research methods exist, you can get an excellent overview and introduction to several methods with Erica Hall’s brief [“Just Enough Research”](http://www.worldcat.org/oclc/1256408019) or Goodman, Kuniavsky and Moed’s [“Observing the User Experience”](http://www.worldcat.org/oclc/1194531136)
 
@@ -50,7 +50,7 @@ You want to find out user motivations, activities, and problems that are importa
 
 ### Research based on an overhaul of a product or feature
 
-If a team plans a substantial overhaul of a product, it makes sense to observe how users are using the product to find out where needs are not being met. A task could be “We provide an app for curating and reading recipes. It has not been updated in several years and we want to increase its use among a younger target group by providing features that are attractive for them.” The research task is rather focused: What is to be done is already mostly set, but research shall shape the way it is done.
+If a team plans a substantial overhaul of a product, it makes sense to observe how users are using the product to find out where needs are not being met. A task could be “We provide an app for curating and reading recipes. It has not been updated in several years, and we want to increase its use among a younger target group by providing features that are attractive for them.” The research task is rather focused: What is to be done is already mostly set, but research shall shape the way it is done.
 
 In all of these situations, understanding users can help to shape new products and features. But what the research focuses on, is shaped by the initial goals. These constraints are an important influence on your research project. Another important factor is the collaboration with others in the research project.
 
@@ -90,5 +90,5 @@ When you do an actual research project, it won’t always follow a clear and lin
 
 * The methods discussed in this book focus on understanding and documenting the activities of people to design better products for them
 * Research projects can vary in their constraints they put on research: They can be very open and explorative or suggest a solution already
-* Research projects can vary in how you collaborate with other roles (or not): You can research for yourself, you can be part of a team you do research for or you can be brought in
+* Research projects can vary in how you collaborate with other roles (or not): You can research for yourself, you can be part of a team you do research for, or you can be brought in
 * Understanding-focused research methods can be challenging: Be prepared to learn new, surprising things and to adjust your plans

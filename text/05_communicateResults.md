@@ -165,7 +165,7 @@ Slide decks are a standard format for documenting research results and are used 
 
 ### Reports
 
-Written reports enable you to discuss results and methods in detail. They require concentrated reading. Depending on the research, a report can be about 15-50 pages long and can include a description of the methods, recruiting process and research session questions in an appendix. This makes them a good format for readers who need to deeply engage with the topic, but also for archiving and later reusing research results. The written report allows to present the relevant context, motivations, and reasoning. This helps readers understand research results even years later.
+Written reports enable you to discuss results and methods in detail. They require concentrated reading. Depending on the research, a report can be about 15-50 pages long and can include a description of the methods, recruiting process and research session questions in an appendix. This makes them a good format for readers who need to deeply engage with the topic, but also for archiving and later reusing research results. The written report allows presenting the relevant context, motivations, and reasoning. This helps readers understand research results even years later.
 
 The basic structure of a report can be the same as that of a slide deck. In the case of a written report, it can be useful to include an appendix with a description of the method and a more detailed discussion of the results.
 

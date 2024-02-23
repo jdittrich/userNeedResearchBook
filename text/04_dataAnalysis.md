@@ -149,7 +149,7 @@ Your notes are data in written form, maybe with some occasional sketches. I will
 
 ### Organize notes hierarchically
 
-The basic unit for our analysis are the utterances or observations which are usually represented by a line in your transcript. For example, a line in your transcript could be: “I usually try a new recipe when I think its fun and have a reason to bake a cake, birthdays, or something like that.“
+The basic unit for our analysis are the utterances or observations which are usually represented by a line in your transcript. For example, a line in your transcript could be: “I usually try a new recipe when I think its fun and have a reason to bake a cake, birthdays, or something like that.”
 
 You organize these notes hierarchically and create groups that share a common theme. You give each group a title that states the theme of the underlying of data.
 
@@ -165,7 +165,7 @@ Here is a part of an analysis showing data organized in themes and sub-themes:
     * Data: Online news sites sometimes have recipes
     * …
   * Sub-theme: Direct search, when there is a specific reason
-    * Data: “I wanted to bring a cake for a party of a friend, so I looked for something with chocolate (they like it)
+    * Data: “I wanted to bring a cake for a party of a friend, so I looked for something with chocolate (they like it)”
     * Data: “After going vegan, I looked for variants of non-vegan food I liked”
     * …
   * Sub-Theme: Recommendations from friends
@@ -350,7 +350,7 @@ When developing an initial structure, there are two main activities: First you c
 
 #### Move in proximity
 
-The easiest way to start a structure, is to move similar data in proximity. You do not yet need to commit to a group title and you can easily try out different ways to organize your data.
+The easiest way to start a structure, is to move similar data in proximity. You do not yet need to commit to a group title, and you can easily try out different ways to organize your data.
 
 Here is a part the analysis where I just moved notes in proximity. Some notes seem vaguely related to be able to do something:
 
@@ -443,7 +443,7 @@ Look at the themes in relation to the data they contain: Do they match the data?
 
 > _Tip:_ As you create the structure of your analysis, you will keep looking at your notes, images, and diagrams again and again. Sometimes, you have data that is very helpful and expressive: a quote that phrases an insight very well or a photo that illustrates a problem. This data is not only useful for analysis, but also later for presenting your results. You can use it to illustrate how your s are based on concrete observations. As you come across such data, it makes sense to store copies in a separate location for later use when preparing the research report.
 
-There are several typical activities when revising the structure of your analysis: Finding better names for groups, moving data to other groups and creating sub-groups.
+There are several typical activities when revising the structure of your analysis: Finding better names for groups, moving data to other groups and creating subgroups.
 
 #### Find better titles for your themes
 

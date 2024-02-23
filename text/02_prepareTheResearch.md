@@ -125,11 +125,11 @@ Some areas have a lot of “onboarding material” like books, tutorials, and br
 
 ### Talk to experts
 
-Although searching the web for information is often quick and easy, talking to an expert can help you answer specific questions and get tips on what to consider in practice.
+Although searching the web for information is quick and easy, talking to an expert can help you answer specific questions and get tips on what to consider in practice.
 
-Very often the team you work with already has some connections to experts: A company creating digital design tools will have close contact with some designers, and a company producing medical devices will have contact with medical doctors. Very often you can use these existing connections to reach out to experts who already have an established connection to your team or organization.
+Frequently, the team you work with already has some connections to experts: A company creating digital design tools will have close contact with some designers, and a company producing medical devices will have contact with medical doctors. Very often you can use these existing connections to reach out to experts who already have an established connection to your team or organization.
 
-If you need to contact the expert without knowing them beforehand, you might get lucky and they’ll talk with you for free. Otherwise, you’ll pay them for their time. What you have to pay varies and some experts are really expensive. But in general, talking to an expert is an efficient way to get an overview of a field and the relevant issues for practitioners.
+If you need to contact the expert without knowing them beforehand, you might get lucky, and they’ll talk with you for free. Otherwise, you’ll pay them for their time. What you have to pay varies and some experts are really expensive. But in general, talking to an expert is an efficient way to get an overview of a field and the relevant issues for practitioners.
 
 ## Find people who participate in your research
 
@@ -145,7 +145,7 @@ Recruiting your potential research participants based on activities does not mea
 
 In my example project, I know that cooking, as a domestic activity, is usually associated with women. I could say, that I want at least a quarter of the participants to not be women. Similarly, if I would do research with programmers, it is a reasonable guess that many programmers are young, male, and white. Again, I can set criteria to have some participants older than 35, some non-male, and some non-white.
 
-By defining your recruitment criteria along with the activities that are interesting for you ensures that you recruit participants who actually do what you are interested in. While activities are the primary criterion, demographics should not be ignored: Having a demographically diverse group of people makes it more likely to observe a wider range of ways people go about their activities.
+By defining your recruitment criteria along with the activities that are interesting for you ensures that you recruit participants who actually do what you want to learn more about. While activities are the primary criterion, demographics should not be ignored: Having a demographically diverse group of people makes it more likely to observe a wider range of ways people go about their activities.
 
 ### Where does the research happen?
 
@@ -186,7 +186,7 @@ There are no clear rules as to how many participants you need. However, most of 
 
 If you have done quantitative research in the past, this will seem like a very small number of people. Indeed, it is plausible to assume that user research with more participants is generally better in qualitative research as well. However, unless you invest more resources, more participants would mean shortening each research session, asking fewer questions, and skipping participant observation. But you need time with each participant if you want to understand how and why they work the way they do. To this end, several sessions in a hurry yield less useful results than research with one participant done right.
 
-Nevertheless, doing research on only a very few users restricts the range of behaviors and opinions that will be reflected in your research. For example, you may not notice that different people have different preferred ways of doing activity. Also, you may not see which patterns are consistent across several people and which vary. 
+Nevertheless, doing research on only a very few users restricts the range of behaviors and opinions that will be reflected in your research. For example, you may not notice that different people have different preferred ways of doing activity. Also, you may not see which patterns are consistent across different people and which patterns vary. 
 
 My rule of thumb is to have 3 to 7 participants in each user group. Our user group in our example project would be people who have low to medium cooking skills and who cook with recipes. This means that if you want to learn about many groups of people, you also need more participants to cover these different groups. Our research question is currently focused on beginners, but we would need to recruit more people if we would _also_ be interested in people who consider themselves cooking enthusiasts.
 
@@ -214,7 +214,7 @@ Coming from research based on measurements and statistics, refinement of criteri
 
 Recruiting participants through an agency costs money but saves your work. It also means that you relinquish control of recruiting details. You provide the agency with your recruitment criteria (also known as _screener_), how many participants you need, and when you want to conduct the research sessions. The agency will get back to you and tell you the cost and an estimate of when they will have found your participants.
 
-Agencies usually have databases of possible participants. They filter their databases according to your criteria for the desired participants and will talk with them to find a time that works for them. The agency will usually get in touch with you after a few days and give you a list of names, times, and contact details of the participants.
+Agencies usually have databases of possible participants. They filter their databases according to your criteria for the desired participants and will talk with them to find a time that works for them. The agency will typically get in touch with you after a few days and give you a list of names, times, and contact details of the participants.
 
 Each recruiting agency is a little different, but they will tell you what they need—and they can answer your questions if you are unsure about something.
 
@@ -251,7 +251,7 @@ You can use this information to reach out to potential participants.
 >
 > This leads to a page that says this:
 >
-> _We would like to learn more about how people use smartphones and tablets/iPads for recipes and for learning to cook better. We're looking for people who who do not yet consider themselves cooking enthusiasts—so if you are still learning, that’s not only fine with us, but actually helpful! In the research, a member of our product development team would visit you and look over your shoulder while you cook. This would take approximately 1:30h. If you like to participate, please fill out this form: \[contact form\]_
+> _We would like to learn more about how people use smartphones and tablets/iPads for recipes and for learning to cook better. We're looking for people who do not yet consider themselves cooking enthusiasts—so if you are still learning, that’s not only fine with us, but actually helpful! In the research, a member of our product development team would visit you and look over your shoulder while you cook. This would take approximately 1:30h. If you like to participate, please fill out this form: \[contact form\]_
 
 
 In the previous example, it was easy to reach out to participants because they were already using a product of the company you work for. But sometimes, field access is harder than just putting up some notes or banners. Often, this is because you actually don’t know where to find potential research participants yet. In this case, you first need to do some research to find them.
@@ -344,11 +344,11 @@ In many cases, it can be helpful to check for basic demographic variables too, l
 
 If you recruit through an agency, they will usually take care of the coordination for you. If not, it is up to you to ensure that participants remember the time and place to meet. The following are some relevant aspects to keep in mind:
 
-* _Be clear about time and date_: Even if it is a bit awkward, I try to be very clear about time and date. I mention the day of the week, day, month, and time in my mails or phone calls. If I research internationally, I also mention the time zone I talk about. In an email, that might look like: _I could meet you on Monday, the 8th of November, 1pm (“Berlin time”/CET)_. Sending a calendar invite is also helpful as the calendar apps usually convert times, and it makes it easy for participants to set a notification.
+* _Be clear about time and date_: Even if it is a bit awkward, I try to be very clear about time and date. I mention the day of the week, day, month, and time in my mails or phone calls. If I research internationally, I also mention the time zone I talk about. In an email, that might look like: _I could meet you on Monday, the 8th of November, 1pm (“Berlin time”/CET)_. Sending a calendar invite is also helpful as the calendar apps automatically convert times, and it makes it easy for participants to set a notification.
 * _For remote meetings, be clear about the technology used_: Most video chat software runs also in any modern browser, so people do not need to install a special software. Let participants know how they can join the call. If you use a software you are not familiar with, give it a test run first.
-* _For real-life-meetings, find out if there are any special requirements_: Places have their own rules in many cases. I usually share what I expect with participants, so they can fill me in if the expectations would not match: “I will come to Big Street 6 and ring the bell for ‘Miller’” and maybe they tell you: “Oh, right, the bell has the name of my flat mate, Nguyen. So, ring there.”
+* _For real-life-meetings, find out if there are any special requirements_: Places have their own rules in many cases. I share what I expect with participants, so they can fill me in if the expectations would not match: “I will come to Big Street 6 and ring the bell for ‘Miller’” and maybe they tell you: “Oh, right, the bell has the name of my flat mate, Nguyen. So, ring there.”
 
-Getting clarity on date, time, technology, and place helps you start the research session without problems when time comes. In the next section, I want to cover some less obvious problems. However, they can have dire consequences and it is important to consider them.
+Getting clarity on date, time, technology, and place helps you start the research session without problems when time comes. In the next section, I want to cover some less obvious issues. However, they can have dire consequences, and it is important to consider them.
 
 ## Bad things that can happen—and how to prevent them
 
@@ -356,13 +356,13 @@ Research should yield helpful results, but even more importantly, it should not 
 
 ### Preventing harm to participants
 
-As a researcher, have experience in doing research and you can determine how you carry out the research. Participants have no experience in being participants nor can they easily control how the research is conducted. This makes it important for you to plan ahead to prevent harm and make the research a good experience for your participants.
+As a researcher, you have experience in doing research and you can determine how you carry out the research. Participants have no experience in being participants nor can they easily control how the research is conducted. This makes it essential for you to plan ahead to prevent harm and make the research a good experience for your participants.
 
-Participants should be well-informed and feel prepared before the research, they should have a good experience when they are in the research session with you and there should be a positive outcome for them afterwards. 
+Participants should be well-informed and feel prepared before the research, they should have a good experience when they are in the research session with you and there should be a positive outcome for them afterward. 
 
 #### Fairness
 
-The participant does actual work to help you learn. They take time to participate in your research, keep that time free of other commitments, take care that they are there on time and last, but not least, they also do share knowledge and skills that often take a long time to acquire. This work they do should be honored. Paying them is one important aspect of this. Another is to use the data well and not do research for research’s sake or because someone said that “more participants are better”. In order for participants to judge whether your research is fair for them, you need to share what the purpose of the study is and how you will reimburse them.
+The participant does actual work to help you learn. They take time to participate in your research, keep that time free of other commitments, take care that they are there on time and last, but not least, they also do share knowledge and skills that often take a long time to acquire. This work they do should be honored. Paying them is one aspect of this. Another is to use the data well and not do research for research’s sake or because someone said that “more participants are better”. In order for participants to judge whether your research is fair for them, you need to share what the purpose of the study is and how you will reimburse them.
 
 #### Participant autonomy
 
@@ -401,13 +401,13 @@ In some situations, it may be safer to research together with another researcher
 
 Only a fraction of research topics are inherently debilitating, but in some projects, you might hear sad or shocking stories from participants. For example, if you are researching for a hospital you might hear about shocking diagnoses from participants. If you take on such a project, consider whether you are ready for it. It is professional to know your limits to refuse the job. If you are reading this book, you are probably a beginner in user research and may want to gather research experiences before researching inherently difficult topics. Personally, I would only take on such projects if I could collaborate with subject-matter-experts since there would be high risks for me and the participants.
 
-Regardless of the topic of the research, it is important to take the time to process what you have learned. If you are conducting the research with other people, do a joint debrief after the research session and talk about what you learned. Hearing something sad or irritating can happen even with very mundane topics. Talking about it helps you to put it into context. Debriefs are also important to simply jog one’s memory and supplement notes without haste.
+Regardless of the topic of the research, it is important to take the time to process what you have learned. If you are conducting the research with other people, do a joint debrief after the research session and talk about what you learned. Hearing something sad or irritating can happen even with very mundane topics. Talking about it helps you to put it into context. Debriefs also jog one’s memory and you can use them to supplement notes without haste.
 
 ### Beyond individual harm: Ethics of project outcome
 
  Research can be a lot of fun and make you money. It can also be immensely motivating to be involved in the development of a new product. The culture of the tech industry is driven by the idea of being a force for good by creating greater efficiency, information, and connections with the technologies it introduces. User research is often part of creating these technologies—and what we enable with our research is also a question of ethics.
 
-The technologies we help to develop also might do unjust things more efficiently, they might encourage the spread of false and inflammatory information or destroy existing social fabrics. User research can advance such developments, too: Researching the work of low-paid delivery workers to create a more efficient app for a service platform. Research people’s ideas of good social relationships to make them spend more time on social media. Such research can be done perfectly ethically by itself, but its outcomes might not be ethical at all.
+The technologies we help to develop also might do unjust things more efficiently, they might encourage the spread of false and inflammatory information or destroy existing social fabrics. User research can advance such developments, too. For example, research into people’s ideas of good social relationships can be used to make them spend more time on social media. Such research can be done perfectly ethically by itself, but its outcomes might not be ethical at all.
 
  You too have to pay your bills and in many cases, it will not be possible only and always research on projects you are 100% aligned with. But be aware that technology has social consequences and that your research can be part of building that technology.
 

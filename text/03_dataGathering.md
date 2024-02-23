@@ -72,14 +72,14 @@ As your research partner gains experience, they may take a more active role from
 
 ## How to start the research session
 
-When you arrive at the location you do the research at, greet the participant and take care the both you and your co-researcher (if present) are introduced to the participant. Usually, a short bit of small talk will follow. This is pretty normal and it usually happens intuitively. It helps to build trust and to get used to the research situation. But after a brief time both you and your participant will want to get started with your research session proper. You can initiate this by saying something like: \
+When you arrive at the location you do the research at, greet the participant and take care the both you and your co-researcher (if present) are introduced to the participant. Usually, a short bit of small talk will follow. This is pretty normal and it happens intuitively. It helps to build trust and to get used to the research situation. But after a brief time both you and your participant will want to get started with your research session proper. You can initiate this by saying something like: \
 _“So… I’m happy that we can do this and that you could free some time for showing and telling me about your experiences with cooking with online recipes.”_
 
 Give some context of why that is interesting to you:\
 _“We are thinking about improving the usefulness of the recipes that we present to people. We have some enthusiasts in our community, but also a lot of people who do not consider themselves particularly good at cooking and we are wondering what we could do for them.”_
 
 Explain that you are here to learn—and not to judge the quality of the participant’s work:\
-_“…that's why we would like to know more about how you cook and how you use recipes or videos for it. This is not a test. No matter if you cook elaborate meals or not: You are an expert in your kitchen, you know best what you need and we like to learn more”_
+_“…that's why we would like to know more about how you cook and how you use recipes or videos for it. This is not a test. No matter if you cook elaborate meals or not: You are an expert in your kitchen, you know best what you need, and we like to learn more.”_
 
 Although you may have already described the time frame and the research method when recruiting the participant, tell them again what you will do:\
 _“We will talk about your work and will ask some questions. In addition, I’m interested in watching you cook. This is, as we talked when we had contact via mail, why we came slightly ahead of the usual time you prepare your meal. The whole process takes about an hour.”_
@@ -97,11 +97,11 @@ In my experience, it is rare that someone does not agree to being recorded. If t
 >
 > _Researcher_: “That’s fine with me. May I ask what worries are?”
 >
-> _Participant_: “Hmm… yeah, aren't you from HR?
+> _Participant_: “Hmm… yeah, aren't you from HR?”
 >
 > _Researcher_: “I understand your concern. It is fine if you don’t agree to the audio recording. I can assure you that HR is a separate department. We work in the product department on internal tool, that is, we help to improve the applications you use to do your work.
 >
-> We do not share personal data and what we record today is not accessible to them. Also, any data that leaves my computer or the one of my colleague is anonymized and we remove any data that points to you as person, including the names and so on.”
+> We do not share personal data and what we record today is not accessible to them. Also, any data that leaves my computer or the one of my colleague is anonymized, and we remove any data that points to you as person, including the names and so on.”
 >
 > _Participant_: “Oh, sure, them… I just assumed you were from HR and wouldn't have liked the recording thing, you know.”
 >
@@ -118,7 +118,7 @@ Now you and the participant are ready to move into the conversation about the to
 
 ## Methods to learn from participants
 
-You can engage with participants in several ways: listening, observing, and co-documenting their activities. Each method has its own strengths, and provides insight into different aspects, so it's common to combine several approaches.
+You can engage with participants in several ways: listening, observing, and co-documenting their activities. Each method has its own strengths, and provides insight into different aspects, so it's common to combine different approaches.
 
 ### Listening and asking questions
 
@@ -132,7 +132,7 @@ However, it can happen that you hardly focus on actual experiences and instead t
 
 <!-- this section is fairly long and should probably be broken up into several parts -->
 
-Only listening to people might not be the best way to understand what they are doing. Just like a picture is worth a thousand words, it is often helpful to ask participants to show what they talk about and to demonstrate how they work. Often it is also easier for participant and researcher alike. 
+Only listening to people might not be the best way to understand what they are doing. Just like a picture is worth a thousand words, it is often helpful to ask participants to show what they talk about and to demonstrate how they work. Frequently, it is also easier for participant and researcher alike. 
 
 As you observe, you can notice things your participants would never consider to mentioning, because they're second nature to them: The tools they use,  how they apply these tools, and which problems they meet. But you can observe it. You also can learn about the context of their work, like means of communicating with colleagues or cues in the environment that point out problems—for example quick fixes on devices using tape and cardboard, or added instructions on machines.
 
@@ -147,7 +147,7 @@ It is not necessary to have observation as a separate step in the research proce
 Think of yourself as the participant's apprentice. The participant is the expert who can teach you some of their skills. This means that understanding the participant by observing is not a passive process. Like an apprentice, you can and should ask questions. 
 
 > You can _ask about reasons_, for example\
-> “You did measure the weight of the flour on the scale, but the for the water you just used a cup. Why?\
+> “You did measure the weight of the flour on the scale, but the for the water you just used a cup. Why?”\
 > Or  _ask about things you notice in the environment_, for example:\
 > “Are there certain things you do at specific places?”
 
@@ -159,19 +159,19 @@ Teaching an apprentice is not a theoretical or artificially set-up process: The 
 Of course, what you observe should also be relevant to _your_ interests. The conversation could continue in this way:
 
 > _Participant_: “I would either start to make this stir-fry vegetables, or actually, only heat something up for lunch and rather make some apple crumble for dessert”\
-> _Researcher_: “If you don’t have a preference, I would be curious to see how you make the apple crumble—I did not seen how people make dessert in our research, yet!”
+> _Researcher_: “If you don’t have a preference, I would be curious to see how you make the apple crumble—I have not seen how people make dessert in our research, yet!”
 
-From time to time, you might observe actions that seem wrong or at least not optimal: People might seem to ignore a feature that could make their work much more efficient or they just never use a product that you focus your research interests on. In such situations, it’s important to remain curious rather than being judgmental. If you start judging and even possibly “correcting” their practices, you close yourself off to the reasons for the participant's actions. Also, your participant would stop being open about showing you how they work. 
+From time to time, you might observe actions that seem wrong or at least not optimal: People might seem to ignore a feature that could make their work much more efficient, or they just never use a product that you focus your research interests on. Remain curious and don’t be judgmental. If you start judging and even possibly “correcting” their practices, you close yourself off to the reasons for the participant's actions. Also, your participant would stop being open about showing you how they work. 
 
-Participants are experts in their work and have a reason for what they do. Maybe they do not want to be more effective because it would mean that their superiors would increase expectations, leaving no wiggle room for everyday contingencies. They may not use a product because it’s indeed important in a work process but people have found ways to prevent a situation that triggers that process from occurring. 
+Participants are experts in their work and have a reason for what they do. Maybe they do not want to be more effective because it would mean that their superiors would increase expectations, leaving no wiggle room for everyday contingencies. Maybe they routinely prevent situations from happening where they would need a certain technological solution and thus have no need for it.
 
 ### Co-documenting {#coDocumenting}
 
 You can also document the work with the participant directly. I call this _co-documenting_ because both you and the participant document some aspect of the participant’s life directly through drawing and writing. This can be as simple as asking the participant: _“Draw a floor plan of your kitchen. Please highlight what is important for your work and write why!”_
 
 Here are examples of co-documenting results. Most of them are based on a template that guides the participant.
+To document the context of the participant, you can use a _social space map_ as shown in the [following figure](#socialNetworkDiagramExample). The participant is in the center, and they add who is relevant for them. Many participants do not limit themselves to people and might add institutions, roles, or technologies that are also important to them.
 
-To document the context of the participant, you can use a _social space map_ as shown in the [following figure](#socialNetworkDiagramExample). The participant is in the center and they add who is relevant for them. Many participants do not limit themselves to people and might add institutions, roles, or technologies that are also important to them.
 
 ![The participant is in the center. They draw people (or whatever else they think matters) around them and write the nature of the connection on the arrows.](images/03_dataGathering_socialNetworkDiagramExample.png){#socialNetworkDiagramExample alt="A diagram where a research participant drew connections relevant for their cooking: Utensils, YouTube, flatmates"}
 
@@ -205,7 +205,7 @@ It can be easier for the participant if you provide a template instead of a blan
 
 ![Example template for mood-timeline-diagrams.](images/03_dataGathering_templateGoodBadTime.png){#templateGoodBadTime alt="A template for a mood-timeline diagram: A horizontal time arrow, and a vertical axis with a smiley (top/up) and a frowning face (bottom/down)"}
 
-Co-documentation works well in combination with interviewing and observation: You can co-document workflows in combination with observing the workflows or you can transition from interviewing to co-documenting a specific aspect (“That is interesting! I would like to remember it clearly later on, so I would like to write the steps down with you”) later, you can use the documentation to refer back to it (“You wrote… How does relate to…”) and add further details.
+Co-documentation works well in combination with interviewing and observation: You can co-document workflows in combination with observing the workflows, or you can transition from interviewing to co-documenting a specific aspect (“That is interesting! I would like to remember it clearly later on, so I would like to write the steps down with you”) later, you can use the documentation to refer back to it (“You wrote… How does relate to…”) and add further details.
 
 Co-documenting via lists, diagrams, and drawings may seem unusual at first. But they produce very useful and easy-to-interpret data by having the researcher and the participant work together. It can empower the participants that they do not only actively show and tell but also take part in recording.
 
@@ -236,13 +236,13 @@ When taking notes in research, I often write about 1 page every 15 minutes. That
 
 After data collection, you complete, transcribe, and analyze your notes. Between gathering the data and reviewing your notes, it is easy to forget the context. 
 
-For example, if you observe that someone tastes a bit of their dish and then adds a small amount of sugar, you might just write “sugar”. It could make perfect sense at the moment you write it, since you are watching what is happening and you know what happened before and after. But without this implicit knowledge of the situation, the line “sugar” does make little sense. Instead, write something like “Tastes → Adds a bit of sugar”. It will help you a lot later when you read your notes. 
+For example, if you observe that someone tastes a bit of their dish and then adds a small amount of sugar, you might just write “sugar”. It could make perfect sense at the moment you write it, since you are watching what is going on, and you know what happened before and after. But without this implicit knowledge of the situation, the line “sugar” does make little sense. Instead, write something like “Tastes → Adds a bit of sugar”. It will help you a lot later when you read your notes. 
 
 Your observations will be visual and related to  processes. A good way to support your memory of observations is to create sketches or small process diagrams.
 
 ![A small sketch from my notes, showing where a participant did different activities](images/03_dataGathering_sketchExample1.png){#sketchExample1 alt="Sketch of washing, chopping, cooking at their respective places"}
 
-It is not important that your sketches look realistic. Realism is better achieved by cameras. Take advantage of the fact that sketches are different from photos: Enlarge what is important, leave out what is irrelevant and make annotations with arrows and notes on what was happening.
+It is not important that your sketches look realistic. Realism is better achieved by cameras. Take advantage of the fact that sketches are different from photos: Enlarge what is relevant, leave out what is irrelevant and make annotations with arrows and notes on what was happening.
 
 
 ### Taking photos
@@ -320,7 +320,7 @@ In addition to your questions, you could also suggest “right” ways of doing 
 
 Remember, you want to find out what your participant is doing and why. Correcting the participant immediately rarely leads to new insights. Instead, you can simply ask “what do you do then?”, or, if talking about the function itself is important to you, you can ask “What is an example for a website that does it better?”
 
-That being said, if you can clearly help the participant with a simple bit of information, explore the topic and share your knowledge immediately afterwards —while not “correcting” the participant: “That was very helpful for me to learn! The team building the website will appreciate learning about such problems. What they assumed is that people trigger mobile view by…”
+That being said, if you can clearly help the participant with a simple bit of information, explore the topic and share your knowledge immediately afterward —while not “correcting” the participant: “That was very helpful for me to learn! The team building the website will appreciate learning about such problems. What they assumed is that people trigger mobile view by…”
 
 You may also be surprised or even annoyed by steps or actions in a workflow of the user that seem outright superfluous.\
  _Participant_: “When I want to share a recipe, I take a photo of the screen like this… and then I can forward the image in a chat” \
@@ -372,7 +372,7 @@ Alternatively, you can also repeat the most recent statement or words the partic
 > 
 > _Researcher_: “So-so?”
 > 
-> _Participant_:“I don’t know what the problem was, I guess something about the timing. Everything was just mushy”
+> _Participant_:“I don’t know what the problem was, I guess something about the timing. Everything was just mushy.”
 
 That way, you can help participants keep going without changing course by asking new questions.
 
@@ -432,7 +432,7 @@ When participants mention an activity or tool they use, ask them if you could ob
 
 This avoids ambiguity as to what they meant by “use.” It is easiest for researcher and participant to look at it together.
 
-You can also ask for examples to dig deeper into a topic. The participant may have mentioned a process before and you can build upon this and ask to learn more about it:
+You can also ask for examples to dig deeper into a topic. The participant may have mentioned a process before, and you can build upon this and ask to learn more about it:
 
 > _Researcher_: “You said you would look on YouTube how to cut this. Can you show me how you do that?”
 > 
@@ -454,7 +454,7 @@ Asking for examples provides a natural way to show your interest, expand on topi
 > 
 > After presenting the prototype or idea, focus your questions on how the participant expects it to affect their daily lives. You could ask: “How do you think would this fit into your work?” or “We do not know enough about your field of work, so we were wondering what the impact of such a product would be.” If the participant hesitates, it can be helpful to ask what _other people_ might think: “What would your [peers/team/family…] think about using this?” This is sometimes easier to answer and can yield insights into the participant’s social environment.
 > 
-> The participant’s response will help you to learn about their motivations, activities, and problems. For example, they might tell you: “Yeah, this idea keeps coming up. But it will not be used. Just doing it by browsing takes time, but it is fun. I do not want to make recipe selection more efficient!” or they tell you “I currently use google docs for this and only mention people there. But I’m having a hard time keeping track of all the feedback I got and I sometimes wish it would be more orderly” You can then explore the topics deeper and ask: “Can you show me how your process works in google docs?”
+> The participant’s response will help you to learn about their motivations, activities, and problems. For example, they might tell you: “Yeah, this idea keeps coming up. But it will not be used. Just doing it by browsing takes time, but it is fun. I do not want to make recipe selection more efficient!” or they tell you “I currently use Google Docs for this and only mention people there. But I’m having a hard time keeping track of all the feedback I got, and I sometimes wish it would be more orderly” You can then explore the topics deeper and ask: “Can you show me how your process works in Google Docs?”
 > 
 > I also had people who directly dismissed or were indifferent to what I was showing. They could easily tell why. This is actually great, as it avoids wasting more time and money on an idea.
 > 
@@ -515,7 +515,7 @@ Ending the session is like starting the session, but in reverse order. Starting 
 As the research session draws to a close, you will want to tie up loose threads: Consider what you could not yet make sense of. Ask the participant for what you still don’t know. Don’t be afraid to express your lack of understanding.
 
 
-> Researcher: “There is one thing that I still do not understand: You mentioned you collect online recipes, but we have not talked about how you store them so you can come back to the ones you like. How does this work?”
+> Researcher: “There is one thing that I still do not understand: You mentioned you collect online recipes, but we have not talked about how you store them, to come back to the ones you like. How does this work?”
 
 You may not be able to tie up _all_ loose ends. Focus on what is important to you on and what seems to be particularly interesting about this participant: You may be wondering about how the participants organizes recipes in general, but this participant cooks for their family on a regular basis. You haven't spoken to many participants about cooking for others, so you could focus on that aspect provided you can still learn more about organizing recipes from other participants.
 
@@ -523,17 +523,17 @@ A good way to guide towards the end of the session is to summarize what you have
 
 > _Researcher_: “I see that we approach the end of our meeting time. Thanks for giving me these insights into your work. Let me summarize what I learned from you: …”
 
-After listening to what the participant has to say about your summary and taking notes of it, thank the participant for their time and for what you learned. I also let participants know that they can contact me if they have any questions about the research itself or the use of the data and give them my email address to contact me if needed. In my experience, it is rare for participants follow up, and when they do it’s often with helpful hints or an example for something that they could not easily explain in the research session.
+After listening to what the participant has to say about your summary and taking notes of it, thank the participant for their time and for what you learned. I also let participants know that they can contact me if they have any questions about the research itself or the use of the data and give them my email address to contact me if needed. In my experience, it is rare for participants follow up, and when they do, it’s often with helpful hints or an example for something that they could not easily explain in the research session.
 
 > _Note:_ Oh, before you go, something very important!
 > 
 > In some cases, the participant might start opening up a new and interesting topic just before the end of the research session. I don’t know why this happens. Maybe it is because they considered the topic to be important but were too polite to push for it themselves and hoped that the conversation would eventually get to the topic.
 >
-> You could expand the session time. It is great to learn more and it seems that the participant would like to let you know about this. However, it might also expand the time beyond what the participant gets incentivized for or what they actually planned. The best solution is usually to ask the participant openly.
+> You could expand the session time. It is great to learn more, and it seems that the participant would like to let you know about this. However, it might also expand the time beyond what the participant gets incentivized for or what they actually planned. The best solution is usually to ask the participant openly.
 
 ## After the research session
 
-After gathering data, we need to take care that we can use the rich data in our later analysis. To get the most out of your data, you should complement your notes, sketches, and diagrams and add some information about the context of the data gathering to fill gaps and to help you to organized the data.
+After gathering data, we need to take care that we can use the rich data in our later analysis. To get the most out of your data, you should complement your notes, sketches, and diagrams and add some information about the context of the data gathering to fill gaps and to help you to organize the data.
 
 There are two ways to complement your data: From memory and from audio recordings and photos.
 
@@ -572,7 +572,7 @@ I write and draw my complements in another color than the color of the original 
 <!-- TODO -->
 ![A sheet of paper with notes that I annotated after the research session. I rewrote a word that was barely readable (“WASHED”) and added the context information that the person cooking was unsure if they could prepare the lentils quick enough before the onions were done.](images/03_dataGathering_correctNotes.png){#correctingWritingNotes alt="a crop of a sheet of paper with notes that I annotated after the research session. I rewrote a word that was barely readable (“WASHED”) and added the context information that the person cooking was unsure if they could prepare the lentils quick enough before the onions were done."}
 
-Using different colors is useful for another type of complement: Ideas or remarks in connection to your notes. When I go through the notes, I often have some ideas for a design or a question that I would like to explore in a future interview. I write them down in a third color or I prefix the note with “IDEA:” or “QUESTION” to prevent myself from mixing my ideas with empirical data.
+Using different colors is useful for another type of complement: Ideas or remarks in connection to your notes. When I go through the notes, I often have some ideas for a design or a question that I would like to explore in a future interview. I write them down in a third color, or I prefix the note with “IDEA:” or “QUESTION” to prevent myself from mixing my ideas with empirical data.
 
 ### Transcribe notes
 
@@ -613,7 +613,7 @@ If you made a recording of your research session, use it to complement and check
 
 When the audio contains information which is not in the document or if it complements information that is already there, pause the playback and write the additional information in the document. The process is very similar to complementing your notes from memory.
 
-> The audio recording of participant is saying: “I’m kinda lazy and so I like to cook spontaneously and with the ingredients that are just there, you know? ”
+> The audio recording of participant is saying: “I’m kinda lazy, so I like to cook spontaneously and with the ingredients that are just there, you know? ”
 > 
 > The notes say: “cook spontaneously”
 > 
@@ -643,15 +643,15 @@ Take care that all sheets of paper and files have the following:
 * A participant code like P1 for the first, P2 for the second participant, etcetera. This way you can later trace back which data belongs together.
 * The name of the project and the date. In your next or even a parallel project, you may have another “first” participant, and you don’t want to mix them up.
 * The filenames (or the names of the folders they are in) should carry the participant code, project name and possibly the method too, which may lead to lengthy filenames like: LearnCooking_P3_diagram_shopping.png—“LearnCooking” being the project name, “P1” is the participant code, “diagram” is the method and “shopping” (by a client of a design) is the topic which is covered in the diagram.
-* You should look for possible interconnections between different kinds of data. Maybe the participant mentioned his “messy” kitchen and you have a photo of it? Add a line in your transcript, referring to the photo. Or the participant talks about the problems of sending data to the print shop and the printing process was part of a workflow diagram you both created? Write a brief line in your notes and the diagram to connect both.
+* You should look for possible interconnections between different kinds of data. Maybe the participant mentioned their “messy” kitchen and you have a photo of it? Add a line in your transcript, referring to the photo. Or the participant talks about the problems of sending data to the print shop and the printing process was part of a workflow diagram you both created? Write a brief line in your notes and the diagram to connect both.
 
-If you take these steps, you can still match project and participants later and you don’t lose time or data because of some tangle.
+If you take these steps, you can still match project and participants later, and you don’t lose time or data because of some tangle.
 
 As a result of these steps, you now have a transcript of your notes, diagrams, sketches, and photos with possible cross-referencing annotations, participant codes, and descriptive filenames.
 
 ### Next steps
 
-After a few research sessions you will get the hang of it: The field you research in feels more familiar and you can focus more on details and nuances rather than on grasping what people talk about at all. The basic steps for the research sessions however, will remain the same.
+After a few research sessions you will get the hang of it: The field you research in feels more familiar, and you can focus more on details and nuances rather than on grasping what people talk about at all. The basic steps for the research sessions however, will remain the same.
 
 After some sessions, it makes sense to start with analysis, as your results in the analysis can inform upcoming sessions. While it is good practice to weave research sessions and analysis into each other, it might not always be possible.
 
