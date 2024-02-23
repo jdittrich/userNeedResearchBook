@@ -1,7 +1,7 @@
 
 #### Abstract{-}
 
-_A Beginner’s Guide to Finding User Needs_ shows you how to use qualitative research to learn about the motivations, activities, and problems of (potential) users. The book was created for UX researchers, UX designers and product managers.
+_A Beginner’s Guide to Finding User Needs_ shows you how to gain an in-depth understanding of motivations, activities, and problems of (potential) users. The book is written for UX researchers, UX designers and product managers.
 
 #### License{-}
  
@@ -18,7 +18,7 @@ Additional information and co-documentation templates can be found at [urbook.fo
 
 #### Suggestions and Feedback{-}
 
-This book is free/libé, if you help to improve it, it helps all other fellow readers. To point out mistakes you can: 
+This book is free/libre, if you help to improve it, it helps all other fellow readers. To point out mistakes you can:
 
 * [file an issue](https://github.com/jdittrich/userNeedResearchBook/issues) (If you are on Github)
 * write me a mail: dittrich.c.jan AT gmail DOT com

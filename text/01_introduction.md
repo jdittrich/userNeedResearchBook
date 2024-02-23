@@ -11,9 +11,9 @@ _This chapter covers:_
 
 Although I am a user researcher since a while, every research project still brings a lot of surprises. What me and my colleagues want to know seems rather simple in the beginning, yet often turns out to be complex and surprising: “Oh, I did not see it this way, but it makes a lot of sense now”. These surprises and complexities lead to a better understanding of why (potential) users of a product do what they do.
 
-This book is about methods for understanding people you design for and about communicating what you learned. The methods used for this are interviews, observation and structuring the data into meaningful patterns. Such methods used are also referred to as _qualitative methods_.
+This book is about methods for understanding people you design for and about communicating what you learned. The methods used for this are interviews, observation and structuring the data into meaningful patterns. This is sometimes called _design ethnography_. In such research, you directly engage with people and data you analyze is language- or image-based. This means you use _qualitative methods_.
 
-There are also research methods that do not focus on directly engaging with people but rather on testing and hypothesis using measurements and statistical analysis. These are often referred to as _quantitative methods_. A typical example for quantitative research is A/B testing:  A/B testing compares two versions of an interface by measuring which of the versions, for example, generate more clicks.
+There are also research methods that use number-based data and focus on testing hypothesis using measurements and statistical analysis. These are often referred to as _quantitative methods_. A typical example for quantitative research is A/B testing:  A/B testing compares two versions of an interface by measuring which of the versions performs better in a certain metrics, e.g. how many people clicked the “buy”-button.
 
 >_Note:_ Other research methods
 >
@@ -21,7 +21,7 @@ There are also research methods that do not focus on directly engaging with peop
 >
 > If you are undecided whether you want to use qualitative or quantitative methods or just wonder what research methods exist, you can get an excellent overview and introduction to several methods with Erica Hall’s brief [“Just Enough Research”](http://www.worldcat.org/oclc/1256408019) or Goodman, Kuniavsky and Moed’s [“Observing the User Experience”](http://www.worldcat.org/oclc/1194531136)
 
-Qualitative research helps you to get a holistic understanding of how a future product could be used. It is good to find out how motivations, activities, and problems lead to people doing what they do. For example, when people cook, it might be plausible to assume that:
+Qualitative research helps you to get a holistic understanding of how a future product could be used by finding out about  motivations, activities, and problems of users and gain an in-depth understanding for their activities, replacing stereotypical assumptions. For example, when people cook, it might be plausible to assume that:
 
 * They decide what to eat
 * Get a recipe for the meal

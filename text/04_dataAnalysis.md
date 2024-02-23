@@ -360,10 +360,10 @@ Here is a part the analysis where I just moved notes in proximity. Some notes se
 
 Some notes that may be related to finding recipes:
 
-* Becoming with food, trying to find new recipes
+* Trying a new diet, thus looking for new recipes
 * Kids do not like mushrooms, I have to take this into account when planning meals
 * I collect pizza dough recipes; this is my favorite at the moment
-* Observation: Has Recipes bookmarked in the cook book.
+* Observation: Has Recipes bookmarked in the cookbook.
 
 Moving notes in proximity can help you experiment with different ways of organizing notes. You may gain more confidence in some of these structures, and you can give them a title by stating the insight related to the group.
 
